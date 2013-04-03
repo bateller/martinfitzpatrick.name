@@ -16,6 +16,8 @@ SSH_PORT=22
 SSH_USER=root
 SSH_TARGET_DIR=/var/www
 
+FEED_DOMAIN = http://golifescience.com
+
 DROPBOX_DIR=~/Dropbox/Public/
 
 help:
