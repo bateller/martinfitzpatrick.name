@@ -3,7 +3,8 @@
 
 AUTHOR = u'Martin Fitzpatrick'
 SITENAME = u'Game of Life Science'
-SITEURL = ''
+SITEURL = 'http://golifescience.com'
+FEED_DOMAIN = SITEURL
 
 TIMEZONE = 'Europe/Paris'
 
