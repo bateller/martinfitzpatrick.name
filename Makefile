@@ -42,8 +42,8 @@ html: clean $(OUTPUTDIR)/index.html
 $(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
-#clean:
-#	find $(OUTPUTDIR) -mindepth 1 -delete
+clean:
+	find $(OUTPUTDIR) ! -iname ".*" -mindepth 1 -delete
 
 regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
