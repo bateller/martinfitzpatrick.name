@@ -37,3 +37,5 @@ GOOGLE_ANALYTICS = 'UA-341253-5'
 GITHUB_URL = 'https://github.com/mfitzp'
 
 TWITTER_USERNAME = 'golifescience'
+
+THEME = 'theme'
