@@ -810,8 +810,24 @@ article.comment {
 }
 
 
-/* =WP.com
------------------------------------------------ */
-.sharedaddy {
-	clear: both;
-}
+/* Tagging */
+
+
+.tag {
+    padding:5px 5px;
+    background-color:#fefbe2;
+    white-space:nowrap; 
+    margin-bottom:2px;
+    margin-right:2px;
+    border:1px solid #edead2;
+    vertical-align:middleod;
+    no-border-radius:5px;
+    font-size:12px;
+    color: #858376 !important;
+    white-space: nowrap !important;
+}   
+
+
+
+
+
