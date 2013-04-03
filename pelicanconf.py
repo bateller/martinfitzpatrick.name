@@ -23,3 +23,11 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 TYPOGRIFY = True
+
+ARTICLE_URL = '{slug}.html'
+PAGE_URL = 'pages/{slug}.html'
+AUTHOR_URL = 'author/{slug}.html'
+CATEGORY_URL = 'category/{slug}.html'
+TAG_URL = 'tag/{slug}.html'
+
+DELETE_OUTPUT_DIRECTORY = False
