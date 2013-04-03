@@ -43,7 +43,8 @@ $(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
-	find $(OUTPUTDIR) -mindepth 1 \( -iname ".*" ! -iname ".htaccess" \) -delete
+	find $(OUTPUTDIR) -mindepth 1 -delete
+    cp .htaccess $(OUTPUTDIR)/.htaccess
 
 regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
