@@ -825,6 +825,7 @@ article.comment {
     font-size:12px;
     color: #858376 !important;
     white-space: nowrap !important;
+    text-decoration:none;
 }   
 
 
