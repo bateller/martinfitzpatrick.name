@@ -14,12 +14,13 @@ DEFAULT_LANG = u'en'
 LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
           ('Python.org', 'http://python.org'),
           ('Jinja2', 'http://jinja.pocoo.org'),
-        ,)
+        )
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/golifescience'),
           ('Facebook', 'https://facebook.com/research.abl.es'),
-          ('Google+', 'https://plus.google.com/100813895193053083791'),)
+          ('Google+', 'https://plus.google.com/100813895193053083791'),
+        )
 
 DEFAULT_PAGINATION = 10
 
