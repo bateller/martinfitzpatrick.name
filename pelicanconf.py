@@ -3,6 +3,7 @@
 
 AUTHOR = u'Martin Fitzpatrick'
 SITENAME = u'Game of Life Science'
+SITESUBTITLE = u'Bioinformatics to Bedside'
 SITEURL = 'http://golifescience.com'
 FEED_DOMAIN = SITEURL
 
