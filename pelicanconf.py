@@ -14,11 +14,12 @@ DEFAULT_LANG = u'en'
 LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
           ('Python.org', 'http://python.org'),
           ('Jinja2', 'http://jinja.pocoo.org'),
-          ('You can modify those links in your config file', '#'),)
+        ,)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'https://twitter.com/golifescience'),
+          ('Facebook', 'https://facebook.com/research.abl.es'),
+          ('Google+', 'https://plus.google.com/100813895193053083791'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -30,4 +31,8 @@ AUTHOR_URL = 'author/{slug}'
 CATEGORY_URL = 'category/{slug}'
 TAG_URL = 'tag/{slug}'
 
+DISQUS_SITENAME = 'golifescience'
+GOOGLE_ANALYTICS = 'UA-341253-5'
+GITHUB_URL = 'https://github.com/mfitzp'
 
+TWITTER_USERNAME = 'golifescience'
