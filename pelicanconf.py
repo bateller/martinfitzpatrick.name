@@ -30,4 +30,4 @@ AUTHOR_URL = 'author/{slug}.html'
 CATEGORY_URL = 'category/{slug}.html'
 TAG_URL = 'tag/{slug}.html'
 
-DELETE_OUTPUT_DIRECTORY = False
+
