@@ -60,8 +60,22 @@
 			{% block content %}
 			{% endblock %}
 		</div>
+
+        <div id="footer-data">
+
+        {% if GITHUB_ACTIVITY_FEED %}
+           <div class="social github">
+                   <h2>Github Activity</h2>
+                   {% for entry in github_activity %}
+                       <div class="github_entry">{{ entry[1] }}</div>
+                   {% endfor %}
+           </div><!-- /.github_activity -->
+        {% endif %}
+        </div>
 		
 		<div id="footer">
+
+
 			<p>{{ FOOTER_TEXT or 'Powered by <a href="http://pelican.readthedocs.org">Pelican</a>' }}</p>
 			{% if GOOGLE_ANALYTICS %}
 				<script type="text/javascript">

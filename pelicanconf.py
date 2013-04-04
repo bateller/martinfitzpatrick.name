@@ -12,7 +12,12 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
-PLUGINS = ['pelican.plugins.gravatar',]
+PLUGINS = [
+        'pelican.plugins.gravatar',
+        'pelican.plugins.related_posts',
+        'pelican.plugins.github_activity',
+        'pelican.plugins.gzip_cache',    
+        ]
 
 # Blogroll
 LINKS =  (
@@ -31,6 +36,8 @@ SOCIAL = (('Twitter', 'https://twitter.com/golifescience'),
 DEFAULT_PAGINATION = 10
 
 TYPOGRIFY = True
+DISPLAY_CATEGORIES_ON_MENU = True
+GITHUB_ACTIVITY_FEED = 'https://github.com/mfitzp.atom'
 
 ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
