@@ -15,8 +15,8 @@ DEFAULT_LANG = u'en'
 PLUGINS = [
         'pelican.plugins.gravatar',
         'pelican.plugins.related_posts',
-        'pelican.plugins.github_activity',
-        'pelican.plugins.gzip_cache',   
+#        'pelican.plugins.github_activity',
+#        'pelican.plugins.gzip_cache',   
         'pelican.plugins.sitemap',
         ]
 
@@ -39,6 +39,23 @@ DEFAULT_PAGINATION = 10
 TYPOGRIFY = True
 DISPLAY_CATEGORIES_ON_MENU = True
 GITHUB_ACTIVITY_FEED = 'https://github.com/mfitzp.atom'
+
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
+
 
 ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'

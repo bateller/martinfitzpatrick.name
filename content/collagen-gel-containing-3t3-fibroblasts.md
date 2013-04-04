@@ -11,7 +11,7 @@ Tags: antibody,histology,metabolomics,raft culture,fibroblast,collagen,dermal,3t
 
 Pre-chill pipettes and place 12mL rat tail type 1 collagen (&gt;3.8mg/mL) on ice
 
-NOTE: Everything is kept cold to avoid the collagen solidifying
+<aside>NOTE: Everything is kept cold to avoid the collagen solidifying</aside>
 
 
 

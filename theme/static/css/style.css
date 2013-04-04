@@ -9,72 +9,28 @@ License: GNU General Public License
 
 @import url("pygment.css");
 
-/* =Base
------------------------------------------------ */
 body {
 	background-color: #fff;
 	color: #555;
-	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	font-size: 13px;
-	margin: 0;
-	text-align: center;
-    
-}
-
-#container {
-	margin: 0 auto;
-	width: 800px;
-    abackground: url('../img/gridpaper.png') repeat-x;
-	abackground-image: -moz-linear-gradient( rgba(0,0,0,0.22), rgba(255,255,255,0) 80px );
-	abackground-image: -webkit-linear-gradient( rgba(0,0,0,0.22), rgba(255,255,255,0) 80px );
 }
 
 #header {
-	min-height: 150px;
-	width: 800px;
+	min-height: 200px;
+    text-align:center;
 }
+
+#header img {
+    margin:60px 0;
+}
+
 #contents {
 	border-left: 1px solid #ddd;
 	height: auto;
-	margin-left: 199px;
 	padding-bottom: 10px;
 }
 
 
-/* =Header
------------------------------------------------ */
-#site-title {
-	color: #000;
-	font-family: 'Oswald', Helvetica, Arial, sans-serif;
-	font-weight: bold;
-	font-size: 80px;
-	margin: 0px;
-	text-transform: uppercase;
-	text-rendering: optimizeLegibility;
-}
-#site-title a {
-	color: #000;
-	letter-spacing: 1px;
-	text-decoration: none;
-}
-#site-title a:hover {
-	color: #ef4323;
-}
-#site-description {
-	background: #f1f1f1;
-	border-radius: 3px;
-	color: #666;
-	display: inline-block;
-	font-size: 14px;
-	font-weight: 300;
-	margin-top: 0;
-	margin-bottom: 50px;
-	padding: 6px 10px;
-}
-#menu #header-image a {
-	margin: 0;
-	padding: 0;
-}
+
 
 /* =Menu
 ----------------------------------------------- */
@@ -84,7 +40,6 @@ body {
 	margin-bottom: 25px;
 	padding: 10px;
 	text-align: right;
-	width: 800px;
 }
 #menu img {
 	margin-bottom: 10px;
@@ -163,12 +118,15 @@ body {
 	display: block;
 }
 
+
+
 /* =Content
 ----------------------------------------------- */
 .hentry {
 	height: auto;
 	clear: both;
 	position: relative;
+    line-height:2.25em;
 }
 .hentry:after {
 	clear: both;
@@ -271,34 +229,21 @@ blockquote {
 	padding: 10px;
 	text-align: justify;
 }
-a {
+
+
+.entry-meta a {
 	color: #000;
 	text-decoration: underline;
 }
-a:hover {
+.entry-meta a:hover, .entry-title a:hover {
 	color: #ef4323;
 }
-.entry-content a img {
-	border: 10px solid #ddd;
-}
-.entry-content a:hover img {
-	border: 10px solid #000;
-}
-b, strong {
-	color: #000;
-}
+
 .cat-links,
 .tag-links {
 	display: block;
 }
-.tag-links strong {
-	background: #eee;
-	border-radius: 3px;
-	color: #666;
-	font-weight: normal;
-	margin-right: 4px;
-	padding: 3px 6px;
-}
+
 .entry-content table {
 	margin: 0 0 20px 0;
 	text-align: left;
@@ -366,133 +311,6 @@ b, strong {
 	margin-right: auto;
 }
 
-/* General */
-ol ol {
-	list-style: upper-alpha;
-}
-ol ol ol {
-	list-style: lower-roman;
-}
-ul ul, ol ol, ul ol, ol ul {
-	margin-bottom: 0;
-}
-
-/* Sticky */
-.sticky .main {
-	background: #eee;
-}
-.sticky .date {
-	display: none;
-}
-.sticky .entry-meta .comments {
-	margin-top: 2px;
-}
-
-/* Page */
-.page .entry-meta .comments {
-	margin-top: 2px;
-}
-
-
-/* =Post Formats
--------------------------------------------------------------- */
-
-/* Aside */
-.format-aside .entry-title {
-	display: none;
-}
-.format-aside .entry-content p:first-child {
-	margin-top: 0;
-}
-/* Link */
-.format-link .entry-title:after {
-	content: "\2192";
-	font-size: 26px;
-	padding-left: 10px;
-	text-decoration: none;
-}
-/* Quote */
-.format-quote blockquote {
-	font-size: 16px;
-}
-.format-quote blockquote p:last-child {
-	margin-bottom: 0;
-}
-/* Chat */
-.format-chat .entry-title {
-	display: none;
-}
-.format-chat .entry-content p {
-	margin: 0.5em 0;
-}
-.format-chat .entry-content p:nth-child(odd) {
-	font-weight: bold;
-}
-
-
-/* =Images
--------------------------------------------------------------- */
-a img {
-	border: none;
-}
-p img {
-	margin-bottom: 0.5em; /* a small bottom margin prevents content floating under images */
-}
-/*
-Resize images to fit the main content area.
-- Applies only to images uploaded via WordPress by targeting size-* classes.
-- Other images will be left alone. Use "size-auto" class to apply to other images.
-*/
-img.size-auto,
-img.size-full,
-img.size-large,
-img.size-medium,
-.attachment img,
-.widget-area img {
-	max-width: 100%; /* When images are too wide for containing element, force them to fit. */
-	height: auto; /* Override height to match resized width for correct aspect ratio. */
-}
-img.alignleft {
-	margin-right: 1em;
-}
-img.alignright {
-	margin-left: 1em;
-}
-.wp-caption {
-	background: #eee;
-	border-radius: 3px;
-	margin-bottom: 10px;
-	max-width: 100%;
-	padding: .8em;
-	text-align: center;
-}
-.wp-caption img {
-	margin: 0;
-}
-.wp-caption a img,
-.wp-caption a:hover img {
-	border: none;
-}
-.wp-caption .wp-caption-text {
-	color: #666;
-	font-size: 12px;
-	margin: .5em;
-}
-.gallery-caption {
-	color: #666;
-}
-.wp-smiley {
-	margin: 0;
-}
-.attachment .hentry .entry-meta .navigation {
-	margin: 10px 0 0;
-}
-.attachment .navigation img {
-	border: 5px solid #ddd;
-}
-.attachment .navigation a:hover img {
-	border-color: #000;
-}
 
 
 /* =Footer
@@ -515,8 +333,18 @@ img.alignright {
 }
 
 
+
 /* Tagging */
 
+.tag-links strong {
+	background: #eee;
+	border-radius: 3px;
+	color: #666;
+	font-weight: normal;
+	margin-right: 4px;
+	padding: 3px 6px;
+    font-size:12px;
+}
 
 .tag {
 	border-radius: 3px;
@@ -533,13 +361,14 @@ img.alignright {
     line-height:2.5em;
 }   
 
+
 #comments {
     padding:1em;
 }
 
 #footer-data {
     text-align:left;
-}
+}row
 
 .github blockquote {
     border:none;
@@ -573,4 +402,29 @@ img.alignright {
     width:300px;
 }
 
+
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+    text-transform:uppercase;
+}
+
+.entry-content h1 { font-size: 1.6em; }
+.entry-content h2 { font-size: 1.5em; }
+.entry-content h3 { font-size: 1.4em; }
+.entry-content h4 { font-size: 1.3em; }
+.entry-content h5 { font-size: 1.2em; }
+.entry-content h6 { font-size: 1.1em; }
+
+aside {
+	background: #f5f5f5;
+	font-family: Georgia, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	padding: 10px;
+	text-align: justify;
+    font-style:italic;
+    float:right;
+    margin:1em;
+    width:200px;
+}
 
