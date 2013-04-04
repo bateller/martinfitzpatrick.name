@@ -126,7 +126,7 @@ body {
 	height: auto;
 	clear: both;
 	position: relative;
-    line-height:2.25em;
+    line-height:2.3em;
 }
 .hentry:after {
 	clear: both;
@@ -271,6 +271,7 @@ body {
 	text-decoration: none;
 }
 .page-title h2 {
+    font-size:1.5em;
 	background: #333;
 	border-radius: 3px;
 	color: #eee;

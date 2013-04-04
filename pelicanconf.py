@@ -56,7 +56,6 @@ SITEMAP = {
 }
 
 
-
 ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
 PAGE_URL = 'pages/{slug}/'
@@ -75,3 +74,4 @@ GITHUB_URL = 'https://github.com/mfitzp'
 TWITTER_USERNAME = 'golifescience'
 
 THEME = 'theme'
+

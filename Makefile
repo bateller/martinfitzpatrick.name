@@ -44,7 +44,6 @@ $(OUTPUTDIR)/%.html:
 
 clean:
 	find $(OUTPUTDIR) -mindepth 1 -delete
-	cp .htaccess $(OUTPUTDIR)/.htaccess
 
 regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
