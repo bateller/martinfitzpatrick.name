@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics
 
 
 
-#Method
+
 
 After FISH sample preparation briefly rinse sample in distilled water to remove residual salts
 

@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,hodgkins,fixation,hogkins
 
 
 
-#Method
+
 
 Centrifuge whole cell population at 1200rpm 10 minutes to pellet cells
 

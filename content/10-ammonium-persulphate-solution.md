@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,ammonium persulphate,acrylamide
 
 
 
-#Method
+
 
 Add dH20 to Falcon tube or other suitable container for the volume. 
 

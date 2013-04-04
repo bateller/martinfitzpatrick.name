@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,blood,pbmc,enrichment,cell culture
 
 
 
-#Method
+
 
 Count cells in PBMC sample for enrichment.
 

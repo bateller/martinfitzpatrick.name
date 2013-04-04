@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics
 
 
 
-#Method
+
 
 Add 950ml distilled water to a suitable container
 

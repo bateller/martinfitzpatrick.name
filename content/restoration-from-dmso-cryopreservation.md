@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,cryostore,cryopreservation,cell culture
 
 
 
-#Method
+
 
 For each preserved sample add 6ml media (RPMI+10% FCS) to a 15ml tube.
 

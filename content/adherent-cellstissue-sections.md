@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,fluorescence,dapi,microscopy,counterstain
 
 
 
-#Method
+
 
 Perform all fixation, permeabilization and primary staining of your sample before applying the DAPI counterstain. Fixation or permeabilization is not required to stain with DAPI.
 

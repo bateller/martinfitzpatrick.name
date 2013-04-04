@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,cell,metabolite
 
 
 
-#Method
+
 
 Pre-chill methanol on dry-ice
 

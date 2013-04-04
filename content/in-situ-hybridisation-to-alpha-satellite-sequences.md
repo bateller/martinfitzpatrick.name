@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,in situ hybridisation,ish
 
 
 
-#Method
+
 
 Immerse the slides in 1M sodium thiocyanate at 80C for 10 minutes. 
 

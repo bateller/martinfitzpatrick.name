@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics
 
 
 
-#Method
+
 
 Place slides in 100% ethanol for 5 minutes
 

@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,fixation,immunofluoresence
 
 
 
-#Method
+
 
 Pour 100mls distilled water into a suitable container
 

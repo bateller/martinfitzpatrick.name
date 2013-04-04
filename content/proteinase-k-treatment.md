@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,dna,pcr,dnase,protein k
 
 
 
-#Method
+
 
 Aliquot an appropriate volume of 10mM Tris-HCl
 

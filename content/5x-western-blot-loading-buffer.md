@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,buffer,western blot,sample dye,loading buf
 
 
 
-#Method
+
 
 To prepare base solvent add 3ml 20% SDS to add 3.75mL 1M Tris buffer at pH 6.8 in a suitable container.
 

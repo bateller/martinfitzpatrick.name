@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,facs,flow cytometry
 
 
 
-#Method
+
 
 From a 35mm-10cm plate harvest cells with trypsin into a 15ml tube.
 

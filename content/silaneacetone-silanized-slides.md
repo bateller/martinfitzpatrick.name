@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,silane,tissue,sections,silanized,adhesive,
 
 
 
-#Method
+
 
 Place slides in 2% silane/acetone solution for 1 minute
 

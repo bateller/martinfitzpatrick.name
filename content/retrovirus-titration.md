@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,virus,titer,infection assay,titration
 
 
 
-#Method
+
 
 The day before infection set up J2-3T3s in 6-well plates. 
 

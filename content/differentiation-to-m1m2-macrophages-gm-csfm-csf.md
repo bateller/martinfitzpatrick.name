@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,cell culture,differentiation,monocyte,cd14
 
 
 
-#Method
+
 
 Prepare differentiation media for target differentiation subset, in 50ml total volume RPMI 1640 + 1% GPS + 10% Hi FCS.
 

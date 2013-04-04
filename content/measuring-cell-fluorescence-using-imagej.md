@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,cell,fluorochrome,immunofluorescence,fluor
 
 
 
-#Method
+
 
 Open ImageJ. Note: ImageJ may be freely downloaded from [here](http://rsbweb.nih.gov/ij/download.html)
 

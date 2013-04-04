@@ -4,7 +4,6 @@ Slug: pcr-mutagenesis
 Tags: antibody,histology,metabolomics,fixation,mutagenesis,site-directed,molecular biology,ihc,immunohistochemistry,confocal
 
 
-# Notes
 Once confirmed, subclone the gene out of the plasmid back into the vector in the classical way to avoid sequencing the whole vector for any PCR errors.
 
 

@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics
 
 
 
-#Method
+
 
 Dilute stock DAPI mix to a concentration of 3uM in staining buffer, allowing a total of 1ml per sample.
 

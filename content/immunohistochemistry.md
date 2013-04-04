@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,metabolism,graphing,fixation
 
 
 
-#Method
+
 
 Incubate 2-3 times in xylene for 10 minutes each. 
 

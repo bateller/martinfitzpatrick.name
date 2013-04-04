@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics
 
 
 
-#Method
+
 
 Prepare 1% acid alcohol with [1% (v/v) concentrated HCl, 70% Ethanol, 29% H2O]
 

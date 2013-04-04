@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,cytofix,fixative
 
 
 
-#Method
+
 
 Add 3ml glacial acetic acid to 100ml 95% methanol
 

@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics
 
 
 
-#Method
+
 
 Thaw competent cells on ice. 20–200µL per tube
 

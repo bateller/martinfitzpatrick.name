@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,colony,bacteria,screening
 
 
 
-#Method
+
 
 NOTE: Ideally you want a primer pair that can only work if the correct construct is present eg. a vector flanking primer and a gene specific primer. However, this may not allow you a positive control (essential) so you might have to use both vector flanking primers instead. If you have enough space in your PCR machine you could do both. 
 

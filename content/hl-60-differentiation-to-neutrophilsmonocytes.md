@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,differentiation,monocyte,hl-60,neutrophil
 
 
 
-#Method
+
 
 Seed cells at 2.5x105 cells/ml as 4ml cultures in 25cm2 flasks. 
 

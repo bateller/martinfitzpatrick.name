@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,differentiation,dendritic cell,cd14,dc,mon
 
 
 
-#Method
+
 
 Prepare differentiation media for target differentiation subset, in 50ml total volume RPMI 1640 + 1% GPS + 10% Hi FCS. 
 

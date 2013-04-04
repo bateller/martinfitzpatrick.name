@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,quantitative,elisa,sandwich elisa
 
 
 
-#Method
+
 
 Dilute primary antibody in coating buffer solution allowing for 50ul/well. A total of 5ml/96 well plate will provide spare for pipetting inaccuracy.
 

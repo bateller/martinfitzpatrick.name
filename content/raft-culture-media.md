@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,media,raft media,green&#39;s media
 
 
 
-#Method
+
 
 Add 3 parts (70ml) DMEM (including glutamine or glutamax) to a suitable container
 

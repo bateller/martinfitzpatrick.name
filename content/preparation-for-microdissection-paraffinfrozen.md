@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,rna,dna,microdissection,protein,hogkins
 
 
 
-#Method
+
 
 For paraffin-embedded sections, place slides into fresh xylene to remove parrafin. 
 

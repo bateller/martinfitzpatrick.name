@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics
 
 
 
-#Method
+
 
 To prepare stock solution add 1l distilled water to suitable container.
 

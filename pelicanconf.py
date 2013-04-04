@@ -11,10 +11,14 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
+PLUGINS = ['pelican.plugins.gravatar',]
+
 # Blogroll
-LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-          ('Python.org', 'http://python.org'),
-          ('Jinja2', 'http://jinja.pocoo.org'),
+LINKS =  (
+            ('OpenScience', 'http://openscience.org'),
+            ('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
+            ('Python.org', 'http://python.org'),
+            ('Jinja2', 'http://jinja.pocoo.org'),
         )
 
 # Social widget
@@ -27,11 +31,16 @@ DEFAULT_PAGINATION = 10
 
 TYPOGRIFY = True
 
-ARTICLE_URL = '{slug}'
-PAGE_URL = 'pages/{slug}'
-AUTHOR_URL = 'author/{slug}'
-CATEGORY_URL = 'category/{slug}'
-TAG_URL = 'tag/{slug}'
+ARTICLE_URL = '{slug}/'
+ARTICLE_SAVE_AS = '{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
+AUTHOR_URL = 'author/{slug}/'
+AUTHOR_SAVE_AS = 'author/{slug}/index.html'
+CATEGORY_URL = 'category/{slug}/'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+TAG_URL = 'tag/{slug}/'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
 
 DISQUS_SITENAME = 'golifescience'
 GOOGLE_ANALYTICS = 'UA-341253-5'

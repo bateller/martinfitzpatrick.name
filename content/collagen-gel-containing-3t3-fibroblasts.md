@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,raft culture,fibroblast,collagen,dermal,3t
 
 
 
-#Method
+
 
 Pre-chill pipettes and place 12mL rat tail type 1 collagen (&gt;3.8mg/mL) on ice
 

@@ -4,7 +4,6 @@ Slug: organotypic-raft-culture-of-phks
 Tags: antibody,histology,metabolomics,raft culture,culture,primary cells,human,keratinocytes
 
 
-# Notes
 Test
 
 

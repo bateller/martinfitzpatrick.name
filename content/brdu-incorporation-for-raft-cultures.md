@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,visualisation,brdu,tissue culture,raft cul
 
 
 
-#Method
+
 
 Prepare stocks of BrdU at 10mg/ml in H2O, filter sterilise and store in working aliquots (eg. 200 microlitres) at –20C.
 

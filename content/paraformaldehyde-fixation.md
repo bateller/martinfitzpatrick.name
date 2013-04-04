@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics
 
 
 
-#Method
+
 
 Add 41.5ml 2.26% sodium dihydrogen orthophosphate to a suitable heat-proof container
 

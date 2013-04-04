@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics
 
 
 
-#Method
+
 
 In a fume hood pour 60ml of ethanol into a suitable container
 

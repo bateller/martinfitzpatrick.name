@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics
 
 
 
-#Method
+
 
 Fix cells with 2% fresh formaldehyde in PBS for 5-15min, gentle rotation may
 help to improve fixation

@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics,buffer,solutions,tris,tae,tbe,tham
 
 
 
-#Method
+
 
 In a suitable container add target volume of dH20 -10% to allow for pH adjustment. 
 

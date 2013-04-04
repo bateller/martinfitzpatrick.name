@@ -7,7 +7,7 @@ Tags: antibody,histology,metabolomics
 
 
 
-#Method
+
 
 In a fume hood pour 100ml formalin (40% aqueous solution of formaldehyde) into a suitable container
 
