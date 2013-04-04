@@ -65,13 +65,17 @@
 				<li{% if cat == category %} class="active"{% endif %} class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
 			  {% endfor %}
 			{% endif %}
+
+		</ul>
+
+		<ul id="menu-navigation" class="menu">
 			{% if LINKS %}
 			  {% for name, url in LINKS %}
 				<li  class="active" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ url }}">{{ name }}</a></li>
 			  {% endfor %}
 			{% endif %}
-
 		</ul>
+
 		</div> <!--/#large-9 columns-->
 	</div><!-- /#row -->
 
