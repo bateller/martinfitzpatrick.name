@@ -99,7 +99,7 @@ body {
 }
 #menu li:hover > a,
 #menu ul ul :hover > a {
-	color: #444;
+	color: #000;
 }
 #menu ul ul a:hover {
 	background: #f0f0f0;
@@ -118,11 +118,13 @@ body {
 	display: block;
 }
 
-.links a {
+#menu ul.links a {
 	color: #aaa;
 }
 
-
+#menu ul.links a:hover {
+	color: #000;
+}
 /* =Content
 ----------------------------------------------- */
 .hentry {
