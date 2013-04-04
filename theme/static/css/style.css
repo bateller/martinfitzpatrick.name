@@ -220,15 +220,7 @@ body {
 .single-author .entry-meta .byline {
 	display: none;
 }
-blockquote {
-	background: #eee;
-	border-left: 10px solid #ef4323;
-	color: #000;
-	font-family: Georgia, Arial, Helvetica, sans-serif;
-	font-size: 15px;
-	padding: 10px;
-	text-align: justify;
-}
+
 
 
 .entry-meta a {
@@ -416,7 +408,20 @@ h1,h2,h3,h4,h5,h6 {
 .entry-content h5 { font-size: 1.2em; }
 .entry-content h6 { font-size: 1.1em; }
 
+blockquote {
+	background: #f5f5f5;
+	border-left: 10px solid #ef4323;
+	color: #000;
+	font-family: Georgia, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	padding: 10px;
+	text-align: justify;
+}
+
+
+
 aside {
+	border-left: 10px solid #ef4323;
 	background: #f5f5f5;
 	font-family: Georgia, Arial, Helvetica, sans-serif;
 	font-size: 15px;
@@ -425,7 +430,7 @@ aside {
     font-style:italic;
     float:right;
     clear:right;
-    margin:1em;
+    margin:0 1em;
     width:200px;
 }
 
