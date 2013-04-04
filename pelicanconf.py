@@ -16,7 +16,8 @@ PLUGINS = [
         'pelican.plugins.gravatar',
         'pelican.plugins.related_posts',
         'pelican.plugins.github_activity',
-        'pelican.plugins.gzip_cache',    
+        'pelican.plugins.gzip_cache',   
+        'pelican.plugins.sitemap',
         ]
 
 # Blogroll
