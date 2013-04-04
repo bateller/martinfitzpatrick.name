@@ -2,7 +2,7 @@
 	<div class="entry-meta">
 		<div class="date"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.locale_date }}</a></div>
 		{% if article.author and not SINGLE_AUTHOR %}
-        <img src="{{ article.author_gravatar }}?s=64"><br />
+        <img src="{{ article.author_gravatar }}?s=64&d=mm"><br />
 		<span class="byline">By <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a></span>
 		{% endif %}
 		{% if DISQUS_SITENAME %}
