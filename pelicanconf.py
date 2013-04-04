@@ -32,7 +32,7 @@ SOCIAL = (
           ('Github', 'github', 'https://github.com/mfitzp'),
           ('Twitter', 'twitter', 'https://twitter.com/golifescience'),
 #          ('Facebook', 'facebook', 'https://facebook.com/research.abl.es'),
-          ('Google+', 'google-plus', 'https://plus.google.com/100813895193053083791'),
+          ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/'),
         )
 
 DEFAULT_PAGINATION = 10
