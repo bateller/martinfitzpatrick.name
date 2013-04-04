@@ -118,6 +118,9 @@ body {
 	display: block;
 }
 
+.links a {
+	color: #aaa;
+}
 
 
 /* =Content
