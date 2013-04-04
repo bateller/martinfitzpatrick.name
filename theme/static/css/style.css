@@ -424,6 +424,7 @@ aside {
 	text-align: justify;
     font-style:italic;
     float:right;
+    clear:right;
     margin:1em;
     width:200px;
 }
