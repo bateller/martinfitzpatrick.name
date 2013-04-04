@@ -366,7 +366,7 @@ body {
 
 #footer-data {
     text-align:left;
-}row
+}
 
 .github blockquote {
     border:none;
@@ -414,7 +414,7 @@ h1,h2,h3,h4,h5,h6 {
 .entry-content h5 { font-size: 1.2em; }
 .entry-content h6 { font-size: 1.1em; }
 
-.entry-content ul { list-style-position:inside; }
+.entry-content ul, .entry-content ol { list-style-position:inside; }
 
 
 blockquote {
