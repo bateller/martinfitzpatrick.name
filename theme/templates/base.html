@@ -25,13 +25,9 @@
 		{% endblock head %}
 </head>
 
-<body class="home blog custom-background {% if SINGLE_AUTHOR %}single-author{% endif %}" >
+<body class="home blog" >
 	<div id="container">
-		<div id="header">
-				<h1 id="site-title"><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
-				{% if SITESUBTITLE %}<h2 id="site-description">{{ SITESUBTITLE }}</h2>{% endif %}
-		</div><!-- /#banner -->
-		
+		<div id="header"><a href="{{ SITEURL }}"><img src="./theme/img/gols.png" alt="{{ SITENAME }}"></a></div><!-- /#banner -->
 		<div id="menu">
 			<div class="menu-navigation-container">
 				<ul id="menu-navigation" class="menu">
@@ -66,7 +62,7 @@
 		</div>
 		
 		<div id="footer">
-			<p>{{ FOOTER_TEXT or 'Powered by <a href="http://pelican.readthedocs.org">Pelican</a>, theme by <a href="http://bunnyman.info">tBunnyMan</a>.' }}</p>
+			<p>{{ FOOTER_TEXT or 'Powered by <a href="http://pelican.readthedocs.org">Pelican</a>' }}</p>
 			{% if GOOGLE_ANALYTICS %}
 				<script type="text/javascript">
 					var _gaq = _gaq || [];
@@ -84,7 +80,8 @@
 				{% include 'disqus_script.html' %}
 			{% endif %}
 		</div><!-- /#footer -->
+<br style="clear:all;" />
 	</div><!-- /#container -->
-	<div style="display:none"></div>
+
 </body>
 </html>
