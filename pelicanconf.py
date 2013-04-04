@@ -67,6 +67,7 @@ CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
 
+
 DISQUS_SITENAME = 'golifescience'
 GOOGLE_ANALYTICS = 'UA-341253-5'
 GITHUB_URL = 'https://github.com/mfitzp'
