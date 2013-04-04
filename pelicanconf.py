@@ -22,16 +22,17 @@ PLUGINS = [
 
 # Blogroll
 LINKS =  (
-            ('OpenScience', 'http://openscience.org'),
             ('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
             ('Python.org', 'http://python.org'),
-            ('Jinja2', 'http://jinja.pocoo.org'),
         )
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/golifescience'),
-          ('Facebook', 'https://facebook.com/research.abl.es'),
-          ('Google+', 'https://plus.google.com/100813895193053083791'),
+SOCIAL = (
+          ('RSS', 'rss', FEED_DOMAIN + '/feed.xml'),
+          ('Github', 'github', 'https://github.com/mfitzp'),
+          ('Twitter', 'twitter', 'https://twitter.com/golifescience'),
+#          ('Facebook', 'facebook', 'https://facebook.com/research.abl.es'),
+          ('Google+', 'google-plus', 'https://plus.google.com/100813895193053083791'),
         )
 
 DEFAULT_PAGINATION = 10

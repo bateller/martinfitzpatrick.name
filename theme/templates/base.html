@@ -13,8 +13,6 @@
 
         <script src="{{ MEDIA_URL }}foundation/js/vendor/custom.modernizr.js"></script>
 
-		<!-- Base CSS --><link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}css/base.css" />
-
         <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/general_foundicons.css" />
         <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/social_foundicons.css" />
 
@@ -69,11 +67,18 @@
 		</ul>
 
 		<ul id="menu-navigation" class="menu links">
-			{% if LINKS %}
-			  {% for name, url in LINKS %}
-				<li  class="active" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ url }}">{{ name }}</a></li>
+			{% if SOCIAL %}
+			  {% for name, icon, url in SOCIAL %}
+				<li class="active" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ url }}"><i class="social foundicon-{{ icon }}"></i> {{ name }}</a></li>
 			  {% endfor %}
 			{% endif %}
+
+			{% if LINKS %}
+			  {% for name, url in LINKS %}
+				<li class="active" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ url }}">{{ name }}</a></li>
+			  {% endfor %}
+			{% endif %}
+
 		</ul>
 
 		</div> <!--/#large-9 columns-->
