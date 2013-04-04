@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u'Martin Fitzpatrick'
+AUTHOR_EMAIL = u'martin.fitzpatrick@gmail.com'
 SITENAME = u'Game of Life Science'
 SITESUBTITLE = u'Bioinformatics to Bedside'
 SITEURL = 'http://golifescience.com'
