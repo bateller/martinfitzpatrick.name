@@ -6,7 +6,9 @@ AUTHOR_EMAIL = u'martin.fitzpatrick@gmail.com'
 SITENAME = u'Game of Life Science'
 SITESUBTITLE = u'Bioinformatics to Bedside'
 SITEURL = 'http://golifescience.com'
+
 FEED_DOMAIN = SITEURL
+#FEED_ATOM = 'feeds/atom.xml'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -28,7 +30,7 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-#          ('RSS', 'rss', FEED_DOMAIN + '/feed.xml'),
+          ('RSS', 'rss', FEED_ATOM),
           ('Github', 'github', 'https://github.com/mfitzp'),
           ('Twitter', 'twitter', 'https://twitter.com/golifescience'),
 #          ('Facebook', 'facebook', 'https://facebook.com/research.abl.es'),
