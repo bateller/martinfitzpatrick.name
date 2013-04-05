@@ -7,7 +7,7 @@ from pelicanconf import *
 
 SITEURL = 'http://golifescience.com'
 
-#DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
