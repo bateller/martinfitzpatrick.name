@@ -1,0 +1,36 @@
+Date: 2012-02-06 09:02
+Author: Ian Chin-Sang
+Email: chinsang@queensu.ca
+Title: PLC buffer for Immunoprecipitation
+Slug: methods/1438/plc-buffer-for-immunoprecipitation
+Tags: buffer,immunoprecipitation,plc,media &amp; solutions
+
+PLC buffer for Immunoprecipitation
+
+
+
+
+
+#Requirements
+50 mM Hepes
+150 mM NaCl
+10% glycerol
+1% Triton X-100                      1 mM PMSF
+1.5 mM MgCl2
+1 mM EGTA
+10 mM NaPPi
+10 mM NaF
+
+Inhibitors:
+1 mM sodium orthovanadate
+10 mg/ml leupeptin
+2 mM benzamidine
+
+#Method
+
+Combine the ingredients in a suitable container, and then add the inhibitors.
+
+
+
+
+
