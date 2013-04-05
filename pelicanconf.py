@@ -8,7 +8,7 @@ SITESUBTITLE = u'Bioinformatics to Bedside'
 SITEURL = 'http://golifescience.com'
 
 FEED_DOMAIN = SITEURL
-FEED_ATOM = 'feeds/atom.xml'
+FEED_ATOM = '/feeds/atom.xml'
 
 TIMEZONE = 'Europe/Paris'
 
