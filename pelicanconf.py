@@ -28,7 +28,7 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-          ('RSS', 'rss', FEED_DOMAIN + '/feed.xml'),
+#          ('RSS', 'rss', FEED_DOMAIN + '/feed.xml'),
           ('Github', 'github', 'https://github.com/mfitzp'),
           ('Twitter', 'twitter', 'https://twitter.com/golifescience'),
 #          ('Facebook', 'facebook', 'https://facebook.com/research.abl.es'),

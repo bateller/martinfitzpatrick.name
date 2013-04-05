@@ -71,6 +71,7 @@
 			  {% for name, icon, url in SOCIAL %}
 				<li class="active" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ url }}"><i class="social foundicon-{{ icon }}"></i> {{ name }}</a></li>
 			  {% endfor %}
+				<li class="active" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ FEED_ATOM }}"><i class="social foundicon-rss"></i> rss</a></li>
 			{% endif %}
 
 			{% if LINKS %}
