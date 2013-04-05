@@ -41,7 +41,7 @@ Once connected you should be presented with three folders: branches, tags and tr
 
 There are a few basic concepts you need to get your head around to use SVN for plugin development. The different folders `branches`, `tags`, and the `trunk`, along with the development process using `update` and `commit`.
 
- Repository Folders
+## Repository Folders
 
 **Trunk** is where you do the major development for your plugin. Your trunk repository should contain the latest, greatest, in development code. Your editing takes place here with updates being added to this location regularly.
 
@@ -49,7 +49,7 @@ There are a few basic concepts you need to get your head around to use SVN for p
 
 **Branches** are effectively tags which continue to be developed. These are useful when you need to develop two or more versions of your code in parallel, for example one version compatible with WordPress v1.x and another for WordPress v2.x You won’t be using these in normal WordPress plugin development so until then you can forget all about them!
 
- Update & Commit
+## Update & Commit
 
 Update and Commit are the two central processes in version management. Updating, often called “checking out” is the process of updating your local copy to match what is in the repositories. Commit, often called “checking in” is the process of uploading your changes to the repository.
 
@@ -77,19 +77,19 @@ Because you currently have the repository checked out, the changes you have made
 
 Revision control with SVN follows the same basic process of checking in/out and making changes to files. In between these steps there are various checks (e.g. `diff`) which you can do to compare changes made by yourself to versions submitted by other people. However, because this article is mainly concerned with solo plugin development we won’t be covering that here. More information about resolving conflicts is available from [the SVN book][14].
 
- Check Out (Update)
+## Check Out (Update)
 
 Before developing your plugins you want to check out the current version from your repository. If you are developing your plugin single-handedly on a local installation this may seem like an unnecessary step – and in many ways it is. It is only necessary if you believe that someone else could have updated the files in the repository (e.g. applied a patch) since you last updated the files and you want to take those changes into account.
 
 Note, if you elect not to check out the code you will receive a warning if there are any conflicts when you come to re-upload. At this point you can [resolve them][14] as neccessary.
 
- Make Changes
+## Make Changes
 
 Now you can edit your files and fix your plugin as you like – this part of development will be no different to developing software without SVN. Remember, if you’re using tagged releases you can check in your plugin code at any time (whether it works or not) allowing you to access it from anywhere you are.
 
 You may also want to keep your `readme.txt` up to date as you go. Installation instructions which do not match the release can be a big headache for users.
 
- Check In (Commit)
+## Check In (Commit)
 
 You’ve done your fixing and now you’re ready to upload the latest version of the code. This is simple a case of checking in (committing) the changes from your local files to the repository. Most GUI systems allow you to do this in one go, applying the change to an entire folder.
 
@@ -101,7 +101,7 @@ Once the files have been committed you can exit the repository, content in the k
 
 # Tagging for Download
 
- Testing
+## Testing
 
 Once you have developed your plugin to the point where you feel ready to release a new version, check it. Below is a list of recommended steps for testing a plugin release:
 
@@ -111,7 +111,7 @@ Once you have developed your plugin to the point where you feel ready to release
 *   Test the plugin with all your other plugins enabled.
 *   Install on a pristine WordPress install.
 
- Tagging
+## Tagging
 
 Now the plugin is ready to go you are ready to tag. Basically, tagging means taking a copy of the current trunk code and freezing it for release purposes. Again the process for doing this will differ from one SVN interface to another, but the basic steps are:
 
