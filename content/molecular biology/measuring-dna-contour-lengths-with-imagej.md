@@ -13,8 +13,8 @@ This is an example of how to measure the lengths of DNA contours on images acqui
 
 
 >Requires ImageJ 1.30 or later. 
-
-In this example, we measure the length of the DNA contour in the lower right corner. The field width of the image is 500nm. The image is from M. Lysetska, et al., "UV light-damaged DNA and its interaction with human replication protein A: an atomic force microscopy study", Nucleic Acids Research, 2002, Vol. 30, No. 12 2686-2691 (nar.oupjournals.org/cgi/content/full/30/12/2686), used with permission. 
+>
+>In this example, we measure the length of the DNA contour in the lower right corner. The field width of the image is 500nm. The image is from M. Lysetska, et al., "UV light-damaged DNA and its interaction with human replication protein A: an atomic force microscopy study", Nucleic Acids Research, 2002, Vol. 30, No. 12 2686-2691 (nar.oupjournals.org/cgi/content/full/30/12/2686), used with permission. 
 
 
 

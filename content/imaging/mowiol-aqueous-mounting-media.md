@@ -11,10 +11,10 @@ Aqueous mounting medium for fluorescence and Stereology. Recommended Anti-Fade f
 
 
 >Mowiol goes into solution with difficulty. It’s best to make a large batch and freeze aliquots at -20ºC.
-
-Takes about 8 hours to prepare correctly.
-
-Note for stereology: if you have sections mounted in DPX – remove the DPX by soaking and washing in zylene, rehydrate in PBS and Azide (for 1-2 nights) then mount in Mowiol
+>
+>Takes about 8 hours to prepare correctly.
+>
+>Note for stereology: if you have sections mounted in DPX – remove the DPX by soaking and washing in zylene, rehydrate in PBS and Azide (for 1-2 nights) then mount in Mowiol
 
 
 

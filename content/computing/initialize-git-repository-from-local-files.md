@@ -54,7 +54,7 @@ Push the commit to the remote:
 
 
 >-u adds a tracking reference for the branch which is useful for argument-less pull commands amongst others.
-
+>
 
 
 

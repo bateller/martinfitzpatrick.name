@@ -15,20 +15,20 @@ Here we document the process of implementing syntax highlighting on markdown mar
 
 
 >The resulting markup is heavily dependent on whether the language is detected. You can tell the parser what language you are using with a few simple lines at the top of your code:
-Start your code with a shebang with path, and the language will be derived from that, with line numbers
-
-    #!/usr/bin/python
-
-Use a shebang without the path and the shebang line will be removed: 
-
-    #!python
-
-Start the first line with three colons (:::) and the following text will be used to identify the language. The line is removed and no numbers are used:
-
-    :::python
-
-If you use none of these systems the codehilite plugin will attempt to guess the language, but it might not get it right (resulting in some inconsistent code highlighting).
-
+>Start your code with a shebang with path, and the language will be derived from that, with line numbers
+>
+>    #!/usr/bin/python
+>
+>Use a shebang without the path and the shebang line will be removed: 
+>
+>    #!python
+>
+>Start the first line with three colons (:::) and the following text will be used to identify the language. The line is removed and no numbers are used:
+>
+>    :::python
+>
+>If you use none of these systems the codehilite plugin will attempt to guess the language, but it might not get it right (resulting in some inconsistent code highlighting).
+>
 
 
 

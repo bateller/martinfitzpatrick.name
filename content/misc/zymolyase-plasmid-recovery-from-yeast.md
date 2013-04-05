@@ -52,8 +52,8 @@ Add supernatant to manifold columns containing 200ul celite (silica) slurry and 
 
 
 >Use 5 to 10 ul of DNA to transform E. coli (i.e. MH6 -LEU)  competent cells and grow colonies on Amp plates. (note: If pGBKT7 (Kan R) was used for your bait vector then you can just transform into XL1 Blue competent cells and select for  Amp resistance.)
-
-Patch single colonies onto M9 -LEU plates (if your library is –LEU). If colony grows overnight at 37°C then grow up colony in 2XTY + AMP overnight, and purify by usual bacteria Miniprep Method.
+>
+>Patch single colonies onto M9 -LEU plates (if your library is –LEU). If colony grows overnight at 37°C then grow up colony in 2XTY + AMP overnight, and purify by usual bacteria Miniprep Method.
 
 
 

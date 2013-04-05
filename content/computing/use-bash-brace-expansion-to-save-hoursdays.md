@@ -11,18 +11,18 @@ Brace expansion is one of the most powerful bash tricks with the potential to sa
 
 
 >Be careful with the use of spaces as these will stop expansion working. If you have any text containing spaces, wrap it in quotes. However, the expansion won't work inside quotes either, for example:
-
-Will not work:
-
-	echo Use bash brace expansion to save {hours,days}
-	echo "Use bash brace expansion to save {hours,days}"
-
-Works!:
-
-	echo "Use bash brace expansion to save "{hours,days}
-	echo "Use bash brace expansion to save"{" hours"," days"}
-
-In the second example, note that the space has been moved inside the expansion set, so each of them must be wrapped in quotes.
+>
+>Will not work:
+>
+>	echo Use bash brace expansion to save {hours,days}
+>	echo "Use bash brace expansion to save {hours,days}"
+>
+>Works!:
+>
+>	echo "Use bash brace expansion to save "{hours,days}
+>	echo "Use bash brace expansion to save"{" hours"," days"}
+>
+>In the second example, note that the space has been moved inside the expansion set, so each of them must be wrapped in quotes.
 
 
 

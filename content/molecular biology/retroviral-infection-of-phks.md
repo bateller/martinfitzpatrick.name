@@ -87,9 +87,9 @@ Refeed PHKs with a 1:1 ratio of infectious supernatant and fresh [KGM + polybren
 
 
 >for T25 use 2mL supernatant + 2mL KGM  
-for T75 use 5mL supernatant + 5mL KGM  
-
-Polybrene is hexadimethrine bromide, Sigma H9268, you want a final conc. of 6µg/mL. Store polybrene stock of 3mg/mL in PBS at 4ºC.
+>for T75 use 5mL supernatant + 5mL KGM  
+>
+>Polybrene is hexadimethrine bromide, Sigma H9268, you want a final conc. of 6µg/mL. Store polybrene stock of 3mg/mL in PBS at 4ºC.
 
 
 Allow infection to proceed all day.

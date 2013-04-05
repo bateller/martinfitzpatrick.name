@@ -13,8 +13,8 @@ Embryo 4D video Microscopy preparation of slides and embryos.
 
 
 >Perform the following steps in order. Have all the materials ready and on hand and try to be quick as possible.
-
-Before you start dissecting out the embryos make sure that you log on to the microscope computer and that the microscope and camera are on.  
+>
+>Before you start dissecting out the embryos make sure that you log on to the microscope computer and that the microscope and camera are on.  
 
 
 

@@ -11,8 +11,8 @@ X-gal overlay assay for Yeast plates
 
 
 >We find that this method is less sensitive than the "standard" lacZ filter lifts and can be useful if  your bait in the yeast two hybrid assay has  weak self activation. 
-
-Use half of stock solution if you are only overlaying up to eight large plates. Use 3.5 ml per small plates (60mmX15mm), or 7ml for large plates (100mmX15mm).
+>
+>Use half of stock solution if you are only overlaying up to eight large plates. Use 3.5 ml per small plates (60mmX15mm), or 7ml for large plates (100mmX15mm).
 
 
 #Requirements

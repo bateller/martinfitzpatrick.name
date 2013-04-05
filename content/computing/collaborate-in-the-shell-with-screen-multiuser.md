@@ -11,10 +11,10 @@ Screen is a neat little program that allows you to use multiple virtual terminal
 
 
 >Issue commands to screen using `Ctrl-A` followed by one of the command instructions, or a further key combination.
-
-While you can use this method to connect as many people to a given screen session as you like, only one person can be typing in a given window at once. That person is described as having the 'writelock' on the window. By default these are set to 'auto', meaning the first user to start typing gets the writelock and keeps it until they leave the window.
-
-A user's writelock can be removed manually by using the command `writelock off`. In contrast the command `writelock on` means that user will keep the writelock even after leaving the window.
+>
+>While you can use this method to connect as many people to a given screen session as you like, only one person can be typing in a given window at once. That person is described as having the 'writelock' on the window. By default these are set to 'auto', meaning the first user to start typing gets the writelock and keeps it until they leave the window.
+>
+>A user's writelock can be removed manually by using the command `writelock off`. In contrast the command `writelock on` means that user will keep the writelock even after leaving the window.
 
 
 #Requirements
@@ -56,8 +56,8 @@ Replacing `<username>`  with the name of the user you are granting screen sharin
 
 
 >You can save yourself some time by putting these commands in the `.screenrc` configuration file.
-
-You can also control permissions more closely for example `:aclchg <username> +rx` will give `<username>` read-only access to the screen.
+>
+>You can also control permissions more closely for example `:aclchg <username> +rx` will give `<username>` read-only access to the screen.
 
 
 Finally ask your guest to connect to your server via ssh and enter the following to access your screen:

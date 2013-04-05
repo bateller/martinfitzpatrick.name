@@ -26,11 +26,11 @@ You will see a progress bar as the download completes. This is a perfect time fo
 
 
 >For 64bit architecture use:
-
-    :::bash
-    wget http://dl.google.com/dl/earth/client/current/google-earth-stable_current_amd64.deb
-
-And change the filename in the subsequent commands.
+>
+>    :::bash
+>    wget http://dl.google.com/dl/earth/client/current/google-earth-stable_current_amd64.deb
+>
+>And change the filename in the subsequent commands.
 
 
 Next install the downloaded `.deb` package:
@@ -41,7 +41,7 @@ Next install the downloaded `.deb` package:
 
 
 >If you get errors with this command due to missing dependencies you can 'force' install of Google Earth and missing dependencies with `sudo apt-get install -f`
-
+>
 
 
 You should now have a fully functional Google Earth!

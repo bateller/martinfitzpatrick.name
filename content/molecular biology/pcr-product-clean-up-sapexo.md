@@ -33,7 +33,7 @@ no need to sequence samples that did not amplify.
 
 
 >Put labels on the sides of the strip tubes, not the cap as the termocyclers heated lid will lift writing on the caps. Also, put the date and initials somewhere on the
-strip of tubes.
+>strip of tubes.
 
 
 Using a HIGH DNA pipette, add 5 L of each PCR product into a 200 L tube, changing tips for each sample. 
@@ -43,7 +43,7 @@ Using a HIGH DNA pipette, add 5 L of each PCR product into a 200 L tube, changin
 
 
 >There is nothing magic about this volume - it provides template for two sequencing reactions if the product is strong. If you need more template than this
-(if you have weak bands) then scale up.
+>(if you have weak bands) then scale up.
 
 
 Using NO DNA pipette, make a master-mix containing the following for each PCR product to be sequenced:
@@ -54,9 +54,9 @@ Using NO DNA pipette, make a master-mix containing the following for each PCR pr
 
 
 >So that you don’t run out, make enough mastermix for 1 extra sample per 10 samples
-to be digested. Therefore, if you have 9 samples, you will need 5 L of SAP and 5 L
-of EXO.
-
+>to be digested. Therefore, if you have 9 samples, you will need 5 L of SAP and 5 L
+>of EXO.
+>
 
 
 Pipette up and down to mix the SAP/EXO master mix. Ensure that it is mixed well.

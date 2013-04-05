@@ -27,8 +27,8 @@ Open a terminal and browse to to your Matlab app bundle, eg.
 
 
 >Your MATLAB folder will likely be different to this. A quick way to find it is to use the `tab` key. At the command-line enter `cd /Applications/MATLAB` then hit `<tab>` and the name should autocomplete.
-
-
+>
+>
 
 
 If you're on 2008a or later, you need to browse down to the maci folder. 
@@ -56,7 +56,7 @@ To save hit `Ctrl-X`(exit) then press `Y` to save and `Return` to accept the fil
 
 
 >You can also optionally add `-Dapple.laf.useScreenMenuBar=false` to turn off the Mac top-of-screen menu bar. This appears to also slightly increase speed.
-
+>
 
 
 Restart MATLAB and you should see a speed improvement.

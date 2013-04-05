@@ -45,16 +45,16 @@ Prepare the hybridisation solution.
 
 
 >A multispot slide with 13mm circular coverslip needs 6ul; a square 22mm coverslip uses 10-12ul. For larger numbers place slides face to face (acting as each other's coverslip) with 30ul solution each.
-
-Description|Details|Quantity
------------|-------|---------
-Solution A|6mls de-ionised formamide, 2mls 20x SSC, 2mls H2O, 2g dextran sulphate. Store in a universal at room temperature |25ul
-De-ionised formamide|(Sigma F7508)|15 ul
-Probe|Appligene/Oncor #CP5040-B.5 (biotin labelled) or label your own probe (~10ng/ul)|5 ul
-Carrier DNA|Sheared salmon sperm DNA (10mg/ml)|0.5 ul
-H2O||2 ul
-20 x SSC||2.5 ul
-TOTAL||50 ul
+>
+>Description|Details|Quantity
+>-----------|-------|---------
+>Solution A|6mls de-ionised formamide, 2mls 20x SSC, 2mls H2O, 2g dextran sulphate. Store in a universal at room temperature |25ul
+>De-ionised formamide|(Sigma F7508)|15 ul
+>Probe|Appligene/Oncor #CP5040-B.5 (biotin labelled) or label your own probe (~10ng/ul)|5 ul
+>Carrier DNA|Sheared salmon sperm DNA (10mg/ml)|0.5 ul
+>H2O||2 ul
+>20 x SSC||2.5 ul
+>TOTAL||50 ul
 
 
 Apply an appropriate amount of hybridisation solution onto the slide and cover with a coverslip. 

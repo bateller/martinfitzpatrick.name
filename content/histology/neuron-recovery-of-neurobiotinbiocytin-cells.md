@@ -13,7 +13,7 @@ This technique results in a black insoluble reaction product delineating the fil
 
 
 >DAB is a carcinogen and all powder must be weighed in a fume hood with appropriate PPE. Disposal and deactivation of excess powder and contaminated washings with dilute bleach solution prior to disposal into the sink is mandatory.
-Nickel Sulfate must be disposed of appropriately.
+>Nickel Sulfate must be disposed of appropriately.
 
 
 #Requirements

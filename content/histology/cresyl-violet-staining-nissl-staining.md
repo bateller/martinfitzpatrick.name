@@ -13,8 +13,8 @@ Cresyl Violet Staining for free floating sections, mounted and air-dried. Cresyl
 
 
 >The Cresyl Violet method uses basic aniline dye to stain RNA blue, and is used to highlight important structural features of neurons. The Nissl substance (rough endoplasmic reticulum) appears dark blue due to the staining of ribosomal RNA, giving the cytoplasm a mottled appearance. Individual granules of extra-nuclear RNA are named Nissl granules (ribosomes). DNA present in the nucleus stains a similar color.
-
-The thicker sections require exposure to each solution for longer to allow the diffusion of reagents.
+>
+>The thicker sections require exposure to each solution for longer to allow the diffusion of reagents.
 
 
 #Requirements

@@ -11,13 +11,13 @@ One way to make transgenic animals in C. elegans  we use a microinjection techni
 
 
 >Typical injection concentration:
-
-* 1-30 ng/ul Test plasmid
-* 30  ng/ul co-injection marker (common markers pRF4 (roller) or p
-
-Use pBluescript (or other plasmid)   to bring total concentration of DNA to 100 ng/ul.
-
-We do not use injection buffer T.E./E.B.  or water seems to work fine.
+>
+>* 1-30 ng/ul Test plasmid
+>* 30  ng/ul co-injection marker (common markers pRF4 (roller) or p
+>
+>Use pBluescript (or other plasmid)   to bring total concentration of DNA to 100 ng/ul.
+>
+>We do not use injection buffer T.E./E.B.  or water seems to work fine.
 
 
 

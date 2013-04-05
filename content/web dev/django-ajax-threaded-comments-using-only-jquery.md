@@ -96,41 +96,41 @@ Create a new template file in your comments templates folders named `_ajax_comme
 
 
 >If you're interestd in what is happening in the code read on; if not you can safely skip this bit:
-
-     $('.comment-form form').bindPostCommentHandler();
-      $(this).submit(function() {
-
-Together these bind our function onto the submit handler for all the comment forms on the page. This means when you hit submit it gets passed to our function below.
-
-    commentform = this;
-    commentwrap = $(this).parent();
-
-In the function `this` is a reference to the form - we store this in variable `commentform` so it's accessible within the ajax sucess function. We also store `commentwrap` which refers to the div wrapper of the comment form - it's useful shorthand later.
-
-    $.ajax({
-        type: "POST",
-        data: $(commentform).serialize(),
-        url: "{% comment_form_target %}",
-        cache: false,
-        dataType: "html",
-
-This is the submission handler for the AJAX request. We serialize the form `commentform` and submit it to `{% comment_form_target %}` and note that the data type returned will be HTML. This is the standard form submission URL we're talking to so there will not be JSON/other things available.
-
-        success: function(html, textStatus) {   
-            // Extract the form from the returned html
-            postedcomment = $(html).find('#newly_posted_comment');
-            $(commentform).replaceWith(postedcomment.html());
-
-The success function is passed the html from the submission which - hopefully - will include the newly posted comment. So we use jQuery to find that element (which we've flagged with id `newly_posted_comment`) and replace the originating form with that content.
-
-            $(commentwrap).find('.comment-form form').bindPostCommentHandler();
-
-Finally we bind our handler to this new comment form so the AJAX submission will keep on working.
-
-        error: function (XMLHttpRequest, textStatus, errorThrown) {
-            $(commentform).replaceWith('Your comment was unable to be posted at this time.  We apologise for the inconvenience.');
-
-This final bit is the error handler for when the AJAX submission goes wrong in any way. Here we replace the commentform with the error but you might instead want to insert the error before so the user can re-attempt submission.
+>
+>     $('.comment-form form').bindPostCommentHandler();
+>      $(this).submit(function() {
+>
+>Together these bind our function onto the submit handler for all the comment forms on the page. This means when you hit submit it gets passed to our function below.
+>
+>    commentform = this;
+>    commentwrap = $(this).parent();
+>
+>In the function `this` is a reference to the form - we store this in variable `commentform` so it's accessible within the ajax sucess function. We also store `commentwrap` which refers to the div wrapper of the comment form - it's useful shorthand later.
+>
+>    $.ajax({
+>        type: "POST",
+>        data: $(commentform).serialize(),
+>        url: "{% comment_form_target %}",
+>        cache: false,
+>        dataType: "html",
+>
+>This is the submission handler for the AJAX request. We serialize the form `commentform` and submit it to `{% comment_form_target %}` and note that the data type returned will be HTML. This is the standard form submission URL we're talking to so there will not be JSON/other things available.
+>
+>        success: function(html, textStatus) {   
+>            // Extract the form from the returned html
+>            postedcomment = $(html).find('#newly_posted_comment');
+>            $(commentform).replaceWith(postedcomment.html());
+>
+>The success function is passed the html from the submission which - hopefully - will include the newly posted comment. So we use jQuery to find that element (which we've flagged with id `newly_posted_comment`) and replace the originating form with that content.
+>
+>            $(commentwrap).find('.comment-form form').bindPostCommentHandler();
+>
+>Finally we bind our handler to this new comment form so the AJAX submission will keep on working.
+>
+>        error: function (XMLHttpRequest, textStatus, errorThrown) {
+>            $(commentform).replaceWith('Your comment was unable to be posted at this time.  We apologise for the inconvenience.');
+>
+>This final bit is the error handler for when the AJAX submission goes wrong in any way. Here we replace the commentform with the error but you might instead want to insert the error before so the user can re-attempt submission.
 
 
 Finally include the `_ajax_comments.html` on the template hosting your comments (or include the Javascript file if you chose that route). It needs to go into the `head` section of the html page so here I use `{% block extrahead %}` but your template may be different.

@@ -29,7 +29,7 @@ Resuspend  worms in a volume of about 1ml M9. Add 5 micorliters of EMS (concentr
 
 
 >50mM EMS is standard, but others have found this to be too high. Vary concentrations from 10 to 50mM EMS.
-If large volumes of worms are going to be used then carry out the EMS mutagenesis in 4 ml of M9 and use a 15ml polypropylene tube.
+>If large volumes of worms are going to be used then carry out the EMS mutagenesis in 4 ml of M9 and use a 15ml polypropylene tube.
 
 
 Incubate worms at 22C for 4-5hours with mild rocking.  Use the “labquake” rocker

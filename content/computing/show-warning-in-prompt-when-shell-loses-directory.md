@@ -13,12 +13,12 @@ Show a warning in the Terminal's prompt when the current working directory is no
 
 
 >Why is this useful? Take the scenario where you receive frequent updates to a file foo.zip which you proceed to extract as ~/foo/ and work within foo in Terminal for whatever reason; say copying some of the files somewhere.
-
-You receive another update to foo.zip. You delete the original ~/foo/ directory and unzip the new foo.zip in its place. The Terminal, however, is still referencing the old foo directory which is now in the trash. Any commands issued will be operating on the old files, not the new ones.
-
-This method will throw up a warning in this case.
-
-(With thanks to Andy Block for the original inspiration.)
+>
+>You receive another update to foo.zip. You delete the original ~/foo/ directory and unzip the new foo.zip in its place. The Terminal, however, is still referencing the old foo directory which is now in the trash. Any commands issued will be operating on the old files, not the new ones.
+>
+>This method will throw up a warning in this case.
+>
+>(With thanks to Andy Block for the original inspiration.)
 
 
 #Requirements
@@ -51,8 +51,8 @@ Open `.bash_profile` in your favorite editor and at the bottom add the following
 
 
 >This snippet simply compares the inodes of the current directory (via `.`) and that of the output of `pwd`.
-
-Depending on previous configuration changes you may have made to your system, you may already have a `PS1` variable being exported. In this case you will need to add `\$(check_pwd)` somewhere in the existing value. (The `\[\033[00m\]` parts are just for colors.)
+>
+>Depending on previous configuration changes you may have made to your system, you may already have a `PS1` variable being exported. In this case you will need to add `\$(check_pwd)` somewhere in the existing value. (The `\[\033[00m\]` parts are just for colors.)
 
 
 Add the new commands to the current terminal's environment.

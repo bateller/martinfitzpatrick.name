@@ -13,7 +13,7 @@ Primary monocyte differentiation to DCs with GM-CSF and IL-4
 
 
 >GM-CSF stock at 100ug/ml in PBS
-IL-4 stock at 100ug/ml in PBS
+>IL-4 stock at 100ug/ml in PBS
 
 
 

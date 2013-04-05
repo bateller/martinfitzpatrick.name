@@ -11,9 +11,9 @@ ifconfig.me is a web service that displays information about your connection, in
 
 
 >All commands are variations on the below. The full list is also available on the ifconfig.me website:
-
-`curl ifconfig.me`
-`curl ifconfig.me/<request-data>`
+>
+>`curl ifconfig.me`
+>`curl ifconfig.me/<request-data>`
 
 
 
@@ -36,8 +36,8 @@ Other commands are variations on this theme such as:
 
 
 >Note that your User Agent will be that as sent by `curl` and will differ from that reported when accessing ifconfig.me in your actual browser.
-
-
+>
+>
 
 
 A full set of all the data returnable is available using:

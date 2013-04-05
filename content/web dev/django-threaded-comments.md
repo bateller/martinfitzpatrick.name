@@ -15,8 +15,8 @@ Here we demonstrate a simple method to get threaded comments in Django using a c
 
 
 >Other solutions available at [django-threadedcomments](https://github.com/HonzaKral/django-threadedcomments) or [codeblogging](http://codeblogging.net/blogs/1/3/)
-
-For this method you will also need [django-mptt](https://github.com/django-mptt/django-mptt/)
+>
+>For this method you will also need [django-mptt](https://github.com/django-mptt/django-mptt/)
 
 
 #Requirements

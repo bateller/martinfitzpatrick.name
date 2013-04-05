@@ -11,12 +11,12 @@ Animal Trans-cardial Perfusion Technique
 
 
 >Pre requisites:
-
-* Animal ethics approval
-* Training in the safe handling of laboratory animals
-* Training in animal perfusion
-
-
+>
+>* Animal ethics approval
+>* Training in the safe handling of laboratory animals
+>* Training in animal perfusion
+>
+>
 
 
 #Requirements

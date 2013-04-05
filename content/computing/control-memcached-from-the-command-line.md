@@ -32,8 +32,8 @@ To start up an instance of memcached listening on `localhost` port `11211` only 
 
 
 >`memory` is the maximum number of megabytes of memory you want memcached to use.
-
- If you want to specify a different port to listen on use the `-p PORT` option.
+>
+> If you want to specify a different port to listen on use the `-p PORT` option.
 
 
 Alternatively you can use unix sockets to communicate directly with the memcached instance. In this case commands can only be sent from a login shell that has access to the socket file - for example if you ssh into the server hosting it.

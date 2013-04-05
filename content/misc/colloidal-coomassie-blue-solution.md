@@ -13,13 +13,13 @@ Homemade Colloidal Coomassie Blue Staining
 
 
 >Adjust quantities as appropriate to the following %vol:
-
-Distilled H20|-|~650 ml
-Ammonium Sulfate|10%|100g
-Coomassie G-250|0.1%|20 ml of % solution in H20
-Ortho-Phosphoric Acid|3%|30 ml
-Ethanol|20%|200 ml
-
+>
+>Distilled H20|-|~650 ml
+>Ammonium Sulfate|10%|100g
+>Coomassie G-250|0.1%|20 ml of % solution in H20
+>Ortho-Phosphoric Acid|3%|30 ml
+>Ethanol|20%|200 ml
+>
 
 
 #Requirements

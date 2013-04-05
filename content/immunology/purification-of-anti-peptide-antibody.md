@@ -11,8 +11,8 @@ Tags: antibody,purification,immunology,peptide
 
 
 >Do not pool the low pH and GuHCl eluates as they may have significantly different properties. We have found that the GuHCl may have higher affinities, but also may contain a higher fraction of partially denatured antibody that could contribute to staining background. The proportion in each pool varies with the peptide immunogen.
-
-The quality of the anti-peptide serum seems to increase with multiple boosts - the first bleed may be feeble. 
+>
+>The quality of the anti-peptide serum seems to increase with multiple boosts - the first bleed may be feeble. 
 
 
 

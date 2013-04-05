@@ -11,11 +11,11 @@ Crude Depletion Conditions for XKCM1. The following is for depleting a protein p
 
 
 >The main problem with immunodepletion of crude CSF extracts is that they activate during or soon after immunodepletion. Empirically, the following modifications have allowed us to succesfully immunodeplete and characterize three different proteins:
-    a) During extract prep, after washing out cysteine with XB, wash eggs 2-3x with CSF-XB (no PIs) before washing with CSF-XB + PIs and then process as usual. 
-    b) Crush the eggs at 10K, full brake in SW55 at 16 deg.C. Even 12.5K doesn't work - you can't get decent spindles after immunodepletion ! 
-    c) Use BioRad AffiPrep beads - these beads are really heavy and easily pellet; (agarose beads will not pellet very well in crude). 
-
-However, we have never been able to cycle a depleted crude - all assays were performed in straight CSF. Attempts to cycle have always failed so we gave up on cycling. 
+>    a) During extract prep, after washing out cysteine with XB, wash eggs 2-3x with CSF-XB (no PIs) before washing with CSF-XB + PIs and then process as usual. 
+>    b) Crush the eggs at 10K, full brake in SW55 at 16 deg.C. Even 12.5K doesn't work - you can't get decent spindles after immunodepletion ! 
+>    c) Use BioRad AffiPrep beads - these beads are really heavy and easily pellet; (agarose beads will not pellet very well in crude). 
+>
+>However, we have never been able to cycle a depleted crude - all assays were performed in straight CSF. Attempts to cycle have always failed so we gave up on cycling. 
 
 
 

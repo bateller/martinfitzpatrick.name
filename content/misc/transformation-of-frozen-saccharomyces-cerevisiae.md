@@ -11,10 +11,10 @@ Transformation of (Frozen) Competent Saccharomyces cerevisiae
 
 
 >1M Lithium Acetate: 10.2 g in 100 ml ddH2O – autoclave
-
-50% PEG: Dissolve 50g in 30ml ddH2O and stir, bring total volume up to 100ml and heat and stir to combine. Filter sterilize (this might take about 10- 20 min). Bubbles will disappear once you filter sterilize.
-
-ssDNA: Single-stranded salmon sperm carrier DNA is found in the –20C in its own box at a concentration of 1.5mg/ml in water (we do not sonicate).  It must be boiled before use, but you can refreeze 3 times after the initial boil before you need to boil it again.  Keep a few tubes in your own box for you personal use.
+>
+>50% PEG: Dissolve 50g in 30ml ddH2O and stir, bring total volume up to 100ml and heat and stir to combine. Filter sterilize (this might take about 10- 20 min). Bubbles will disappear once you filter sterilize.
+>
+>ssDNA: Single-stranded salmon sperm carrier DNA is found in the –20C in its own box at a concentration of 1.5mg/ml in water (we do not sonicate).  It must be boiled before use, but you can refreeze 3 times after the initial boil before you need to boil it again.  Keep a few tubes in your own box for you personal use.
 
 
 #Requirements

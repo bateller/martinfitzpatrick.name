@@ -23,17 +23,17 @@ You need two primers, complementary to each other, containing the new (mutant) s
 
 
 >For example, suppose you have the following sequence in some gene in some plasmid;
-
-`CTA CTT CCA GAG ACA ACT GAT CTC TAC TGT TAT GAG CAA TTA AAT GAC AGC GGG`
-
-And you want to change it to;
-`CTA CTT CCA GAG ACA ACT GAT CTC TAC GGT TAT GAG CAA TTA AAT GAC AGC GGG`
-
-One primer will be;
-`. . . . .5' . . CCA GAG ACA ACT GAT CTC TAC GGT TAT GAG CAA TTA AAT GAC AGC 3'`
-
-and the other primer will be the exact complement;
-`. . . . .5' . . GCT GTC ATT TAA TTG CTC ATA ACC GTA GAG ATC AGT TGT CTC TGG 3'`
+>
+>`CTA CTT CCA GAG ACA ACT GAT CTC TAC TGT TAT GAG CAA TTA AAT GAC AGC GGG`
+>
+>And you want to change it to;
+>`CTA CTT CCA GAG ACA ACT GAT CTC TAC GGT TAT GAG CAA TTA AAT GAC AGC GGG`
+>
+>One primer will be;
+>`. . . . .5' . . CCA GAG ACA ACT GAT CTC TAC GGT TAT GAG CAA TTA AAT GAC AGC 3'`
+>
+>and the other primer will be the exact complement;
+>`. . . . .5' . . GCT GTC ATT TAA TTG CTC ATA ACC GTA GAG ATC AGT TGT CTC TGG 3'`
 
 
 In the PCR reaction most of these primers will be annealing to each other (and thus not extending - hence avoid normal Taq) whilst a few will be annealing to your target sequence with a small mismatch in the middle.
@@ -63,7 +63,7 @@ Keep on ice until you put it into the PCR machine.
 
 
 >Pfu polymerase contains a 3'-5' exonuclease and it will start to chew up single-stranded DNA (the primers) from the 3' end making them shorter and less specific. Therefore assemble the reaction on ice adding the enzyme last. 
-
+>
 
 
 Run PCR programme as follows

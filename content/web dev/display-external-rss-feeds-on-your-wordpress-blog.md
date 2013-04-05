@@ -42,10 +42,10 @@ Locate where you want to include the feed and add the following code:
 
 
 >You will want to modify the code as follows:
-
-* Change the `fetch_feed` URL to your own blog (or show ours!).
-* Change the `get_item_quantity(5)` to the number of items you wish to show.
-
+>
+>* Change the `fetch_feed` URL to your own blog (or show ours!).
+>* Change the `get_item_quantity(5)` to the number of items you wish to show.
+>
 
 
 Save the file and refresh your blogpage. You should now see the feed entries in your page!

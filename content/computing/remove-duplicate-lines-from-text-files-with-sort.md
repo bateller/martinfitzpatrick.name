@@ -13,8 +13,8 @@ Here is a simple one-liner bash command to remove duplicates using sort.
 
 
 >This method is sensitive to the line endings of the file. If you have files editing in a combination of Unix/Linux/Mac/Windows you may have a variety of line-endings in place. 
-
-The simplest route is to run the file through `dos2unix` before attempting the sort/unique filter.
+>
+>The simplest route is to run the file through `dos2unix` before attempting the sort/unique filter.
 
 
 #Requirements

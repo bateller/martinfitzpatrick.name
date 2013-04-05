@@ -170,10 +170,10 @@ Send a test message to the email address. You should either receive the email as
 
 
 >Make the message short and avoid adding signatures etc. to the outgoing email or you will receive multiple useless messages.
-
-Some providers require activation before allowing this service to avoid spam.
-
-Standard customer service operators often have no knowledge of the service so you may need to ask to speak to the helpdesk/tech staff - however perserverance and you will usually get the information you need, or at least a confirmed "No."
+>
+>Some providers require activation before allowing this service to avoid spam.
+>
+>Standard customer service operators often have no knowledge of the service so you may need to ask to speak to the helpdesk/tech staff - however perserverance and you will usually get the information you need, or at least a confirmed "No."
 
 
 If you receive a failure report try various combinations of the phone number formatting (ommitting zeros, international format, etc.) to see if *any* work.

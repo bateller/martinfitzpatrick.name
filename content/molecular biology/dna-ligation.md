@@ -11,10 +11,10 @@ Ligation of a DNA fragment to a vector
 
 
 >T4 DNA Ligase is very unstable on ice (use as fast as posible and keep at -20oC). One unit catalyzes the exchange of 1 nmol of ATP in 20 mins at 37oC. This implies that ~1nmol of donor DNA can be ligated to an equivalent amount of acceptor DNA under these condition, in other words, use SMALL amounts of fragment and vector (otherwise there will be a lot of vector left without any fragment at the end of the reaction)
-
-This protocol assumes that all necessary treatments to the DNA fragments (for example: DNA Fragment Isolation from LM agarose, Fill In/Chew Back of DNA overhangs, Alkaline Phosphatase removal of PO4 from DNA fragments, Kinase addition of g-phosphates to 5'-OHs) have been performed by now and that the fragments are ready to be ligated to each other.
-
-Following restriction digestion and dephosphorylation (the two steps that can be performed in the same reaction, one after the other, without the need of purification - DNA Fragment Isolation from LM agarose-), the dephosphorylated fragment (usually vector) can be used directly without the need of a purification step (this is specially true if the vector was only linearized by digestion with a single restriction enzyme. Since there is only one fragment in the reaction, there is not need to gel purify it. In order to do this, AP has to be HEAT inactivated (Alkaline Phosphatase removal of PO4 from DNA fragments) prior to the ligation reaction
+>
+>This protocol assumes that all necessary treatments to the DNA fragments (for example: DNA Fragment Isolation from LM agarose, Fill In/Chew Back of DNA overhangs, Alkaline Phosphatase removal of PO4 from DNA fragments, Kinase addition of g-phosphates to 5'-OHs) have been performed by now and that the fragments are ready to be ligated to each other.
+>
+>Following restriction digestion and dephosphorylation (the two steps that can be performed in the same reaction, one after the other, without the need of purification - DNA Fragment Isolation from LM agarose-), the dephosphorylated fragment (usually vector) can be used directly without the need of a purification step (this is specially true if the vector was only linearized by digestion with a single restriction enzyme. Since there is only one fragment in the reaction, there is not need to gel purify it. In order to do this, AP has to be HEAT inactivated (Alkaline Phosphatase removal of PO4 from DNA fragments) prior to the ligation reaction
 
 
 #Requirements

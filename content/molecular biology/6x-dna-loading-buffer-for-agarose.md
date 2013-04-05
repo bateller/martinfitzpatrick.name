@@ -11,12 +11,12 @@ Easy to use, add 2ul per 10ul of DNA solution.
 
 
 >Ficoll 400 performs better than glycerol or sucrose based loading buffers.
-
-EDTA and SDS are included as enzyme inhibitor and protein denaturant respectively, they help sharpen up bands a bit.
-
-Orange G is the dye of choice as it won't obscure smaller DNA bands like other dyes.
-
-
+>
+>EDTA and SDS are included as enzyme inhibitor and protein denaturant respectively, they help sharpen up bands a bit.
+>
+>Orange G is the dye of choice as it won't obscure smaller DNA bands like other dyes.
+>
+>
 
 
 #Requirements

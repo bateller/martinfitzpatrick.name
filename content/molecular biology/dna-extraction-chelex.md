@@ -11,9 +11,9 @@ DNA Extraction via Chelex
 
 
 >Chelex is notorious for being as fickle as it is cheap and easy. Here are some tips for good amplifications:
-1. Sometimes sampleswork best if used immediately, sometimes it is better to wait overnight before using them. Experiment and find what works for your species. Results can vary by taxa.
-2. When doing initial PCRs, do a serial dilution of template.The amount of a Chelex DNA extraction used in a PCR can be as high as half of the volume of the PCR or as low as 1 microliter of a 1:10,000 dilution. I find that 1 microliter of a 1:1 is good for most applications.
-3. If you don't get amplifications from your PCR the first time with a Chelex extract, repeat the vortex, spin, incubate, vortex, spin, sit overnight procedure described above. Often this will make a negative PCR work.
+>1. Sometimes sampleswork best if used immediately, sometimes it is better to wait overnight before using them. Experiment and find what works for your species. Results can vary by taxa.
+>2. When doing initial PCRs, do a serial dilution of template.The amount of a Chelex DNA extraction used in a PCR can be as high as half of the volume of the PCR or as low as 1 microliter of a 1:10,000 dilution. I find that 1 microliter of a 1:1 is good for most applications.
+>3. If you don't get amplifications from your PCR the first time with a Chelex extract, repeat the vortex, spin, incubate, vortex, spin, sit overnight procedure described above. Often this will make a negative PCR work.
 
 
 
@@ -72,8 +72,8 @@ Incubate samples for 20 minutes at 95°C
 
 
 >The block temperature may drop slightly when doing this step. This drop is normal. Check tubes while incubating to ensure
-that lids have not popped off.
-
+>that lids have not popped off.
+>
 
 
 Vortex samples again for 10-15 seconds.
