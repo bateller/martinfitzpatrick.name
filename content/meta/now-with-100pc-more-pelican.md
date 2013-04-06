@@ -17,12 +17,13 @@ It wasn't a complete loss however. The above represents 4 years of programming e
 
 So, where does that leave this site? I realised that 99% (made that up) of traffic that ends up here is after particular things: methods, guides, protocols and code. In other words, original content. So that's what will follow. I'll be using this blog to post all of the above, predominantly leaning on bioinformatics topics, code and general usefulness. All the original content will stay in place, with links continuing to work, for the forseeable future (thanks to a 249 line .htaccess file). All the code for previous iterations of this site is available on [github][github-mfitzp] BSD licensed and free to tear to pieces.
 
-The new site is built on a rather neat bit of code called [Pelican](pelican), which allows rather fancy looking sites to be knocked together from templates are [markdown][markdown] formatted text files. One awesome thing about this is that you can in fact still contribute should you wish, by simply [forking the repo][github-golifescience] add a appropriately formattted file, and submitted a merge request.
+The new site is built on a rather neat bit of code called [Pelican][pelican], which allows rather fancy looking sites to be knocked together from templates are [markdown][markdown] formatted text files. One awesome thing about this is that you can in fact still contribute should you wish, by simply [forking the repo][github-golifescience] add a appropriately formattted file, and submitted a merge request.
 
 So, there you have it. The new Game of Life Science, same as the old Game of Life Science, except completely different. I'll keep you posted.
 
 
 [pubmed]: http://www.ncbi.nlm.nih.gov/pubmed
+[pelican]: http://blog.getpelican.com/
 [golifescience]: http://golifescience.com
 [github-mfitzp]: https://github.com/mfitzp/
 [github-golifescience]: https://github.com/mfitzp/golifescience
