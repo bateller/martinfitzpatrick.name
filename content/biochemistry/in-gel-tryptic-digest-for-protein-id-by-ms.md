@@ -2,7 +2,7 @@ Date: 2012-05-06 06:05
 Author: Timothy Mitchison
 Email: timothy_mitchison@hms.harvard.edu
 Title: In-gel Tryptic Digest for Protein ID by MS
-Slug: methods/1502/in-gel-tryptic-digest-for-protein-id-by-ms
+Slug: in-gel-tryptic-digest-for-protein-id-by-ms
 Tags: protein,biochemistry,mass spectroscopy,tryptic digest,digest
 
 In-gel Tryptic Digest for Protein ID by Mass Spectrometry
@@ -89,6 +89,8 @@ Dry PCR tube in speed-vac to complete dryness. Store at -20°C until analysis.
 
 Shevchenko A, Wilm M, Vorm O, Mann M [Mass spectrometric sequencing of proteins silver-stained polyacrylamide gels.](http://www.ncbi.nlm.nih.gov/pubmed/8779443) _Anal Chem_ (1996)
 [pmid:8779443](http://www.ncbi.nlm.nih.gov/pubmed/8779443)
+
+
 
 
 

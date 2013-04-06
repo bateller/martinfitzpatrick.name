@@ -2,7 +2,7 @@ Date: 2013-03-24 12:03
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Speed up MATLAB on MacOS X
-Slug: methods/1539/speed-up-matlab-on-macos-x
+Slug: speed-up-matlab-on-macos-x
 Tags: mac,osx,computing,matlab
 
 On MacOS X 10.5 there is considerable slow-down in the MATLAB editor and other GUI elements. The issue is related to a change in the default Mac Java 2D rendering engine from Quartz2D (10.4) and Sun2D (10.5). This newer rendering engine improves performance for figure drawing, but other GUI operations are slower. 
@@ -66,4 +66,8 @@ Restart MATLAB and you should see a speed improvement.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.mathworks.com/support/bugreports/details.html?rp=412219).
 

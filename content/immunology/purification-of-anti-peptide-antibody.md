@@ -2,7 +2,7 @@ Date: 2012-05-21 09:05
 Author: Timothy Mitchison
 Email: timothy_mitchison@hms.harvard.edu
 Title:  Purification Of Anti Peptide Antibody
-Slug: methods/1511/purification-of-anti-peptide-antibody
+Slug: purification-of-anti-peptide-antibody
 Tags: antibody,purification,immunology,peptide
 
  Purification Of Anti Peptide Antibody
@@ -80,4 +80,8 @@ Bring the azide concentration up to 0.1% and store at 4 deg C for up to three mo
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://mitchison.med.harvard.edu/protocols/ab4.html).
 

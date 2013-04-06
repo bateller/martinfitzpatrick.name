@@ -2,7 +2,7 @@ Date: 2011-11-06 11:11
 Author: Gordon W. Laurie
 Email: 
 Title: Heparan Sulfate Chain Analysis
-Slug: methods/1394/heparan-sulfate-chain-analysis
+Slug: heparan-sulfate-chain-analysis
 Tags: heparan,heparan sulphate
 
 Analysis of SDC1 HS Chains
@@ -72,4 +72,8 @@ Zako M, Dong J, Goldberger O, Bernfield M, Gallagher JT, Deakin JA [Syndecan-1 a
 [10.1074/jbc.M209658200](http://dx.doi.org/10.1074/jbc.M209658200)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](pmid:12571251).
 

@@ -2,7 +2,7 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Formaldehyde fixation for flow cytometry
-Slug: methods/35/formaldehyde-fixation-for-flow-cytometry
+Slug: formaldehyde-fixation-for-flow-cytometry
 Tags: histology,rna,fixation,molecular biology
 
 Alternative fixation procedure for FACS fixation, using formaldehyde fixatice.
@@ -37,4 +37,8 @@ Permeabilize cells with 0.1% TritonX-100 in PBS for 15min
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://sciencetechblog.com/flow-cytometry-users-guide/).
 

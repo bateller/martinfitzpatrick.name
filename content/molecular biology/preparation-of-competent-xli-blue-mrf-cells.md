@@ -2,7 +2,7 @@ Date: 2011-10-29 07:10
 Author: Gordon W. Laurie
 Email: 
 Title: Preparation of Competent XLI-Blue MRF’ Cells
-Slug: methods/1386/preparation-of-competent-xli-blue-mrf-cells
+Slug: preparation-of-competent-xli-blue-mrf-cells
 Tags: molecular biology,competent,mrf,xli-blue,cell biology
 
 Preparation of Competent XLI-Blue MRF’ Cells (ref. p. 1.76 of Maniatis)
@@ -84,4 +84,8 @@ Tom Maniatis [Molecular cloning: A laboratory manual](http://www.amazon.com/gp/s
 [9780879691363](http://www.amazon.com/gp/search/ref=sr_adv_b/?field-isbn=9780879691363&amp;_encoding=UTF8&amp;tag=mutadsman-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](978-0879691363).
 

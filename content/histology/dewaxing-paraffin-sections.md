@@ -2,7 +2,7 @@ Date: 2012-02-20 09:02
 Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Dewaxing Paraffin Sections
-Slug: methods/1452/dewaxing-paraffin-sections
+Slug: dewaxing-paraffin-sections
 Tags: histology,dewaxing,paraffin section,xylene
 
 Dewaxing Paraffin Sections Sections must be free of wax to allow aqueous solutions to penetrate.
@@ -30,4 +30,8 @@ Water wash.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://web.qbi.uq.edu.au/microscopy/?page_id=541).
 

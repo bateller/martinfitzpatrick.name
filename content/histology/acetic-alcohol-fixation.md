@@ -2,7 +2,7 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Acetic alcohol fixation
-Slug: methods/25/acetic-alcohol-fixation
+Slug: acetic-alcohol-fixation
 Tags: histology,fixation,cytofix,fixative
 
 Fixative for smears, cytospin preparations and frozen sections
@@ -28,4 +28,8 @@ Rinse section in distilled water prior to staining
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.bristol.ac.uk/vetpath/cpl/histfix.htm).
 

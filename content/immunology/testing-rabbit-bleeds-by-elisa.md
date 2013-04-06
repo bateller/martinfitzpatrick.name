@@ -2,7 +2,7 @@ Date: 2012-05-17 09:05
 Author: Timothy Mitchison
 Email: timothy_mitchison@hms.harvard.edu
 Title: Testing Rabbit Bleeds By ELISA
-Slug: methods/1510/testing-rabbit-bleeds-by-elisa
+Slug: testing-rabbit-bleeds-by-elisa
 Tags: elisa,immunology,peptide,bsa,rabbit bleeds
 
 You can test whether or not you have gotten an immune response to the peptide and how strong that immune response is by doing ELISAs against peptide conjugated to BSA. By conjugating to BSA, you will eliminate any signal for antibodies generated to KLH during immunization. 
@@ -77,4 +77,8 @@ Read A410 in ELISA reader.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://mitchison.med.harvard.edu/protocols/ab2.html).
 

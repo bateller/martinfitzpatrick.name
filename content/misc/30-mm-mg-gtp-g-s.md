@@ -2,7 +2,7 @@ Date: 2011-10-11 12:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 30 mM Mg GTP-g-S
-Slug: methods/1364/30-mm-mg-gtp-g-s
+Slug: 30-mm-mg-gtp-g-s
 Tags: gtp
 
 30 mM Mg GTP-g-S
@@ -39,4 +39,8 @@ Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.o
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](doi:10.1002/0471143030.cb1301s00).
 

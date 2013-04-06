@@ -2,7 +2,7 @@ Date: 2012-03-07 09:03
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: X-gal overlay assay for Yeast plates
-Slug: methods/1463/x-gal-overlay-assay-for-yeast-plates
+Slug: x-gal-overlay-assay-for-yeast-plates
 Tags: yeast,xgal,overlay-assay
 
 X-gal overlay assay for Yeast plates
@@ -56,4 +56,8 @@ Colonies may be picked through the top agar for a few days later and grown if ap
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/x-gal_overlay_assay_for_yeast_plates.htm).
 

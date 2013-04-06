@@ -2,7 +2,7 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Differentiation to M1/M2 macrophages GM-CSF/M-CSF
-Slug: methods/12/differentiation-to-m1m2-macrophages-gm-csfm-csf
+Slug: differentiation-to-m1m2-macrophages-gm-csfm-csf
 Tags: cell culture,differentiation,monocyte,cd14,macrophage,m1,m2,cell biology
 
 GM-CSF/M-CSF differentiation of CD14+ PBMCs to M1/M2 macrophage subsets.
@@ -59,4 +59,8 @@ A. J. Fleetwood, H. Dinh, A. D. Cook, P. J Hertzog, J. A. Hamilton [GM-CSF- and 
 [10.1189/jlb.1108702 ](http://dx.doi.org/10.1189/jlb.1108702 )
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](doi:10.1189/jlb.1108702 ).
 

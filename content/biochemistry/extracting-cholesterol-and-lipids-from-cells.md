@@ -2,7 +2,7 @@ Date: 2011-10-10 10:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Extracting cholesterol and lipids from cells
-Slug: methods/1336/extracting-cholesterol-and-lipids-from-cells
+Slug: extracting-cholesterol-and-lipids-from-cells
 Tags: extraction,lipid,cholesterol,biochemistry
 
 This a general method that may not work for all cell/tissue samples - tweak the solvent volumes per quantity of cells, centrifugation time and sonication may be applied for samples that are difficult to disrupt.  For chloroform - handle under a chemical safety hood.
@@ -40,4 +40,8 @@ FOLCH J, LEES M, SLOANE STANLEY GH [A simple method for the isolation and purifi
 [pmid:13428781](http://www.ncbi.nlm.nih.gov/pubmed/13428781)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](pmid:13428781).
 

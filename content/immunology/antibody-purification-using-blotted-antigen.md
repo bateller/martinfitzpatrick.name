@@ -2,7 +2,7 @@ Date: 2012-02-05 03:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Antibody Purification using Blotted Antigen
-Slug: methods/1420/antibody-purification-using-blotted-antigen
+Slug: antibody-purification-using-blotted-antigen
 Tags: antibody,purification,antigen,blot,immunology
 
 Antibody Purification using Blotted Antigen
@@ -50,4 +50,8 @@ Dialyze the antibody in 1XPBS. Lyophilize the Antibody and resuspend in 50% glyc
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/antibody_purification.htm).
 

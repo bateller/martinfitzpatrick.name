@@ -2,7 +2,7 @@ Date: 2011-07-15 09:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Zenker&#39;s fluid fixation
-Slug: methods/33/zenkers-fluid-fixation
+Slug: zenkers-fluid-fixation
 Tags: histology,fixation
 
 Fixation with Zenker's fluid
@@ -44,4 +44,8 @@ Following fixation wash samples overnight in running tap water prior to processi
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.bristol.ac.uk/vetpath/cpl/histfix.htm).
 

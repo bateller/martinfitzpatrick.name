@@ -2,7 +2,7 @@ Date: 2011-07-25 07:07
 Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: Retrovirus titration
-Slug: methods/43/retrovirus-titration
+Slug: retrovirus-titration
 Tags: virus,rna,titer,infection assay,titration,molecular biology,retrovirus,microbiology
 
 Titration of retrovirus lines.
@@ -73,4 +73,8 @@ To avoid counting colonies down the microscope remove media and let the plate dr
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://methodbook.net/virus/titratn.html).
 

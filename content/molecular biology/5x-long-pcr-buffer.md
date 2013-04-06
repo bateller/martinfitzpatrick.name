@@ -2,7 +2,7 @@ Date: 2012-02-05 03:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: 5X Long PCR Buffer
-Slug: methods/1419/5x-long-pcr-buffer
+Slug: 5x-long-pcr-buffer
 Tags: buffer,pcr,molecular biology,media &amp; solutions
 
 5X Long PCR Buffer (store in 1ml aliquots in -20C).
@@ -38,4 +38,8 @@ Store in 1ml aliquots at -20'C until required.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://arep.med.harvard.edu/labgc/estep/longPCR_protocol.html).
 

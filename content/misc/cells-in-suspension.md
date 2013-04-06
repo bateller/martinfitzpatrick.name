@@ -2,7 +2,7 @@ Date: 2011-07-20 10:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Cells in suspension
-Slug: methods/39/cells-in-suspension
+Slug: cells-in-suspension
 Tags: 
 
 DAPI counterstain of cells in suspension, e.g. for FACS analysis
@@ -40,6 +40,8 @@ Analyze cells as required:
 For *flow cytometry* leave cells in DAPI solution.
 
 For *fluorescence microscopy* pellet cells by centrifugation, remove supernatant and resuspend in PBS. Add a drop of cells to a slide and cover with coverslip.
+
+
 
 
 

@@ -2,7 +2,7 @@ Date: 2012-02-20 08:02
 Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Animal Trans-cardial Perfusion Technique
-Slug: methods/1445/animal-trans-cardial-perfusion-technique
+Slug: animal-trans-cardial-perfusion-technique
 Tags: perfusion,transcardial,imaging
 
 Animal Trans-cardial Perfusion Technique
@@ -77,4 +77,8 @@ Dissect out the brain and post fix for 24 hr (this may vary depending on the sen
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://web.qbi.uq.edu.au/microscopy/?page_id=454).
 

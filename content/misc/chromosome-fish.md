@@ -2,7 +2,7 @@ Date: 2011-07-20 11:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Chromosome FISH
-Slug: methods/40/chromosome-fish
+Slug: chromosome-fish
 Tags: 
 
 DAPI counterstain for chromosome FISH analysis
@@ -40,6 +40,8 @@ Blot edge of slide with tissue to remove excess water/solution from the side
 
 
 Mount slide with appropriate slide mountant, nail polish or wax.
+
+
 
 
 

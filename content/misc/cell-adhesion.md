@@ -2,7 +2,7 @@ Date: 2011-10-16 05:10
 Author: Gordon W. Laurie
 Email: 
 Title: Cell Adhesion
-Slug: methods/1371/cell-adhesion
+Slug: cell-adhesion
 Tags: cell,adhesion
 
 Cell Adhesion assay protocol from the Laurie Lab
@@ -90,4 +90,8 @@ With multipipetter, add 50 µl/well of 0.5% Triton X-100 (diluted in ddH2O).  Al
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://people.virginia.edu/~gwl6s/home.html/Methods/Cell.html).
 

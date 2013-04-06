@@ -2,7 +2,7 @@ Date: 2012-02-05 11:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: C. elegans Single Worm PCR
-Slug: methods/1437/c-elegans-single-worm-pcr
+Slug: c-elegans-single-worm-pcr
 Tags: pcr,molecular biology,c.elegans,model organisms,worm
 
 Single Worm PCR for use with C. elegans
@@ -70,4 +70,8 @@ Williams BD, Schrank B, Huynh C, Shownkeen R, Waterston RH [A genetic mapping sy
 [pmid:1321065](http://www.ncbi.nlm.nih.gov/pubmed/1321065)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](pmid:1321065).
 

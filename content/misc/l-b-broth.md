@@ -2,7 +2,7 @@ Date: 2011-10-11 12:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: L B Broth
-Slug: methods/1369/l-b-broth
+Slug: l-b-broth
 Tags: media,culture,broth,lb,media &amp; solutions
 
 L B Broth
@@ -36,4 +36,8 @@ Once cooled below 55C add antibiotic of choice and store at 4C. Use within 2 wee
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.bio.unc.edu/faculty/salmon/lab/protocolscommonbuffers.html).
 

@@ -2,7 +2,7 @@ Date: 2011-10-10 11:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Homogenization Buffer
-Slug: methods/1347/homogenization-buffer
+Slug: homogenization-buffer
 Tags: buffer,pmsf,media &amp; solutions
 
 Homogenization Buffer
@@ -35,4 +35,8 @@ Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.o
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](doi:10.1002/0471143030.cb1301s00).
 

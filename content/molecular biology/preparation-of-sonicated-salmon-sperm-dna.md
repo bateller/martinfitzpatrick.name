@@ -2,7 +2,7 @@ Date: 2011-10-29 12:10
 Author: Gordon W. Laurie
 Email: 
 Title: Preparation of Sonicated Salmon Sperm DNA
-Slug: methods/1385/preparation-of-sonicated-salmon-sperm-dna
+Slug: preparation-of-sonicated-salmon-sperm-dna
 Tags: dna,molecular biology,sperm
 
 Preparation of Sonicated Salmon Sperm DNA
@@ -64,4 +64,8 @@ Determine OD260 of a diluted aliquot to check concentration (1 OD260 = 50 µg DN
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://people.virginia.edu/~gwl6s/home.html/Methods/Salmon.html).
 

@@ -2,7 +2,7 @@ Date: 2011-10-16 05:10
 Author: Gordon W. Laurie
 Email: 
 Title: Lacritin IP3 Assay
-Slug: methods/1372/lacritin-ip3-assay
+Slug: lacritin-ip3-assay
 Tags: assay,lacritin,ip3
 
 Lacritin IP3 Assay based on Webb et al. (Eur. J. Biochem. 234:714-722,1995)
@@ -54,4 +54,8 @@ Donna J. Webb, Isa M. Hussaini, Alissa M. Weaver, Tara L. Atkins, Charleen T. Ch
 [10.1111/j.1432-1033.1995.714_a.x](http://dx.doi.org/10.1111/j.1432-1033.1995.714_a.x)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](10.1111/j.1432-1033.1995.714_a.x).
 

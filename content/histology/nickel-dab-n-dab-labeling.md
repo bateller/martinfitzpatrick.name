@@ -2,7 +2,7 @@ Date: 2012-02-26 12:02
 Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Nickel DAB (N-DAB) Labeling
-Slug: methods/1459/nickel-dab-n-dab-labeling
+Slug: nickel-dab-n-dab-labeling
 Tags: histology,immunohistochemistry,n-dab,nickel-dab,dab
 
 Nickel DAB (N-DAB) Labeling for sections
@@ -76,4 +76,8 @@ Decontaminate any DAB affected surfaces and glassware with bleach and dispose of
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://web.qbi.uq.edu.au/microscopy/?page_id=518).
 

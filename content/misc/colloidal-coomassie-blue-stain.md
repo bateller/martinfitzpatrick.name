@@ -2,7 +2,7 @@ Date: 2012-02-05 11:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Colloidal Coomassie Blue Stain
-Slug: methods/1436/colloidal-coomassie-blue-stain
+Slug: colloidal-coomassie-blue-stain
 Tags: gel electrophoresis,sds-page,coomassie,sds
 
 Colloidal Coomassie Blue Stain for SDS-PAGE gel
@@ -38,4 +38,8 @@ Neumann U, Khalaf H, Rimpler M [Quantitation of electrophoretically separated pr
 [pmid:7529171](http://www.ncbi.nlm.nih.gov/pubmed/7529171)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](pmid:7529171).
 

@@ -2,7 +2,7 @@ Date: 2012-02-05 03:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: C. Elegans Embryo Staining
-Slug: methods/1422/c-elegans-embryo-staining
+Slug: c-elegans-embryo-staining
 Tags: histology,immunofluorescence,c.elegans,model organisms,embryo
 
 Staining protocol for C. Elegans embryos.
@@ -94,4 +94,8 @@ Put 5-10ul on a slide to visualize under the microscope.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/antibody_staining.htm).
 

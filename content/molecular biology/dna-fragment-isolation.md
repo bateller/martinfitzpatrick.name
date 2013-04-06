@@ -2,7 +2,7 @@ Date: 2011-10-17 07:10
 Author: Ivan Delgado
 Email: ivanjdo@gmail.com
 Title: DNA fragment isolation
-Slug: methods/1377/dna-fragment-isolation
+Slug: dna-fragment-isolation
 Tags: dna,molecular biology,low melting agarose,tbe buffer,chloroform,phenol
 
 Isolate a DNA fragment from Low Melting agarose
@@ -68,4 +68,8 @@ Precipitate DNA (upper phase) with 0.8X Vol of 2-propanol, 0.1X Vol of 3M NaOAc,
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://ivaan.com/protocols/108.html).
 

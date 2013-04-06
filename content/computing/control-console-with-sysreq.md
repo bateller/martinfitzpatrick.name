@@ -2,7 +2,7 @@ Date: 2011-12-28 01:12
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Control Console with SysReq
-Slug: methods/1522/control-console-with-sysreq
+Slug: control-console-with-sysreq
 Tags: cli,linux,sysreq,console,computing
 
 System request (often abbreviated SysRq or Sys Req) is a key on keyboards for PCs that has no standard use. This key can be traced back to the operator interrupt key of the IBM System/370 mainframe computer. But under Linux there's a bunch of useful things available via this key.
@@ -31,6 +31,8 @@ Press `Alt-Sysreq` followed by one of the following letters:
 |b|Reboot: immediately reboots the system without syncing or unmounting disks. Not a good idea unless in extremis! This may lead to data loss.|
 |p|Dumps current registers and flags to the console.|
 |m|Dumps current memory info to the console.|
+
+
 
 
 

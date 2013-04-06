@@ -2,7 +2,7 @@ Date: 2012-02-23 06:02
 Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Haemotoxylin and Eosin Staining
-Slug: methods/1457/haemotoxylin-and-eosin-staining
+Slug: haemotoxylin-and-eosin-staining
 Tags: histology,staining,eosin,haemotoxylin
 
 Haemotoxylin and eosin stain is used to stain cell nuclei blue and the cytoplasm pink/red to aid visualization of tissue structure and morphology.
@@ -67,4 +67,8 @@ Rapidly dehydrate the sections through graded ethanol clear in xylene and mount 
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://web.qbi.uq.edu.au/microscopy/?page_id=520).
 

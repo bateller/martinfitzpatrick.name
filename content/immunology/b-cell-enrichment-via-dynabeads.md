@@ -2,7 +2,7 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: B cell enrichment via Dynabeads
-Slug: methods/9/b-cell-enrichment-via-dynabeads
+Slug: b-cell-enrichment-via-dynabeads
 Tags: b cell,blood,pbmc,enrichment,dynabeads,immunology
 
 B cell enrichment using Invitrogen Dynabeads magnetic separation
@@ -62,6 +62,8 @@ Agitate at room temperature for 45 minutes; e.g. roller.
 Resuspend in 4mls RPMI + 1% FCS. Place tube into magnet for selection.
 
 Wait for 4 minutes, then remove supernatant to fresh tube (B cells). Repeat x3
+
+
 
 
 

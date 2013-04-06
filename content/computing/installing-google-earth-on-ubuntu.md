@@ -2,7 +2,7 @@ Date: 2012-01-21 09:01
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Installing Google Earth on Ubuntu
-Slug: methods/1527/installing-google-earth-on-ubuntu
+Slug: installing-google-earth-on-ubuntu
 Tags: linux,ubuntu,google-earth,google,computing
 
 Install the latest version of Google Earth for linux direct from Google sources.
@@ -45,6 +45,8 @@ Next install the downloaded `.deb` package:
 
 
 You should now have a fully functional Google Earth!
+
+
 
 
 

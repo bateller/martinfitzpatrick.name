@@ -2,7 +2,7 @@ Date: 2011-08-21 02:08
 Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: DNA extraction from agarose gels (Paper-strip)
-Slug: methods/121/dna-extraction-from-agarose-gels-paper-strip
+Slug: dna-extraction-from-agarose-gels-paper-strip
 Tags: dna,molecular biology,extraction,agarose,gel
 
 Paper strip method for DNA extraction from agarose gels
@@ -54,4 +54,8 @@ Phenol/chloroform extract and ethanol precipitate the DNA. Re-dissolve the DNA p
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://methodbook.net/dna/gelextrc.html).
 

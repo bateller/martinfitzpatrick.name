@@ -2,7 +2,7 @@ Date: 2011-10-11 12:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 100 mM Sodium orthovanadate
-Slug: methods/1366/100-mm-sodium-orthovanadate
+Slug: 100-mm-sodium-orthovanadate
 Tags: orthovanadate,sodium
 
 100 mM Sodium orthovanadate
@@ -48,4 +48,8 @@ Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.o
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](doi:10.1002/0471143030.cb1301s00).
 

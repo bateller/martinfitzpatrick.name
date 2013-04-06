@@ -2,7 +2,7 @@ Date: 2012-03-16 10:03
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Email to SMS gateways for notifications
-Slug: methods/1538/using-email-to-sms-gateways-to-send-free-sms
+Slug: using-email-to-sms-gateways-to-send-free-sms
 Tags: mobile,computing
 
 Many mobile telephone companies provide allow sending of SMS messages to handsets by email, although most do not publicise this capability. Any email sent to these specially formatted email addresses are forwarded directly to your mobile device. In effect this service gives you free SMS messaging from PC to mobile phone.
@@ -182,6 +182,8 @@ If it is not working, try contacting your provider to see if there are any addit
 
 
 >If you receive updated information from the provider please drop a note in the comments below and we'll update our listing.
+
+
 
 
 

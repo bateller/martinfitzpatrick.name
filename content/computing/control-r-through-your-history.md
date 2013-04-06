@@ -2,7 +2,7 @@ Date: 2011-10-22 03:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Control-R Through Your History
-Slug: methods/1491/control-r-through-your-history
+Slug: control-r-through-your-history
 Tags: mac,bash,cli,linux,computing
 
 Interactively search through your command line history with a simple keyboard shortcut.
@@ -32,4 +32,8 @@ Hit `Return` to accept the search and execute the matching command or `Esc` to c
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://hacktux.com/bash/fast/cli).
 

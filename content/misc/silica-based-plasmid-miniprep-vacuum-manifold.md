@@ -2,7 +2,7 @@ Date: 2012-02-05 05:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Silica-based Plasmid Miniprep (vacuum manifold)
-Slug: methods/1426/silica-based-plasmid-miniprep-vacuum-manifold
+Slug: silica-based-plasmid-miniprep-vacuum-manifold
 Tags: miniprep,plasmid,silica,vacuum
 
 Silica-based Plasmid Miniprep (vacuum manifold version)
@@ -62,4 +62,8 @@ J BROWN [A rapid, non-toxic protocol for sequence-ready plasmid DNA](http://dx.d
 [10.1016/S1366-2120(08)70079-5](http://dx.doi.org/10.1016/S1366-2120(08)70079-5)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](doi:10.1016/S1366-2120(08)70079-5).
 

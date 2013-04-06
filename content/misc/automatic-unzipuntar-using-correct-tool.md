@@ -2,7 +2,7 @@ Date: 2011-11-06 07:11
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Automatic unzip/untar using correct tool
-Slug: methods/1504/automatic-unzipuntar-using-correct-tool
+Slug: automatic-unzipuntar-using-correct-tool
 Tags: unzip,tar,uncompress
 
 An alias for bash profile to automatically unzip/untar compressed files using the correct tool, without needing to know the syntax.
@@ -46,4 +46,8 @@ From the prompt compress any file with `extract <filename>`
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://unix.stackexchange.com/a/168).
 

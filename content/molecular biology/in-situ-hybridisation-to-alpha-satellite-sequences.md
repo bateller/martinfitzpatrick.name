@@ -2,7 +2,7 @@ Date: 2011-07-25 06:07
 Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: In situ hybridisation to alpha satellite sequences
-Slug: methods/42/in-situ-hybridisation-to-alpha-satellite-sequences
+Slug: in-situ-hybridisation-to-alpha-satellite-sequences
 Tags: dna,in situ hybridisation,ish,molecular biology
 
 In this protocol a biotin or digoxigenin labelled DNA probe is detected using HRP-conjugated antibodies. The signal is visualised with diaminobenzidine (DAB). Normal, healthy nuclei show two spots. Aneusomic nuclei show 1, 3, 4 or more spots.
@@ -126,4 +126,8 @@ Rinse in tap water, stain the nuclei using haematoxylin, de-hydrate through the 
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://methodbook.net/probes/insitu.html).
 

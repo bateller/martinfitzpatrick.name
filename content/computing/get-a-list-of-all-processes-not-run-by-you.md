@@ -2,7 +2,7 @@ Date: 2011-11-29 09:11
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Get a list of all processes not run by you
-Slug: methods/1518/get-a-list-of-all-processes-not-run-by-you
+Slug: get-a-list-of-all-processes-not-run-by-you
 Tags: linux,processes,user,cpu,computing
 
 Find the currently running processes on your system that were not started by yourself. A great way to find out what is hogging your system on multiple-user setups or remote logins.
@@ -33,6 +33,8 @@ You can tweak this to show (for example) the only the top 10 processes by cpu ut
 
 
 >`grep -m 11` stops searching after 11 matches (10th line) while `ps --sort=-%cpu` sorts on the cpu utilisation column (-) descending.
+
+
 
 
 

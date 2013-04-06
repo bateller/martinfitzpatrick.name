@@ -2,7 +2,7 @@ Date: 2011-10-10 11:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 1 M KCl Stock
-Slug: methods/1356/1-m-kcl-stock
+Slug: 1-m-kcl-stock
 Tags: kcl,media &amp; solutions
 
 1 M KCl Stock
@@ -32,4 +32,8 @@ Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.o
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](doi:10.1002/0471143030.cb1301s00).
 

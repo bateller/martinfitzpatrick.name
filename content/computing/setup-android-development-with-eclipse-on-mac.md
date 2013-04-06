@@ -2,7 +2,7 @@ Date: 2011-09-22 09:09
 Author: Cael Kay-Jackson
 Email: caelkayjackson@googlemail.com
 Title: Setup Android Development with Eclipse on Mac
-Slug: methods/1470/setup-android-development-with-eclipse-on-mac
+Slug: setup-android-development-with-eclipse-on-mac
 Tags: osx-lion,android,mac,mobile,computing
 
 Install and setup the tools necessary for Android development with Eclipse on Mac OS X (Lion)
@@ -64,6 +64,8 @@ Ensure the *ADT Plugin* is listed in the *Work with* drop-down and once the soft
 
 
 Restart Eclipse and you are ready to produce your Android apps.
+
+
 
 
 

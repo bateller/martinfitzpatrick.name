@@ -2,7 +2,7 @@ Date: 2012-03-21 03:03
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Silica Suspension for plasmid recovery
-Slug: methods/1469/silica-suspension-for-plasmid-recovery
+Slug: silica-suspension-for-plasmid-recovery
 Tags: plasmid,silica,slurry
 
 Silica Suspension for plasmid recovery
@@ -36,4 +36,8 @@ Estimate volume and resuspend silica in 2 vols 6M Guanidine Hydrochloride-1M KOA
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/zymolase_plasmid_recovery_from_yeast.htm).
 

@@ -2,7 +2,7 @@ Date: 2012-02-05 10:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Colloidal Coomassie Blue Solution
-Slug: methods/1435/colloidal-coomassie-blue-solution
+Slug: colloidal-coomassie-blue-solution
 Tags: sds-page,coomassie,solution
 
 Homemade Colloidal Coomassie Blue Staining
@@ -44,4 +44,8 @@ Store at room temperature with a tightly sealed lid.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/new_page_8.htm).
 

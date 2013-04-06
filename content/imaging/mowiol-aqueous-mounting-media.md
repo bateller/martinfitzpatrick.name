@@ -2,7 +2,7 @@ Date: 2012-02-20 09:02
 Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Mowiol (Aqueous mounting media)
-Slug: methods/1453/mowiol-aqueous-mounting-media
+Slug: mowiol-aqueous-mounting-media
 Tags: fluorescence,microscopy,media,mounting,aqueous,mowiol,stereology,imaging,media &amp; solutions
 
 Aqueous mounting medium for fluorescence and Stereology. Recommended Anti-Fade for fluorescence microscopy – especially good for EGFP and other low expression reporting molecules.
@@ -60,4 +60,8 @@ Store at -20ºC for 12 months – store at room temperature no more than one mon
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://web.qbi.uq.edu.au/microscopy/?page_id=547).
 

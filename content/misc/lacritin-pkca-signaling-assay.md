@@ -2,7 +2,7 @@ Date: 2011-10-29 12:10
 Author: Gordon W. Laurie
 Email: 
 Title: Lacritin PKCa Signaling Assay
-Slug: methods/1381/lacritin-pkca-signaling-assay
+Slug: lacritin-pkca-signaling-assay
 Tags: assay,signalling,lacritin,pkca
 
 Lacritin PKCa Signaling Assay
@@ -52,4 +52,8 @@ After washing, bound antibodies were detected with peroxidase-labeled secondary 
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://people.virginia.edu/~gwl6s/home.html/Methods/PKC.html).
 

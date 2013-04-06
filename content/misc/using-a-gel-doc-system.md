@@ -2,7 +2,7 @@ Date: 2012-03-12 03:03
 Author: Paul Barber
 Email: paulbarber@ucla.edu
 Title: Using a Gel Doc system
-Slug: methods/1466/using-a-gel-doc-system
+Slug: using-a-gel-doc-system
 Tags: gel,uv,geldoc
 
 Using a Gel Doc system for imaging gels via UV
@@ -60,4 +60,8 @@ Cut photo from roll paper. Hit the roll paper button on the printer for paper to
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.eeb.ucla.edu/Faculty/Barber/Web%20Protocols/Gel%20Documentation%20System.pdf).
 

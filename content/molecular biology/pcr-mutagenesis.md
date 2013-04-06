@@ -2,7 +2,7 @@ Date: 2011-07-25 08:07
 Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: PCR mutagenesis
-Slug: methods/46/pcr-mutagenesis
+Slug: pcr-mutagenesis
 Tags: dna,pcr,mutagenesis,site-directed,molecular biology
 
 PCR mutagenesis is a method for generating site-directed mutagenesis. This method can generate mutations (base substitutions, insertions, and deletions) from double-stranded plasmid without the need for subcloning into M13-based bacteriophage vectors and for ssDNA rescue. 
@@ -103,4 +103,8 @@ Miniprep some colonies, check that they are the expected size and screen 2 of th
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://methodbook.net/pcr/pcrmut.html).
 

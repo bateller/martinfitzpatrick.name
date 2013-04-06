@@ -2,7 +2,7 @@ Date: 2007-04-06 22:44
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Migrating Email Accounts in Outlook 2003
-Slug: mu/migrating-email-accounts-in-outlook-2003
+Slug: migrating-email-accounts-in-outlook-2003
 Tags: office,microsoft,migration
 
 Ever find yourself wanting to copy emails from one Outlook account to another? Say maybe someone moves on to another job and you want to keep a record of what's been done, or your company is reorganised and departmental emails need to be seperated up. If you've ever tried to do this in Outlook 2003 you'll have been banging your head against a wall trying to figure it out. It may be that newer version of Office provide this function automatically (I don't know, I use [OO.org][1]) but many offices do not upgrade to the latest Office software regularly. For that reason, here's a step by step guide to save you half an hour of your life. 

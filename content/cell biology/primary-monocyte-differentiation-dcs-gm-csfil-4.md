@@ -2,7 +2,7 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Primary monocyte differentiation DCs, GM-CSF/IL-4
-Slug: methods/13/primary-monocyte-differentiation-dcs-gm-csfil-4
+Slug: primary-monocyte-differentiation-dcs-gm-csfil-4
 Tags: cell culture,differentiation,dendritic cell,cd14,dc,monocytes,cell biology
 
 Primary monocyte differentiation to DCs with GM-CSF and IL-4
@@ -43,6 +43,8 @@ Replace 2ml media by tilting plate carefully, and removing supernatant at edge. 
 
 
 Cells should have fully differentiated. Replace 2ml media again for experiment.
+
+
 
 
 

@@ -2,7 +2,7 @@ Date: 2012-02-20 08:02
 Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Immunohistochemistry with TSA
-Slug: methods/1448/immunohistochemistry-with-tsa
+Slug: immunohistochemistry-with-tsa
 Tags: histology,immunohistochemistry,perkin elmer,tsa
 
 Immunohistochemistry with Tyramide Signal Amplification (TSA) using Perkin Elmer kit & Protocol for Vibratome Sections
@@ -93,4 +93,8 @@ Coverslip using ProlongGold (Invitrogen).  Let mounting media set for 1hr at RT 
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://web.qbi.uq.edu.au/microscopy/?page_id=485).
 

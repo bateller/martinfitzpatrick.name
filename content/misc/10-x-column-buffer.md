@@ -2,7 +2,7 @@ Date: 2011-10-10 10:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 10 x Column Buffer
-Slug: methods/1346/10-x-column-buffer
+Slug: 10-x-column-buffer
 Tags: buffer,pipes,egta,media &amp; solutions
 
 10 x Column Buffer
@@ -43,4 +43,8 @@ Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.o
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](10.1002/0471143030.cb1301s00).
 

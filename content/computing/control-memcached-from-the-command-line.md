@@ -2,7 +2,7 @@ Date: 2012-02-05 05:02
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Control memcached from the command line
-Slug: methods/1536/control-memcached-from-the-command-line
+Slug: control-memcached-from-the-command-line
 Tags: unix,webdevelopment,memcached,computing
 
 memcached is a general-purpose distributed memory caching system originally developed by Danga Interactive for LiveJournal but now used by many other sites. It is often used to speed up dynamic database-driven websites by caching data and objects in RAM to reduce the number of times an external data source (such as a database or API) must be read. Here we describe the options available from the command line to control a memcached instance via unix socket or IP:port.
@@ -97,4 +97,8 @@ Will output a list of stats for the current instance. Additional information can
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://community.webfaction.com/questions/7275/how-to-communicate-with-memcached-socket-via-shell).
 

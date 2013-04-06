@@ -2,7 +2,7 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: HL-60 differentiation to neutrophils/monocytes
-Slug: methods/11/hl-60-differentiation-to-neutrophilsmonocytes
+Slug: hl-60-differentiation-to-neutrophilsmonocytes
 Tags: differentiation,monocyte,hl-60,neutrophil,cell biology
 
 Differentiation of HL-60 to neutrophil or monocyte-like cells by Vitamin A (ATRA) and Vitamin D (1a,25(OH)2D3)
@@ -39,6 +39,8 @@ First signs of differentiation will appear day 3
 
 
 Complete differentiation should be apparent day 5
+
+
 
 
 

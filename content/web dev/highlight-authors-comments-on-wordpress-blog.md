@@ -2,7 +2,7 @@ Date: 2012-01-26 12:01
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Highlight author&#39;s comments on WordPress blog
-Slug: methods/1532/highlight-authors-comments-on-wordpress-blog
+Slug: highlight-authors-comments-on-wordpress-blog
 Tags: web dev,wordpress,php,computing
 
 A simple trick to make comments form the original post author stand out a bit more in the comment listing - useful for seeing replies to comments.
@@ -42,4 +42,8 @@ And replace it with:
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.mattcutts.com/blog/highlight-author-comments-wordpress/).
 

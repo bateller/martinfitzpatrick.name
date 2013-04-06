@@ -2,7 +2,7 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Preparation for microdissection (Paraffin/Frozen)
-Slug: methods/22/preparation-for-microdissection-paraffinfrozen
+Slug: preparation-for-microdissection-paraffinfrozen
 Tags: histology,dna,microdissection,protein,molecular biology,biochemistry
 
 Basic protocol for Eosin & Haematoxylin histological preparation of microdissection slide.
@@ -60,6 +60,8 @@ Shake and air dry to remove layer of glycerol and water
 
 
 Microdissection is best performed in the following 5-10 minutes following preparation. If if tissue dries return tissue to 3% glycerol/water; step #10
+
+
 
 
 

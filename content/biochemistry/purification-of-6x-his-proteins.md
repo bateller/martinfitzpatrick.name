@@ -2,7 +2,7 @@ Date: 2012-02-18 03:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Purification of 6X HIS Proteins
-Slug: methods/1444/purification-of-6x-his-proteins
+Slug: purification-of-6x-his-proteins
 Tags: purification,protein,polyhistidine,his,biochemistry
 
 Purification of 6XHIS proteins with cell extraction buffer
@@ -63,4 +63,8 @@ Elute with low pH elution buffer (1ml each elution).  Elute 5 X.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/purification_of_6x_his_proteins.htm).
 

@@ -2,7 +2,7 @@ Date: 2011-09-28 01:09
 Author: Cael Kay-Jackson
 Email: caelkayjackson@googlemail.com
 Title: Show Warning in Prompt when Shell Loses Directory
-Slug: methods/1471/show-warning-in-prompt-when-shell-loses-directory
+Slug: show-warning-in-prompt-when-shell-loses-directory
 Tags: mac,terminal,prompt,bash,pwd,cli,computing
 
 Show a warning in the Terminal's prompt when the current working directory is no longer where the shell expects it to be. (e.g. it was deleted or replaced by a new, different directory with the same name by some other app).
@@ -82,6 +82,8 @@ Go back to Finder and recreate the `foo` folder.
 
 
 Switch back to the Terminal and again press enter. The prompt will display a different warning in red indicating that the working directory isn't what the shell thinks it is.
+
+
 
 
 

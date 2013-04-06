@@ -2,7 +2,7 @@ Date: 2011-10-29 12:10
 Author: Gordon W. Laurie
 Email: 
 Title: Tear Collection Method
-Slug: methods/1384/tear-collection-method
+Slug: tear-collection-method
 Tags: tear,lacrimal,collection
 
 Tear Collection Method; Scot Bower and Denise Sediq 4.13.09 developed from Jones 1997
@@ -48,4 +48,8 @@ Jones DT, Monroy D, Pflugfelder SC [A novel method of tear collection: compariso
 [pmid:9220244](http://www.ncbi.nlm.nih.gov/pubmed/9220244)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](pmid:9220244).
 

@@ -2,7 +2,7 @@ Date: 2011-10-16 07:10
 Author: Gordon W. Laurie
 Email: 
 Title: Immunostaining of Cells Adherent to Coverslips
-Slug: methods/1373/immunostaining-of-cells-adherent-to-coverslips
+Slug: immunostaining-of-cells-adherent-to-coverslips
 Tags: histology,immunostaining,staining
 
 Immunostaining of Cells Adherent to Coverslips
@@ -100,4 +100,8 @@ Place cover slip cell layer down on a glass slide containing a drop of mounting 
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://people.virginia.edu/~gwl6s/home.html/Methods/Immuno.html).
 

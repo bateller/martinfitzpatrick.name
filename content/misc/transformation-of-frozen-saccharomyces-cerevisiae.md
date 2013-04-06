@@ -2,7 +2,7 @@ Date: 2012-02-06 09:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Transformation of Frozen Saccharomyces cerevisiae
-Slug: methods/1440/transformation-of-frozen-saccharomyces-cerevisiae
+Slug: transformation-of-frozen-saccharomyces-cerevisiae
 Tags: competent,transformation,cerevisiae,ssdna,saccharomyces,scerevisiae
 
 Transformation of (Frozen) Competent Saccharomyces cerevisiae
@@ -66,4 +66,8 @@ Incubate plates in 30oCvroom for 2-4 days until colonies appear.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/yeast_transformation.htm).
 

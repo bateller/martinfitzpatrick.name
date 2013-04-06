@@ -2,7 +2,7 @@ Date: 2011-10-29 08:10
 Author: Gordon W. Laurie
 Email: 
 Title: Transformation of XLI-Blue MRF’ Competent Cells
-Slug: methods/1387/transformation-of-xli-blue-mrf-competent-cells
+Slug: transformation-of-xli-blue-mrf-competent-cells
 Tags: molecular biology,xli-blue,transformation,cell biology
 
 Transformation of XLI-Blue MRF’ Competent Cells
@@ -72,4 +72,8 @@ Pick colonies using grid plate method (LB-amp plate grid + Miniplasmid Prep.).
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](people.virginia.edu/~gwl6s/home.html/Methods/Excision.html).
 

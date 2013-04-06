@@ -2,7 +2,7 @@ Date: 2011-08-21 01:08
 Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: DNA extraction from agarose gels (Dialysis-tubing)
-Slug: methods/120/dna-extraction-from-agarose-gels-dialysis-tubing
+Slug: dna-extraction-from-agarose-gels-dialysis-tubing
 Tags: dna,molecular biology,dna extraction,agarose gel
 
 Dialysis tubing (semi-permeable membrane, Visking tubing)
@@ -50,4 +50,8 @@ Phenol/chloroform extract and ethanol precipitate the DNA. Re-dissolve the DNA p
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://methodbook.net/dna/gelextrc.html).
 

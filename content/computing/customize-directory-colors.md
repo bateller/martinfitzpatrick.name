@@ -2,7 +2,7 @@ Date: 2012-03-10 09:03
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Customize directory colors
-Slug: methods/1537/customize-directory-colors
+Slug: customize-directory-colors
 Tags: bash,cli,bashrc,colors,computing
 
 You can use the command ls --color (or an alias) to show directories with colours for folders, files, links, etc. However, you may not realise these colours can be easily configured using bashrc and a configuration file.
@@ -138,6 +138,8 @@ Here the codes are as follows:
     104 = light blue background
     105 = light purple background
     106 = turquoise background
+
+
 
 
 

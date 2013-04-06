@@ -2,7 +2,7 @@ Date: 2012-02-05 08:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Embryo 4D Micro (Zeiss Axioplan 2 Axiovision 4.5)
-Slug: methods/1434/embryo-4d-micro-zeiss-axioplan-2-axiovision-45
+Slug: embryo-4d-micro-zeiss-axioplan-2-axiovision-45
 Tags: model organisms,4d-microscopy,embryo,zeiss,imaging
 
 Embryo 4D Microscopy Using the Zeiss Axioplan 2 and Axiovision 4.5 Software
@@ -79,4 +79,8 @@ After the recording is done save your file. Make sure to return the objective le
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/4d_video_microscopy.htm).
 

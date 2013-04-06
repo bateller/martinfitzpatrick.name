@@ -2,7 +2,7 @@ Date: 2011-07-25 09:07
 Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: Organotypic raft culture of PHKs
-Slug: methods/49/organotypic-raft-culture-of-phks
+Slug: organotypic-raft-culture-of-phks
 Tags: raft,raft culture,culture,primary cells,human,keratinocytes
 
 Organotypic raft culture of primary human keratinocytes. 
@@ -70,4 +70,8 @@ After 8-14 days of growth/differentiation add in BrdU 8-12 hours before harvesti
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://methodbook.net/cellcult/rafting.html).
 

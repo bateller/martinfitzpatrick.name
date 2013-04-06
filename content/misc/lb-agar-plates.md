@@ -2,7 +2,7 @@ Date: 2012-03-12 01:03
 Author: Paul Barber
 Email: paulbarber@ucla.edu
 Title: LB Agar Plates
-Slug: methods/1465/lb-agar-plates
+Slug: lb-agar-plates
 Tags: lb,cloning,agar
 
 LB agar plates for cloning
@@ -103,4 +103,8 @@ Store plates in plastic bags in fridge with: name, date and contents
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.eeb.ucla.edu/Faculty/Barber/Web%20Protocols/LB%20Agar%20Plates.pdf).
 

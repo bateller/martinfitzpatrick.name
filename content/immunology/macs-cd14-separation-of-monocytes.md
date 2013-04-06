@@ -2,7 +2,7 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: MACS CD14+ Separation of monocytes
-Slug: methods/14/macs-cd14-separation-of-monocytes
+Slug: macs-cd14-separation-of-monocytes
 Tags: cd14,bead,macs,cell separation,immunology
 
 Isolation of CD14+ subset of monocytes by MACS magnetic bead isolation.
@@ -56,6 +56,8 @@ Remove column to collection tube. Add 5ml buffer wash through and plunger to col
 
 
 Count resulting cells and purity check by flow cytometry
+
+
 
 
 

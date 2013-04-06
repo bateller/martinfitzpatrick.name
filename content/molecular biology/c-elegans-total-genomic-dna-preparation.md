@@ -2,7 +2,7 @@ Date: 2012-02-05 06:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: C. elegans total genomic DNA preparation
-Slug: methods/1430/c-elegans-total-genomic-dna-preparation
+Slug: c-elegans-total-genomic-dna-preparation
 Tags: dna,molecular biology,c.elegans,model organisms,prep
 
 C. elegans total genomic DNA preparation
@@ -63,4 +63,8 @@ Dry (speed vac or air dry) and resuspend DNA in 50 ul TE for each tube and store
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/worm_genomic_dna_prep.htm).
 

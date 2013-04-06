@@ -2,7 +2,7 @@ Date: 2012-02-05 08:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Embryo 4D microscopy mounting
-Slug: methods/1433/embryo-4d-microscopy-mounting
+Slug: embryo-4d-microscopy-mounting
 Tags: microscopy,mounting,model organisms,4d-microscopy,embryo,slides,imaging
 
 Embryo 4D video Microscopy preparation of slides and embryos.
@@ -60,4 +60,8 @@ Duncan Ledwich, Yi-Chun Wu, Monica Driscoll, Ding Xue [Analysis of programmed ce
 [10.1016/S0076-6879(00)22009-0](http://dx.doi.org/10.1016/S0076-6879(00)22009-0)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/4d_video_microscopy.htm).
 

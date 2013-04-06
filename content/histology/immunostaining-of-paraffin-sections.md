@@ -2,7 +2,7 @@ Date: 2011-10-16 07:10
 Author: Gordon W. Laurie
 Email: 
 Title: Immunostaining of Paraffin Sections
-Slug: methods/1374/immunostaining-of-paraffin-sections
+Slug: immunostaining-of-paraffin-sections
 Tags: histology,sections,paraffin,immunostaining,staining
 
 Immunostaining of Paraffin Sections
@@ -116,4 +116,8 @@ Mount cover slips on the slides using Permount (Fisher) and examine in the light
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://people.virginia.edu/~gwl6s/home.html/Methods/Paraffin.html).
 

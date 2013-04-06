@@ -2,7 +2,7 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Silane/acetone silanized slides
-Slug: methods/15/silaneacetone-silanized-slides
+Slug: silaneacetone-silanized-slides
 Tags: histology,silane,tissue,sections,silanized,adhesive,polylysine,apes,coating,poly-l-lysine
 
 Silanized (3-aminopropyltriethoxysilane) slides to prevent sections from detaching.
@@ -36,6 +36,8 @@ Leave slides to air dry overnight at room temperature
 
 
 Slides may be kept indefinitely covered in slide box until ready for use
+
+
 
 
 

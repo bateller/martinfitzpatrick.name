@@ -2,7 +2,7 @@ Date: 2012-02-05 03:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: 2X Rapid Ligation Buffer
-Slug: methods/1418/2x-rapid-ligation-buffer
+Slug: 2x-rapid-ligation-buffer
 Tags: buffer,rapid ligation,media &amp; solutions
 
 2X Rapid Ligation Buffer (ProMega)
@@ -25,4 +25,8 @@ Combine ingredients in suitable container.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.promega.com/tbs/9pim822/9pim822.pdf).
 

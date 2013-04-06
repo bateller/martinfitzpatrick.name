@@ -2,7 +2,7 @@ Date: 2012-05-21 10:05
 Author: Timothy Mitchison
 Email: timothy_mitchison@hms.harvard.edu
 Title: Fixing/pelleting chromatin for immunofluorescence
-Slug: methods/1512/fixingpelleting-chromatin-for-immunofluorescence
+Slug: fixingpelleting-chromatin-for-immunofluorescence
 Tags: histology,fixation,immunofluorescence,chromatin,pellet
 
 Fixing and pelleting chromatin/nuclei from extracts onto coverslips for immunofluorescence.
@@ -70,4 +70,8 @@ Compare the fixed samples to nuclei squashed in Extract fix before fixation to d
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://mitchison.med.harvard.edu/protocols/chr2.html).
 

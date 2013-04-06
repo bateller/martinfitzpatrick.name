@@ -2,7 +2,7 @@ Date: 2011-10-30 11:10
 Author: Gordon W. Laurie
 Email: 
 Title: Excision of Clones as pBluescript from lZAPII
-Slug: methods/1389/excision-of-clones-as-pbluescript-from-lzapii
+Slug: excision-of-clones-as-pbluescript-from-lzapii
 Tags: molecular biology,clones,izapii,pbluescript
 
 Excision of Clones as pBluescript from lZAPII
@@ -99,4 +99,8 @@ Plate 10 µl, 50 µl and 10 µl of 1/10 - 1/1000 diluted onto LB amp plates usin
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://people.virginia.edu/~gwl6s/home.html/Methods/Excision.html).
 

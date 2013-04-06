@@ -2,7 +2,7 @@ Date: 2011-07-20 10:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: DAPI counterstain adherent cells/sections
-Slug: methods/38/dapi-counterstain-adherent-cellssections
+Slug: dapi-counterstain-adherent-cellssections
 Tags: fluorescence,dapi,microscopy,counterstain,imaging
 
 DAPI counterstain of adherent cells or tissue sections on slides
@@ -40,6 +40,8 @@ Place sample in PBS bath, washing 3x for 5 minutes then replacing the PBS.
 
 
 Add coverslip with appropriate mounting medium
+
+
 
 
 

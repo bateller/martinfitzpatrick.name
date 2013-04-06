@@ -2,7 +2,7 @@ Date: 2012-05-06 06:05
 Author: Timothy Mitchison
 Email: timothy_mitchison@hms.harvard.edu
 Title: HSS Depletion Conditions for XKCM1
-Slug: methods/1501/hss-depletion-conditions-for-xkcm1
+Slug: hss-depletion-conditions-for-xkcm1
 Tags: immunodepletion,xkcm1,xenopus,hss
 
 HSS Depletion Conditions for XKCM1 (Arshad Desai 3/17/95)
@@ -61,4 +61,8 @@ Processing beads for gel:
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://mitchison.med.harvard.edu/protocols/ext2.html).
 

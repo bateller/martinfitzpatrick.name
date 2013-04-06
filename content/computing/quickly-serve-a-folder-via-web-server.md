@@ -2,7 +2,7 @@ Date: 2011-11-08 08:11
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Quickly serve a folder via Web Server
-Slug: methods/1506/quickly-serve-a-folder-via-web-server
+Slug: quickly-serve-a-folder-via-web-server
 Tags: python,http,web server,programming,computing
 
 A short one liner to quickly serve any folder via a http server.
@@ -30,6 +30,8 @@ Open your web browser and access `http://localhost:PORT/`
 
 
 >If the server is running on port :80 you can omit it from the address. If you set the port number yourself access via `http://localhost:8080` changing 8080 to the port number you picked.
+
+
 
 
 

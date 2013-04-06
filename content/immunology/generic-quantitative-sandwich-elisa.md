@@ -2,7 +2,7 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Generic (Quantitative) Sandwich ELISA
-Slug: methods/16/generic-quantitative-sandwich-elisa
+Slug: generic-quantitative-sandwich-elisa
 Tags: quantitative,elisa,sandwich elisa,immunology
 
 A generic ELISA protocol with optional quantitative step.
@@ -116,6 +116,8 @@ Stop reaction with 1M HCl at 100ul/well
 Measure abosorbance on plate reader. 
 
 TMB dual read 450nm with blank at 650nm
+
+
 
 
 

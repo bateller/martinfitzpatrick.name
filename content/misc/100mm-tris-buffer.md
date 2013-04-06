@@ -2,7 +2,7 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 100mM Tris Buffer
-Slug: methods/18/100mm-tris-buffer
+Slug: 100mm-tris-buffer
 Tags: buffer,solutions,tris,tae,tbe,tham,media &amp; solutions
 
 Recipe for 100mM Tris Buffer
@@ -32,6 +32,8 @@ Tris solution will be basic, therefore adjust to target pH 7.0 by addition of HC
 
 
 Make up to final target volume with dH20
+
+
 
 
 

@@ -2,7 +2,7 @@ Date: 2012-02-06 09:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: C. elegans Immunoprecipitation
-Slug: methods/1439/c-elegans-immunoprecipitation
+Slug: c-elegans-immunoprecipitation
 Tags: protein,c.elegans,model organisms,worm,quantification,immunoprecipitation,biochemistry
 
 Immunoprecipitation protocol for use with C. elegans worm lysate
@@ -58,4 +58,8 @@ Load 20 ml on  an SDS PAGE gel.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/immunoprecipitation_protocol.htm).
 

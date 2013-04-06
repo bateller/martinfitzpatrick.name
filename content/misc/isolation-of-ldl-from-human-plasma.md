@@ -2,7 +2,7 @@ Date: 2011-10-10 09:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Isolation of LDL From Human Plasma
-Slug: methods/1335/isolation-of-ldl-from-human-plasma
+Slug: isolation-of-ldl-from-human-plasma
 Tags: plasma,ldl
 
 This procedure involves use of human plasma, a potentially dangerous source of blood-borne disease. Wear long-cuffed gloves, and eye-protection.
@@ -64,6 +64,8 @@ The LDL should be kept under nitrogen, dark and at 4C until use.
 
 
 >This preparation according to other sources is good for up to 2 weeks.
+
+
 
 
 

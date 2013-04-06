@@ -2,7 +2,7 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Proteinase K treatment
-Slug: methods/24/proteinase-k-treatment
+Slug: proteinase-k-treatment
 Tags: pcr,dnase,protein k,molecular biology
 
 Basic proteinase K treatment
@@ -42,6 +42,8 @@ Longer incubations and higher concentrations of proteinase K will improve DNA qu
 
 
 Boil sample in solution for  8 minutes to inactivate the proteinase K. Sample is now ready for PCR.
+
+
 
 
 

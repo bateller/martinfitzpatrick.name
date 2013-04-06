@@ -2,7 +2,7 @@ Date: 2011-09-20 03:09
 Author: Cael Kay-Jackson
 Email: caelkayjackson@googlemail.com
 Title: Initialize Git Repository from Local Files
-Slug: methods/1468/initialize-git-repository-from-local-files
+Slug: initialize-git-repository-from-local-files
 Tags: git,version control,computing
 
 Initialize a Git repository from a local directory, and the files therein, pushing it to an existing but empty remote.
@@ -55,6 +55,8 @@ Push the commit to the remote:
 
 >-u adds a tracking reference for the branch which is useful for argument-less pull commands amongst others.
 >
+
+
 
 
 

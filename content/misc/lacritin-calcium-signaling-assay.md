@@ -2,7 +2,7 @@ Date: 2011-11-06 03:11
 Author: Gordon W. Laurie
 Email: 
 Title: Lacritin Calcium Signaling Assay
-Slug: methods/1392/lacritin-calcium-signaling-assay
+Slug: lacritin-calcium-signaling-assay
 Tags: calcium,lacritin,signalling assay,calcium signalling
 
 Lacritin Calcium Signaling Assay - Ratiometric method as performed by the Putney Lab (see references).
@@ -114,4 +114,8 @@ DeHaven WI, Smyth JT, Boyles RR, Bird GS, Putney JW Jr [Complex actions of 2-ami
 [10.1074/jbc.M801535200](http://dx.doi.org/10.1074/jbc.M801535200)
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](pmid:18487204).
 

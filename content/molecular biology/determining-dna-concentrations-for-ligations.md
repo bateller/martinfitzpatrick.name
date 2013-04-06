@@ -2,7 +2,7 @@ Date: 2011-10-17 08:10
 Author: Ivan Delgado
 Email: ivanjdo@gmail.com
 Title: Determining DNA concentrations for ligations
-Slug: methods/1379/determining-dna-concentrations-for-ligations
+Slug: determining-dna-concentrations-for-ligations
 Tags: dna,molecular biology,ligase,vector
 
 Calculate DNA concentration for efficient DNA ligations. 
@@ -37,4 +37,8 @@ If this had been a blunt end ligation, a 1:1 ratio would have been used and the 
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://ivaan.com/protocols/131.html).
 
