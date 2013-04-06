@@ -21,6 +21,10 @@ PLUGINS = [
 #        'pelican.plugins.gzip_cache',   
         'pelican.plugins.sitemap',
         ]
+        
+
+FILES_TO_COPY = ( ('extra/robots.txt', 'robots.txt'),
+                  ('extra/.htaccess', '.htaccess') )
 
 # Blogroll
 LINKS =  (
@@ -78,6 +82,3 @@ GITHUB_URL = 'https://github.com/mfitzp'
 TWITTER_USERNAME = 'golifescience'
 
 THEME = 'theme'
-
-FILES_TO_COPY = ( ('extra/robots.txt', 'robots.txt'),
-                  ('extra/.htaccess', '.htaccess') )
