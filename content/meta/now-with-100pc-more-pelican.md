@@ -2,7 +2,7 @@ Date: 2013-04-06 15:55
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Now with 100% more Pelican
-Slug: posts/now-with-100pc-more-pelican
+Slug: now-with-100pc-more-pelican
 Tags: meta,pelican
 
 Regulars among you will have noticed that the site is different, very different.
