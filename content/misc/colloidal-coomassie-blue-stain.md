@@ -41,5 +41,3 @@ Neumann U, Khalaf H, Rimpler M [Quantitation of electrophoretically separated pr
 
 
 
->This method is based, with permission, on an original protocol available [here](pmid:7529171).
-

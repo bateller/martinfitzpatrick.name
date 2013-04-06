@@ -73,5 +73,3 @@ Williams BD, Schrank B, Huynh C, Shownkeen R, Waterston RH [A genetic mapping sy
 
 
 
->This method is based, with permission, on an original protocol available [here](pmid:1321065).
-

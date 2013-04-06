@@ -117,5 +117,3 @@ DeHaven WI, Smyth JT, Boyles RR, Bird GS, Putney JW Jr [Complex actions of 2-ami
 
 
 
->This method is based, with permission, on an original protocol available [here](pmid:18487204).
-

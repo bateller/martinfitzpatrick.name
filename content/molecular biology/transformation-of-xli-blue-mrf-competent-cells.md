@@ -75,5 +75,3 @@ Pick colonies using grid plate method (LB-amp plate grid + Miniplasmid Prep.).
 
 
 
->This method is based, with permission, on an original protocol available [here](people.virginia.edu/~gwl6s/home.html/Methods/Excision.html).
-

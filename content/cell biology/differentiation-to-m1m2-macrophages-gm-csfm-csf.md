@@ -62,5 +62,3 @@ A. J. Fleetwood, H. Dinh, A. D. Cook, P. J Hertzog, J. A. Hamilton [GM-CSF- and 
 
 
 
->This method is based, with permission, on an original protocol available [here](doi:10.1189/jlb.1108702 ).
-

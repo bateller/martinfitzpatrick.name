@@ -39,5 +39,3 @@ Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.o
 
 
 
->This method is based, with permission, on an original protocol available [here](10.1002/0471143030.cb1301s00).
-

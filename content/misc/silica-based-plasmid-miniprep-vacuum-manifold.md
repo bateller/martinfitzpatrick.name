@@ -65,5 +65,3 @@ J BROWN [A rapid, non-toxic protocol for sequence-ready plasmid DNA](http://dx.d
 
 
 
->This method is based, with permission, on an original protocol available [here](doi:10.1016/S1366-2120(08)70079-5).
-

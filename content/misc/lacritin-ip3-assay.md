@@ -57,5 +57,3 @@ Donna J. Webb, Isa M. Hussaini, Alissa M. Weaver, Tara L. Atkins, Charleen T. Ch
 
 
 
->This method is based, with permission, on an original protocol available [here](10.1111/j.1432-1033.1995.714_a.x).
-

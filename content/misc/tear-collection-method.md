@@ -51,5 +51,3 @@ Jones DT, Monroy D, Pflugfelder SC [A novel method of tear collection: compariso
 
 
 
->This method is based, with permission, on an original protocol available [here](pmid:9220244).
-

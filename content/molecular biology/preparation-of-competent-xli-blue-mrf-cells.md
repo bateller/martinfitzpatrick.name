@@ -87,5 +87,3 @@ Tom Maniatis [Molecular cloning: A laboratory manual](http://www.amazon.com/gp/s
 
 
 
->This method is based, with permission, on an original protocol available [here](978-0879691363).
-

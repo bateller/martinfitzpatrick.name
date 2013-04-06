@@ -109,5 +109,3 @@ Smith DW, Day TA [Neurochemical identification of fos-positive neurons using two
 
 
 
->This method is based, with permission, on an original protocol available [here](pmid:8100600).
-

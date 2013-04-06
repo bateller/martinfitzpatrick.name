@@ -161,5 +161,3 @@ Klaus Kühn, Hanna Wiedemann, Rupert Timpl, Juha Risteli, Hans Dieringer, Tilman
 
 
 
->This method is based, with permission, on an original protocol available [here](doi:10.1016/0014-5793(81)81012-5).
-

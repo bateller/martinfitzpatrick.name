@@ -75,5 +75,3 @@ Zako M, Dong J, Goldberger O, Bernfield M, Gallagher JT, Deakin JA [Syndecan-1 a
 
 
 
->This method is based, with permission, on an original protocol available [here](pmid:12571251).
-

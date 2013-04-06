@@ -70,5 +70,3 @@ Marchuk D, Drumm M, Saulino A, Collins FS [Construction of T-vectors, a rapid an
 
 
 
->This method is based, with permission, on an original protocol available [here](pmid:2020552).
-

@@ -43,5 +43,3 @@ FOLCH J, LEES M, SLOANE STANLEY GH [A simple method for the isolation and purifi
 
 
 
->This method is based, with permission, on an original protocol available [here](pmid:13428781).
-
