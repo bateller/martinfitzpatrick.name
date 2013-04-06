@@ -79,5 +79,5 @@ TWITTER_USERNAME = 'golifescience'
 
 THEME = 'theme'
 
-FILES_TO_COPY = [ ('extra/robots.txt', 'robots.txt')
-                  ('extra/.htaccess', '.htaccess') ]
+FILES_TO_COPY = ( ('extra/robots.txt', 'robots.txt'),
+                  ('extra/.htaccess', '.htaccess') )
