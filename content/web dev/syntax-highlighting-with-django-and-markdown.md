@@ -90,5 +90,5 @@ Simply download the style you want (we're using [colorful](https://github.com/ri
 
 
 
->This method is based, with permission, on an original protocol available [here](http://freewisdom.org/projects/python-markdown/CodeHilite).
+>For more information on python-markdown see [here](https://pypi.python.org/pypi/Markdown).
 
