@@ -106,7 +106,10 @@
         <div class="large-12 columns" id="footer">
 
 
-			<p>{{ FOOTER_TEXT or 'Powered by <a href="http://pelican.readthedocs.org">Pelican</a>' }}</p>
+			<p>
+                &copy;2012-{% now "Y" %} <a href="http://golifescience.com">goLS</a> Licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY</a> and <a href="http://www.gnu.org/licenses/gpl-3.0.html">GPLv3</a>
+                &bull; {{ FOOTER_TEXT or 'Powered by <a href="http://pelican.readthedocs.org">Pelican</a>' }}
+			</p>
 			{% if GOOGLE_ANALYTICS %}
 				<script type="text/javascript">
 					var _gaq = _gaq || [];
