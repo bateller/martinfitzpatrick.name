@@ -262,8 +262,6 @@ Again `Ctrl-X` and `Y` to exit and save. This will run the auto-publish script e
 
 Pelican is a really neat bit of software, that gets you away from all the faffing of dynamic web stuff to just concentrating on the important thing - writing. Hopefully this guide makes setting yourself up on Webfaction a little easier. If you hit any stumbling blocks in spite of this let me know in the comments! Happy pelicaning - whatever that involves.
 
-4HGGX972G794
-
 
 [1]: http://www.dominicrodger.com/pelican.html
 [2]: http://www.dominicrodger.com
