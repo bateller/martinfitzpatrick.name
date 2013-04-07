@@ -46,17 +46,17 @@ Now with all that out the way, we can install pelican. As with the above, it's a
 
 ## Webfaction
 
-### Panel beating
-
-First things first, we need to create a Webfaction webapp to hold our site. In fact, we need 2: one for the source code and settings, one for the output. Only the second of these is actually served publically - and Webfaction allows for this by making it possible to have applications with no association website. 
+First things first, we need to create a Webfaction webapp to hold our site. In fact, we need 2: one for the source code and settings, one for the output. Only the second of these is actually served publically - and Webfaction allows for this by making it possible to have applications with no association website. You do this through the Webfaction panel.
 
 > If you want to, you can put the generator code in your home folder instead but I think that is a bit confusing.
 
 You can also decide here how you want to name the two apps. Initially I had `golifescience` holding the source, and `golifescience_public` holding the generated output. However, it dawned on me that if I wanted more than one Pelican site (quite possible) I was going to end up with multiple dud apps scattered around. To prevent this I created two apps, one `pelican` that will hold any Pelican site settings repos in a subfolder, and `golifescience` which is the public served version of this site.
 
-The first, `pelican`, was created as 'Static only (no .htaccess)', the second `golifescience` as 'Static/CGI/PHP-5.4'. This latter decision only really has an impact if you need to use URL rewriting, or other `.htaccess` directives further down the line. I did, so I did. If you like this can also be 'Static only (no .htaccess)' and it'll be served by Webfaction's potentially-faster nginx server.
+The first, `pelican`, was created as 'Static only (no .htaccess)', the second `golifescience` as 'Static/CGI/PHP-5.4'. This latter decision only really has an impact if you need to use URL rewriting, or other `.htaccess` directives further down the line. I did, so I did. If you like this can also be 'Static only (no .htaccess)' and it'll be served by Webfaction's potentially-faster nginx server. 
 
-### Back to black
+Remember to associate the public one with an active domain under 'websites'. Make sure it's working (if you've just set it up DNS could hold you up here).
+
+## Back to black
 
 Back in the SSH session you can now cd ~/webapps and see the two new created folders `pelican` and `yoursitenamehere`. Now change into your pelican folder with
 
@@ -164,8 +164,6 @@ Because of the new feed variables in 3.0 some old themes won't work. Add this to
 	
 # Express yourself (hey, hey)
 
-## Writers block
-
 It's time to write someting (finally). We'll create a test post and our two error document pages. So, first, simply create a new text file and enter the following:
 
 	Date: 2013-04-07 09:00
@@ -190,7 +188,7 @@ Save it in the content folder with the name `a-test-post.md`. You can save it un
 
 Save it under the `content/pages` folder with the name `404.md`. Edit a similar file for 403 Forbidden errors and save as `403.md`.
 
-## Pelicans are go
+# Pelicans are go
 
 Let's commit and push this to github incase we lose all our hard work. At the command line, in your pelican content source folder `pelican/yoursitenamehere` enter the following:
 
