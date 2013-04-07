@@ -19,7 +19,7 @@ Before starting you need to install the packages. Thankfully everything you need
 
 > In my case X.Y was 2.7
 
-## Pelican dependencies
+## Pelican & dependencies
 
 I then manually installed these dependencies, I'm not sure if all are required (or already present on Webfaction) - give it a go and let me know in the comments.
 
@@ -39,8 +39,6 @@ In the Pelican setup it lists the following two as optional, but you'll need the
 	:::bash
 	pip install markdown 		# for supporting Markdown as an input format
 	pip install typogrify 		# for typographical enhancements
-
-## Pelican
 
 Now with all that out the way, we can install pelican. As with the above, it's a simple case of entering at the command line:
 
