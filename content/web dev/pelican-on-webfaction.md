@@ -77,7 +77,7 @@ Answer the questions and Pelican will create your initial folder. The important 
 	
 Following in Dominic's footsteps I decided to use [github][github] for my content hosting. However, Pelican has a handy tool to generate your setup, so you'll need to initiate the repo on the Webfaction side and re-home it onto github. Bear with me.
 
-So now we have the folder created for our config setup, we want to get it into our git repo so we can track the changes. The first step is to log into your Github account and create the new repo, calling it whatever you like. **Do not add a README.md** as we need the repo empty to do the next thing - if you mess it up, just delete and recreate. Github is fine with that. Once created make note of your repo's read & write git url (SSH).
+The first step is to log into your Github account and create the new repo, calling it whatever you like. **Do not add a README.md** as we need the repo empty to do the next thing - if you mess it up, just delete and recreate. Github is fine with that. Once created make note of your repo's read & write git url (SSH).
 
 > If you haven't set up github with your SSH keys you'll need to do that now. Generate a key on your Webfaction host using `ssh-keygen` and copy-paste it into your [Github SSH settings](https://github.com/settings/ssh).
 
