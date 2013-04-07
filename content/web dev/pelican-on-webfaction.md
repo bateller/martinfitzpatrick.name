@@ -85,7 +85,7 @@ Back in the shell, initiaise the github repo and then re-home it to your github 
 
 	:::bash
 	git init
-	git git remote add origin git@github.com:<github-username>/<github-repo-name>.git
+	git remote add origin git@github.com:<github-username>/<github-repo-name>.git
 	git push -u origin master
 	
 Sorted. The repo for your site is setup, and the repo now things Github is it's origin, so it will pull down from it to get updates. This means you can now clone that repo yourself to another machine and push your changes up via github.
