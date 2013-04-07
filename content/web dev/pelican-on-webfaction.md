@@ -224,7 +224,11 @@ This starts a simple editor to create a shell script. Simply copy and paste the 
 	git pull
 	make publish
 
-Save by pressing `Ctrl-X` and then `Y`. That's it. Next to add this to cron. Back at the command line enter:
+Save by pressing `Ctrl-X` and then `Y`. That's it. Back at the command line type:
+
+	chmod +x ~/auto_pelican_publish.sh 	# to make the file executable
+
+Next to add this to cron. Back at the command line enter:
 
 	crontab -e
 	
