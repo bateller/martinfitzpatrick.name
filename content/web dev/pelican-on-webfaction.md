@@ -236,7 +236,7 @@ This starts a simple editor to create a shell script. Simply copy and paste the 
 
 	#!/usr/bin/env bash
 
-	cd <path-to-your-pelican-content-folder> # e.g. /pelican/yoursitenamehere
+	cd <path-to-your-pelican-content-folder> # e.g. ~/pelican/yoursitenamehere
 	git pull
 	make publish
 
