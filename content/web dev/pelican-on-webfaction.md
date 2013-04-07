@@ -23,7 +23,7 @@ Before starting you need to install the packages. Thankfully everything you need
 
 I then manually installed these dependencies, I'm not sure if all are required (or already present on Webfaction) - give it a go and let me know in the comments.
 
-	#!bash
+	:::bash
 	pip install feedgenerator 	# to generate the Atom feeds
 	pip install jinja2 			# for templating support
 	pip install pygments 		# for syntax highlighting
@@ -36,7 +36,7 @@ I then manually installed these dependencies, I'm not sure if all are required (
 
 In the Pelican setup it lists the following two as optional, but you'll need the first to use markdown flavoured markup. The second makes your text output prettier, I installed it.
 
-	#!bash
+	:::bash
 	pip install markdown 		# for supporting Markdown as an input format
 	pip install typogrify 		# for typographical enhancements
 
@@ -44,7 +44,7 @@ In the Pelican setup it lists the following two as optional, but you'll need the
 
 Now with all that out the way, we can install pelican. As with the above, it's a simple case of entering at the command line:
 
-	#!bash
+	:::bash
 	pip install pelican
 
 ## Webfaction
@@ -63,14 +63,14 @@ Remember to associate the public one with an active domain under 'websites'. Mak
 
 Back in the SSH session you can now cd ~/webapps and see the two new created folders `pelican` and `yoursitenamehere`. Now change into your pelican folder with
 
-	#!bash
+	:::bash
 	cd pelican 				# change into your pelican folder
 	mkdir yoursitenamehere  # create a directory to hold your site config
 	cd yoursitenamehere 	# change into your site's folder
 
 We can now use the Pelican command to initiate the setup:
 
-	#!bash
+	:::bash
 	pelican-quickstart
 
 Answer the questions and Pelican will create your initial folder. The important things to remember are that your output folder, relative to the current location is `../../yoursitenamehere`. 
@@ -85,7 +85,7 @@ So now we have the folder created for our config setup, we want to get it into o
 
 Back in the shell, initiaise the github repo and then re-home it to your github repo.
 
-	#!bash
+	:::bash
 	git init
 	git git remote add origin git@github.com:<github-username>/<github-repo-name>.git
 	git push -u origin master
@@ -112,7 +112,7 @@ Firstly, folder structure. Things are 'expected' to be laid out as follows by th
 	
 The folder `images` is automatically copied through to appear at `/static/images` on your live site. Similarly `pages` is a special folder that anything contained within will be created as a static page, will not appear in feeds and may appear on link lists in certain forms. The URL structure for articles and pages is different (see later). Finally, `extra` is an optional folder, but extremely useful for copying through completely static content to the a particular destination. For example, on this site I'm using the following in my `pelicanconf.py` to copy through a static robots.txt and .htaccess:
 
-	#!python
+	:::python
 	FILES_TO_COPY = ( ('extra/robots.txt', 'robots.txt'),
     	              ('extra/.htaccess', '.htaccess') )
 
@@ -124,7 +124,7 @@ However, it doesn't work if you want to use custom themed error pages generated 
 
 So to start with add the following to your `pelicanconf.py` file.
 
-	#!python
+	:::python
 	ARTICLE_URL = 'posts/{slug}'
 	ARTICLE_SAVE_AS = 'posts/{slug}.html'
 	PAGE_URL = '{slug}'	
@@ -165,12 +165,12 @@ Save the file and you're good to go.
 
 Here are some additional extras for `peliconf.py` you might want to try out. Since I installed it I also turned on Typogrify by adding the following:
 
-	#!python
+	:::python
 	TYPOGRIFY = True
 
 Because of the new feed variables in 3.0 some old themes won't work. Add this to fix:
 	
-	#!python
+	:::python
 	FEED_DOMAIN = SITEURL
 	FEED_ATOM = 'feeds/atom.xml'
 	
@@ -206,19 +206,19 @@ Save it under the `content/pages` folder with the name `404.md`. Edit a similar 
 
 Let's commit and push this to github incase we lose all our hard work. At the command line, in your pelican content source folder `pelican/yoursitenamehere` enter the following:
 
-	#!bash
+	:::bash
 	git add .
 	git commit -a -m "Initial commit"
 	git push
 
 Now lets generate a site. In the same folder enter the following to create the content:
 
-	#!bash
+	:::bash
 	make html
 	
 You can also use:
 	
-	#!bash
+	:::bash
 	make publish
 	
 The only difference is the latter *also* uses the config settings in `publishconf.py` including the quite useful `RELATIVE_URLS = False` directive (uncomment it first). 
@@ -229,7 +229,7 @@ If you now access your site from the web, you should see your post in all it's g
 
 I'm lazy, so I don't really like doing the whole commit-push-pull-make thing. Thankfully it's relatively easy to automate the whole thing with a short shell script. Still on your SSH session to webfaction enter:
 
-	#!bash
+	:::bash
 	nano ~/auto_pelican_publish.sh
 	
 This starts a simple editor to create a shell script. Simply copy and paste the following into the file, editing the paths as appropriate:
@@ -242,12 +242,12 @@ This starts a simple editor to create a shell script. Simply copy and paste the 
 
 Save by pressing `Ctrl-X` and then `Y`. That's it. Back at the command line type:
 
-	#!bash
+	:::bash
 	chmod +x ~/auto_pelican_publish.sh 	# to make the file executable
 
 Next to add this to cron. Back at the command line enter:
 
-	#!bash
+	:::bash
 	crontab -e
 	
 Add the following to the top of the file, replacing your username:
