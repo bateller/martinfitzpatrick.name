@@ -69,7 +69,7 @@
 		<ul id="menu-navigation" class="menu links">
 			{% if SOCIAL %}
 			  {% for name, icon, url in SOCIAL %}
-				<li class="active" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ url }}"><i class="social foundicon-{{ icon }}"></i> {{ name }}</a></li>
+				<li class="active" class="menu-item menu-item-type-post_type menu-item-object-page social-label-{{ icon }}"><a href="{{ url }}"><i class="social foundicon-{{ icon }}"></i> {{ name }}</a></li>
 			  {% endfor %}
 			{% endif %}
 
@@ -109,7 +109,7 @@
 			<p>
                 &copy;2012-2013 <a href="http://golifescience.com">goLS</a> Licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY</a> and <a href="http://www.gnu.org/licenses/gpl-3.0.html">GPLv3</a>
                 &bull; {{ FOOTER_TEXT or 'Powered by <a href="http://pelican.readthedocs.org">Pelican</a>' }}
-                &bull; Hosted by <a href="http://www.webfaction.com?affiliate=your_username">Webfaction</a>
+                &bull; Hosted by <a href="http://www.webfaction.com?affiliate=spenglr">Webfaction</a>
 			</p>
 			{% if GOOGLE_ANALYTICS %}
 				<script type="text/javascript">

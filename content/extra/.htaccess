@@ -2,7 +2,6 @@ Options +FollowSymLinks -Indexes
 RewriteEngine On
 
 # Rewrite ancient dud urls to new format
-
 RewriteRule ^methods/42/(.*) /posts/in-situ-hybridisation-to-alpha-satellite-sequences [R=301,L]
 RewriteRule ^methods/1535/(.*) /posts/install-haiku-under-mac-os-x-with-virtualbox [R=301,L]
 RewriteRule ^methods/1511/(.*) /posts/purification-of-anti-peptide-antibody [R=301,L]
@@ -208,7 +207,6 @@ RewriteRule ^methods/121/(.*) /posts/dna-extraction-from-agarose-gels-paper-stri
 RewriteRule ^methods/1445/(.*) /posts/animal-trans-cardial-perfusion-technique [R=301,L]
 RewriteRule ^methods/1348/(.*) /posts/pmg-buffer [R=301,L]
 RewriteRule ^methods/1365/(.*) /posts/150-mm-mg-amp-pnp [R=301,L]
-
 
 # Rewrite old urls to new format
 RewriteRule ^(methods|applications)/(\d+)/(.*)$ /posts/$3 [R=permanent,L]
