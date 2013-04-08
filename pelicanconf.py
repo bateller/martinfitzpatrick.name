@@ -47,22 +47,6 @@ TYPOGRIFY = True
 DISPLAY_CATEGORIES_ON_MENU = True
 GITHUB_ACTIVITY_FEED = 'https://github.com/mfitzp.atom'
 
-
-SITEMAP = {
-    'format': 'xml',
-    'priorities': {
-        'articles': 0.5,
-        'indexes': 0.5,
-        'pages': 0.5
-    },
-    'changefreqs': {
-        'articles': 'monthly',
-        'indexes': 'daily',
-        'pages': 'monthly'
-    }
-}
-
-
 ARTICLE_URL = 'posts/{slug}'
 ARTICLE_SAVE_AS = 'posts/{slug}.html'
 PAGE_URL = '{slug}'
