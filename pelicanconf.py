@@ -24,8 +24,8 @@ PLUGINS = [
         
 
 FILES_TO_COPY = ( ('extra/robots.txt', 'robots.txt'),
-                  ('extra/favicon.ico', 'favicon.ico')
-                  ('extra/.htaccess', '.htaccess') )
+                  ('extra/favicon.ico', 'favicon.ico'),
+                  ('extra/.htaccess', '.htaccess'), )
 
 # Blogroll
 LINKS =  (
