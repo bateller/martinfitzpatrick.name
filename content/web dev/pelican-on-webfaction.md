@@ -223,7 +223,7 @@ The only difference is the latter *also* uses the config settings in `publishcon
 
 If you now access your site from the web, you should see your post in all it's glorious creativitiy. If it hasn't worked, drop a note in the comments and I'll work it out with you. 
 	
-# Automatic for the people
+# Automatic for the (lazy) people
 
 I'm lazy, so I don't really like doing the whole commit-push-pull-make thing. Thankfully it's relatively easy to automate the whole thing with a short shell script. Still on your SSH session to webfaction enter:
 
