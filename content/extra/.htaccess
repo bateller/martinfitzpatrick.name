@@ -212,7 +212,7 @@ RewriteRule ^methods/1365/(.*) /posts/150-mm-mg-amp-pnp [R=301,L]
 
 # Rewrite old urls to new format
 RewriteRule ^(methods|applications)/(\d+)/(.*)$ /posts/$3 [R=permanent,L]
-RewriteRule ^methods/$ /posts/ [R=permanent,L]
+RewriteRule ^methods/$ /archives [R=permanent,L]
 
 # Remove trailing slashes.
 # e.g. example.com/foo/ will redirect to example.com/foo
