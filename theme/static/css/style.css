@@ -125,6 +125,13 @@ body {
 #menu ul.links a:hover {
 	color: #000;
 }
+
+
+#menu ul.links a.social-label-google-plus:hover { color: #ef4323; }
+#menu ul.links a.social-label-twitter:hover { color: #196483; }
+#menu ul.links a.social-label-rss:hover { color: #e9781c; }
+
+
 /* =Content
 ----------------------------------------------- */
 .hentry {
@@ -442,7 +449,4 @@ aside {
     width:200px;
 }
 
-a.social-label-google-plus:hover { color: #ef4323; }
-a.social-label-twitter:hover { color: #196483; }
-a.social-label-rss:hover { color: #e9781c; }
 
