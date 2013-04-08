@@ -442,7 +442,7 @@ aside {
     width:200px;
 }
 
-.social-label-google-plus:hover { color: #ef4323; }
-.social-label-twitter:hover { color: #196483; }
-.social-label-rss:hover { color: #e9781c; }
+a.social-label-google-plus:hover { color: #ef4323; }
+a.social-label-twitter:hover { color: #196483; }
+a.social-label-rss:hover { color: #e9781c; }
 
