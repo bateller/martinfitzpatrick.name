@@ -9,7 +9,7 @@ Tags: metapath,software,metabolomics,bioinformatics,python,qt,pyside
 
 ![Screenshot](/static/images/software/metapath_0.5.1_screenshot.png)
 
-**Download** [Mac OS X Mountain Lion .app][metapath-macapp] &bull; [Github][metapath-github] &bull; [Python .eggs or .gz source][metapath-pypi].
+**Download** [Mac OS X Mountain Lion .app][metapath-macapp] &bull; [Github][metapath-github] &bull; [Python .egg or .gz][metapath-pypi].
 
 > MetaPath requires installation of [Graphviz][graphviz] for pathway drawing.
 
@@ -30,7 +30,7 @@ MetaPath has two key use-cases:
 
 # How much does it cost?
 
-Nothing. It's released open-source under the the GPLv3 license and is therefore free to use for whatever purposes you wish. You can [clone the repository][metapath-github], [download .eggs or .gz source][metapath-pypi] or download a built [Mac app][metapath-macapp]. Builds for other platforms will follow shortly.
+Nothing. It's released open-source under the the GPLv3 license and is therefore free to use for whatever purposes you wish. You can [clone the repository][metapath-github], [download Python .egg or .gz][metapath-pypi] or download a built [Mac app][metapath-macapp]. Builds for other platforms will follow shortly.
 
 > MetaPath is built on the [MetaCyc](http://metacyc.org) pathway database itself part of 
 the [BioCyc](http://biocyc.org) family. The supplied database is generated via the 
