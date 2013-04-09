@@ -7,7 +7,7 @@ Tags: metapath,software,metabolomics,bioinformatics,python,qt,pyside
 
 [MetaPath][metapath-github], a metabolic pathway visualisation and analysis tool I've developed as part of my PhD, has been released today via [PyPi][metapath-pypi] and [github][metapath-github]. A [Mac .app][metapath-macapp] bundle is also available.
 
-![software/metapath_0.5.1_screenshot.png)
+![Screenshot](software/metapath_0.5.1_screenshot.png)
 
 **Download** [Mac OS X Mountain Lion .app][metapath-macapp] &bull; [Github][metapath-github] &bull; [Python .eggs or .gz source][metapath-pypi].
 
