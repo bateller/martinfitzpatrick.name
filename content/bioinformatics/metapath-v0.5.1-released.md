@@ -45,6 +45,6 @@ Contributions from users and developers at other institutions are most welcome. 
 [metapath-github]: https://github.com/mfitzp/metapath/issues
 [metapath-github-issues]: https://github.com/mfitzp/metapath
 [metacyc]: http://metacyc.org
-[metapath-macapp]: http://downloads.martinfitzpatrick.name/MetaPath.app
+[metapath-macapp]: http://downloads.martinfitzpatrick.name/MetaPath.dmg
 [metapath-pypi]: https://pypi.python.org/pypi/metapath
 [graphviz]: http://www.graphviz.org/
