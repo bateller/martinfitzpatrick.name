@@ -150,5 +150,5 @@ Refresh your page and attempt to submit a comment. You should find it magically 
 
 
 
->This approach is based on the original concept in [this article](http://ca.rroll.net/2009/05/10/improving-django-comments-user-experience-with-ajax/).
+>The above is based on original code from [this article](http://ca.rroll.net/2009/05/10/improving-django-comments-user-experience-with-ajax/).
 
