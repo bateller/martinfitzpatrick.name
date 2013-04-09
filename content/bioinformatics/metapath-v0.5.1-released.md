@@ -42,8 +42,8 @@ and government use.
 
 Contributions from users and developers at other institutions are most welcome. Fork the [repo on github][metapath-github]. If you have issues, bugs or feature requires [please report them][metapath-github-issues] and I'll do what I can. Finally, if you have any questions drop a note in the comments below.
  
-[metapath-github]: https://github.com/mfitzp/metapath/issues
-[metapath-github-issues]: https://github.com/mfitzp/metapath
+[metapath-github]: https://github.com/mfitzp/metapath
+[metapath-github-issues]: https://github.com/mfitzp/metapath/issues
 [metacyc]: http://metacyc.org
 [metapath-macapp]: http://download.martinfitzpatrick.name/MetaPath.dmg
 [metapath-pypi]: https://pypi.python.org/pypi/metapath
