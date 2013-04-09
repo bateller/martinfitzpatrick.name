@@ -23,9 +23,9 @@ It is based on the [MetaCyc][metacyc] database. If you use that, you might want 
 
 MetaPath has two key use-cases:
 
-1. **Metabolic pathway exploration:** Browse through the metabolic pathway database, with automated clean rendering of pathways. Add and remove metabolic pathways, show intra-pathway linkages, and map metabolic routes through the system. Browse the in-built database, following links to online resources for further information.
+**Metabolic pathway exploration:** Browse through the metabolic pathway database, with automated clean rendering of pathways. Add and remove metabolic pathways, show intra-pathway linkages, and map metabolic routes through the system. Browse the in-built database, following links to online resources for further information.
 
-2. **Metabolic data visualisaiton:** Load experimental data gathered by mass-spectroscopy  (MS) or nuclear magnetic resonance (NMR) spectroscopy and visualise metabolic changes overlaid on a a map of the sytem. Visualise gene-expression or protein quantity data alongside to explore relationships between enzyme regulation and metabolic processes. Use the built-in "Pathway Mining" tools to select the most up, down, or overall regulated pathways in the given system to identify the key mechanisms at work.
+**Metabolic data visualisation:** Load experimental data gathered by mass-spectroscopy  (MS) or nuclear magnetic resonance (NMR) spectroscopy and visualise metabolic changes overlaid on a a map of the sytem. Visualise gene-expression or protein quantity data alongside to explore relationships between enzyme regulation and metabolic processes. Use the built-in "Pathway Mining" tools to select the most up, down, or overall regulated pathways in the given system to identify the key mechanisms at work.
 
 
 # How much does it cost?
