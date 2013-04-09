@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 1 M PIPES, pH = 6.9
 Slug: 1-m-pipes-ph-69
-Tags: pipes,naoh,media &amp; solutions
+Tags: pipes,naoh,media-solutions
 
 1 M PIPES, pH = 6.9
 

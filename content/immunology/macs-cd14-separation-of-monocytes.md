@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: MACS CD14+ Separation of monocytes
 Slug: macs-cd14-separation-of-monocytes
-Tags: cd14,bead,macs,cell separation,immunology
+Tags: cd14,bead,macs,cell-separation,immunology
 
 Isolation of CD14+ subset of monocytes by MACS magnetic bead isolation.
 

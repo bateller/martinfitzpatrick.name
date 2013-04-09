@@ -3,7 +3,7 @@ Author: Paul Barber
 Email: paulbarber@ucla.edu
 Title: DNA Extraction: Chelex
 Slug: dna-extraction-chelex
-Tags: dna,pcr,molecular biology,extraction,chelex
+Tags: dna,pcr,molecular-biology,extraction,chelex
 
 DNA Extraction via Chelex
 

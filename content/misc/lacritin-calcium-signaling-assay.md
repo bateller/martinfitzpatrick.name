@@ -3,7 +3,7 @@ Author: Gordon W. Laurie
 Email: 
 Title: Lacritin Calcium Signaling Assay
 Slug: lacritin-calcium-signaling-assay
-Tags: calcium,lacritin,signalling assay,calcium signalling
+Tags: calcium,lacritin,signalling-assay,calcium-signalling
 
 Lacritin Calcium Signaling Assay - Ratiometric method as performed by the Putney Lab (see references).
 

@@ -3,7 +3,7 @@ Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: Raft culture media
 Slug: raft-culture-media
-Tags: media,raft media,green&#39;s media,media &amp; solutions
+Tags: media,raft-media,greens-media,media-solutions
 
 Raft culture medium, including standard supplements used. 
 

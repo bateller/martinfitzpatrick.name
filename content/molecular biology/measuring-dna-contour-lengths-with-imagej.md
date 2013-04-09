@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Measuring DNA Contour Lengths with ImageJ
 Slug: measuring-dna-contour-lengths-with-imagej
-Tags: dna,molecular biology,afm,contours,imagej,imaging
+Tags: dna,molecular-biology,afm,contours,imagej,imaging
 
 This is an example of how to measure the lengths of DNA contours on images acquired using an atomic force microscope (AFM). 
 

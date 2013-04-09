@@ -3,7 +3,7 @@ Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: T-A cloning Vectors
 Slug: t-a-cloning-vectors
-Tags: pcr,molecular biology,vector,t-a-cloning,ecorv,cloning
+Tags: pcr,molecular-biology,vector,t-a-cloning,ecorv,cloning
 
 A method for direct cloning a PCR product, by the T-vector technique. This is cheap and easy way to clone PCR products with A 3’ overhangs.
 

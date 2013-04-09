@@ -3,7 +3,7 @@ Author: Ivan Delgado
 Email: ivanjdo@gmail.com
 Title: DNA ligation
 Slug: dna-ligation
-Tags: dna,molecular biology,ligase,vector
+Tags: dna,molecular-biology,ligase,vector
 
 Ligation of a DNA fragment to a vector
 

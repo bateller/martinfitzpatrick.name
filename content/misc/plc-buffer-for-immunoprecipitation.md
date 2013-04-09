@@ -3,7 +3,7 @@ Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: PLC buffer for Immunoprecipitation
 Slug: plc-buffer-for-immunoprecipitation
-Tags: buffer,immunoprecipitation,plc,media &amp; solutions
+Tags: buffer,immunoprecipitation,plc,media-solutions
 
 PLC buffer for Immunoprecipitation
 

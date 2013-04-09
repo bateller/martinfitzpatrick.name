@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 5x Western blot loading buffer
 Slug: 5x-western-blot-loading-buffer
-Tags: buffer,western blot,sample dye,loading buffer,media &amp; solutions
+Tags: buffer,western-blot,sample-dye,loading-buffer,media-solutions
 
 15ml stock solution of western blot loading buffer. Dilute for use.
 

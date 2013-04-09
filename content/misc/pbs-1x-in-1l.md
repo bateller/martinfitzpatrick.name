@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: PBS (1x in 1L)
 Slug: pbs-1x-in-1l
-Tags: buffer,pbs,media &amp; solutions
+Tags: buffer,pbs,media-solutions
 
 PBS (1x in 1L)
 

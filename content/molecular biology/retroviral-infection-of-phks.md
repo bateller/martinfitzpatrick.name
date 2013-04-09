@@ -3,7 +3,7 @@ Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: Retroviral infection of PHKs
 Slug: retroviral-infection-of-phks
-Tags: virus,cell,rna,molecular biology,media,culture,phk,keratinocyte,primary,infection,retroviral,microbiology,media &amp; solutions
+Tags: virus,cell,rna,molecular-biology,media,culture,phk,keratinocyte,primary,infection,retroviral,microbiology,media-solutions
 
 Retroviral infection of primary human keratinocytes (PHKs)
 

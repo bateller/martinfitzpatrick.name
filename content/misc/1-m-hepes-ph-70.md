@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 1 M HEPES, pH = 7.0 
 Slug: 1-m-hepes-ph-70
-Tags: hepes,media &amp; solutions
+Tags: hepes,media-solutions
 
 1 M HEPES, pH = 7.0 
 

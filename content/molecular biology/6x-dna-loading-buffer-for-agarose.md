@@ -3,7 +3,7 @@ Author:
 Email: jt03@ic.ac.uk
 Title: 6X DNA Loading Buffer for Agarose
 Slug: 6x-dna-loading-buffer-for-agarose
-Tags: buffer,loading buffer,dna,molecular biology,agarose,dna loading buffer,media &amp; solutions
+Tags: buffer,loading-buffer,dna,molecular-biology,agarose,dna-loading-buffer,media-solutions
 
 Easy to use, add 2ul per 10ul of DNA solution.
 

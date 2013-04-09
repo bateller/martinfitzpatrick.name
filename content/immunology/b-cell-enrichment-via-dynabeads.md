@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: B cell enrichment via Dynabeads
 Slug: b-cell-enrichment-via-dynabeads
-Tags: b cell,blood,pbmc,enrichment,dynabeads,immunology
+Tags: b-cell,blood,pbmc,enrichment,dynabeads,immunology
 
 B cell enrichment using Invitrogen Dynabeads magnetic separation
 

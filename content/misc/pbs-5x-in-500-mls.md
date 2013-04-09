@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: PBS (5x in 500 mls)
 Slug: pbs-5x-in-500-mls
-Tags: buffer,pbs,media &amp; solutions
+Tags: buffer,pbs,media-solutions
 
 PBS (5x in 500 mls)
 

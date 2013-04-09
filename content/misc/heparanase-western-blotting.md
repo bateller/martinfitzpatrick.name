@@ -3,7 +3,7 @@ Author: Gordon W. Laurie
 Email: 
 Title: Heparanase Western Blotting
 Slug: heparanase-western-blotting
-Tags: western blot,heparanase
+Tags: western-blot,heparanase
 
 Heparanase Detection method for Western Blotting
 

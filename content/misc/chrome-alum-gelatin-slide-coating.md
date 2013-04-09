@@ -3,7 +3,7 @@ Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Chrome Alum Gelatin Slide Coating
 Slug: chrome-alum-gelatin-slide-coating
-Tags: coating,slides,chrome alum
+Tags: coating,slides,chrome-alum
 
 Chrome Alum Gelatin Slide Coating
 

@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: High Salt Buffer
 Slug: high-salt-buffer
-Tags: buffer,salt,media &amp; solutions
+Tags: buffer,salt,media-solutions
 
 High Salt Buffer
 

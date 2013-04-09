@@ -3,7 +3,7 @@ Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: C. elegans Single Worm PCR
 Slug: c-elegans-single-worm-pcr
-Tags: pcr,molecular biology,c.elegans,model organisms,worm
+Tags: pcr,molecular-biology,celegans,model-organisms,worm
 
 Single Worm PCR for use with C. elegans
 

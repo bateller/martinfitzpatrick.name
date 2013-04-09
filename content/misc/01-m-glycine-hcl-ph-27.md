@@ -3,7 +3,7 @@ Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: 0.1 M Glycine-HCl, pH 2.7
 Slug: 01-m-glycine-hcl-ph-27
-Tags: glycine,hcl,media &amp; solutions
+Tags: glycine,hcl,media-solutions
 
 0.1 M Glycine-HCl, pH 2.7
 

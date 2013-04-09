@@ -3,7 +3,7 @@ Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Colloidal Coomassie Blue Stain
 Slug: colloidal-coomassie-blue-stain
-Tags: gel electrophoresis,sds-page,coomassie,sds
+Tags: gel-electrophoresis,sds-page,coomassie,sds
 
 Colloidal Coomassie Blue Stain for SDS-PAGE gel
 

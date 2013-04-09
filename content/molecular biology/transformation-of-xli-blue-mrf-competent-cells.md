@@ -3,7 +3,7 @@ Author: Gordon W. Laurie
 Email: 
 Title: Transformation of XLI-Blue MRF’ Competent Cells
 Slug: transformation-of-xli-blue-mrf-competent-cells
-Tags: molecular biology,xli-blue,transformation,cell biology
+Tags: molecular-biology,xli-blue,transformation,cell-biology
 
 Transformation of XLI-Blue MRF’ Competent Cells
 

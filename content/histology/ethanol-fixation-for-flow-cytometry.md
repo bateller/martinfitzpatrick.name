@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Ethanol fixation for flow cytometry
 Slug: ethanol-fixation-for-flow-cytometry
-Tags: histology,fixation,facs,flow cytometry
+Tags: histology,fixation,facs,flow-cytometry
 
 Fixation for flow cytometry with ethanol. This method is very simple, quick and
 allows samples to be stored for weeks at –20°C.

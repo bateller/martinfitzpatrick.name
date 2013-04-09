@@ -3,7 +3,7 @@ Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: C. Elegans Embryo Staining
 Slug: c-elegans-embryo-staining
-Tags: histology,immunofluorescence,c.elegans,model organisms,embryo
+Tags: histology,immunofluorescence,celegans,model-organisms,embryo
 
 Staining protocol for C. Elegans embryos.
 

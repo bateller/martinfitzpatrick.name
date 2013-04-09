@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 5 M NaCl
 Slug: 5-m-nacl
-Tags: nacl,media &amp; solutions
+Tags: nacl,media-solutions
 
 5 M NaCl
 

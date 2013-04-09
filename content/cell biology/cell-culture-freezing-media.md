@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Cell Culture Freezing Media
 Slug: cell-culture-freezing-media
-Tags: media,freezing,cell biology,media &amp; solutions
+Tags: media,freezing,cell-biology,media-solutions
 
 Media for freezing of cells for culture.
 

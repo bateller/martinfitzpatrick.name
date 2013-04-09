@@ -3,7 +3,7 @@ Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: DNA extraction from agarose gels (Dialysis-tubing)
 Slug: dna-extraction-from-agarose-gels-dialysis-tubing
-Tags: dna,molecular biology,dna extraction,agarose gel
+Tags: dna,molecular-biology,dna-extraction,agarose-gel
 
 Dialysis tubing (semi-permeable membrane, Visking tubing)
 

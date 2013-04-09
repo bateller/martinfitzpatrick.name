@@ -3,7 +3,7 @@ Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: C. elegans total genomic DNA preparation
 Slug: c-elegans-total-genomic-dna-preparation
-Tags: dna,molecular biology,c.elegans,model organisms,prep
+Tags: dna,molecular-biology,celegans,model-organisms,prep
 
 C. elegans total genomic DNA preparation
 

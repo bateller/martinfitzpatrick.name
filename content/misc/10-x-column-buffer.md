@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 10 x Column Buffer
 Slug: 10-x-column-buffer
-Tags: buffer,pipes,egta,media &amp; solutions
+Tags: buffer,pipes,egta,media-solutions
 
 10 x Column Buffer
 

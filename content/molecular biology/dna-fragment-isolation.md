@@ -3,7 +3,7 @@ Author: Ivan Delgado
 Email: ivanjdo@gmail.com
 Title: DNA fragment isolation
 Slug: dna-fragment-isolation
-Tags: dna,molecular biology,low melting agarose,tbe buffer,chloroform,phenol
+Tags: dna,molecular-biology,low-melting-agarose,tbe-buffer,chloroform,phenol
 
 Isolate a DNA fragment from Low Melting agarose
 

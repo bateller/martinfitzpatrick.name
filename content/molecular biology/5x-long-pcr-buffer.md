@@ -3,7 +3,7 @@ Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: 5X Long PCR Buffer
 Slug: 5x-long-pcr-buffer
-Tags: buffer,pcr,molecular biology,media &amp; solutions
+Tags: buffer,pcr,molecular-biology,media-solutions
 
 5X Long PCR Buffer (store in 1ml aliquots in -20C).
 

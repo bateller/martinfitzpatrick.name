@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: PM  Buffer
 Slug: pm-buffer
-Tags: buffer,pipes,pm,media &amp; solutions
+Tags: buffer,pipes,pm,media-solutions
 
 PM  Buffer
 

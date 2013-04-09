@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 1 M KCl Stock
 Slug: 1-m-kcl-stock
-Tags: kcl,media &amp; solutions
+Tags: kcl,media-solutions
 
 1 M KCl Stock
 

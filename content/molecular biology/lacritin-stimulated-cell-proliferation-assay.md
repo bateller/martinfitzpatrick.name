@@ -3,7 +3,7 @@ Author: Gordon W. Laurie
 Email: 
 Title: Lacritin Stimulated Cell Proliferation Assay
 Slug: lacritin-stimulated-cell-proliferation-assay
-Tags: cell,rna,molecular biology,assay,lacritin,proliferation
+Tags: cell,rna,molecular-biology,assay,lacritin,proliferation
 
 Lacritin Stimulated Cell Proliferation Assay with siRNA or Inhibitors
 

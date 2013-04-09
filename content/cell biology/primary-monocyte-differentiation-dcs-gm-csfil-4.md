@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Primary monocyte differentiation DCs, GM-CSF/IL-4
 Slug: primary-monocyte-differentiation-dcs-gm-csfil-4
-Tags: cell culture,differentiation,dendritic cell,cd14,dc,monocytes,cell biology
+Tags: cell-culture,differentiation,dendritic-cell,cd14,dc,monocytes,cell-biology
 
 Primary monocyte differentiation to DCs with GM-CSF and IL-4
 

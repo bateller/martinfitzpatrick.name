@@ -3,7 +3,7 @@ Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: Organotypic raft culture of PHKs
 Slug: organotypic-raft-culture-of-phks
-Tags: raft,raft culture,culture,primary cells,human,keratinocytes
+Tags: raft,raft-culture,culture,primary-cells,human,keratinocytes
 
 Organotypic raft culture of primary human keratinocytes. 
 

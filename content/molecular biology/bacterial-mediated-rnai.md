@@ -3,7 +3,7 @@ Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Bacterial mediated RNAi
 Slug: bacterial-mediated-rnai
-Tags: rna,bacteria,molecular biology,media,interference,rnai,microbiology,media &amp; solutions
+Tags: rna,bacteria,molecular-biology,media,interference,rnai,microbiology,media-solutions
 
 Protocol for bacterial mediated RNAi
 

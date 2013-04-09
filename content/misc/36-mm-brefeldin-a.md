@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 3.6 mM Brefeldin A
 Slug: 36-mm-brefeldin-a
-Tags: brefeldina,ethanol,media &amp; solutions
+Tags: brefeldina,ethanol,media-solutions
 
 3.6 mM Brefeldin A 
 

@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 30 x AlCl3
 Slug: 30-x-alcl3
-Tags: media &amp; solutions
+Tags: media-solutions
 
 30 x AlCl3
 

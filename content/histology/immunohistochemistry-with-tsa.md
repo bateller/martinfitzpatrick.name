@@ -3,7 +3,7 @@ Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Immunohistochemistry with TSA
 Slug: immunohistochemistry-with-tsa
-Tags: histology,immunohistochemistry,perkin elmer,tsa
+Tags: histology,immunohistochemistry,perkin-elmer,tsa
 
 Immunohistochemistry with Tyramide Signal Amplification (TSA) using Perkin Elmer kit & Protocol for Vibratome Sections
 

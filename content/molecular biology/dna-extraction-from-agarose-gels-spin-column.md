@@ -3,7 +3,7 @@ Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: DNA extraction from agarose gels (Spin-column)
 Slug: dna-extraction-from-agarose-gels-spin-column
-Tags: dna,molecular biology,extraction,agarose
+Tags: dna,molecular-biology,extraction,agarose
 
 These are excellent for extracting DNA if you can afford them. They cost 1–2 US$ each. Manufacterers include Qiagen, Sigma, Novagen
 

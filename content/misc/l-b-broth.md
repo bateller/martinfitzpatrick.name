@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: L B Broth
 Slug: l-b-broth
-Tags: media,culture,broth,lb,media &amp; solutions
+Tags: media,culture,broth,lb,media-solutions
 
 L B Broth
 

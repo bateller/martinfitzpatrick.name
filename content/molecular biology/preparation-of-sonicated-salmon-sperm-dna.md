@@ -3,7 +3,7 @@ Author: Gordon W. Laurie
 Email: 
 Title: Preparation of Sonicated Salmon Sperm DNA
 Slug: preparation-of-sonicated-salmon-sperm-dna
-Tags: dna,molecular biology,sperm
+Tags: dna,molecular-biology,sperm
 
 Preparation of Sonicated Salmon Sperm DNA
 

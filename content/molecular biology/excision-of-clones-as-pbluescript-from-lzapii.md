@@ -3,7 +3,7 @@ Author: Gordon W. Laurie
 Email: 
 Title: Excision of Clones as pBluescript from lZAPII
 Slug: excision-of-clones-as-pbluescript-from-lzapii
-Tags: molecular biology,clones,izapii,pbluescript
+Tags: molecular-biology,clones,izapii,pbluescript
 
 Excision of Clones as pBluescript from lZAPII
 

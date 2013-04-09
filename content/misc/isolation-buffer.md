@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Isolation Buffer
 Slug: isolation-buffer
-Tags: buffer,edta,hepes,media &amp; solutions
+Tags: buffer,edta,hepes,media-solutions
 
 Isolation Buffer
 

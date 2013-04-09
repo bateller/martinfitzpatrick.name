@@ -3,7 +3,7 @@ Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Sodium Citrate Buffer
 Slug: sodium-citrate-buffer
-Tags: buffer,sodium citrate,media &amp; solutions
+Tags: buffer,sodium-citrate,media-solutions
 
 10mM Sodium Citrate, 0.05% Tween 20, pH 6.0
 

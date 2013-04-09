@@ -3,7 +3,7 @@ Author: Gordon W. Laurie
 Email: 
 Title: Heparan Sulfate Chain Analysis
 Slug: heparan-sulfate-chain-analysis
-Tags: heparan,heparan sulphate
+Tags: heparan,heparan-sulphate
 
 Analysis of SDC1 HS Chains
 

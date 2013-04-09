@@ -3,7 +3,7 @@ Author: Ivan Delgado
 Email: ivanjdo@gmail.com
 Title: Phosphatase Removal of PO4 groups from DNA
 Slug: phosphatase-removal-of-po4-groups-from-dna
-Tags: dna,molecular biology,alkaline,phosphatase
+Tags: dna,molecular-biology,alkaline,phosphatase
 
 The removal of phosphate groups from DNA using Alkaline Phosphatase
 

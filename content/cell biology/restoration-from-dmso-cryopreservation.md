@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Restoration from DMSO cryopreservation
 Slug: restoration-from-dmso-cryopreservation
-Tags: dmso,cryostore,cryopreservation,cell culture,restoration,cell biology,media &amp; solutions
+Tags: dmso,cryostore,cryopreservation,cell-culture,restoration,cell-biology,media-solutions
 
 Restoration of culture cells from storage at -80°C with 10% DMSO cryopreservation.
 

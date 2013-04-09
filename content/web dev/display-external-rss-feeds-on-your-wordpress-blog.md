@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Display external RSS feeds on your WordPress blog
 Slug: display-external-rss-feeds-on-your-wordpress-blog
-Tags: web dev,wordpress,php,rss,computing
+Tags: web-dev,wordpress,php,rss,computing
 
 Show another of your blogs or any other RSS news feed on your WordPress blog with this simple template code.
 

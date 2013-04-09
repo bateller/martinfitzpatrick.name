@@ -3,7 +3,7 @@ Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: BrdU incorporation for raft cultures
 Slug: brdu-incorporation-for-raft-cultures
-Tags: brdu,tissue culture,raft,raft culture
+Tags: brdu,tissue-culture,raft,raft-culture
 
 BrdU incorporation for raft cultures
 

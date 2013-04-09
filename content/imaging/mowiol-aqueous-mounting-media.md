@@ -3,7 +3,7 @@ Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Mowiol (Aqueous mounting media)
 Slug: mowiol-aqueous-mounting-media
-Tags: fluorescence,microscopy,media,mounting,aqueous,mowiol,stereology,imaging,media &amp; solutions
+Tags: fluorescence,microscopy,media,mounting,aqueous,mowiol,stereology,imaging,media-solutions
 
 Aqueous mounting medium for fluorescence and Stereology. Recommended Anti-Fade for fluorescence microscopy – especially good for EGFP and other low expression reporting molecules.
 

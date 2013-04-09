@@ -3,7 +3,7 @@ Author: Ivan Delgado
 Email: ivanjdo@gmail.com
 Title: Agarose gel electrophoresis
 Slug: agarose-gel-electrophoresis
-Tags: tbe,molecular biology,agarose
+Tags: tbe,molecular-biology,agarose
 
 The preparation, and running, of an agarose gel for nucleic acid separation.
 

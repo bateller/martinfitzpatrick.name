@@ -3,7 +3,7 @@ Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: Transformation of plasmid DNA to E. Coli
 Slug: transformation-of-plasmid-dna-to-e-coli
-Tags: dna,molecular biology
+Tags: dna,molecular-biology
 
 Transformation of plasmid DNA to competent E. Coli cells
 

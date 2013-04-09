@@ -3,7 +3,7 @@ Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Dewaxing Paraffin Sections
 Slug: dewaxing-paraffin-sections
-Tags: histology,dewaxing,paraffin section,xylene
+Tags: histology,dewaxing,paraffin-section,xylene
 
 Dewaxing Paraffin Sections Sections must be free of wax to allow aqueous solutions to penetrate.
 

@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 0.5 M Na2CO3
 Slug: 05-m-na2co3
-Tags: media &amp; solutions
+Tags: media-solutions
 
 0.5 M Na2CO3
 

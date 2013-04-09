@@ -3,7 +3,7 @@ Author: Gordon W. Laurie
 Email: 
 Title: Endotoxin Assay
 Slug: endotoxin-assay
-Tags: assay,endotoxin assay,endotoxin
+Tags: assay,endotoxin-assay,endotoxin
 
 Endotoxin Assay
 

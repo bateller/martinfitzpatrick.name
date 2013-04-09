@@ -3,7 +3,7 @@ Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: Bacterial colony screening by PCR
 Slug: bacterial-colony-screening-by-pcr
-Tags: pcr,colony,bacteria,screening,molecular biology,microbiology
+Tags: pcr,colony,bacteria,screening,molecular-biology,microbiology
 
 One of the fastest way to screen bacterial colonies. 
 

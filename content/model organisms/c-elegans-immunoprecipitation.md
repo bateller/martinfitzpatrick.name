@@ -3,7 +3,7 @@ Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: C. elegans Immunoprecipitation
 Slug: c-elegans-immunoprecipitation
-Tags: protein,c.elegans,model organisms,worm,quantification,immunoprecipitation,biochemistry
+Tags: protein,celegans,model-organisms,worm,quantification,immunoprecipitation,biochemistry
 
 Immunoprecipitation protocol for use with C. elegans worm lysate
 

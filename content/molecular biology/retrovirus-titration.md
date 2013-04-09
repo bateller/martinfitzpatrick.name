@@ -3,7 +3,7 @@ Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: Retrovirus titration
 Slug: retrovirus-titration
-Tags: virus,rna,titer,infection assay,titration,molecular biology,retrovirus,microbiology
+Tags: virus,rna,titer,infection-assay,titration,molecular-biology,retrovirus,microbiology
 
 Titration of retrovirus lines.
 

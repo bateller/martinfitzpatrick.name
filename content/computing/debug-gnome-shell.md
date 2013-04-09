@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Debug GNOME Shell
 Slug: debug-gnome-shell
-Tags: shell,linux,gnome,gnome shell,desktop,gnome3,computing
+Tags: shell,linux,gnome,gnome-shell,desktop,gnome3,computing
 
 Debug Gnome Shell, or run it from the console, either for plugin development or troubleshooting.
 

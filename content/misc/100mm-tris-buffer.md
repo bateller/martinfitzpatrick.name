@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 100mM Tris Buffer
 Slug: 100mm-tris-buffer
-Tags: buffer,solutions,tris,tae,tbe,tham,media &amp; solutions
+Tags: buffer,solutions,tris,tae,tbe,tham,media-solutions
 
 Recipe for 100mM Tris Buffer
 

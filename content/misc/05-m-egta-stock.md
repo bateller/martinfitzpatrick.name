@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 0.5 M EGTA Stock
 Slug: 05-m-egta-stock
-Tags: egta,media &amp; solutions
+Tags: egta,media-solutions
 
 0.5 M EGTA Stock
 

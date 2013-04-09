@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Neutral buffered formalin fixation
 Slug: neutral-buffered-formalin-fixation
-Tags: histology,buffer,fixation,media &amp; solutions
+Tags: histology,buffer,fixation,media-solutions
 
 Fixation with neutral buffered formalin
 

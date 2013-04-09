@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: PMG Buffer
 Slug: pmg-buffer
-Tags: buffer,pipes,egta,media &amp; solutions
+Tags: buffer,pipes,egta,media-solutions
 
 PMG Buffer
 

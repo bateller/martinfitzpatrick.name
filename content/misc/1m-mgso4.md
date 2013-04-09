@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 1M MgSO4
 Slug: 1m-mgso4
-Tags: media &amp; solutions
+Tags: media-solutions
 
 1M MgSO4
 

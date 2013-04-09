@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Quickly serve a folder via Web Server
 Slug: quickly-serve-a-folder-via-web-server
-Tags: python,http,web server,programming,computing
+Tags: python,http,web-server,programming,computing
 
 A short one liner to quickly serve any folder via a http server.
 

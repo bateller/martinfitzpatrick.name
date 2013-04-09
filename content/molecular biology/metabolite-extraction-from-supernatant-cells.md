@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Metabolite extraction from supernatant cells
 Slug: metabolite-extraction-from-supernatant-cells
-Tags: cell,metabolite,rna,molecular biology
+Tags: cell,metabolite,rna,molecular-biology
 
 Methanol/Chloroform extraction of whole cell small molecular weight metabolites from cells in suspension.
 

@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: DNA Extraction from Cheek Cells
 Slug: dna-extraction-from-cheek-cells
-Tags: dna,molecular biology,extraction,mouthwash
+Tags: dna,molecular-biology,extraction,mouthwash
 
 A Salting Out Procedure for DNA extraction from cheek cells obtained by rinsing the mouth with 25mls of any commercial mouth wash solution available for about 30sec the first thing in the morning. It is important not to brush your teeth before collecting the specimen.
 

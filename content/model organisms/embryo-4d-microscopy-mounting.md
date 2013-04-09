@@ -3,7 +3,7 @@ Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Embryo 4D microscopy mounting
 Slug: embryo-4d-microscopy-mounting
-Tags: microscopy,mounting,model organisms,4d-microscopy,embryo,slides,imaging
+Tags: microscopy,mounting,model-organisms,4d-microscopy,embryo,slides,imaging
 
 Embryo 4D video Microscopy preparation of slides and embryos.
 

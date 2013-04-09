@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Generic (Quantitative) Sandwich ELISA
 Slug: generic-quantitative-sandwich-elisa
-Tags: quantitative,elisa,sandwich elisa,immunology
+Tags: quantitative,elisa,sandwich-elisa,immunology
 
 A generic ELISA protocol with optional quantitative step.
 

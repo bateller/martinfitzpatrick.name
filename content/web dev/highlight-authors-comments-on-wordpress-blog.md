@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Highlight author&#39;s comments on WordPress blog
 Slug: highlight-authors-comments-on-wordpress-blog
-Tags: web dev,wordpress,php,computing
+Tags: web-dev,wordpress,php,computing
 
 A simple trick to make comments form the original post author stand out a bit more in the comment listing - useful for seeing replies to comments.
 

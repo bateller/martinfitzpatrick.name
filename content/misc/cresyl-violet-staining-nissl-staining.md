@@ -3,7 +3,7 @@ Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Cresyl Violet Staining (Nissl Staining)
 Slug: cresyl-violet-staining-nissl-staining
-Tags: cresyl,nissl,paraffin embedded
+Tags: cresyl,nissl,paraffin-embedded
 
 Cresyl Violet Staining for paraffin embedded sections. Cresyl Violet Acetate solution is used to stain Nissl substance in the cytoplasm of neurons in paraformaldehyde or formalin-fixed tissue. The neuropil will be stained a granular purple-blue. This stain is commonly used to identify the neuronal structure in brain and spinal cord tissue.
 

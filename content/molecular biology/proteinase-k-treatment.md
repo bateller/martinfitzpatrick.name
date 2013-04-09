@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Proteinase K treatment
 Slug: proteinase-k-treatment
-Tags: pcr,dnase,protein k,molecular biology
+Tags: pcr,dnase,protein-k,molecular-biology
 
 Basic proteinase K treatment
 

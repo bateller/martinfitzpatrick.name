@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 10x Tris Buffer
 Slug: 10x-tris-buffer
-Tags: buffer,media &amp; solutions
+Tags: buffer,media-solutions
 
 Recipe for 10x Tris Buffer, dilute for use
 

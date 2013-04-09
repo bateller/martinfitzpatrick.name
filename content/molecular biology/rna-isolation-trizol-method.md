@@ -3,7 +3,7 @@ Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: RNA-isolation (TRIZOL method)
 Slug: rna-isolation-trizol-method
-Tags: rna,molecular biology,trizol,isolation
+Tags: rna,molecular-biology,trizol,isolation
 
 Isolation of RNA from whole worms using TRIZOL reagent (Gibco-BRL)
 

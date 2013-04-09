@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Homogenization Buffer
 Slug: homogenization-buffer
-Tags: buffer,pmsf,media &amp; solutions
+Tags: buffer,pmsf,media-solutions
 
 Homogenization Buffer
 

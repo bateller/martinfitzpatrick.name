@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Formaldehyde fixation for flow cytometry
 Slug: formaldehyde-fixation-for-flow-cytometry
-Tags: histology,rna,fixation,molecular biology
+Tags: histology,rna,fixation,molecular-biology
 
 Alternative fixation procedure for FACS fixation, using formaldehyde fixatice.
 

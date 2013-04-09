@@ -3,7 +3,7 @@ Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: DNA extraction from agarose gels (Paper-strip)
 Slug: dna-extraction-from-agarose-gels-paper-strip
-Tags: dna,molecular biology,extraction,agarose,gel
+Tags: dna,molecular-biology,extraction,agarose,gel
 
 Paper strip method for DNA extraction from agarose gels
 

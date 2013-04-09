@@ -3,7 +3,7 @@ Author: Gordon W. Laurie
 Email: 
 Title: Preparation of Competent XLI-Blue MRF’ Cells
 Slug: preparation-of-competent-xli-blue-mrf-cells
-Tags: molecular biology,competent,mrf,xli-blue,cell biology
+Tags: molecular-biology,competent,mrf,xli-blue,cell-biology
 
 Preparation of Competent XLI-Blue MRF’ Cells (ref. p. 1.76 of Maniatis)
 

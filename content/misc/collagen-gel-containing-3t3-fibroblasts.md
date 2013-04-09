@@ -3,7 +3,7 @@ Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: Collagen gel containing 3T3 fibroblasts
 Slug: collagen-gel-containing-3t3-fibroblasts
-Tags: raft culture,fibroblast,collagen,dermal,3t3
+Tags: raft-culture,fibroblast,collagen,dermal,3t3
 
 Collagen gel containing 3T3 fibroblasts (dermal equivalent for raft culture)
 

@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 10% Ammonium persulphate solution
 Slug: 10-ammonium-persulphate-solution
-Tags: ammonium persulphate,acrylamide
+Tags: ammonium-persulphate,acrylamide
 
 10% solution
 

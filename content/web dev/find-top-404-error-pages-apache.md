@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Find top 404 Error pages (Apache)
 Slug: find-top-404-error-pages-apache
-Tags: shell,apache,404,logs,apache2,web dev,computing
+Tags: shell,apache,404,logs,apache2,web-dev,computing
 
 A quick one-liner to find the most common pages giving 404 errors on your apache2 setup. Set this up as a shell alias to get easy access at any time.
 

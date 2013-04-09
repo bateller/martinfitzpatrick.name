@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 0.5 M EDTA 
 Slug: 05-m-edta
-Tags: edta,media &amp; solutions
+Tags: edta,media-solutions
 
 0.5 M EDTA 
 

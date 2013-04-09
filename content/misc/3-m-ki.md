@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 3 M KI
 Slug: 3-m-ki
-Tags: ki,media &amp; solutions
+Tags: ki,media-solutions
 
 3 M KI
 

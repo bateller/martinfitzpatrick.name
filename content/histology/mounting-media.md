@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Mounting Media
 Slug: mounting-media
-Tags: histology,media,mounting,media &amp; solutions
+Tags: histology,media,mounting,media-solutions
 
 Mounting Media
 

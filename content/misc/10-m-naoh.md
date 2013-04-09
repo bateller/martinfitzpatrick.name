@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 10 M NaOH
 Slug: 10-m-naoh
-Tags: naoh,media &amp; solutions
+Tags: naoh,media-solutions
 
 10 M NaOH
 

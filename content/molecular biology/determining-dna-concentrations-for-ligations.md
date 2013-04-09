@@ -3,7 +3,7 @@ Author: Ivan Delgado
 Email: ivanjdo@gmail.com
 Title: Determining DNA concentrations for ligations
 Slug: determining-dna-concentrations-for-ligations
-Tags: dna,molecular biology,ligase,vector
+Tags: dna,molecular-biology,ligase,vector
 
 Calculate DNA concentration for efficient DNA ligations. 
 

@@ -3,7 +3,7 @@ Author: Gordon W. Laurie
 Email: 
 Title: Rotary Shadowing
 Slug: rotary-shadowing
-Tags: em,electron microscopy,shadowing,rotary shadowing
+Tags: em,electron-microscopy,shadowing,rotary-shadowing
 
 In EM rotary shadowing allows resolution of portions of the specimen that might otherwise have been obscured by a static shadow. 
 

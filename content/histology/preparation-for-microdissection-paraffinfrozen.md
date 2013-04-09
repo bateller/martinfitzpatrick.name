@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Preparation for microdissection (Paraffin/Frozen)
 Slug: preparation-for-microdissection-paraffinfrozen
-Tags: histology,dna,microdissection,protein,molecular biology,biochemistry
+Tags: histology,dna,microdissection,protein,molecular-biology,biochemistry
 
 Basic protocol for Eosin & Haematoxylin histological preparation of microdissection slide.
 

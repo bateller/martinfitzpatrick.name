@@ -3,7 +3,7 @@ Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Embryo 4D Micro (Zeiss Axioplan 2 Axiovision 4.5)
 Slug: embryo-4d-micro-zeiss-axioplan-2-axiovision-45
-Tags: model organisms,4d-microscopy,embryo,zeiss,imaging
+Tags: model-organisms,4d-microscopy,embryo,zeiss,imaging
 
 Embryo 4D Microscopy Using the Zeiss Axioplan 2 and Axiovision 4.5 Software
 
