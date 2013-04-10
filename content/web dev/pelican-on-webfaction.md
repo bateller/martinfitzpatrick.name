@@ -85,6 +85,8 @@ Back in the shell, initiaise the github repo and then re-home it to your github 
 
 	:::bash
 	git init
+	git add .
+	git commit -a -m "Initial commit"
 	git remote add origin git@github.com:<github-username>/<github-repo-name>.git
 	git push -u origin master
 	
