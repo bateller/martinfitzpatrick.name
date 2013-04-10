@@ -79,7 +79,7 @@ Following in Dominic's footsteps I decided to use [github][github] for my conten
 
 The first step is to log into your Github account and create the new repo, calling it whatever you like. **Do not add a README.md** as we need the repo empty to do the next thing - if you mess it up, just delete and recreate. Github is fine with that. Once created make note of your repo's read & write git url (SSH).
 
-> If you haven't set up github with your SSH keys you'll need to do that now. Generate a key on your Webfaction host using `ssh-keygen`. Then at the SSH prompt enter `less ~/.ssh/id_rsa.pub` to see the generated public key and copy-paste it into your [Github SSH settings](https://github.com/settings/ssh). Hit `q` to exit less.
+> If you haven't set up github with your SSH keys you'll need to do that now. Generate a key on your Webfaction host using `ssh-keygen`. At the SSH prompt enter `less ~/.ssh/id_rsa.pub` to see the generated public key and copy-paste it into your [Github SSH settings](https://github.com/settings/ssh). Hit `q` to exit less.
 
 Back in the shell, initiaise the github repo and then re-home it to your github repo.
 
