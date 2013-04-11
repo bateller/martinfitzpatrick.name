@@ -40,6 +40,7 @@ SOCIAL = (
           ('Twitter', 'twitter', 'https://twitter.com/golifescience'),
 #          ('Facebook', 'facebook', 'https://facebook.com/research.abl.es'),
           ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/'),
+          ('ResearchGate', 'researchgate', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
         )
 
 DEFAULT_PAGINATION = 10
