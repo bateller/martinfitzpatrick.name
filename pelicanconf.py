@@ -38,7 +38,7 @@ SOCIAL = (
           ('RSS', 'rss', '%s/%s' % (FEED_DOMAIN, FEED_ATOM) ),
 #          ('Facebook', 'facebook', 'https://facebook.com/research.abl.es'),
           ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/'),
-          ('Twitter', 'twitter', 'https://twitter.com/golifescience'),
+          ('Twitter', 'twitter', 'https://twitter.com/mfitzp'),
           ('ResearchGate', 'researchgate', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
           ('Github', 'github', 'https://github.com/mfitzp'),
         )
