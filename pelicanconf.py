@@ -36,11 +36,11 @@ LINKS =  (
 # Social widget
 SOCIAL = (
           ('RSS', 'rss', '%s/%s' % (FEED_DOMAIN, FEED_ATOM) ),
-          ('Github', 'github', 'https://github.com/mfitzp'),
-          ('Twitter', 'twitter', 'https://twitter.com/golifescience'),
 #          ('Facebook', 'facebook', 'https://facebook.com/research.abl.es'),
           ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/'),
+          ('Twitter', 'twitter', 'https://twitter.com/golifescience'),
           ('ResearchGate', 'researchgate', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
+          ('Github', 'github', 'https://github.com/mfitzp'),
         )
 
 DEFAULT_PAGINATION = 10
