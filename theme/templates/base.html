@@ -47,160 +47,92 @@
   <ul class="title-area">
     <!-- Title Area -->
     <li class="name">
-      <h1><a href="#">Top Bar Title </a></h1>
+      <h1><a href="http://martinfitzpatrick.name">MARTIN FITZPATRICK <span class="lowlight">MRes</span></a></h1>
     </li>
     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
     <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
   </ul>
 
   <section class="top-bar-section">
-    <!-- Left Nav Section -->
-    <ul class="left">
-      <li class="divider"></li>
-      <li class="active"><a href="#">Main Item 1</a></li>
-      <li class="divider"></li>
-      <li><a href="#">Main Item 2</a></li>
-      <li class="divider"></li>
-      <li class="has-dropdown"><a href="#">Main Item 3</a>
-
-        <ul class="dropdown">
-          <li class="has-dropdown"><a href="#">Dropdown Level 1a</a>
-
-            <ul class="dropdown">
-              <li><label>Dropdown Level 2 Label</label></li>
-              <li><a href="#">Dropdown Level 2a</a></li>
-              <li><a href="#">Dropdown Level 2b</a></li>
-              <li class="has-dropdown"><a href="#">Dropdown Level 2c</a>
-
-                <ul class="dropdown">
-                  <li><label>Dropdown Level 3 Label</label></li>
-                  <li><a href="#">Dropdown Level 3a</a></li>
-                  <li><a href="#">Dropdown Level 3b</a></li>
-                  <li class="divider"></li>
-                  <li><a href="#">Dropdown Level 3c</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Dropdown Level 2d</a></li>
-              <li><a href="#">Dropdown Level 2e</a></li>
-              <li><a href="#">Dropdown Level 2f</a></li>
-            </ul>
-          </li>
-          <li><a href="#">Dropdown Level 1b</a></li>
-          <li><a href="#">Dropdown Level 1c</a></li>
-          <li class="divider"></li>
-          <li><a href="#">Dropdown Level 1d</a></li>
-          <li><a href="#">Dropdown Level 1e</a></li>
-          <li><a href="#">Dropdown Level 1f</a></li>
-          <li class="divider"></li>
-          <li><a href="#">See all &rarr;</a></li>
-        </ul>
-      </li>
-      <li class="divider"></li>
-    </ul>
 
     <!-- Right Nav Section -->
-    <ul class="right">
+    <ul class="right root">
       <li class="divider hide-for-small"></li>
-      <li class="has-dropdown"><a href="#">Main Item 4</a>
 
+      <li><a href="/">Home</a></li>
+
+	  {% for p in PAGES %}
+		<li{% if p == page %} class="active"{% endif %} class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+	  {% endfor %}
+
+      <li class="has-dropdown"><a href="#">Blog</a>
         <ul class="dropdown">
-          <li><label>Dropdown Level 1 Label</label></li>
-          <li class="has-dropdown"><a href="#" class="">Dropdown Level 1a</a>
-
-            <ul class="dropdown">
-              <li><a href="#">Dropdown Level 2a</a></li>
-              <li><a href="#">Dropdown Level 2b</a></li>
-              <li class="has-dropdown"><a href="#">Dropdown Level 2c</a>
-
-                <ul class="dropdown">
-                  <li><a href="#">Dropdown Level 3a</a></li>
-                  <li><a href="#">Dropdown Level 3b</a></li>
-                  <li><a href="#">Dropdown Level 3c</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Dropdown Level 2d</a></li>
-              <li><a href="#">Dropdown Level 2e</a></li>
-              <li><a href="#">Dropdown Level 2f</a></li>
-            </ul>
-          </li>
-          <li><a href="#">Dropdown Level 1b</a></li>
-          <li><a href="#">Dropdown Level 1c</a></li>
-          <li class="divider"></li>
-          <li><label>Dropdown Level 1 Label</label></li>
-          <li><a href="#">Dropdown Level 1d</a></li>
-          <li><a href="#">Dropdown Level 1e</a></li>
-          <li><a href="#">Dropdown Level 1f</a></li>
-          <li class="divider"></li>
-          <li><a href="#">See all &rarr;</a></li>
+			{% if DISPLAY_CATEGORIES_ON_MENU %}
+			  {% for cat, null in categories %}
+				<li{% if cat == category %} class="active"{% endif %} class="menu-item menu-item-type-post_type menu-item-object-page has-inline-counter"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat|title }} <span class="inline-counter"></span><span class="inline-counter-right radius secondary label ">{{ null|length }}</span></a></li>
+			  {% endfor %}
+			{% endif %}
         </ul>
+
       </li>
-      <li class="divider"></li>
-      <li class="has-form">
-        <form>
-          <div class="row collapse">
-            <div class="small-8 columns">
-              <input type="text">
-            </div>
-            <div class="small-4 columns">
-              <a href="#" class="alert button">Search</a>
-            </div>
-          </div>
-        </form>
-      </li>
-      <li class="divider show-for-small"></li>
-      <li class="has-form">
-        <a class="button" href="#">Button!</a>
-      </li>
+
+	  {% for title, link in MENUITEMS %}
+		    <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ link }}">{{ title }}</a></li>
+	  {% endfor %}
+
+
+      <li class="has-dropdown"><a href="#">Links</a>
+        <ul class="dropdown">
+			{% if LINKS %}
+			  {% for name, url in LINKS %}
+				<li class="active" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ url }}">{{ name }}</a></li>
+			  {% endfor %}
+			{% endif %}
+            </ul>
+        </li>
+
     </ul>
   </section>
 </nav>
 </div>
+{% if page_name == 'index' %}
+    <div class="image-header">
+        <div class="image-header-row row">
+        <div class="large-7 columns image-header-overlay">
+            <h1>Postgraduate Researcher in Metabolomics</h1>            
+            <h6>
+                <a href="{{ SITEURL }}/category/bioinformatics">Bioinformatics</a> | 
+                <a href="{{ SITEURL }}/category/immunology">Immunology</a> |
+                <a href="{{ SITEURL }}/tag/python">Python</a> |
+                <a href="{{ SITEURL }}/category/web">Web</a>
+            </h6>
+        </div>
+        </div>
+    </div>
+{% endif %}
 
-
-
-    <div class="row">
-    <div class="large-10 columns large-offset-1 menu">
-
-	<div class="row">
-        <div class="large-12 columns" id="header">
-            <a href="{{ SITEURL }}"><img src="{{ SITEURL }}/theme/img/gols.png" alt="{{ SITENAME }}"></a>
-        </div><!--/#large-9 columns-->
-    </div><!-- /#row -->
-
-    <div class="row">
-    <div class="large-12 columns menu" id="menu">
-		<ul id="menu-navigation" class="menu">
-			{% for title, link in MENUITEMS %}
-				<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ link }}">{{ title }}</a></li>
-			{% endfor %}
-			  {% for p in PAGES %}
-				<li{% if p == page %} class="active"{% endif %} class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
-			  {% endfor %}
-			{% if DISPLAY_CATEGORIES_ON_MENU %}
-			  {% for cat, null in categories %}
-				<li{% if cat == category %} class="active"{% endif %} class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-			  {% endfor %}
-			{% endif %}
-
-		</ul>
-
+<div class="row">
+<div class="large-12 columns" id="menu">
 		<ul id="menu-navigation" class="menu links">
 			{% if SOCIAL %}
 			  {% for name, icon, url in SOCIAL %}
 				<li class="active" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ url }}" class="social-label-{{ icon }}"><i class="social foundicon-{{ icon }}"></i> {{ name }}</a></li>
 			  {% endfor %}
 			{% endif %}
-<!--
-			{% if LINKS %}
-			  {% for name, url in LINKS %}
-				<li class="active" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ url }}">{{ name }}</a></li>
-			  {% endfor %}
-			{% endif %}
--->
-		</ul>
+        </ul>
 
-		</div> <!--/#large-9 columns-->
-	</div><!-- /#row -->
+</div>
+
+    <div class="row">
+    <div class="large-10 columns large-offset-1 menu">
+<!--
+	<div class="row">
+        <div class="large-12 columns" id="header">
+            <a href="{{ SITEURL }}"><img src="{{ SITEURL }}/theme/img/gols.png" alt="{{ SITENAME }}"></a>
+        </div><!--/#large-9 columns-->
+<!--    </div>--><!-- /#row -->
+
+
 
     <div class="row">
         <div class="large-9 large-offset-3 columns">
@@ -225,7 +157,7 @@
 
 
 			<p>
-                &copy;2012-2013 <a href="http://golifescience.com">goLS</a> Licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY</a> and <a href="http://www.gnu.org/licenses/gpl-3.0.html">GPLv3</a>
+                &copy;2012-2013 <a href="http://martinfitzpatrick.name">Martin Fitzpatrick</a> Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a> and <a href="http://www.gnu.org/licenses/gpl-3.0.html">GPLv3</a>
                 &bull; {{ FOOTER_TEXT or 'Powered by <a href="http://pelican.readthedocs.org">Pelican</a>' }}
                 &bull; Hosted by <a href="http://www.webfaction.com?affiliate=spenglr">Webfaction</a>
 			</p>

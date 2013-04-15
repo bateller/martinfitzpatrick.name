@@ -66,8 +66,8 @@ SITEMAP = {
 }
 
 
-ARTICLE_URL = 'posts/{slug}'
-ARTICLE_SAVE_AS = 'posts/{slug}.html'
+ARTICLE_URL = 'blog/{slug}'
+ARTICLE_SAVE_AS = 'blog/{slug}.html'
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}.html'
 AUTHOR_URL = 'author/{slug}'

@@ -40,18 +40,20 @@ body {
 	margin-bottom: 25px;
 	padding: 10px;
 	text-align: right;
+    text-transform: uppercase;
+    font-family: 'Oswald', Helvetica, Arial, sans-serif;
 }
 #menu img {
 	margin-bottom: 10px;
 }
 #menu a {
 	color: #666;
-	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+	/* font-family: 'Oswald', Helvetica, Arial, sans-serif; */
 	font-size: 18px;
 	margin: 0 10px;
 	padding: 4px 0;
 	text-decoration: none;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
 #menu a:hover {
 	color: #000;
@@ -156,14 +158,14 @@ body {
 	width: 580px;
 }
 .hentry .entry-meta {
-	font-family: 'Oswald', Helvetica, Arial, sans-serif;
 	font-size: 25px;
 	float: left;
 	margin: 35px 0 0 -199px;
 	padding: 0px;
 	text-align: right;
-	text-transform: uppercase;
 	width: 190px;
+	text-transform: uppercase;
+    font-family: 'Oswald', Helvetica, Arial, sans-serif;
 }
 .hentry .entry-meta a {
 	text-decoration: none;
@@ -208,7 +210,7 @@ body {
 }
 .entry-title {
 	color: #666;
-	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+	/* font-family: 'Oswald', Helvetica, Arial, sans-serif; */
 	font-size: 25px;
 	line-height: 38px;
 	margin: 5px 0px 15px 0px;
@@ -407,11 +409,101 @@ body {
     width:300px;
 }
 
+.top-bar * {
+    font-family: 'Oswald', Helvetica, Arial, sans-serif;
+}
+
+.top-bar ul.root > li {
+
+}
+
+.top-bar .name h1 a {
+    font-family: 'Oswald', Helvetica, Arial, sans-serif;
+    atext-transform:uppercase;
+}
+
+.lowlight { 
+    color: #ef4323;
+}
+
+/* .top-bar-section > ul > .divider  {
+    border-right-color: #ef4323;
+} */
 
 
-h1,h2,h3,h4,h5,h6 {
-	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+.top-bar-section ul.dropdown li > a {
+    height:30px;
+    line-height:15px;
+}
+
+.has-inline-counter {
+    position:relative;
+}
+.inline-label-right {
+    position:absolute;  
+    right:0;
+}
+
+
+.image-header {
+    background:url('../img/home-photo.jpg') right no-repeat;
+    height:480px;
+    position:relative;
+}
+
+
+.image-header-overlay {
+    position:absolute;
+    width:550px;
+    height:200px;
+
+    top:180px;
+
+    background-color:rgba(239,67,35,0.6);
+    color:#fff;
+    padding:0 1em;
+    margin:0 1em;
+}
+
+.image-header-overlay * {
+    color:#fff;
+}
+
+.image-header-overlay h6 {
+    margin:0;
     text-transform:uppercase;
+    font-family: 'Oswald', Helvetica, Arial, sans-serif;
+    color: #ef4323;
+}
+
+.image-header-overlay h6 a {
+    color:#fff;
+}
+
+.inline-counter {
+    width:4em;
+    display:inline-block;
+}
+
+.inline-counter span {
+    margin:0; padding:0;
+    display:inline-block;
+}
+
+.inline-counter-right {
+    position:absolute; 
+    right:12px;
+}
+
+
+.site-title {
+    background:url('../img/gols-tiny.png') left no-repeat;
+    padding-left:15px;
+}
+
+#contents h1, #contents h2, #contents h3, #contents h4, #contents h5, #contents h6 {
+	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+    /* text-transform:uppercase; */
 }
 
 .entry-content h1 { font-size: 1.5em; }
@@ -449,4 +541,6 @@ aside {
     width:200px;
 }
 
+img.inline.left { padding: 0.2em 1em 0.2em 0; }
+img.inline.right { padding: 0.2em 0em 0.2em 1em; }
 
