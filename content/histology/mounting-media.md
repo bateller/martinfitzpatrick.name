@@ -2,8 +2,8 @@ Date: 2011-10-10 10:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Mounting Media
-Slug: methods/1340/mounting-media
-Tags: histology,media,mounting,media &amp; solutions
+Slug: mounting-media
+Tags: histology,media,mounting,media-solutions
 
 Mounting Media
 
@@ -25,4 +25,8 @@ Combine ingredients in suitable container. Store for use.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.bio.unc.edu/faculty/salmon/lab/protocolscommonbuffers.html).
 

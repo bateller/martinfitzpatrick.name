@@ -2,8 +2,8 @@ Date: 2012-02-06 09:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: PLC buffer for Immunoprecipitation
-Slug: methods/1438/plc-buffer-for-immunoprecipitation
-Tags: buffer,immunoprecipitation,plc,media &amp; solutions
+Slug: plc-buffer-for-immunoprecipitation
+Tags: buffer,immunoprecipitation,plc,media-solutions
 
 PLC buffer for Immunoprecipitation
 
@@ -33,4 +33,8 @@ Combine the ingredients in a suitable container, and then add the inhibitors.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/immunoprecipitation_protocol.htm).
 

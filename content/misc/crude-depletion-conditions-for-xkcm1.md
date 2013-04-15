@@ -2,7 +2,7 @@ Date: 2012-05-06 06:05
 Author: Timothy Mitchison
 Email: timothy_mitchison@hms.harvard.edu
 Title: Crude Depletion Conditions for XKCM1
-Slug: methods/1500/crude-depletion-conditions-for-xkcm1
+Slug: crude-depletion-conditions-for-xkcm1
 Tags: csf,immunodepletion,xkcm1,xenopus
 
 Crude Depletion Conditions for XKCM1. The following is for depleting a protein present at ~ 10-20 ug/ml in the extract with high affinity polyclonal antibodies, using anti-XKCM1 as an example. (Arshad Desai 3/17/95)
@@ -70,4 +70,8 @@ Assay depletions by blots; also run rest of pellet on coomassie gel to estimate 
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://mitchison.med.harvard.edu/protocols/ext1.html).
 

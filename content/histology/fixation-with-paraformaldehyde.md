@@ -2,7 +2,7 @@ Date: 2011-07-15 09:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Fixation with paraformaldehyde  
-Slug: methods/32/fixation-with-paraformaldehyde
+Slug: fixation-with-paraformaldehyde
 Tags: histology,fixation
 
 Fixation with paraformaldehyde
@@ -42,4 +42,8 @@ Store at RT and ideally use within 48h.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.bristol.ac.uk/vetpath/cpl/histfix.htm).
 

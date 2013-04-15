@@ -2,7 +2,7 @@ Date: 2012-02-20 08:02
 Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Tissue Preparation for Vibratome Sectioning
-Slug: methods/1446/tissue-preparation-for-vibratome-sectioning
+Slug: tissue-preparation-for-vibratome-sectioning
 Tags: histology,paraformaldehyde,vibratome
 
 Tissue preparation for vibratome sectioning.
@@ -44,4 +44,8 @@ Collect sections in 0.1M PBS (add azide 0.05% for long term storage>1 week).
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://web.qbi.uq.edu.au/microscopy/?page_id=458).
 

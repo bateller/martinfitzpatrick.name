@@ -2,8 +2,8 @@ Date: 2011-10-29 08:10
 Author: Gordon W. Laurie
 Email: 
 Title: Endotoxin Assay
-Slug: methods/1388/endotoxin-assay
-Tags: assay,endotoxin assay,endotoxin
+Slug: endotoxin-assay
+Tags: assay,endotoxin-assay,endotoxin
 
 Endotoxin Assay
 
@@ -56,4 +56,8 @@ Read on plate reader at 405nm. Look at analyzed graph to get EU values for test 
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://people.virginia.edu/~gwl6s/home.html/Methods/Endotoxin.html).
 

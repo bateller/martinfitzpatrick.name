@@ -2,7 +2,7 @@ Date: 2011-10-11 12:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 100 mM Sodium orthovanadate
-Slug: methods/1366/100-mm-sodium-orthovanadate
+Slug: 100-mm-sodium-orthovanadate
 Tags: orthovanadate,sodium
 
 100 mM Sodium orthovanadate
@@ -46,6 +46,8 @@ Adjust to final concentration by checking A265 nm, ext. coeff.= 2925M-1cm-1and a
 
 Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.org/10.1002/0471143030.cb1301s00)  (2001)
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
+
+
 
 
 

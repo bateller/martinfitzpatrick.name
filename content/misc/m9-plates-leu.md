@@ -2,7 +2,7 @@ Date: 2012-02-05 05:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: M9 Plates -Leu
-Slug: methods/1428/m9-plates-leu
+Slug: m9-plates-leu
 Tags: plates,m9,leu
 
 The following recipe is for one litre of plates.  
@@ -49,4 +49,8 @@ Pour plates and label appropriately.  1L = ~40 plates
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/m9_plates_-leu.htm).
 

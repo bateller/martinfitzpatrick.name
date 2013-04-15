@@ -2,8 +2,8 @@ Date: 2012-04-22 11:04
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Cell Culture Freezing Media
-Slug: methods/1493/cell-culture-freezing-media
-Tags: media,freezing,cell biology,media &amp; solutions
+Slug: cell-culture-freezing-media
+Tags: media,freezing,cell-biology,media-solutions
 
 Media for freezing of cells for culture.
 
@@ -32,6 +32,8 @@ Aliquot into tubes as appropriate
 
 
 >Store the tubes at -80oC for up to one year.
+
+
 
 
 

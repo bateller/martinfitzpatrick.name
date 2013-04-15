@@ -2,8 +2,8 @@ Date: 2011-10-17 07:10
 Author: Ivan Delgado
 Email: ivanjdo@gmail.com
 Title: Phosphatase Removal of PO4 groups from DNA
-Slug: methods/1378/phosphatase-removal-of-po4-groups-from-dna
-Tags: dna,molecular biology,alkaline,phosphatase
+Slug: phosphatase-removal-of-po4-groups-from-dna
+Tags: dna,molecular-biology,alkaline,phosphatase
 
 The removal of phosphate groups from DNA using Alkaline Phosphatase
 
@@ -38,4 +38,8 @@ NOTE: the EDTA/EGTA should not interfere with ligation reactions if only 0.1X Vo
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://ivaan.com/protocols/153.html).
 

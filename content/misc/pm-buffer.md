@@ -2,8 +2,8 @@ Date: 2011-10-10 10:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: PM  Buffer
-Slug: methods/1341/pm-buffer
-Tags: buffer,pipes,pm,media &amp; solutions
+Slug: pm-buffer
+Tags: buffer,pipes,pm,media-solutions
 
 PM  Buffer
 
@@ -41,6 +41,8 @@ Distilled water to 1 liter. Store until required.
 
 Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.org/10.1002/0471143030.cb1301s00)  (2001)
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
+
+
 
 
 

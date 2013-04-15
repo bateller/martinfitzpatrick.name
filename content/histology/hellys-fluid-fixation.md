@@ -2,7 +2,7 @@ Date: 2011-07-15 09:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Helly&#39;s fluid fixation
-Slug: methods/29/hellys-fluid-fixation
+Slug: hellys-fluid-fixation
 Tags: histology,fixation
 
 Fixation using Helly's fluid
@@ -46,4 +46,8 @@ Wash fixed tissue for 24hours prior to processing
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.bristol.ac.uk/vetpath/cpl/histfix.htm).
 

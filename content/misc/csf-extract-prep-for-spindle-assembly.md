@@ -2,8 +2,8 @@ Date: 2012-05-06 06:05
 Author: Timothy Mitchison
 Email: timothy_mitchison@hms.harvard.edu
 Title: CSF Extract Prep for Spindle Assembly
-Slug: methods/1499/csf-extract-prep-for-spindle-assembly
-Tags: csf,extract,spindle assembly
+Slug: csf-extract-prep-for-spindle-assembly
+Tags: csf,extract,spindle-assembly
 
 This protocol is essentially as described by Murray (1991), Cell Cycle Extracts. In Methods in Cell Biology, B.K. Kay and B. Peng, eds. (San Diego: Academic Press), pp. 581-605. I've included a protocol which emphasizes the points that we find are most important for obtaining good CSF extracts that are competent for CSF spindle assembly and for cycled spindle assembly. The indicated buffer amounts are sufficient for a 4 frog prep. For sperm nucleus preparation, see above protocol. For spindle assembly, see Sawin and Mitchison (1991) J. Cell Biol. 112: 925-940. ( Claire Walczak 11/1995 )
 
@@ -111,4 +111,8 @@ Add 1/1000 volume of LPC and cyto D; 1/20 vol of 20X energy mix; 1/40 vol 2M suc
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://mitchison.med.harvard.edu/protocols/ext3.html).
 

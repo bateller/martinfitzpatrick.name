@@ -2,8 +2,8 @@ Date: 2011-10-10 10:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: High Salt Buffer
-Slug: methods/1345/high-salt-buffer
-Tags: buffer,salt,media &amp; solutions
+Slug: high-salt-buffer
+Tags: buffer,salt,media-solutions
 
 High Salt Buffer
 
@@ -41,6 +41,8 @@ Add distilled water to final volume of 1 liter. Store until required.
 
 Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.org/10.1002/0471143030.cb1301s00)  (2001)
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
+
+
 
 
 

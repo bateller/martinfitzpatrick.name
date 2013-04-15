@@ -21,6 +21,11 @@ PLUGINS = [
 #        'pelican.plugins.gzip_cache',   
         'pelican.plugins.sitemap',
         ]
+        
+
+FILES_TO_COPY = ( ('extra/robots.txt', 'robots.txt'),
+                  ('extra/favicon.ico', 'favicon.ico'),
+                  ('extra/.htaccess', '.htaccess'), )
 
 # Blogroll
 LINKS =  (
@@ -31,10 +36,12 @@ LINKS =  (
 # Social widget
 SOCIAL = (
           ('RSS', 'rss', '%s/%s' % (FEED_DOMAIN, FEED_ATOM) ),
-          ('Github', 'github', 'https://github.com/mfitzp'),
-          ('Twitter', 'twitter', 'https://twitter.com/golifescience'),
 #          ('Facebook', 'facebook', 'https://facebook.com/research.abl.es'),
           ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/'),
+          ('ORCID', 'orcid', 'http://orcid.org/0000-0002-0695-1988'),
+          ('Twitter', 'twitter', 'https://twitter.com/mfitzp'),
+          ('ResearchGate', 'researchgate', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
+          ('Github', 'github', 'https://github.com/mfitzp'),
         )
 
 DEFAULT_PAGINATION = 10
@@ -47,7 +54,7 @@ GITHUB_ACTIVITY_FEED = 'https://github.com/mfitzp.atom'
 SITEMAP = {
     'format': 'xml',
     'priorities': {
-        'articles': 0.5,
+        'articles': 1,
         'indexes': 0.5,
         'pages': 0.5
     },
@@ -59,16 +66,16 @@ SITEMAP = {
 }
 
 
-ARTICLE_URL = '{slug}/'
-ARTICLE_SAVE_AS = '{slug}/index.html'
-PAGE_URL = 'pages/{slug}/'
-PAGE_SAVE_AS = 'pages/{slug}/index.html'
-AUTHOR_URL = 'author/{slug}/'
-AUTHOR_SAVE_AS = 'author/{slug}/index.html'
-CATEGORY_URL = 'category/{slug}/'
-CATEGORY_SAVE_AS = 'category/{slug}/index.html'
-TAG_URL = 'tag/{slug}/'
-TAG_SAVE_AS = 'tag/{slug}/index.html'
+ARTICLE_URL = 'posts/{slug}'
+ARTICLE_SAVE_AS = 'posts/{slug}.html'
+PAGE_URL = '{slug}'
+PAGE_SAVE_AS = '{slug}.html'
+AUTHOR_URL = 'author/{slug}'
+AUTHOR_SAVE_AS = 'author/{slug}.html'
+CATEGORY_URL = 'category/{slug}'
+CATEGORY_SAVE_AS = 'category/{slug}.html'
+TAG_URL = 'tag/{slug}'
+TAG_SAVE_AS = 'tag/{slug}.html'
 
 
 DISQUS_SITENAME = 'golifescience'
@@ -78,4 +85,3 @@ GITHUB_URL = 'https://github.com/mfitzp'
 TWITTER_USERNAME = 'golifescience'
 
 THEME = 'theme'
-

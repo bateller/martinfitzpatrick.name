@@ -2,8 +2,8 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Restoration from DMSO cryopreservation
-Slug: methods/10/restoration-from-dmso-cryopreservation
-Tags: dmso,cryostore,cryopreservation,cell culture,restoration,cell biology,media &amp; solutions
+Slug: restoration-from-dmso-cryopreservation
+Tags: dmso,cryostore,cryopreservation,cell-culture,restoration,cell-biology,media-solutions
 
 Restoration of culture cells from storage at -80°C with 10% DMSO cryopreservation.
 
@@ -42,6 +42,8 @@ Incubate overnight.
 
 
 If cells are respirating effectively media will turn yellow. Add media up to 5ml to culture.
+
+
 
 
 

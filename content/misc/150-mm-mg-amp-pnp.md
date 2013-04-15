@@ -2,7 +2,7 @@ Date: 2011-10-11 12:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 150 mM Mg AMP-PNP
-Slug: methods/1365/150-mm-mg-amp-pnp
+Slug: 150-mm-mg-amp-pnp
 Tags: amp,pnp
 
 150 mM Mg AMP-PNP
@@ -35,6 +35,8 @@ Add 225 ml distilled water to give a final volume of 315 ml. Store at -20oC
 
 Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.org/10.1002/0471143030.cb1301s00)  (2001)
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
+
+
 
 
 

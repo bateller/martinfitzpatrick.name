@@ -2,8 +2,8 @@ Date: 2012-02-05 06:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: T-A cloning Vectors
-Slug: methods/1431/t-a-cloning-vectors
-Tags: pcr,molecular biology,vector,t-a-cloning,ecorv,cloning
+Slug: t-a-cloning-vectors
+Tags: pcr,molecular-biology,vector,t-a-cloning,ecorv,cloning
 
 A method for direct cloning a PCR product, by the T-vector technique. This is cheap and easy way to clone PCR products with A 3’ overhangs.
 
@@ -65,6 +65,8 @@ Pick white colonies to prep.
 
 Marchuk D, Drumm M, Saulino A, Collins FS [Construction of T-vectors, a rapid and general system for direct cloning of unmodified PCR products.](http://www.ncbi.nlm.nih.gov/pubmed/2020552) _Nucleic Acids Res_ (1991)
 [pmid:2020552](http://www.ncbi.nlm.nih.gov/pubmed/2020552)
+
+
 
 
 

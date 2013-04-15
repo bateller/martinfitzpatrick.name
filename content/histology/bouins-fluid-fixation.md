@@ -2,7 +2,7 @@ Date: 2011-07-15 09:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Bouin&#39;s fluid fixation
-Slug: methods/26/bouins-fluid-fixation
+Slug: bouins-fluid-fixation
 Tags: histology,fixation
 
 Fixation of histological samples with Bouin's fluid
@@ -36,4 +36,8 @@ Transfer fixed tissue to 70% alcohol
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.bristol.ac.uk/vetpath/cpl/histfix.htm).
 

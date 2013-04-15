@@ -2,7 +2,7 @@ Date: 2012-02-01 01:02
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Find all files containing a given string
-Slug: methods/1534/find-all-files-containing-a-given-string
+Slug: find-all-files-containing-a-given-string
 Tags: mac,bash,cli,linux,computing
 
 A quick one-liner to recursively search files for a given text string.
@@ -46,6 +46,8 @@ You can also replace `.` with the name of any other folder to search:
     find /var/www -name *.html -exec grep -l "foo" {} \;
 
 This will search `/var/www` recursively for files named `*.html` and containing `foo`.
+
+
 
 
 

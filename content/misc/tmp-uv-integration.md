@@ -2,7 +2,7 @@ Date: 2012-02-05 05:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: TMP UV Integration
-Slug: methods/1425/tmp-uv-integration
+Slug: tmp-uv-integration
 Tags: tmp,uv
 
 TMP UV Integration (from Scott Clark)
@@ -72,4 +72,8 @@ Typically recover 1-3 integrants/100 F1.  (compared with 1-3 integrants/3-400 F1
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/tmp_uv_integration.htm).
 

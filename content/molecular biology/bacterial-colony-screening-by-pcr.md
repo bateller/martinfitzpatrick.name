@@ -2,8 +2,8 @@ Date: 2011-07-25 07:07
 Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: Bacterial colony screening by PCR
-Slug: methods/44/bacterial-colony-screening-by-pcr
-Tags: pcr,colony,bacteria,screening,molecular biology,microbiology
+Slug: bacterial-colony-screening-by-pcr
+Tags: pcr,colony,bacteria,screening,molecular-biology,microbiology
 
 One of the fastest way to screen bacterial colonies. 
 
@@ -82,4 +82,8 @@ When you have the result you can go to the replica agar plate on the same day an
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://methodbook.net/pcr/pcrscreen.html).
 

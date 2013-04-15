@@ -2,7 +2,7 @@ Date: 2011-10-29 12:10
 Author: Gordon W. Laurie
 Email: 
 Title: Tear Collection Method
-Slug: methods/1384/tear-collection-method
+Slug: tear-collection-method
 Tags: tear,lacrimal,collection
 
 Tear Collection Method; Scot Bower and Denise Sediq 4.13.09 developed from Jones 1997
@@ -46,6 +46,8 @@ Place the collection wick gently into a 1.5-ml Eppendorf tube, and freeze at -70
 
 Jones DT, Monroy D, Pflugfelder SC [A novel method of tear collection: comparison of glass capillary micropipettes with porous polyester rods.](http://www.ncbi.nlm.nih.gov/pubmed/9220244) _Cornea_ (1997)
 [pmid:9220244](http://www.ncbi.nlm.nih.gov/pubmed/9220244)
+
+
 
 
 

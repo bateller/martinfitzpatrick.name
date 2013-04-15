@@ -2,8 +2,8 @@ Date: 2011-07-25 10:07
 Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: Retroviral infection of PHKs
-Slug: methods/51/retroviral-infection-of-phks
-Tags: virus,cell,rna,molecular biology,media,culture,phk,keratinocyte,primary,infection,retroviral,microbiology,media &amp; solutions
+Slug: retroviral-infection-of-phks
+Tags: virus,cell,rna,molecular-biology,media,culture,phk,keratinocyte,primary,infection,retroviral,microbiology,media-solutions
 
 Retroviral infection of primary human keratinocytes (PHKs)
 
@@ -113,4 +113,8 @@ G418 + Puro: try 50µg/mL G418 + 0.4µg/mL puro.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://methodbook.net/cellcult/infectn.html).
 

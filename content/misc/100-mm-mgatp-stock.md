@@ -2,7 +2,7 @@ Date: 2011-10-10 11:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 100 mM MgATP Stock
-Slug: methods/1359/100-mm-mgatp-stock
+Slug: 100-mm-mgatp-stock
 Tags: mgatp,mgso4
 
 100 mM MgATP Stock
@@ -52,6 +52,8 @@ Aliquot in 200ml quantities and store at -20oC until further use.
 
 Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.org/10.1002/0471143030.cb1301s00)  (2001)
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
+
+
 
 
 

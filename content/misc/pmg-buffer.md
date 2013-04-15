@@ -2,8 +2,8 @@ Date: 2011-10-10 11:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: PMG Buffer
-Slug: methods/1348/pmg-buffer
-Tags: buffer,pipes,egta,media &amp; solutions
+Slug: pmg-buffer
+Tags: buffer,pipes,egta,media-solutions
 
 PMG Buffer
 
@@ -41,6 +41,8 @@ Add distilled water to 1 liter. Store for later use.
 
 Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.org/10.1002/0471143030.cb1301s00)  (2001)
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
+
+
 
 
 

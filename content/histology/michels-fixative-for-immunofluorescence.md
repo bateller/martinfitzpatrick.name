@@ -2,7 +2,7 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Michel&#39;s fixative for immunofluorescence
-Slug: methods/31/michels-fixative-for-immunofluorescence
+Slug: michels-fixative-for-immunofluorescence
 Tags: histology,fixation,immunofluorescence
 
 Michel's fixative for immunofluorescence
@@ -52,4 +52,8 @@ Freeze tissues at -70'C until ready for use
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.bristol.ac.uk/vetpath/cpl/histfix.htm).
 

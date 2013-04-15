@@ -2,8 +2,8 @@ Date: 2011-10-10 10:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Isolation Buffer
-Slug: methods/1344/isolation-buffer
-Tags: buffer,edta,hepes,media &amp; solutions
+Slug: isolation-buffer
+Tags: buffer,edta,hepes,media-solutions
 
 Isolation Buffer
 
@@ -41,6 +41,8 @@ Add further distilled water to final volume of 1 litre. Store until required.
 
 Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.org/10.1002/0471143030.cb1301s00)  (2001)
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
+
+
 
 
 

@@ -2,8 +2,8 @@ Date: 2011-10-10 11:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 3.6 mM Brefeldin A
-Slug: methods/1361/36-mm-brefeldin-a
-Tags: brefeldina,ethanol,media &amp; solutions
+Slug: 36-mm-brefeldin-a
+Tags: brefeldina,ethanol,media-solutions
 
 3.6 mM Brefeldin A 
 
@@ -34,6 +34,8 @@ Add absolute ethanol up to a final volume of 12ml. Store at -20oC until required
 
 Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.org/10.1002/0471143030.cb1301s00)  (2001)
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
+
+
 
 
 

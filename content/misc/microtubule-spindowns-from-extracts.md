@@ -2,7 +2,7 @@ Date: 2012-05-17 09:05
 Author: Timothy Mitchison
 Email: timothy_mitchison@hms.harvard.edu
 Title: Microtubule Spindowns from Extracts
-Slug: methods/1509/microtubule-spindowns-from-extracts
+Slug: microtubule-spindowns-from-extracts
 Tags: centrifugation,extract,microtubule
 
 MAP pelleting protocol. 
@@ -44,4 +44,8 @@ Boil pellet in sample buffer and analyze.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://mitchison.med.harvard.edu/protocols/mt2.html).
 

@@ -2,8 +2,8 @@ Date: 2012-02-05 03:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: RNA-isolation (TRIZOL method)
-Slug: methods/1423/rna-isolation-trizol-method
-Tags: rna,molecular biology,trizol,isolation
+Slug: rna-isolation-trizol-method
+Tags: rna,molecular-biology,trizol,isolation
 
 Isolation of RNA from whole worms using TRIZOL reagent (Gibco-BRL)
 
@@ -68,4 +68,8 @@ Dissolve pellet in 25 µl of DEPC-treated water. Heat for 10 minutes at 60° C t
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/rna_isolation.htm).
 

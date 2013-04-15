@@ -2,8 +2,8 @@ Date: 2011-10-17 07:10
 Author: Ivan Delgado
 Email: ivanjdo@gmail.com
 Title: DNA ligation
-Slug: methods/1376/dna-ligation
-Tags: dna,molecular biology,ligase,vector
+Slug: dna-ligation
+Tags: dna,molecular-biology,ligase,vector
 
 Ligation of a DNA fragment to a vector
 
@@ -41,4 +41,8 @@ Although not necessary, DNA Ligase can be inactivated at 65oC for 10 minutes
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://ivaan.com/protocols/131.html).
 

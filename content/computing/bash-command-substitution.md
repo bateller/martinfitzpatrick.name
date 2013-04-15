@@ -2,7 +2,7 @@ Date: 2012-01-21 02:01
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Bash Command Substitution
-Slug: methods/1526/bash-command-substitution
+Slug: bash-command-substitution
 Tags: bash,cli,linux,computing
 
 Bash command substitution performs a given command replacing the marker with the resulting standard output. It is particularly useful when you want to store the output of a command in a variable or as an alternative method of chaining multiple commands together.
@@ -57,6 +57,8 @@ You can also feed the results of command substitutions into a for loop as follow
 
 
 >This example is a little contrived as you can achieve the same result with `for f in /etc/*.conf`
+
+
 
 
 

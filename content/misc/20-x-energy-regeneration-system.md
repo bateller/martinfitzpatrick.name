@@ -2,7 +2,7 @@ Date: 2011-10-10 10:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 20 x Energy Regeneration System
-Slug: methods/1343/20-x-energy-regeneration-system
+Slug: 20-x-energy-regeneration-system
 Tags: energy,assay,motility
 
 20 x Energy Regeneration System
@@ -36,6 +36,8 @@ Aliquot in 100 ml containers and store at -20oC
 
 Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.org/10.1002/0471143030.cb1301s00)  (2001)
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
+
+
 
 
 

@@ -2,8 +2,8 @@ Date: 2011-10-11 12:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 3 M KI
-Slug: methods/1367/3-m-ki
-Tags: ki,media &amp; solutions
+Slug: 3-m-ki
+Tags: ki,media-solutions
 
 3 M KI
 
@@ -34,6 +34,8 @@ Add distilled water to make up to final volume of 10 ml. Store at room temperatu
 
 Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.org/10.1002/0471143030.cb1301s00)  (2001)
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
+
+
 
 
 

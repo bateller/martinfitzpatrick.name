@@ -2,8 +2,8 @@ Date: 2012-01-26 12:01
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Display external RSS feeds on your WordPress blog
-Slug: methods/1531/display-external-rss-feeds-on-your-wordpress-blog
-Tags: web dev,wordpress,php,rss,computing
+Slug: display-external-rss-feeds-on-your-wordpress-blog
+Tags: web-dev,wordpress,php,rss,computing
 
 Show another of your blogs or any other RSS news feed on your WordPress blog with this simple template code.
 
@@ -49,6 +49,8 @@ Locate where you want to include the feed and add the following code:
 
 
 Save the file and refresh your blogpage. You should now see the feed entries in your page!
+
+
 
 
 

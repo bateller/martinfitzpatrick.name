@@ -2,8 +2,8 @@ Date: 2011-10-29 08:10
 Author: Gordon W. Laurie
 Email: 
 Title: Transformation of XLI-Blue MRF’ Competent Cells
-Slug: methods/1387/transformation-of-xli-blue-mrf-competent-cells
-Tags: molecular biology,xli-blue,transformation,cell biology
+Slug: transformation-of-xli-blue-mrf-competent-cells
+Tags: molecular-biology,xli-blue,transformation,cell-biology
 
 Transformation of XLI-Blue MRF’ Competent Cells
 
@@ -68,6 +68,8 @@ Incubate overnight at 37 °C.
 
 
 Pick colonies using grid plate method (LB-amp plate grid + Miniplasmid Prep.).
+
+
 
 
 

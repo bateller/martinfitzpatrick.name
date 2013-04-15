@@ -2,8 +2,8 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Metabolite extraction from supernatant cells
-Slug: methods/17/metabolite-extraction-from-supernatant-cells
-Tags: cell,metabolite,rna,molecular biology
+Slug: metabolite-extraction-from-supernatant-cells
+Tags: cell,metabolite,rna,molecular-biology
 
 Methanol/Chloroform extraction of whole cell small molecular weight metabolites from cells in suspension.
 
@@ -75,6 +75,8 @@ Remove ~200ul lower (non-polar) layer into glass vials using Hamilton syringe.
 
 
 To dry samples for re-suspension in analysis buffer, place samples in vacuum dryer. Polar fraction will dry within 3-4 hours.
+
+
 
 
 

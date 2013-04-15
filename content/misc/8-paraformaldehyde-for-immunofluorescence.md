@@ -2,7 +2,7 @@ Date: 2012-02-20 09:02
 Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: 8% Paraformaldehyde for Immunofluorescence
-Slug: methods/1456/8-paraformaldehyde-for-immunofluorescence
+Slug: 8-paraformaldehyde-for-immunofluorescence
 Tags: paraformaldehyde,immunofluorescence
 
 8% Paraformaldehyde for Immunofluorescence
@@ -40,4 +40,8 @@ Aliquot in 5ml tubes, label and freeze.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://web.qbi.uq.edu.au/microscopy/?page_id=549).
 

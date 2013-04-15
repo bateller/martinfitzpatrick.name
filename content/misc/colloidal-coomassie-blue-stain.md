@@ -2,8 +2,8 @@ Date: 2012-02-05 11:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Colloidal Coomassie Blue Stain
-Slug: methods/1436/colloidal-coomassie-blue-stain
-Tags: gel electrophoresis,sds-page,coomassie,sds
+Slug: colloidal-coomassie-blue-stain
+Tags: gel-electrophoresis,sds-page,coomassie,sds
 
 Colloidal Coomassie Blue Stain for SDS-PAGE gel
 
@@ -36,6 +36,8 @@ Bands should be visible without de-staining but you can de-stain with H20.
 
 Neumann U, Khalaf H, Rimpler M [Quantitation of electrophoretically separated proteins in the submicrogram range by dye elution.](http://www.ncbi.nlm.nih.gov/pubmed/7529171) _Electrophoresis_ (1994)
 [pmid:7529171](http://www.ncbi.nlm.nih.gov/pubmed/7529171)
+
+
 
 
 

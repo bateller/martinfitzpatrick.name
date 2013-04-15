@@ -2,7 +2,7 @@ Date: 2011-05-15 08:05
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Immunohistochemistry
-Slug: methods/1/immunohistochemistry
+Slug: immunohistochemistry
 Tags: antibody,histology,immunohistochemistry,ihc,confocal,immunology
 
 Basic outline protocol for immunohistochemistry on unfixed cytostat-thin tissue sections
@@ -76,4 +76,8 @@ Mount with aqueous based fluorescent mounting medium (mowiol / prolong gold), dr
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://web.qbi.uq.edu.au/microscopy/?page_id=476).
 

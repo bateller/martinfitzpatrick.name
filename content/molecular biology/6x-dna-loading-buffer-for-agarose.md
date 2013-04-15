@@ -2,8 +2,8 @@ Date: 2012-04-28 08:04
 Author: 
 Email: jt03@ic.ac.uk
 Title: 6X DNA Loading Buffer for Agarose
-Slug: methods/1495/6x-dna-loading-buffer-for-agarose
-Tags: buffer,loading buffer,dna,molecular biology,agarose,dna loading buffer,media &amp; solutions
+Slug: 6x-dna-loading-buffer-for-agarose
+Tags: buffer,loading-buffer,dna,molecular-biology,agarose,dna-loading-buffer,media-solutions
 
 Easy to use, add 2ul per 10ul of DNA solution.
 
@@ -49,6 +49,8 @@ Leave on a shaker/shaking incubator for an hour or so (it takes a while to disso
 
 
 Once dissolved it's ready to use. Store at RT, lasts forever.
+
+
 
 
 

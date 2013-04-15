@@ -2,8 +2,8 @@ Date: 2011-10-17 07:10
 Author: Ivan Delgado
 Email: ivanjdo@gmail.com
 Title: Agarose gel electrophoresis
-Slug: methods/1375/agarose-gel-electrophoresis
-Tags: tbe,molecular biology,agarose
+Slug: agarose-gel-electrophoresis
+Tags: tbe,molecular-biology,agarose
 
 The preparation, and running, of an agarose gel for nucleic acid separation.
 
@@ -65,4 +65,8 @@ Visualize the DNA bands on a UV box or Immaging system
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://ivaan.com/protocols/185.html).
 

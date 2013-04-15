@@ -2,7 +2,7 @@ Date: 2012-02-26 12:02
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Dot Blot Analysis with ImageJ 
-Slug: methods/1462/dot-blot-analysis-with-imagej
+Slug: dot-blot-analysis-with-imagej
 Tags: imagej,dot-blot,imaging
 
 Analyzing a dot blot in ImageJ by background subtraction and measuring the integrated density of each dot. 
@@ -34,4 +34,8 @@ After correcting the background, enable "Integrated Density" in Analyze/Set Meas
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://rsbweb.nih.gov/ij/docs/examples/dot-blot/index.html).
 

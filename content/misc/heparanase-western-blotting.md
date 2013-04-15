@@ -2,8 +2,8 @@ Date: 2011-11-06 11:11
 Author: Gordon W. Laurie
 Email: 
 Title: Heparanase Western Blotting
-Slug: methods/1393/heparanase-western-blotting
-Tags: western blot,heparanase
+Slug: heparanase-western-blotting
+Tags: western-blot,heparanase
 
 Heparanase Detection method for Western Blotting
 
@@ -40,4 +40,8 @@ Add HRP-conjugated secondary antibody and ECL.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://people.virginia.edu/~gwl6s/home.html/Methods/Heparanase.html).
 

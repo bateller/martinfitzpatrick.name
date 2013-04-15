@@ -2,8 +2,8 @@ Date: 2011-11-03 07:11
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Debug GNOME Shell
-Slug: methods/1496/debug-gnome-shell
-Tags: shell,linux,gnome,gnome shell,desktop,gnome3,computing
+Slug: debug-gnome-shell
+Tags: shell,linux,gnome,gnome-shell,desktop,gnome3,computing
 
 Debug Gnome Shell, or run it from the console, either for plugin development or troubleshooting.
 
@@ -38,4 +38,8 @@ Go back to your display using `Ctrl Alt F7`
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://community.linuxmint.com/tutorial/view/685).
 

@@ -2,8 +2,8 @@ Date: 2012-02-05 05:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Bacterial mediated RNAi
-Slug: methods/1427/bacterial-mediated-rnai
-Tags: rna,bacteria,molecular biology,media,interference,rnai,microbiology,media &amp; solutions
+Slug: bacterial-mediated-rnai
+Tags: rna,bacteria,molecular-biology,media,interference,rnai,microbiology,media-solutions
 
 Protocol for bacterial mediated RNAi
 
@@ -52,4 +52,8 @@ Pick 5-6 L 4 animals to each plate. Observe progeny for RNAi phenotypes.  It may
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/rnai_plates.htm).
 

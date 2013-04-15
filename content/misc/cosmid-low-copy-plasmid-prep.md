@@ -2,7 +2,7 @@ Date: 2012-02-05 07:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Cosmid / Low Copy Plasmid Prep
-Slug: methods/1432/cosmid-low-copy-plasmid-prep
+Slug: cosmid-low-copy-plasmid-prep
 Tags: miniprep,plasmid,cosmid,microprep,prep
 
 Prep for cosmids or low copy number plasmids.
@@ -50,4 +50,8 @@ Lyse cells to release cosmid DNA
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/cosmid_prep.htm).
 

@@ -2,7 +2,7 @@ Date: 2012-02-20 08:02
 Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Immunohistochemistry (cultured cells/monolayers)
-Slug: methods/1447/immunohistochemistry-cultured-cellsmonolayers
+Slug: immunohistochemistry-cultured-cellsmonolayers
 Tags: histology
 
 Immunohistochemistry (cultured cells and monolayers)
@@ -74,4 +74,8 @@ Wash x3 PBS
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://web.qbi.uq.edu.au/microscopy/?page_id=474).
 

@@ -2,7 +2,7 @@ Date: 2012-02-05 04:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: EMS Mutagenesis
-Slug: methods/1424/ems-mutagenesis
+Slug: ems-mutagenesis
 Tags: 
 
 EMS Mutagenesis protocol
@@ -49,4 +49,8 @@ Resuspend worms in an appropriate volume of M9 and use a glass pipette to plate 
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/ems_mutagenesis.htm).
 

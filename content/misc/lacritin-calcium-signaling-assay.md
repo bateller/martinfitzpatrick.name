@@ -2,8 +2,8 @@ Date: 2011-11-06 03:11
 Author: Gordon W. Laurie
 Email: 
 Title: Lacritin Calcium Signaling Assay
-Slug: methods/1392/lacritin-calcium-signaling-assay
-Tags: calcium,lacritin,signalling assay,calcium signalling
+Slug: lacritin-calcium-signaling-assay
+Tags: calcium,lacritin,signalling-assay,calcium-signalling
 
 Lacritin Calcium Signaling Assay - Ratiometric method as performed by the Putney Lab (see references).
 
@@ -112,6 +112,8 @@ Select the measure option from the tool bar. Look for the graph or values (depen
 
 DeHaven WI, Smyth JT, Boyles RR, Bird GS, Putney JW Jr [Complex actions of 2-aminoethyldiphenyl borate on store-operated calcium entry.](http://dx.doi.org/10.1074/jbc.M801535200) _J Biol Chem_ (2008)
 [10.1074/jbc.M801535200](http://dx.doi.org/10.1074/jbc.M801535200)
+
+
 
 
 

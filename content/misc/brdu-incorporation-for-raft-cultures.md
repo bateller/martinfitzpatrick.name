@@ -2,8 +2,8 @@ Date: 2011-07-25 09:07
 Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: BrdU incorporation for raft cultures
-Slug: methods/48/brdu-incorporation-for-raft-cultures
-Tags: brdu,tissue culture,raft,raft culture
+Slug: brdu-incorporation-for-raft-cultures
+Tags: brdu,tissue-culture,raft,raft-culture
 
 BrdU incorporation for raft cultures
 
@@ -30,4 +30,8 @@ Detect incorporated BrdU via antibody staining (Zymed 18-0103) using standard im
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://methodbook.net/cellcult/brdu.html).
 

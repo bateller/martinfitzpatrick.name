@@ -2,8 +2,8 @@ Date: 2011-11-03 08:11
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Use GNOME Looking Glass for debugging
-Slug: methods/1497/use-gnome-looking-glass-for-debugging
-Tags: linux,gnome,gnome shell,desktop,gnome3,computing
+Slug: use-gnome-looking-glass-for-debugging
+Tags: linux,gnome,gnome-shell,desktop,gnome3,computing
 
 Looking Glass is GNOME Shell's integrated inspector tool and JavaScript console useful for debugging. 
 
@@ -36,4 +36,8 @@ Commands can be entered directly at the prompt e.g.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://live.gnome.org/GnomeShell/CheatSheet).
 

@@ -2,8 +2,8 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 10% Ammonium persulphate solution
-Slug: methods/20/10-ammonium-persulphate-solution
-Tags: ammonium persulphate,acrylamide
+Slug: 10-ammonium-persulphate-solution
+Tags: ammonium-persulphate,acrylamide
 
 10% solution
 
@@ -28,6 +28,8 @@ Mix thoroughly - APS will dissolve readily.
 
 
 Solution may be stored at 4'C up to 6 months
+
+
 
 
 

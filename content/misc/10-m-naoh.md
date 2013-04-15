@@ -2,8 +2,8 @@ Date: 2011-10-10 11:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 10 M NaOH
-Slug: methods/1357/10-m-naoh
-Tags: naoh,media &amp; solutions
+Slug: 10-m-naoh
+Tags: naoh,media-solutions
 
 10 M NaOH
 
@@ -31,6 +31,8 @@ Add 40 g NaOH to a suitable container.  Add distilled water to make solution up 
 
 Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.org/10.1002/0471143030.cb1301s00)  (2001)
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
+
+
 
 
 

@@ -2,8 +2,8 @@ Date: 2011-07-25 08:07
 Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: Transformation of plasmid DNA to E. Coli
-Slug: methods/45/transformation-of-plasmid-dna-to-e-coli
-Tags: dna,molecular biology
+Slug: transformation-of-plasmid-dna-to-e-coli
+Tags: dna,molecular-biology
 
 Transformation of plasmid DNA to competent E. Coli cells
 
@@ -64,4 +64,8 @@ Incubate the plates overnight at 37°C
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://methodbook.net/dna/transfm1.html).
 

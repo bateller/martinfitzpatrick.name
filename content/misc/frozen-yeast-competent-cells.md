@@ -2,7 +2,7 @@ Date: 2012-02-05 05:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Frozen Yeast Competent Cells
-Slug: methods/1429/frozen-yeast-competent-cells
+Slug: frozen-yeast-competent-cells
 Tags: competent,yeast
 
 Frozen Yeast Competent Cells
@@ -50,4 +50,8 @@ Aliquot 100ul shots in microfuge tubes and put cells into a cardboard box and al
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/frozen_yeast_competent_cells.htm).
 

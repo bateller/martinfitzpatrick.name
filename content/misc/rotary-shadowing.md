@@ -2,8 +2,8 @@ Date: 2011-10-31 10:10
 Author: Gordon W. Laurie
 Email: 
 Title: Rotary Shadowing
-Slug: methods/1390/rotary-shadowing
-Tags: em,electron microscopy,shadowing,rotary shadowing
+Slug: rotary-shadowing
+Tags: em,electron-microscopy,shadowing,rotary-shadowing
 
 In EM rotary shadowing allows resolution of portions of the specimen that might otherwise have been obscured by a static shadow. 
 
@@ -156,6 +156,8 @@ Examine in electron microscope.
 
 Klaus Kühn, Hanna Wiedemann, Rupert Timpl, Juha Risteli, Hans Dieringer, Tilman Voss, Robert W. Glanville [Macromolecular structure of basement membrane collagens](http://dx.doi.org/10.1016/0014-5793(81)81012-5) _FEBS Letters_ (1981)
 [10.1016/0014-5793(81)81012-5](http://dx.doi.org/10.1016/0014-5793(81)81012-5)
+
+
 
 
 

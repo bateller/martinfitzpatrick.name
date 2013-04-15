@@ -2,8 +2,8 @@ Date: 2011-10-10 10:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 10 x Column Buffer
-Slug: methods/1346/10-x-column-buffer
-Tags: buffer,pipes,egta,media &amp; solutions
+Slug: 10-x-column-buffer
+Tags: buffer,pipes,egta,media-solutions
 
 10 x Column Buffer
 
@@ -41,6 +41,8 @@ Add distilled water to 2 liters
 
 Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.org/10.1002/0471143030.cb1301s00)  (2001)
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
+
+
 
 
 

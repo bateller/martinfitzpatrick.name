@@ -2,8 +2,8 @@ Date: 2011-11-07 03:11
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Find top 404 Error pages (Apache)
-Slug: methods/1505/find-top-404-error-pages-apache
-Tags: shell,apache,404,logs,apache2,web dev,computing
+Slug: find-top-404-error-pages-apache
+Tags: shell,apache,404,logs,apache2,web-dev,computing
 
 A quick one-liner to find the most common pages giving 404 errors on your apache2 setup. Set this up as a shell alias to get easy access at any time.
 
@@ -33,4 +33,8 @@ From the Linux command line enter:
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://i-heart-geek.blogspot.co.uk/2011/10/top-command-line-tips-apache-access-log.html).
 

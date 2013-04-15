@@ -2,7 +2,7 @@ Date: 2012-02-24 04:02
 Author: Luke Hammond
 Email: l.hammond@uq.edu.au
 Title: Neuron Recovery of Neurobiotin/biocytin cells
-Slug: methods/1458/neuron-recovery-of-neurobiotinbiocytin-cells
+Slug: neuron-recovery-of-neurobiotinbiocytin-cells
 Tags: histology,staining,neurobiotin,neuron,biocytin,neuroscience
 
 Neuron recovery of neurobiotin/biocytin filled neurons. The method may applied to free-floating or cryostat sectioned fixed tissue.
@@ -104,6 +104,8 @@ Counterstain, dehydrate, clear and mount in DPX.
 
 Smith DW, Day TA [Neurochemical identification of fos-positive neurons using two-colour immunoperoxidase staining.](http://www.ncbi.nlm.nih.gov/pubmed/8100600) _J Neurosci Methods_ (1993)
 [pmid:8100600](http://www.ncbi.nlm.nih.gov/pubmed/8100600)
+
+
 
 
 

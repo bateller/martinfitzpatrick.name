@@ -2,7 +2,7 @@ Date: 2011-10-16 05:10
 Author: Gordon W. Laurie
 Email: 
 Title: Lacritin IP3 Assay
-Slug: methods/1372/lacritin-ip3-assay
+Slug: lacritin-ip3-assay
 Tags: assay,lacritin,ip3
 
 Lacritin IP3 Assay based on Webb et al. (Eur. J. Biochem. 234:714-722,1995)
@@ -52,6 +52,8 @@ Measure radioactivity in scintillation counter.
 
 Donna J. Webb, Isa M. Hussaini, Alissa M. Weaver, Tara L. Atkins, Charleen T. Chu, Salvatore V. Pizzo, Gary K. Owens, Steven L. Gonias [Activated alpha2-Macroglobulin Promotes Mitogenesis in Rat Vascular Smooth Muscle Cells by a Mechanism that is Independent of Growth-Factor-Carrier Activity](http://dx.doi.org/10.1111/j.1432-1033.1995.714_a.x) _European Journal of Biochemistry_ (1995)
 [10.1111/j.1432-1033.1995.714_a.x](http://dx.doi.org/10.1111/j.1432-1033.1995.714_a.x)
+
+
 
 
 

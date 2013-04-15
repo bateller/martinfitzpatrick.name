@@ -2,8 +2,8 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 5x Western blot loading buffer
-Slug: methods/19/5x-western-blot-loading-buffer
-Tags: buffer,western blot,sample dye,loading buffer,media &amp; solutions
+Slug: 5x-western-blot-loading-buffer
+Tags: buffer,western-blot,sample-dye,loading-buffer,media-solutions
 
 15ml stock solution of western blot loading buffer. Dilute for use.
 
@@ -32,6 +32,8 @@ Make up to a final volume of 15ml with dH20 and mix again thoroughly
 
 
 Store at 4'C. Dilute to use.
+
+
 
 
 

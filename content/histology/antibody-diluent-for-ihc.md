@@ -2,7 +2,7 @@ Date: 2012-04-28 08:04
 Author: 
 Email: jt03@ic.ac.uk
 Title: Antibody diluent for IHC
-Slug: methods/1494/antibody-diluent-for-ihc
+Slug: antibody-diluent-for-ihc
 Tags: antibody,histology,ihc,diluent,immunology
 
 Antibody diluent for IHC
@@ -42,6 +42,8 @@ Filter the solution through a sterile 0.2um filter, aliquot and store at -20C
 Once thawed solution is stable at 4C for at least a week. 
 
 It can also be used for long term storage (>6m) of antibody working solutions. 
+
+
 
 
 

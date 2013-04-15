@@ -2,7 +2,7 @@ Date: 2011-12-05 04:12
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Use bash brace expansion to save {hours,days}
-Slug: methods/1519/use-bash-brace-expansion-to-save-hoursdays
+Slug: use-bash-brace-expansion-to-save-hoursdays
 Tags: bash,cli,linux,computing
 
 Brace expansion is one of the most powerful bash tricks with the potential to save you considerable time. Here are some common use cases.
@@ -69,6 +69,8 @@ Brace expansion also supports number ranges which can be useful for when you nee
 	$ mkdir tmp{1..100}
 
 Will produce a number of folders named tmp1, tmp2, tmp3, tmp4, etc.. in the current directory.
+
+
 
 
 

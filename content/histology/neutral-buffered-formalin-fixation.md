@@ -2,8 +2,8 @@ Date: 2011-07-15 09:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Neutral buffered formalin fixation
-Slug: methods/30/neutral-buffered-formalin-fixation
-Tags: histology,buffer,fixation,media &amp; solutions
+Slug: neutral-buffered-formalin-fixation
+Tags: histology,buffer,fixation,media-solutions
 
 Fixation with neutral buffered formalin
 
@@ -44,4 +44,8 @@ Samples may be stored in this fixative if required
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.bristol.ac.uk/vetpath/cpl/histfix.htm).
 

@@ -2,7 +2,7 @@ Date: 2011-11-28 10:11
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Piping between shells
-Slug: methods/1513/piping-between-shells
+Slug: piping-between-shells
 Tags: mac,unix,linux,pipe,computing
 
 Create your own bash pipes to send program output between shells, processes and users.
@@ -42,6 +42,8 @@ Running this will perform a directory listing of the current directory, outputti
 
 
 >You can send any data output from one process through a pipe in this way. Got a neat use for this trick? Post it!
+
+
 
 
 

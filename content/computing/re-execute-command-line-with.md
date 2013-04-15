@@ -2,7 +2,7 @@ Date: 2011-10-22 04:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Re-execute command line with !
-Slug: methods/1492/re-execute-command-line-with
+Slug: re-execute-command-line-with
 Tags: bash,cli,linux,computing
 
 Bash history expansion allows you to quickly re-run previous commands using ! and the number of the command in your history.
@@ -62,4 +62,8 @@ You can also search the history by using a search string to match the command in
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://hacktux.com/bash/fast/cli).
 

@@ -2,8 +2,8 @@ Date: 2011-09-29 09:09
 Author: Cael Kay-Jackson
 Email: caelkayjackson@googlemail.com
 Title: Add Git Branch Name to Terminal Prompt (Mac)
-Slug: methods/1472/add-git-branch-name-to-terminal-prompt-mac
-Tags: git,mac,terminal,prompt,bash,osx,cli,version control,computing
+Slug: add-git-branch-name-to-terminal-prompt-mac
+Tags: git,mac,terminal,prompt,bash,osx,cli,version-control,computing
 
 When in a repository directory, show the name of the currently checked out Git branch in the prompt.
 
@@ -55,6 +55,8 @@ Now when you change to a directory that is within a Git repository, the prompt w
 
 
 >If you are using an existing Terminal session, don't forget to make the changes take effect by sourcing the file with the command `source ~/.bash_profile`.
+
+
 
 
 

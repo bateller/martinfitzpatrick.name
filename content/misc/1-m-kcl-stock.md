@@ -2,8 +2,8 @@ Date: 2011-10-10 11:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 1 M KCl Stock
-Slug: methods/1356/1-m-kcl-stock
-Tags: kcl,media &amp; solutions
+Slug: 1-m-kcl-stock
+Tags: kcl,media-solutions
 
 1 M KCl Stock
 
@@ -30,6 +30,8 @@ Add KCl to a suitable container. Make up to 1L with distilled water. Store for f
 
 Clare M. Waterman-Storer [Microtubule/Organelle Motility Assays](http://dx.doi.org/10.1002/0471143030.cb1301s00)  (2001)
 [10.1002/0471143030.cb1301s00](http://dx.doi.org/10.1002/0471143030.cb1301s00)
+
+
 
 
 

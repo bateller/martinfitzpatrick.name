@@ -2,8 +2,8 @@ Date: 2011-07-25 08:07
 Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: Raft culture media
-Slug: methods/47/raft-culture-media
-Tags: media,raft media,green&#39;s media,media &amp; solutions
+Slug: raft-culture-media
+Tags: media,raft-media,greens-media,media-solutions
 
 Raft culture medium, including standard supplements used. 
 
@@ -95,4 +95,8 @@ Mix thoroughly before use
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://methodbook.net/cellcult/raftmed.html).
 

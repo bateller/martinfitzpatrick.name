@@ -2,8 +2,8 @@ Date: 2011-11-06 11:11
 Author: Gordon W. Laurie
 Email: 
 Title: Heparan Sulfate Chain Analysis
-Slug: methods/1394/heparan-sulfate-chain-analysis
-Tags: heparan,heparan sulphate
+Slug: heparan-sulfate-chain-analysis
+Tags: heparan,heparan-sulphate
 
 Analysis of SDC1 HS Chains
 
@@ -70,6 +70,8 @@ Prior to running the columns, determine the void volume (V0, fraction 26) and to
 
 Zako M, Dong J, Goldberger O, Bernfield M, Gallagher JT, Deakin JA [Syndecan-1 and -4 synthesized simultaneously by mouse mammary gland epithelial cells bear heparan sulfate chains that are apparently structurally indistinguishable.](http://dx.doi.org/10.1074/jbc.M209658200) _J Biol Chem_ (2003)
 [10.1074/jbc.M209658200](http://dx.doi.org/10.1074/jbc.M209658200)
+
+
 
 
 

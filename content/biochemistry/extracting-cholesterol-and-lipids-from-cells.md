@@ -2,7 +2,7 @@ Date: 2011-10-10 10:10
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Extracting cholesterol and lipids from cells
-Slug: methods/1336/extracting-cholesterol-and-lipids-from-cells
+Slug: extracting-cholesterol-and-lipids-from-cells
 Tags: extraction,lipid,cholesterol,biochemistry
 
 This a general method that may not work for all cell/tissue samples - tweak the solvent volumes per quantity of cells, centrifugation time and sonication may be applied for samples that are difficult to disrupt.  For chloroform - handle under a chemical safety hood.
@@ -38,6 +38,8 @@ Re-dissolve the vacuum-dried lipids/cholesterol into a suitable assay buffer pri
 
 FOLCH J, LEES M, SLOANE STANLEY GH [A simple method for the isolation and purification of total lipides from animal tissues.](http://www.ncbi.nlm.nih.gov/pubmed/13428781) _J Biol Chem_ (1957)
 [pmid:13428781](http://www.ncbi.nlm.nih.gov/pubmed/13428781)
+
+
 
 
 

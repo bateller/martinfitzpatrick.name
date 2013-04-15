@@ -2,8 +2,8 @@ Date: 2012-02-05 11:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: C. elegans Single Worm PCR
-Slug: methods/1437/c-elegans-single-worm-pcr
-Tags: pcr,molecular biology,c.elegans,model organisms,worm
+Slug: c-elegans-single-worm-pcr
+Tags: pcr,molecular-biology,celegans,model-organisms,worm
 
 Single Worm PCR for use with C. elegans
 
@@ -68,6 +68,8 @@ Perform PCR (50ul reaction)
 
 Williams BD, Schrank B, Huynh C, Shownkeen R, Waterston RH [A genetic mapping system in Caenorhabditis elegans based on polymorphic sequence-tagged sites.](http://www.ncbi.nlm.nih.gov/pubmed/1321065) _Genetics_ (1992)
 [pmid:1321065](http://www.ncbi.nlm.nih.gov/pubmed/1321065)
+
+
 
 
 

@@ -2,7 +2,7 @@ Date: 2012-02-07 11:02
 Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: Chemiluminescent Detection
-Slug: methods/1442/chemiluminescent-detection
+Slug: chemiluminescent-detection
 Tags: chemiluminescence,luminol
 
 Homemade chemiluminescent detection recipe
@@ -48,4 +48,8 @@ Combine 1 ml Solution A + 3 ul Solution B (5ml Solution A  +15ul Solution B for 
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://130.15.90.245/homemade_ecl.htm).
 

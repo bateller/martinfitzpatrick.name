@@ -2,7 +2,7 @@ Date: 2011-07-16 02:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Preparation for microdissection (Polyester)
-Slug: methods/23/preparation-for-microdissection-polyester
+Slug: preparation-for-microdissection-polyester
 Tags: 
 
 Basic protocol for Eosin & Haematoxylin histological preparation of microdissection slide.
@@ -56,6 +56,8 @@ Shake and air dry to remove layer of glycerol and water
 
 
 Microdissection is best performed in the following 5-10 minutes following preparation. If if tissue dries return tissue to 3% glycerol/water; step #10
+
+
 
 
 

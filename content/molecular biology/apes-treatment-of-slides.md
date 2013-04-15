@@ -2,8 +2,8 @@ Date: 2011-07-25 02:07
 Author: Matt Lewis
 Email: hop2kin@yahoo.co.uk
 Title: APES treatment of slides
-Slug: methods/41/apes-treatment-of-slides
-Tags: rna,molecular biology
+Slug: apes-treatment-of-slides
+Tags: rna,molecular-biology
 
 This is an alternative to poly-L-lysine treatment. The APES coating makes the slides more adhesive for fixed tissue and living cells. 
 
@@ -44,4 +44,8 @@ Allow to dry and store in a dust-free container. Slides will keep well for month
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://methodbook.net/probes/insitu.html).
 

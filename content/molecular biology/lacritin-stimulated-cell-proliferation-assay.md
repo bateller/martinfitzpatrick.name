@@ -2,8 +2,8 @@ Date: 2011-10-29 12:10
 Author: Gordon W. Laurie
 Email: 
 Title: Lacritin Stimulated Cell Proliferation Assay
-Slug: methods/1383/lacritin-stimulated-cell-proliferation-assay
-Tags: cell,rna,molecular biology,assay,lacritin,proliferation
+Slug: lacritin-stimulated-cell-proliferation-assay
+Tags: cell,rna,molecular-biology,assay,lacritin,proliferation
 
 Lacritin Stimulated Cell Proliferation Assay with siRNA or Inhibitors
 
@@ -58,6 +58,8 @@ To rescue heparanase depleted cells, ~1 mg heparanase enriched from HSG or HEK29
 
 
 Wash twice with RT PBS, collected in 1 N NaOH, neutralized with 1 N HCl, and then transferred to liquid scintillation vials for measurement.
+
+
 
 
 

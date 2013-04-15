@@ -2,7 +2,7 @@ Date: 2011-07-15 09:07
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Carnoy&#39;s fluid fixation
-Slug: methods/27/carnoys-fluid-fixation
+Slug: carnoys-fluid-fixation
 Tags: histology,fixation
 
 Fixation of samples in Carnoy's fluid
@@ -36,4 +36,8 @@ Process fixed tissues immediately or transfer to 80% alcohol for storage
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.bristol.ac.uk/vetpath/cpl/histfix.htm).
 

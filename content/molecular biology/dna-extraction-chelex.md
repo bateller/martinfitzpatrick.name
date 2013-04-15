@@ -2,8 +2,8 @@ Date: 2012-03-12 09:03
 Author: Paul Barber
 Email: paulbarber@ucla.edu
 Title: DNA Extraction: Chelex
-Slug: methods/1464/dna-extraction-chelex
-Tags: dna,pcr,molecular biology,extraction,chelex
+Slug: dna-extraction-chelex
+Tags: dna,pcr,molecular-biology,extraction,chelex
 
 DNA Extraction via Chelex
 
@@ -95,4 +95,8 @@ Samples are ready to use.
 
 
 
+
+
+
+>This method is based, with permission, on an original protocol available [here](http://www.eeb.ucla.edu/Faculty/Barber/Web%20Protocols/Chelex%20Protocol-SLB.pdf).
 

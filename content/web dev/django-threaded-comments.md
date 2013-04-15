@@ -2,8 +2,8 @@ Date: 2012-01-17 06:01
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Django Threaded Comments
-Slug: methods/1524/django-threaded-comments
-Tags: mptt,django-threadedcomments,comments,django,web dev,computing
+Slug: django-threaded-comments
+Tags: mptt,django-threadedcomments,comments,django,web-dev,computing
 
 Django ships with it's own comments contrib app that provides commenting on arbitrary models. However this is a flat-comment system which doesn't allow replying to comments. An app called django-threadedcomments exists but has not been updated for a number of versions and is broken. Other alternatives are less flexible than the Django commenting system itself.
 
@@ -180,6 +180,8 @@ The key point is the inclusion of the parent field.
 
 
 Fire it up! Have a test replying to comments both at the page, and threaded level. It should all work perfectly, but if not feel free to ask for help in our - threaded! - comments.
+
+
 
 
 
