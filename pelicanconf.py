@@ -3,14 +3,14 @@
 
 AUTHOR = u'Martin Fitzpatrick'
 AUTHOR_EMAIL = u'martin.fitzpatrick@gmail.com'
-SITENAME = u'Game of Life Science'
-SITESUBTITLE = u'Bioinformatics to Bedside'
-SITEURL = 'http://golifescience.com'
+SITENAME = u'Martin Fitzpatrick'
+SITESUBTITLE = u' Bioinformatics | Immunology | Python | Web '
+SITEURL = 'http://martinfitzpatrick.name'
 
 FEED_DOMAIN = SITEURL
 FEED_ATOM = 'feeds/atom.xml'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
 
