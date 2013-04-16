@@ -65,7 +65,7 @@
 		<li{% if p == page %} class="active"{% endif %} class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
 	  {% endfor %}
 
-      <li class="has-dropdown"><a href="#">Blog</a>
+      <li class="has-dropdown"><a href="#">Articles</a>
         <ul class="dropdown">
 			{% if DISPLAY_CATEGORIES_ON_MENU %}
 			  {% for cat, null in categories %}
