@@ -2,7 +2,7 @@ Date: 2007-03-26 09:00
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Developing with WP-Plugins SVN
-Slug: 2007/03/26/developing-with-wp-plugins-svn
+Slug: developing-with-wp-plugins-svn
 Tags: wordpress,plugins,svn
 
 The new plugin download interface, hooked into [wp-plugins.org][1] adds extra incentive for plugin developers to use SVN.

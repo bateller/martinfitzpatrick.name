@@ -1,9 +1,7 @@
 Title: Publications
 Slug: publications
 
-Below is a list of all research publications that I've contributed to to-date, together with a
-brief overview of the topic and my contribution. First author papers are
-listed at the top, followed by other publications on which I am a contributing author.
+Below is a list of all research publications that I've contributed to to-date. First author papers are listed at the top, followed by other publications on which I am a contributing author.
 
 ### First author
 

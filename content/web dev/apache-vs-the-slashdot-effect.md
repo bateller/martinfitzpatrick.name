@@ -2,14 +2,14 @@ Date: 2007-02-09 09:00
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Apache vs. the Slashdot Effect
-Slug: 2007/02/09/apache-vs-the-slashdot-effect
+Slug: apache-vs-the-slashdot-effect
 Tags: apache,linux,lamp,slashdot,traffic
 
 Increasing traffic is the measure of success for a website. More visitors equals more exposure which in turns generates more income. However, if you have hosted your site on a low-end package you could get hit by excess use charges just as your start celebrating your success.
 
 Here at [mutube.com][1] the combination of 4,625 visitors (8,531 hits) a month and popular [free downloads][2] quickly helped trip our 1Gb bandwidth limit.
 
-In this article I’ll look at how I’ve used the combined power of [Apache Server][3] and [Coral Cache][4] to distribute all kinds of requests away from your server transparently.  
+In this article I’ll look at how I’ve used the combined power of [Apache Server][3] and [Coral Cache][4] to distribute all kinds of requests away from your server transparently.
 
 
 # Introduction to the Coral Content Distribution Network

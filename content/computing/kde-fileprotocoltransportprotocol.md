@@ -2,7 +2,7 @@ Date: 2007-03-20 09:00
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: KDE fileprotocol+transportprotocol://
-Slug: 2007/03/20/kde-fileprotocoltransportprotocol
+Slug: kde-fileprotocoltransportprotocol
 Tags: linux,kde,filetransport
 
 While getting started using the new [wp-plugins.org SVN][1] I was looking for a quick way to download the contents of an SVN to local disk. This can be useful when doing research on methods employed by other plugins or for getting a local development copy where SVN access is unavailable. Under KDE you can normally access any remote location using the standard URL format. For example, an SVN (using the `svn://`) protocol would normally be accessed using the URL style `svn://svn.wp-plugins.org`.  
