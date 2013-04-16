@@ -178,7 +178,7 @@ body {
 }
 .hentry .entry-meta .date {
 	color: #000;
-	font-weight: bold;
+/*	font-weight: bold; */
 	margin: 0px;
 }
 .hentry .entry-meta .comments {
@@ -190,7 +190,7 @@ body {
 .hentry .entry-meta .comments a {
 	color: #ef4323;
 	font-size: 22px;
-	font-weight: bold;
+/*	font-weight: bold; */
 	text-decoration: none;
 }
 .hentry .entry-meta .cat-links {
@@ -479,6 +479,8 @@ body {
     margin:0;
     text-transform:uppercase;
     font-family: 'Oswald', Helvetica, Arial, sans-serif;
+    font-weight:normal !important;
+    -webkit-font-smoothing: antialiased;
     color: #ef4323;
 }
 
