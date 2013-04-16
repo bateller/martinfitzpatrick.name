@@ -166,6 +166,9 @@ body {
 	width: 190px;
 	text-transform: uppercase;
     font-family: 'Oswald', Helvetica, Arial, sans-serif;
+    font-weight:normal !important;
+    -webkit-font-smoothing: antialiased;
+
 }
 .hentry .entry-meta a {
 	text-decoration: none;
@@ -411,6 +414,8 @@ body {
 
 .top-bar * {
     font-family: 'Oswald', Helvetica, Arial, sans-serif;
+    font-weight:normal !important;
+    -webkit-font-smoothing: antialiased;
 }
 
 .top-bar ul.root > li {
@@ -419,7 +424,8 @@ body {
 
 .top-bar .name h1 a {
     font-family: 'Oswald', Helvetica, Arial, sans-serif;
-    atext-transform:uppercase;
+    font-weight:normal !important;
+    -webkit-font-smoothing: antialiased;
 }
 
 .lowlight { 
@@ -503,6 +509,8 @@ body {
 
 #contents h1, #contents h2, #contents h3, #contents h4, #contents h5, #contents h6 {
 	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+    font-weight:normal !important;
+    -webkit-font-smoothing: antialiased;
     /* text-transform:uppercase; */
 }
 
