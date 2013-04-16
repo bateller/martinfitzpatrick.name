@@ -209,6 +209,7 @@ RewriteRule ^methods/1348/(.*) /article/pmg-buffer [R=301,L]
 RewriteRule ^methods/1365/(.*) /article/150-mm-mg-amp-pnp [R=301,L]
 
 RewriteRule ^posts/(.*) /article/$1 [R=301,L]
+RewriteRule ^blog/(.*) /article/$1 [R=301,L]
 
 
 # Rewrite old urls to new format
