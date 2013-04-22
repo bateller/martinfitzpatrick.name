@@ -19,7 +19,7 @@ It's looking for the file in the wrong place: QtCore should be prefixed with the
 
 # Homebrew
 
-So I suggest you try a different tack: [Homebrew][homebrew]. Homebrew is a package manager for Mac, that has a large number of successfully buildable software packaged specifically for the Mac. I've successfully used it to install a number of things, but steered clear of it for Python things that could be pip installed. However, there seemed to be little alternative - and actually I think brewed Python has it's advantages (being more up to date being one, being guaranteed to work with other brewed packages the other).
+So try a different tack: [Homebrew][homebrew]. Homebrew is a package manager for Mac, that has a large number of successfully buildable software packaged specifically for the Mac. I've successfully used it to install a number of things, but steered clear of it for Python things that could be pip installed. However, there seemed to be little alternative - and actually I think brewed Python has it's advantages (being more up to date being one, being guaranteed to work with other brewed packages the other).
 
 At this point my default Python install was the Mac default (Darwin, llvm-compat) version, installed under `/Library/Python/2.7/` so first that needed to change.
 

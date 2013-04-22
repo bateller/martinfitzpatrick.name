@@ -67,8 +67,8 @@ Chemistry (Scottish Higher; 2006)  Computing, Biology, Communication Studies (A 
 
 ## Awards
 
-*British Society of Rheumatology* (BSR) Young Investigator Award 2013
-
+* *British Society of Rheumatology* (BSR) Young Investigator Award (2013)  
+* *Infectious Diseases* Infectious Diseases (2009)
 
 
 ## Funding

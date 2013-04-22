@@ -554,3 +554,6 @@ aside {
 img.inline.left { padding: 0.2em 1em 0.2em 0; }
 img.inline.right { padding: 0.2em 0em 0.2em 1em; }
 
+pre, code {
+    margin-bottom:20px; 
+}
