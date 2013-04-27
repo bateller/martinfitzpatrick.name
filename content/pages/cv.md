@@ -23,6 +23,8 @@ Investigating the characteristic metabolic profiles of differentiated M1 and M2 
 
 This required the development of novel analysis tools to help visualise the complex resulting datasets in a way that allowed for interpretation. The first result of this has been the release of the [MetaPath][metapath] application.
 
+Working both *in silico* and *in vitro* to try and determine the role of metabolism in immune cell migration, differentiation, activation and response.
+
 Have developed skills in a broad range of laboratory techniques including ELISA, PCR,  immunohistology, including dissection, cryostat sectioning,
 immunofluorescence staining, confocal microscopy and flow cytometry (FACS)
 
@@ -73,8 +75,13 @@ Chemistry (Scottish Higher; 2006)  Computing, Biology, Communication Studies (A 
 
 ## Funding
 
-
+* 2011-Present Wellcome Trust (Combined Training Programme) Scholarship
+* 2010 (Jun-Jul) Arthur Thomson Trust Summer Scholarship
 
 ## Memberships
 
-		
+British Society of Immunology (2011-Present)	
+
+
+
+[metapath]: https://github.com/mfitzp/metapath
