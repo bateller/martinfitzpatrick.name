@@ -1,7 +1,7 @@
 Title: Publications
 Slug: publications
 
-Below is a list of all research publications that I've contributed to to-date. First author papers are listed at the top, followed by other publications on which I am a contributing author. Conference abstracts and associated posters or presentations are provided with downloadable transcripts, PDFs and Powerpoint slides. Academic theses are provided as downloadable PDFs.
+Below is a list of all research publications that I've contributed to to-date. First author papers are listed at the top, followed by other publications on which I am a contributing author, conference abstracts and academic theses. Conference abstracts and associated posters or presentations are provided with downloadable transcripts, PDFs and Powerpoint slides.
 
 ### First author
 
