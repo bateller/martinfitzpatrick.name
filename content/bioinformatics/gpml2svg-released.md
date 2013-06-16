@@ -12,7 +12,7 @@ In order to add support for GPML pathways (and later KEGG) in [MetaPath][metapat
 [PathVisio][pathvisio] & [WikiPathways][wikipathways] are both great tools well worth taking a look at.
 
 # Status
-'Quite functional'. The two images below show the output from a given GPML file using gpml2svg in comparison to the stock files available on WikiPathways. 
+'Quite functional'. The two images below show (1) stock SVG available on WikiPathways and (2) output from a given GPML file using gpml2svg. 
 
 ![WikiPathways](/static/images/software/gpml2svg_wikipathways.png)
 ![gpml2svg](/static/images/software/gpml2svg_gpml2svg.png)
