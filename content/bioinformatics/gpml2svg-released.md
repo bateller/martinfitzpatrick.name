@@ -1,4 +1,4 @@
-Date: 2013-06-06 10:45
+Date: 2013-06-16 19:09
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: gpml2svg: An command-line SVG renderer for GPML pathways [Released]
