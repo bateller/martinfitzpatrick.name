@@ -1,6 +1,5 @@
 Title: CV
 Slug: cv
-Status: hidden
 
 Martin Fitzpatrick  
 ℅ Centre for Translational Inflammation Research  
@@ -11,24 +10,9 @@ Birmingham
 e: [mxf793@bham.ac.uk](mailto:mxf793@bham.ac.uk)  
 e: [martin.fitzpatrick@gmail.com](mailto:martin.fitzpatrick@gmail.com)
 
+## Current Research Focus: The role of metabolism in inflammation and resolution.
 
-
-In 2009 I applied and was successfully awarded a scholarship from
-the Arthur Thompson Trust to undertake an 8-week research project during which I investigated the mechanisms of B cell localisation in the thymus. The final year dissertation project looking into the effects of vaccination on the development of adaptive immunity after infection using a mouse *Salmonella* model.
-
-I was awarded the a scholarship as part of the Wellcome Trust Combined Training Programme at the University of Birmingham, where I undertook 2 short projects: *“Tracking viral entry into target cells by virological and immunological methods”* and *“Do differentiated macrophages display distinct metabolic phenotypes reflecting their different functions?”*  
-
-
-Investigating the characteristic metabolic profiles of differentiated M1 and M2 macrophages. Investigate the effects of hypoxia on differentiation to these characteristic profiles and integrate this with understanding of cellular activation, cytokine production and gene transcription. Understand whether other potential environmental factors modify the host cell metabolism.
-
-This required the development of novel analysis tools to help visualise the complex resulting datasets in a way that allowed for interpretation. The first result of this has been the release of the [MetaPath][metapath] application.
-
-Working both *in silico* and *in vitro* to try and determine the role of metabolism in immune cell migration, differentiation, activation and response.
-
-Have developed skills in a broad range of laboratory techniques including ELISA, PCR,  immunohistology, including dissection, cryostat sectioning,
-immunofluorescence staining, confocal microscopy and flow cytometry (FACS)
-
-
+ Using an in vitro macrophage model we have successfully determined characteristic metabolic profiles associated with differentiated macrophage subsets. By exposing these cells to different environmental stimuli, including hypoxia, variations in pH and metabolite concentrations, we hope to determine the extent to which inflammatory cells are influenced metabolically by their environment. This may have particular relevance in chronic inflammatory diseases where distinct local environments are constructed by the influx of immune cells. Analysis and interpretation of metabolomic data sets has been simplified through the development of a novel software package MetaPath that allows visualisations of metabolic changes within a pathway context. We have successfully applied this software in vivo looking at local metabolic changes in renal vasculitis.
 
 ## Publications
 
@@ -44,6 +28,13 @@ Sabrina R Kapoor, Andrew Filer, Martin A Fitzpatrick, Benjamin A Fisher, Peter C
 Sabrina Kapoor, Martin Fitzpatrick, Elizabeth Clay, Rachel Bayley, Graham R. Wallace, Stephen P. Young 
 *InTech* ISBN:978-953-51-0046-1 02/2012 
 
+A complete list of publications is available [here][publications].
+
+## Awards & Funding
+**2013 BSR Young Investigator Award** *British Society for Rheumatology*  Awarded for conference abstract and presentation “Macrophage metabotypes in the hypoxic inflammatory environment assessed using metabolomic profiling”**2010-2014	Wellcome Trust 4yr Studentship** *Wellcome Trust*  
+Combined Training Programme 
+**2010 Frank Ker Award for Research into Infectious Disease** *University of Birmingham*  Awarded for final year project and dissertation “What is the impact of vaccination on the development of adaptive immunity to Non-typhoidal Salmonella?”**2010 (Jun-Jul) Arthur Thomson Bursary** *Arthur Thomson Charitable Trust*  
+Awarded for undergraduate summer research project.
 
 ## Education
 
@@ -57,9 +48,8 @@ School of Immunity & Infection, University of Birmingham
 
 Consisting of two short research projects: *“Tracking viral entry into target cells by virological and immunological methods”* and *“Do differentiated macrophages display distinct metabolic phenotypes reflecting their different functions?”*
 
-
-**2007-2010 BMedSc. Medical Science**
-Medical School, University of Birmingham
+**2007-2010 BMedSc. Medical Science** Medical School, University of Birmingham  
+Dissertation title *"What is the impact of vaccination on the development of adaptive immunity to Non-typhoidal Salmonella?"*
 
 **2001-2002	Certificate of Higher Education - Psychology, Artificial Intelligence & Linguistics**
 University of Edinburgh
@@ -67,16 +57,7 @@ University of Edinburgh
 **FE Qualifications**
 Chemistry (Scottish Higher; 2006)  Computing, Biology, Communication Studies (A Level; 2000)
 
-## Awards
 
-* *British Society of Rheumatology* (BSR) Young Investigator Award (2013)  
-* *Infectious Diseases* Infectious Diseases (2009)
-
-
-## Funding
-
-* 2011-Present Wellcome Trust (Combined Training Programme) Scholarship
-* 2010 (Jun-Jul) Arthur Thomson Trust Summer Scholarship
 
 ## Memberships
 
@@ -85,3 +66,4 @@ British Society of Immunology (2011-Present)
 
 
 [metapath]: https://github.com/mfitzp/metapath
+[publications]: http://martinfitzpatrick.name/publications
