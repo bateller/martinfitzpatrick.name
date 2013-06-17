@@ -33,7 +33,7 @@ A complete list of publications is available [here][publications].
 ## Awards & Funding
 **2013 BSR Young Investigator Award** *British Society for Rheumatology*  Awarded for conference abstract and presentation “Macrophage metabotypes in the hypoxic inflammatory environment assessed using metabolomic profiling”**2010-2014	Wellcome Trust 4yr Studentship** *Wellcome Trust*  
 Combined Training Programme 
-**2010 Frank Ker Award for Research into Infectious Disease** *University of Birmingham*  Awarded for final year project and dissertation “What is the impact of vaccination on the development of adaptive immunity to Non-typhoidal Salmonella?”**2010 (Jun-Jul) Arthur Thomson Bursary** *Arthur Thomson Charitable Trust*  
+**2010 Frank Ker Award for Research into Infectious Disease** *University of Birmingham*  Awarded for final year project and dissertation “What is the impact of vaccination on the development of adaptive immunity to Non-typhoidal Salmonella?”**2010 (Jun-Jul) Arthur Thomson Bursary** *Arthur Thomson Charitable Trust*  
 Awarded for undergraduate summer research project.
 
 ## Education
@@ -48,14 +48,15 @@ School of Immunity & Infection, University of Birmingham
 
 Consisting of two short research projects: *“Tracking viral entry into target cells by virological and immunological methods”* and *“Do differentiated macrophages display distinct metabolic phenotypes reflecting their different functions?”*
 
-**2007-2010 BMedSc. Medical Science** Medical School, University of Birmingham  
+**2007-2010 BMedSc. (Hons) Medical Science (Cellular and Molecular Pathology) (1st)**  
+Medical School, University of Birmingham  
 Dissertation title *"What is the impact of vaccination on the development of adaptive immunity to Non-typhoidal Salmonella?"*
 
 **2001-2002	Certificate of Higher Education - Psychology, Artificial Intelligence & Linguistics**
 University of Edinburgh
 
 **FE Qualifications**
-Chemistry (Scottish Higher; 2006)  Computing, Biology, Communication Studies (A Level; 2000)
+Chemistry (Scottish Higher; 2006)  Computing, Biology, Communication Studies (A Level; 2000) at Grade A.
 
 
 
