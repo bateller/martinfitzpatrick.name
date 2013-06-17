@@ -17,7 +17,6 @@ body {
 #header {
 	min-height: 200px;
     text-align:center;
-    text-transform: uppercase; 
 }
 
 #header img {
@@ -30,7 +29,9 @@ body {
 	padding-bottom: 10px;
 }
 
-
+.top-bar h1 {
+    text-transform:uppercase;
+} 
 
 
 /* =Menu
