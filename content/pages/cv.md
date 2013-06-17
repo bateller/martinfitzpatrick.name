@@ -38,19 +38,20 @@ Awarded for undergraduate summer research project.
 
 ## Education
 
-**2011-Present PhD.** *Metabolic profiles of differentiated human macrophages and their influence in chronic inflammatory disease*  
-Wellcome Trust Combined Training Programme  
+**2011-Present PhD.**  
+Metabolic profiles of differentiated human macrophages and their influence in chronic inflammatory disease *(Wellcome Trust Combined Training Programme)*  
 School of Immunity & Infection, University of Birmingham
 
-**2010-2011 MRes. Biomedical Research** *The Immune System in Health & Disease*  
-Wellcome Trust Combined Training Programme  
+**2010-2011 MRes. Biomedical Research**  
+The Immune System in Health & Disease *(Wellcome Trust Combined Training Programme)*  
 School of Immunity & Infection, University of Birmingham
 
 Consisting of two short research projects: *“Tracking viral entry into target cells by virological and immunological methods”* and *“Do differentiated macrophages display distinct metabolic phenotypes reflecting their different functions?”*
 
 **2007-2010 BMedSc. (Hons) Medical Science (Cellular and Molecular Pathology) (1st)**  
 Medical School, University of Birmingham  
-Dissertation title *"What is the impact of vaccination on the development of adaptive immunity to Non-typhoidal Salmonella?"*
+
+Dissertation topic *"What is the impact of vaccination on the development of adaptive immunity to Non-typhoidal Salmonella?"*
 
 **2001-2002	Certificate of Higher Education - Psychology, Artificial Intelligence & Linguistics**
 University of Edinburgh
