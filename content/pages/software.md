@@ -23,6 +23,12 @@ supports XRef linking, node colouring and synonym-recoding (so you can use alter
 [Github][gpml2svg-github] &bull; [PyPi][gpml2svg-pypi]  
 *Available for free under the modified 2-clause BSD license.*
 
+### [Accuri2FCS: Convert Accuri .c6 files to .fcs standard][accuri2fcs]
+Accuri2svg is a command line program for the conversion of Accuri .c6 flow cytometry data files to the standard .fcs format. Either extract all the files directly, or use complex text-processing to name the resulting files using features of sample names.
+
+[Github][accuri2fcs-github] &bull; [PyPi][accuri2fcs-pypi]  
+*Available for free under the modified 2-clause BSD license.*
+
 
 
 [metapath]: http://martinfitzpatrick.name/blog/metapath-v0.5.1-released
@@ -30,13 +36,13 @@ supports XRef linking, node colouring and synonym-recoding (so you can use alter
 [metapath-github]: https://github.com/mfitzp/metapath
 [metapath-pypi]: https://pypi.python.org/pypi/metapath/
 
-
-
 [gpml2svg]: http://martinfitzpatrick.name/article/gpml2svg-a-command-line-svg-renderer-for-gpml-pathways-released
 [gpml2svg-github]: https://github.com/mfitzp/gpml2svg
 [gpml2svg-pypi]: https://pypi.python.org/pypi/gpml2svg/
 
-
+[accuri2fcs]:
+[accuri2fcs-github]: https://github.com/mfitzp/accuri2fcs
+[accuri2fcs-pypi]: https://pypi.python.org/pypi/accuri2fcs/
 
 
 
