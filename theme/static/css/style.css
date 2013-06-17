@@ -17,6 +17,7 @@ body {
 #header {
 	min-height: 200px;
     text-align:center;
+    text-transform: uppercase; 
 }
 
 #header img {
