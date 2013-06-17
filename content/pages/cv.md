@@ -9,7 +9,6 @@ Birmingham
 
 e: [mxf793@bham.ac.uk](mailto:mxf793@bham.ac.uk)  
 e: [martin.fitzpatrick@gmail.com](mailto:martin.fitzpatrick@gmail.com)  
-w: [martinfitzpatrick.name](http://martinfitzpatrick.name/)
 
 ## Current Research Focus: The role of metabolism in inflammation and resolution.
 
