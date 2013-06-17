@@ -51,7 +51,7 @@ Consisting of two short research projects: *“Tracking viral entry into target 
 **2007-2010 BMedSc. (Hons) Medical Science (Cellular and Molecular Pathology) (1st)**  
 Medical School, University of Birmingham  
 
-Dissertation topic *"What is the impact of vaccination on the development of adaptive immunity to Non-typhoidal Salmonella?"*
+Dissertation topic: *"What is the impact of vaccination on the development of adaptive immunity to Non-typhoidal Salmonella?"*
 
 **2001-2002	Certificate of Higher Education - Psychology, Artificial Intelligence & Linguistics**
 University of Edinburgh
