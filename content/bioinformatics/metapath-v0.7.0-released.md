@@ -30,9 +30,11 @@ This release is focused on improving the data-visualisation capabilities of Meta
 
 # What's next?
 
-Further development of the visualisations is current planned, for example with graphing focused on individual metabolites (customisable through the data-browser), longitudinal data visualisation and the implementation of some basic stats functions.
+Further development of the visualisations is currently planned, for example with graphing focused on individual metabolites (customisable through the data-browser), longitudinal data visualisation and the implementation of some basic stats functions.
 
 Analysis improvements, including in-built PCA/PLS-DA and the ability to visualise this data using the same methods available for raw datasets.
+
+An overview of metabolite identification (the Xref translations, ppm, etc.) would be nice, perhaps with spectra visualisations/peak picking for appropriate datasetss.
 
 Finally, as the software extends to a more general metabolomics data-analysis package, the ability to export/save the generated figures & reload analysis packages will become rather important! Look out for updates!
  
