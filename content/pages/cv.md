@@ -65,7 +65,6 @@ Chemistry (Scottish Higher; 2006)  Computing, Biology, Communication Studies (A 
 
 Dutch *Entry Stage 1* Brasshhouse Language Centre, Birmingham (2013)
 
-
 ## Memberships
 
 British Society of Immunology (2011-Present)	
