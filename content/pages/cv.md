@@ -61,6 +61,9 @@ University of Edinburgh
 **FE Qualifications**
 Chemistry (Scottish Higher; 2006)  Computing, Biology, Communication Studies (A Level; 2000) at Grade A.
 
+## Other qualifications
+
+Dutch *Entry Stage 1* Brasshhouse Language Centre, Birmingham (2013)
 
 
 ## Memberships
