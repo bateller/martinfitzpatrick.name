@@ -30,7 +30,7 @@ Sabrina R Kapoor, Andrew Filer, Martin A Fitzpatrick, Benjamin A Fisher, Peter C
 Sabrina Kapoor, Martin Fitzpatrick, Elizabeth Clay, Rachel Bayley, Graham R. Wallace, Stephen P. Young 
 *InTech* ISBN:978-953-51-0046-1 02/2012 
 
-A complete list of publications is available [here][publications].
+A complete list of publications, absracts and theses are available [here][publications].
 
 ## Awards & Funding
 **2013 BSR Young Investigator Award** *British Society for Rheumatology*  Awarded for conference abstract and presentation “Macrophage metabotypes in the hypoxic inflammatory environment assessed using metabolomic profiling”**2010-2014	Wellcome Trust 4yr Studentship** *Wellcome Trust*  
