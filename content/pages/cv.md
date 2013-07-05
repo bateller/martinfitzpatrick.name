@@ -59,7 +59,7 @@ Dissertation topic: *"What is the impact of vaccination on the development of ad
 University of Edinburgh
 
 **FE Qualifications**
-Chemistry (Scottish Higher; 2006)  Computing, Biology, Communication Studies (A Level; 2000) at Grade A.
+Chemistry (Scottish Higher; 2006)  Computing, Biology, Communication Studies, General Studies (A Level; 2000) at Grade A.
 
 ## Other qualifications
 
