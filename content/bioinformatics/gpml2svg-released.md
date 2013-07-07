@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: gpml2svg: A command-line SVG renderer for GPML pathways [Released]
 Tags: gpml,pathways,metabolomics,svg,metapath,software,metabolomics,bioinformatics
 
-[Gpml2svg][gpml2svg-github], a command-line/Python API for rendering GPML pathway markup to SVG, has been released today via [github][gpml2svg-github] and [PyPi][gpml2svg-pypi].
+[Gpml2svg][gpml2svg-github], a command-line/Python API for rendering GPML (GenMAPP Pathway Markup Language) to SVG, has been released today via [github][gpml2svg-github] and [PyPi][gpml2svg-pypi].
 
 # Background
 In order to add support for GPML pathways (and later KEGG) in [MetaPath][metapath-github] I needed a way to get SVG rendered versions of marked up pathways. The SVG available on WikiPathways is good but doesn't have support for external links (XRef), node identifiers/CSS (to apply transition/style effects to particular nodes). I also ideally wanted a solution that didn't rely on an internet connection to get at, and which would allow users to import GPML files directly. I saw there was a PHP-based tool for converting GPML to SVG but that it was incomplete. So I set about seeing if I could write a command-line renderer in Python: and `gpml2svg` is the result of doing exactly that.
