@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Macrophage metabotypes in the hypoxic inflammatory environment assessed using metabolomic profiling
 Tags: macrophages,rheumatology,immunology,metabolomics
-Status: hidden
+Status: draft
 
 I had the pleasure of presenting a 10 minute oral abstract in the Science session at [Rheumatology 2013][rheum2013] on Thursday 26th April. Below is a quasi-transcript of the talk annotated with presented data. There are minor edits over points where I would have been waving a pointer at the screen and relevant slide-elements have been extracted as single figures for clarity. The original [Powerpoint](/) file is also available, as usual under CC-BY-SA.
 

@@ -3,6 +3,6 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Data analysis with MetaPath
 Tags: metapath,software,metabolomics,bioinformatics
-Status: hidden
+Status: draft
 
 
