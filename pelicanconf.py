@@ -14,7 +14,7 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
 
-PLUGIN_PATH = '~/pelican-plugins'
+PLUGIN_PATH = '/home/spenglr/pelican-plugins'
 PLUGINS = [
         'gravatar',
         'related_posts',
