@@ -13,6 +13,8 @@ FEED_ATOM = 'feeds/atom.xml'
 TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
+TRANSLATION_FEED_ATOM = None
+TRANSLATION_FEED_RSS = None
 
 PLUGIN_PATH = '/home/spenglr/pelican-plugins'
 PLUGINS = [
