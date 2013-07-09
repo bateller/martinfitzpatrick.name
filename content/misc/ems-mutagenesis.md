@@ -3,7 +3,7 @@ Author: Ian Chin-Sang
 Email: chinsang@queensu.ca
 Title: EMS Mutagenesis
 Slug: ems-mutagenesis
-Tags: 
+Tags: mutagenesis
 
 EMS Mutagenesis protocol
 

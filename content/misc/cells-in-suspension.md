@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Cells in suspension
 Slug: cells-in-suspension
-Tags: 
+Tags: dapi,suspension
 
 DAPI counterstain of cells in suspension, e.g. for FACS analysis
 

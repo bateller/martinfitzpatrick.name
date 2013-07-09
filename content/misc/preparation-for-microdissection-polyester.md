@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Preparation for microdissection (Polyester)
 Slug: preparation-for-microdissection-polyester
-Tags: 
+Tags: microdissection
 
 Basic protocol for Eosin & Haematoxylin histological preparation of microdissection slide.
 

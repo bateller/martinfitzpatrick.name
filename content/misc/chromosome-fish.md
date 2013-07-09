@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Chromosome FISH
 Slug: chromosome-fish
-Tags: 
+Tags: fish,chromosome
 
 DAPI counterstain for chromosome FISH analysis
 
