@@ -62,9 +62,9 @@ SITEMAP = {
         'pages': 0.5
     },
     'changefreqs': {
-        'articles': 'daily',
-        'indexes': 'daily',
-        'pages': 'daily'
+        'articles': 'monthly',
+        'indexes': 'monthly',
+        'pages': 'monthly'
     }
 }
 
