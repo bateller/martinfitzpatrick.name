@@ -14,12 +14,13 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
 
+PLUGIN_PATH = '~/pelican-plugins'
 PLUGINS = [
-        'pelican.plugins.gravatar',
-        'pelican.plugins.related_posts',
+        'gravatar',
+        'related_posts',
 #        'pelican.plugins.github_activity',
 #        'pelican.plugins.gzip_cache',   
-        'pelican.plugins.sitemap',
+        'sitemap',
         ]
         
 
