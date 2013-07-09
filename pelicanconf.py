@@ -13,7 +13,7 @@ FEED_ATOM = 'feeds/atom.xml'
 TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
-LOCALE = 'en-uk'
+
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
