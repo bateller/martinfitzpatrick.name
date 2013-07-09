@@ -75,7 +75,7 @@
         <ul class="dropdown">
 			{% if DISPLAY_CATEGORIES_ON_MENU %}
 			  {% for cat, null in categories %}
-				<li{% if cat == category %} class="active"{% endif %} class="menu-item menu-item-type-post_type menu-item-object-page has-inline-counter"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat|title }} <span class="inline-counter"></span><span class="inline-counter-right radius secondary label ">{{ null|length }}</span></a></li>
+				<li{% if cat == category %} class="active"{% endif %} class="menu-item menu-item-type-post_type menu-item-object-page has-inline-counter"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }} <span class="inline-counter"></span><span class="inline-counter-right radius secondary label ">{{ null|length }}</span></a></li>
 			  {% endfor %}
 			{% endif %}
         </ul>
