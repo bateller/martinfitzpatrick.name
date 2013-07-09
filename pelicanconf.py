@@ -24,11 +24,18 @@ PLUGINS = [
 #        'pelican.plugins.gzip_cache',   
         'sitemap',
         ]
-        
 
-FILES_TO_COPY = ( ('extra/robots.txt', 'robots.txt'),
-                  ('extra/favicon.ico', 'favicon.ico'),
-                  ('extra/.htaccess', '.htaccess'), )
+STATIC_PATHS = [
+    'extra/robots.txt',
+    'extra/favicon.ico',
+    'extra/.htaccess',
+    
+    ]
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/.htaccess': {'path': '.htaccess'},
+    }
 
 # Blogroll
 LINKS =  (
