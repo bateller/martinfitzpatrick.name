@@ -66,7 +66,7 @@ On particularly neat feature is that because identification has already been car
 
 Metabolites identified in blue have been automatically mapped to internal Biocyc entities, and can be view through the internal database browser.
 
-![software/metapath/nh-demo-db-uni.png](/static/images/software/metapath/nh-demo-db-unification.png)
+![software/metapath/nh-demo-db-unification.png](/static/images/software/metapath/nh-demo-db-unification.png)
 
 # Visualisation
 
