@@ -75,7 +75,7 @@ Finally. You have your data, you've done your processing, identification and ana
 ![software/metapath/nh-demo-bar.png](/static/images/software/metapath/nh-demo-bar.png)
 ![software/metapath/nh-demo-correlation-matrix.png](/static/images/software/metapath/nh-demo-correlation-matrix.png)
 ![software/metapath/nh-demo-pathway-connects.png](/static/images/software/metapath/nh-demo-pathway-connects.png)
-![software/metapath/nh-demo-metavivz.png.png](/static/images/software/metapath/nh-demo-metavivz.png)
+![software/metapath/nh-demo-metaviz.png.png](/static/images/software/metapath/nh-demo-metaviz.png)
 
 
 # The end
