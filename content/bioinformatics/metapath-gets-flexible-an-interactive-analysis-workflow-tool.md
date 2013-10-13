@@ -90,7 +90,7 @@ The workflow hierarchy of data is available at any point from the Home tab. It's
 
 # What's next?
 
-The software is now in a bugfixing state, with minor tweaks to usability, options and configurability before publication (hopefully in the coming months), and release of built binaries. 
+The software is now in a bugfixing state with some minor tweaks to usability, options and configurability before publication (hopefully in the coming months) and release of built binaries. 
 
 Help is always appreciated - including translations, plugins, or suggestions. I'd also love to hear examples of other people using MetaPath in their analysis. Get in touch!
 
