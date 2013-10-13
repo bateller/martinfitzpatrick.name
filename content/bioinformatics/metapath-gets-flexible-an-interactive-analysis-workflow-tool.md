@@ -22,7 +22,7 @@ I'd got interested in scientific workflows having read about existing solutions 
 
 The result is an application with a workflow-like internal structure, that presents data analysis in a familiar view (similar in structure to [GraphPad Prism](graphpad-prism)). Tasks are broken down into distinct phases - import, processing, identification, analysis and visualisation - to mimic the normal phases of experimental data handling, although this order is not fixed. A workflow overview is provided for a conceptual view of what you've done, and processing details are available for all resulting images.
 
-In developing the software, the particular focus has been on metabolomics data, largely since that is the focus of my PhD - however support for integration of other datasets (or multiple metabolomics datasets) was a bonus. 
+Development has particularly focused on metabolomics data, largely since that is the focus of my PhD - however support for integration of other datasets (or multiple metabolomics datasets) was a bonus. 
 
 ![software/metapath/nh-demo-start.png](/static/images/software/metapath/nh-demo-start.png)
 
