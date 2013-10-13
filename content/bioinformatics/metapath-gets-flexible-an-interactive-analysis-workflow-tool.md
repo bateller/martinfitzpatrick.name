@@ -34,13 +34,13 @@ Import is supported from a number of sources including BML-NMR, Chenomx, PeakML,
 
 Processing steps are those that transfer the raw data into a form more useable for subsequent analysis. For metabolomics analysis this includes processes such as binning, phase correction, baseline-correction etc.
 
-Currently binning is supported (the others to follow as provided by the [NMRGlue](nmrglue) library). Importantly, MetaPath supports *live* binning, whereby you can see the effects of your changes on the spectra (bin size, offset), together with a data-loss visualisation indicating areas of the spectrum that are most affected. The plan is to integrate this data into the data model object, so subsequent analysis can inform you if that whopping significant differnece you're observing is really an artefact of processing.
+Currently binning is supported (the others to follow as provided by the [NMRGlue](nmrglue) library). Importantly, MetaPath supports *live* binning, whereby you can see the effects of your changes on the spectra (bin size, offset), together with a data-loss visualisation indicating areas of the spectrum that are most affected. The plan is to integrate this data into the data model object, so subsequent analysis can inform you if that whopping significant difference you're observing is really an artefact of processing.
 
 ![software/metapath/nh-demo-spectra.png](/static/images/software/metapath/nh-demo-spectra.png)
 
 ![software/metapath/nh-demo-binning.png](/static/images/software/metapath/nh-demo-binning.png)
 
-Other basis transformations are available including mean centering, log transforming, baselining, setting minima both locally and globally. 
+Other basic transformations are available including mean-centering, log transforming, baselining, setting minima both locally and globally. 
 
 ![software/metapath/nh-demo-mean-centre.png](/static/images/software/metapath/nh-demo-mean-centre.png)
 
@@ -50,7 +50,7 @@ Exclusion and filtering of data is also supported by various characteristics.
 
 A key step in analysis is relating what you've found to other data sources. In order to facilitate this MetaPath supports data unification and entity-mapping for imported data sources. In English this means that it can map your data labels to biological entities. 
 
-The most basic implementation of this is using synonym name matching, but other alternatives are available including remove NMR spectra processing via [MetaboHunter](metabohunter).
+The most basic implementation of this is using synonym name matching, but other alternatives are available including remote NMR spectra processing via [MetaboHunter](metabohunter).
 
 ![software/metapath/nh-demo-synonyms.png](/static/images/software/metapath/nh-demo-synonyms.png)
 
