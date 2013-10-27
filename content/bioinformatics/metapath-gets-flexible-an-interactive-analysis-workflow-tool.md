@@ -70,7 +70,7 @@ Metabolites identified in blue have been automatically mapped to internal Biocyc
 
 # Visualisation
 
-Finally. You have your data, you've done your processing, identification and analysis, and now you want to make some nice figures for the Nature paper. MetaPath comes with a mix of standard visualisation tools and some random funky things, in addition the pathway rendering where this all started! Most new visualisations are powered by the [d3](d3) Javascript visualisation library, which offers beautiful, scalable and interactive visuals. Below are a few examples of the output for the sample dataset:
+Finally. You have your data, you've done your processing, identification and analysis, and now you want to make some nice figures for the Nature paper. MetaPath comes with a mix of standard visualisation tools and some more experimental things, in addition the pathway rendering where this all started! Most new visualisations are powered by the [d3](d3) Javascript visualisation library, which offers beautiful, scalable and interactive visuals. Below are a few examples of the output for the sample dataset:
 
 ![software/metapath/nh-demo-bar.png](/static/images/software/metapath/nh-demo-bar.png)
 ![software/metapath/nh-demo-correlation-matrix.png](/static/images/software/metapath/nh-demo-correlation-matrix.png)
