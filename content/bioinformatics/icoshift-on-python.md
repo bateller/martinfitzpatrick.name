@@ -31,7 +31,7 @@ Conversion from one programming language to another is not straightforward. Part
 
 At present this algorithm handles the basic *default* settings and no more. Contributions, bugfixes and - most importantly - Pythonification of the code is most welcome. It is duck ugly as it stands.
 
-It is liable to break and give weird results in various corner cases not yet explored: your help is both appreciated and needed! This is intended as a first release ripe for Pythonification.
+It is liable to break and give weird results in various corner cases not yet explored: your help is both appreciated and needed! This is intended as a first release for further development.
 
 # But it works
 
