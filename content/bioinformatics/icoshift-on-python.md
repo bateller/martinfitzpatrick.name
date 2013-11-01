@@ -43,4 +43,4 @@ Here is some sample output (run through [MetaPath](http://martinfitzpatrick.name
 
 # Thanks
 
-Thanks to [Francesco Savorani](www.models.life.ku.dk) and [Giorgio Tomasi](www.igm.life.ku.dk) for the original neat and well documented [algorithm](http://www.ncbi.nlm.nih.gov/pubmed/20004603).
+Thanks to [Francesco Savorani](www.models.life.ku.dk) and [Giorgio Tomasi](www.igm.life.ku.dk) for the original clever and well documented [algorithm](http://www.ncbi.nlm.nih.gov/pubmed/20004603).
