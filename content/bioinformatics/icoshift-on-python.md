@@ -12,9 +12,9 @@ The answer is - yes!
 
 #Icoshift in Python
 
-The *I*coshift script was converted to Python using a combination of [SMOP](http://chiselapp.com/user/victorlei/repository/smop-dev/home) followed by hand re-coding using test datasets to check output at various steps.  The interface remains identical to the Matlab version at present.
+The *I*coshift script was converted to Python using a combination of [SMOP](http://chiselapp.com/user/victorlei/repository/smop-dev/home) followed by hand re-coding using test datasets to check output at various steps. The interface remains identical to the Matlab version at present - a more Pythonic interface may be added later, but a directly comparable interface will be maintained. The Python implementation of *I*coshift is available from [github](https://github.com/mfitzp/icoshift) or [PyPi](https://pypi.python.org/pypi/icoshift/0.1).
 
-The Python implementation of *I*coshift is available from [github](https://github.com/mfitzp/icoshift) or [PyPi](https://pypi.python.org/pypi/icoshift/0.1). To install (assuming) you have installed `pip`:
+To install (assuming you have installed `pip`):
 
     pip install icoshift
 
@@ -35,7 +35,7 @@ It is liable to break and give weird results in various corner cases not yet exp
 
 # But it works
 
-Here is some sample output (run through [MetaPath](http://martinfitzpatrick.name/article/metapath-gets-flexible-an-interactive-analysis-workflow-tool) - yes there is a plugin) showing the original and shifted data from a sample manually off-shifted dataset.
+Here is some sample output (run through [MetaPath](http://martinfitzpatrick.name/article/metapath-gets-flexible-an-interactive-analysis-workflow-tool) - yes there is already a plugin) showing the original and shifted data from a sample manually off-shifted dataset.
 
 ![icoshift/unshifted.png](/static/images/software/icoshift/unshifted.png)
 
