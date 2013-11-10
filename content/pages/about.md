@@ -9,7 +9,9 @@ speed up the process of analysis interpretation of metabolomic data within a pat
 
 Born in Leeds I'm currently based at the [University of Birmingham][uob] in the United Kingdom.
 
-I enjoy playing squash poorly and drinking almost everything well.
+I enjoy playing squash poorly and eating and drinking well.
+
+Ik kan ook een beetje Nederlands spreken.
 
 ### What's all this then?
 
