@@ -4,9 +4,11 @@ Email: martin.fitzpatrick@gmail.com
 Title: MetaPath: Example Analysis
 Tags: metapath,software,metabolomics,python,matlab
 
+Short demo of an experimental analysis of metabolomic (NMR) data using MetaPath. 
+
 .. youtube:: iZccSjEjeL4
 
-Short demo of an experimental analysis of metabolomic (NMR) data using MetaPath. Metabolomic test dataset produced from THP-1 cells grown under normal and hypoxic conditions. Spectra (2D 1H JRES) have been pre-processed and quantified using the [BML-NMR](http://bml-nmr.org) service.
+Metabolomic test dataset produced from THP-1 cells grown under normal and hypoxic conditions. Spectra (2D 1H JRES) have been pre-processed and quantified using the [BML-NMR](http://bml-nmr.org) service.
 
 The video shows an example analysis from processed data through to metabolic pathways and PLS-DA outputs.
 
