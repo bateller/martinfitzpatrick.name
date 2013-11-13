@@ -124,7 +124,7 @@
 		<ul id="menu-navigation" class="menu links">
 			{% if SOCIAL %}
 			  {% for name, icon, url in SOCIAL %}
-				<li class="active" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ url }}" class="social-label-{{ icon }}"><i class="social foundicon-{{ icon }}"></i> {{ name }}</a></li>
+				<li class="active" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ url }}" rel="author" class="social-label-{{ icon }}"><i class="social foundicon-{{ icon }}"></i> {{ name }}</a></li>
 			  {% endfor %}
 			{% endif %}
         </ul>
