@@ -16,11 +16,13 @@ DEFAULT_LANG = u'en'
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
+import pelican_youtube
+
 PLUGIN_PATH = '/home/spenglr/pelican-plugins'
 PLUGINS = [
         'gravatar',
         'related_posts',
-        'pelican_youtube',
+        pelican_youtube,
 #        'pelican.plugins.github_activity',
 #        'pelican.plugins.gzip_cache',   
         'sitemap',
