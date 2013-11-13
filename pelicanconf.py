@@ -20,6 +20,7 @@ PLUGIN_PATH = '/home/spenglr/pelican-plugins'
 PLUGINS = [
         'gravatar',
         'related_posts',
+        'pelican_youtube',
 #        'pelican.plugins.github_activity',
 #        'pelican.plugins.gzip_cache',   
         'sitemap',

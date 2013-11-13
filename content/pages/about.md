@@ -11,7 +11,7 @@ Born in Leeds I'm currently based at the [University of Birmingham][uob] in the 
 
 I enjoy playing squash poorly and eating and drinking well.
 
-Ik kan ook een beetje Nederlands spreken.
+Ik spreek ook een beetje Nederlands.
 
 ### What's all this then?
 
