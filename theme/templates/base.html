@@ -44,6 +44,7 @@
 		<script src="/mint/?js" type="text/javascript"></script>
 		{% endif %}
 		{% endblock head %}
+		<base href="http://static.martinfitzpatrick.name">
 </head>
 
 <body class="home blog" >
@@ -66,7 +67,7 @@
     <ul class="right root">
       <li class="divider hide-for-small"></li>
 
-      <li><a href="/">Home</a></li>
+      <li><a href="{{ SITEURL }}">Home</a></li>
 
 	  {% for p in PAGES %}
 		<li{% if p == page %} class="active"{% endif %} class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
