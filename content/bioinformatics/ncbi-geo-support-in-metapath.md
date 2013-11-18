@@ -1,7 +1,7 @@
 Date: 2013-11-18 00:35
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
-Title: NCBI Gene Expression Omnibus (GEO) support in MetaPath
+Title: NCBI Gene Expression Omnibus (GEO) support added to MetaPath
 Tags: ncbi,gene-expression,metapath,software,metabolomics,python,matlab
 
 The [NCBI Gene Expression Omnibus (GEO)](http://www.ncbi.nlm.nih.gov/geo/) is 'is a public functional genomics data repository supporting MIAME-compliant data submissions.' In other words, its a online database of freely available experimental gene-expression data. Quite useful.
