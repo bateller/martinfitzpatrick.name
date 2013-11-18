@@ -6,7 +6,7 @@ Tags: ncbi,gene-expression,metapath,software,metabolomics,python,matlab
 
 The [NCBI Gene Expression Omnibus (GEO)](http://www.ncbi.nlm.nih.gov/geo/) is 'is a public functional genomics data repository supporting MIAME-compliant data submissions.' In other words, its a online database of freely available experimental gene-expression data. Quite useful.
 
-To make this resource available to users of MetaPath I've today released a simple GEO-data import plugin. It currently supports [SOFT](http://www.ncbi.nlm.nih.gov/geo/info/soft2.html)-formatted *dataset* files. Support for *family* files is already implemented, but detection of what is what is on the todo list after which this will be implemented.
+To make this resource available to users of MetaPath I've today released a simple GEO-data import plugin. It currently supports [SOFT](http://www.ncbi.nlm.nih.gov/geo/info/soft2.html)-formatted *dataset* files. Support for *family* files is already implemented, but detection of what is what is on the todo list for now.
 
 For the time being, here are a few screenshots/figures generated from [this GEO dataset]() and analysis in action:
 
