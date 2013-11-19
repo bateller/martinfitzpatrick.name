@@ -18,6 +18,8 @@ For the time being, here are a few screenshots/figures generated from [this GEO 
 
 ![software/metapath/geo-demo-pca.png](/static/images/software/metapath/geo-demo-pca.png)
 
+Start to finish (without a prepared workflow): 18seconds.
+
 The GEO import plugin is included in the default MetaPath distribution for download.
 
 
