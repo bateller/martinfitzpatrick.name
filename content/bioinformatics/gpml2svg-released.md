@@ -10,9 +10,11 @@ Tags: gpml,pathways,metabolomics,svg,metapath,software,metabolomics,bioinformati
 In order to add support for GPML pathways (and later KEGG) in [MetaPath][metapath-github] I needed a way to get SVG rendered versions of marked up pathways. The SVG available on WikiPathways is good but doesn't have support for external links (XRef), node identifiers/CSS (to apply transition/style effects to particular nodes). I also ideally wanted a solution that didn't rely on an internet connection to get at, and which would allow users to import GPML files directly. I saw there was a PHP-based tool for converting GPML to SVG but that it was incomplete. So I set about seeing if I could write a command-line renderer in Python: and `gpml2svg` is the result of doing exactly that.
 
 # Status
-'Quite functional'. The two images below show (1) stock SVG available on WikiPathways and (2) output from a given GPML file using gpml2svg. 
+'Quite functional'. The two images below show (1) stock SVG available on WikiPathways
 
 ![WikiPathways](/static/images/software/gpml2svg_wikipathways.png)
+
+(2) output from a given GPML file using gpml2svg 
 
 ![gpml2svg](/static/images/software/gpml2svg_gpml2svg.png)
 
