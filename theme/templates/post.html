@@ -1,9 +1,11 @@
-<div class="post type-post status-publish format-standard hentry category-general" id="post">
+<div class="post type-post status-publish format-standard hentry category-general" id="post" itemscope itemtype="http://schema.org/Article">
 	<div class="entry-meta">
 		<div class="date"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.locale_date }}</a></div>
 		{% if article.author and not SINGLE_AUTHOR %}
-        <img src="{{ article.author_gravatar }}?s=64&d=mm"><br />
-		<span class="byline">By <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a></span>
+		<div itemscope itemtype="http://schema.org/Person">
+        <img src="{{ article.author_gravatar }}?s=64&d=mm" itemprop="photo"><br />
+		<span class="byline">By <a href="{{ SITEURL }}/{{ article.author.url }}" itemprop="name">{{ article.author }}</a></span>
+		</div>
 		{% endif %}
 		{% if DISQUS_SITENAME %}
 			<div class="comments"><a href="{{ SITEURL }}/{{ article.url }}#disqus_thread" title="Comment on {{ article.title|striptags }}">comments</a></div>
@@ -16,15 +18,15 @@
 	</div> <!-- /#entry-meta -->
 	<div class="main">
 		<h2 class="entry-title">
-			<a href="{{ SITEURL }}/{{ article.url }}" title="Permalink to {{ article.title|striptags }}" rel="bookmark">{{ article.title }}</a>
+			<a href="{{ SITEURL }}/{{ article.url }}" title="Permalink to {{ article.title|striptags }}" rel="bookmark" itemprop="name">{{ article.title }}</a>
 		</h2>
-		<div class="entry-content">
+		<div class="entry-content" itemprop="text">
 			{{ article.content }}
 		</div> <!--/#entry-content-->
 		{% if article.tags %}
     		<span class="tag-links"><strong>Tagged</strong>
     			{% set delimiter = joiner() %}
-    			{% for tag in article.tags|sort %} <a href="{{ SITEURL }}/{{ tag.url }}" rel="tag" class="tag">{{ tag }}</a>{% endfor %}
+    			{% for tag in article.tags|sort %} <a href="{{ SITEURL }}/{{ tag.url }}" rel="tag" class="tag" itemprop="about">{{ tag }}</a>{% endfor %}
     		</span>
     	{% endif %}
 	</div> <!--/#main-->
