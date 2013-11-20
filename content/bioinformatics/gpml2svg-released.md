@@ -13,6 +13,7 @@ In order to add support for GPML pathways (and later KEGG) in [MetaPath][metapat
 'Quite functional'. The two images below show (1) stock SVG available on WikiPathways and (2) output from a given GPML file using gpml2svg. 
 
 ![WikiPathways](/static/images/software/gpml2svg_wikipathways.png)
+
 ![gpml2svg](/static/images/software/gpml2svg_gpml2svg.png)
 
 There are a few things that are 'off' (for example the mitochondrion compartment is aligned wrongly) but these are cosmetic and just need some number tweaking. There is only support for shapes that were in the files I tested (mostly squares and the group 'hexagon' for complexes). The elbow-edge drawing is also potentially awful - out of the week it took to write this I probably spent at least a third of the time on trying to get my head around making that work from the limited data in the GPML files! But it seems to be there. Hardly important but the files are also smaller.
