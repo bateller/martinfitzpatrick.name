@@ -30,6 +30,7 @@ STATIC_PATHS = ['images',
                 'extra/.htaccess',]
 
 EXTRA_PATH_METADATA = {
+    'images': {'path': 'static/images'}
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
     'extra/.htaccess': {'path': '.htaccess'},
