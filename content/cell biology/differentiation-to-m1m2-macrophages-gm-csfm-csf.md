@@ -8,7 +8,7 @@ Tags: cell-culture,differentiation,monocyte,cd14,macrophage,m1,m2,cell-biology
 GM-CSF/M-CSF differentiation of CD14+ PBMCs to M1/M2 macrophage subsets.
 
 
-![method/12/750px-Macrophage.jpg](/static/images/method/12/750px-Macrophage.jpg)
+![method/12/750px-Macrophage.jpg](/images/method/12/750px-Macrophage.jpg)
 
 
 

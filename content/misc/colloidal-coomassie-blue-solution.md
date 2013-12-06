@@ -8,7 +8,7 @@ Tags: sds-page,coomassie,solution
 Homemade Colloidal Coomassie Blue Staining
 
 
-![method/1435/new_pa14.jpg](/static/images/method/1435/new_pa14.jpg)
+![method/1435/new_pa14.jpg](/images/method/1435/new_pa14.jpg)
 
 
 

@@ -8,7 +8,7 @@ Tags: microscopy,mounting,model-organisms,4d-microscopy,embryo,slides,imaging
 Embryo 4D video Microscopy preparation of slides and embryos.
 
 
-![method/1433/wtdev4gif.gif](/static/images/method/1433/wtdev4gif.gif)
+![method/1433/wtdev4gif.gif](/images/method/1433/wtdev4gif.gif)
 
 
 

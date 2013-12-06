@@ -26,13 +26,13 @@ One way to make transgenic animals in C. elegans  we use a microinjection techni
 
 Finding the correct spot to inject:  A common problem for novice injectors is not aiming for the center of the gonad.  To find the middle of the gonad arm you need to focus so that there are two rows of nuclei on each side of the gonad (see figure below) this ensures that you are at the core of the gonad. 
 
-![step/None/microi1.jpg](/static/images/step/None/microi1.jpg)
+![step/None/microi1.jpg](/images/step/None/microi1.jpg)
 
 
 
 If you see plenty of nuclei you are at the surface of the gonad and when you try and inject you will certainly miss.
 
-![step/None/microi2.jpg](/static/images/step/None/microi2.jpg)
+![step/None/microi2.jpg](/images/step/None/microi2.jpg)
 
 
 

@@ -8,7 +8,7 @@ Tags: histology,cresyl,nissl,staining
 Cresyl Violet Staining for free floating sections, mounted and air-dried. Cresyl Violet Acetate solution is used to stain Nissl substance in the cytoplasm of neurons in paraformaldehyde or formalin-fixed tissue. The neuropil will be stained a granular purple-blue. This stain is commonly used to identify the neuronal structure in brain and spinal cord tissue.
 
 
-![method/1450/cresyl.png](/static/images/method/1450/cresyl.png)
+![method/1450/cresyl.png](/images/method/1450/cresyl.png)
 
 
 

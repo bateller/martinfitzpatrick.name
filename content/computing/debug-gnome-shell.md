@@ -8,7 +8,7 @@ Tags: shell,linux,gnome,gnome-shell,desktop,gnome3,computing
 Debug Gnome Shell, or run it from the console, either for plugin development or troubleshooting.
 
 
-![method/1496/800px-GNOME_Shell.png](/static/images/method/1496/800px-GNOME_Shell.png)
+![method/1496/800px-GNOME_Shell.png](/images/method/1496/800px-GNOME_Shell.png)
 
 
 

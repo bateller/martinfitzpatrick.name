@@ -8,7 +8,7 @@ Tags: cell-culture,differentiation,dendritic-cell,cd14,dc,monocytes,cell-biology
 Primary monocyte differentiation to DCs with GM-CSF and IL-4
 
 
-![method/13/800px-Dendritic_cells.jpg](/static/images/method/13/800px-Dendritic_cells.jpg)
+![method/13/800px-Dendritic_cells.jpg](/images/method/13/800px-Dendritic_cells.jpg)
 
 
 

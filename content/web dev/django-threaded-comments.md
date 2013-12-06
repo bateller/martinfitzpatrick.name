@@ -10,7 +10,7 @@ Django ships with it's own comments contrib app that provides commenting on arbi
 Here we demonstrate a simple method to get threaded comments in Django using a combination of the inbuilt comment app and the mptt app. 
 
 
-![method/1524/Screenshot from 2012-07-17 18:52:26-2.png](/static/images/method/1524/Screenshot%20from%202012-07-17%2018%3A52%3A26-2.png)
+![method/1524/Screenshot from 2012-07-17 18:52:26-2.png](/images/method/1524/Screenshot%20from%202012-07-17%2018%3A52%3A26-2.png)
 
 
 

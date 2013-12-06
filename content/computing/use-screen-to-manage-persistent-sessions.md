@@ -27,7 +27,7 @@ Connect to the remote server, for example using ssh
 
 On the remote server start `screen` before any other commands. You will see the screen welcome text shown. Press any Space or Return to exit back to the shell.
 
-![step/None/screen-screenshot.png](/static/images/step/None/screen-screenshot.png)
+![step/None/screen-screenshot.png](/images/step/None/screen-screenshot.png)
 
 
 

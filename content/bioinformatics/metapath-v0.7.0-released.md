@@ -7,7 +7,7 @@ Status: published
 
 An update has been released today for [MetaPath][metapath-github], a metabolic pathway visualisation and analysis tool. It is available  via [PyPi][metapath-pypi] and [github][metapath-github]. A [Mac .app][metapath-macapp] bundle is also available.
 
-![Screenshot](/static/images/software/metapath_0.7.0_screenshot.png)
+![Screenshot](/images/software/metapath_0.7.0_screenshot.png)
 
 **Download** [Mac OS X Mountain Lion .app][metapath-macapp] &bull; [Github][metapath-github] &bull; [Python .egg or .gz][metapath-pypi].
 
@@ -19,13 +19,13 @@ More background on the software is given in the [original release announcement][
 
 This release is focused on improving the data-visualisation capabilities of MetaPath with both GPML pathway data-overlay and heatmap visualisations for datasets (via matplotlib). As always, [feedback and bug reports are appreciated][metapath-github-issues]!
 
-![Screenshot](/static/images/software/metapath_0.7.0_screenshot-1.png)
+![Screenshot](/images/software/metapath_0.7.0_screenshot-1.png)
 
 **GPML visualisation:** MetaPath can now visualise experimental datasets on GPML-generated pathway maps. These are automatically updated as control:test combinations are changed, and further pathways can be browsed using the in-pathway links. Metabolites identified in the current database via Xref linking can also be clicked to bring up database information.
 
-![Screenshot](/static/images/software/metapath_0.7.0_screenshot-3.png)
+![Screenshot](/images/software/metapath_0.7.0_screenshot-3.png)
 
-![Screenshot](/static/images/software/metapath_0.7.0_screenshot-2.png)
+![Screenshot](/images/software/metapath_0.7.0_screenshot-2.png)
 
 **Heatmap data visualisation:** Metabolomic datasets can now be visualised as heatmaps for raw concentration and log2 change. A number of default visualisations are automatically generated including key metabolites (as determined by the control:test analysis) as well as oxidative/reductive status, phosphate carriers and waste/energy products. Customisation of these will be added in future releases - if there are further visualisations that would be useful to you, let me know.
 

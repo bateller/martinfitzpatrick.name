@@ -8,7 +8,7 @@ Tags: bash,cli,linux,computing
 Bash history expansion allows you to quickly re-run previous commands using ! and the number of the command in your history.
 
 
-![method/1492/Screen Shot 2012-04-22 at 16.03.03.png](/static/images/method/1492/Screen%20Shot%202012-04-22%20at%2016.03.03.png)
+![method/1492/Screen Shot 2012-04-22 at 16.03.03.png](/images/method/1492/Screen%20Shot%202012-04-22%20at%2016.03.03.png)
 
 
 

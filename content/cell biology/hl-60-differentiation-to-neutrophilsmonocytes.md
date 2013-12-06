@@ -8,7 +8,7 @@ Tags: differentiation,monocyte,hl-60,neutrophil,cell-biology
 Differentiation of HL-60 to neutrophil or monocyte-like cells by Vitamin A (ATRA) and Vitamin D (1a,25(OH)2D3)
 
 
-![method/11/HL60_MNa.jpg](/static/images/method/11/HL60_MNa.jpg)
+![method/11/HL60_MNa.jpg](/images/method/11/HL60_MNa.jpg)
 
 
 

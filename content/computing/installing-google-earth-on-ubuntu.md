@@ -8,7 +8,7 @@ Tags: linux,ubuntu,google-earth,google,computing
 Install the latest version of Google Earth for linux direct from Google sources.
 
 
-![method/1527/GoogleEarth.jpg](/static/images/method/1527/GoogleEarth.jpg)
+![method/1527/GoogleEarth.jpg](/images/method/1527/GoogleEarth.jpg)
 
 
 

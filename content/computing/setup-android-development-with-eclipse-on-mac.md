@@ -8,7 +8,7 @@ Tags: osx-lion,android,mac,mobile,computing
 Install and setup the tools necessary for Android development with Eclipse on Mac OS X (Lion)
 
 
-![method/1470/AndroidStuff.jpg](/static/images/method/1470/AndroidStuff.jpg)
+![method/1470/AndroidStuff.jpg](/images/method/1470/AndroidStuff.jpg)
 
 
 

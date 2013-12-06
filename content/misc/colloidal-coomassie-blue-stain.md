@@ -8,7 +8,7 @@ Tags: gel-electrophoresis,sds-page,coomassie,sds
 Colloidal Coomassie Blue Stain for SDS-PAGE gel
 
 
-![method/1436/new_pa14.jpg](/static/images/method/1436/new_pa14.jpg)
+![method/1436/new_pa14.jpg](/images/method/1436/new_pa14.jpg)
 
 
 

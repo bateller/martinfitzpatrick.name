@@ -8,7 +8,7 @@ Tags: unix,webdevelopment,memcached,computing
 memcached is a general-purpose distributed memory caching system originally developed by Danga Interactive for LiveJournal but now used by many other sites. It is often used to speed up dynamic database-driven websites by caching data and objects in RAM to reduce the number of times an external data source (such as a database or API) must be read. Here we describe the options available from the command line to control a memcached instance via unix socket or IP:port.
 
 
-![method/1536/Screen Shot 2012-08-05 at 17.28.09.png](/static/images/method/1536/Screen%20Shot%202012-08-05%20at%2017.28.09.png)
+![method/1536/Screen Shot 2012-08-05 at 17.28.09.png](/images/method/1536/Screen%20Shot%202012-08-05%20at%2017.28.09.png)
 
 
 
@@ -80,7 +80,7 @@ Results in:
 
 
 
-![step/None/Screen Shot 2012-08-05 at 18.19.20.png](/static/images/step/None/Screen%20Shot%202012-08-05%20at%2018.19.20.png)
+![step/None/Screen Shot 2012-08-05 at 18.19.20.png](/images/step/None/Screen%20Shot%202012-08-05%20at%2018.19.20.png)
 
 
 
@@ -92,7 +92,7 @@ You can use the stats commands to get information about the state of your memcac
 
 Will output a list of stats for the current instance. Additional information can be found using `stats items` to give total stats about items stored in the cached and `stats slabs` which provides more information including performance hints.
 
-![step/None/Screen Shot 2012-08-05 at 17.28.09.png](/static/images/step/None/Screen%20Shot%202012-08-05%20at%2017.28.09.png)
+![step/None/Screen Shot 2012-08-05 at 17.28.09.png](/images/step/None/Screen%20Shot%202012-08-05%20at%2017.28.09.png)
 
 
 

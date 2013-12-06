@@ -8,7 +8,7 @@ Tags: dna,molecular-biology,extraction,mouthwash
 A Salting Out Procedure for DNA extraction from cheek cells obtained by rinsing the mouth with 25mls of any commercial mouth wash solution available for about 30sec the first thing in the morning. It is important not to brush your teeth before collecting the specimen.
 
 
-![method/1498/800px-Nucleosome1.png](/static/images/method/1498/800px-Nucleosome1.png)
+![method/1498/800px-Nucleosome1.png](/images/method/1498/800px-Nucleosome1.png)
 
 
 

@@ -24,7 +24,7 @@ The result is an application with a workflow-like internal structure, that prese
 
 Development has particularly focused on metabolomics data, largely since that is the focus of my PhD - however support for integration of other datasets (or multiple metabolomics datasets) was a bonus. 
 
-![software/metapath/nh-demo-start.png](/static/images/software/metapath/nh-demo-start.png)
+![software/metapath/nh-demo-start.png](/images/software/metapath/nh-demo-start.png)
 
 # Data import
 
@@ -36,13 +36,13 @@ Processing steps are those that transfer the raw data into a form more useable f
 
 Currently binning is supported (the others to follow as provided by the [NMRGlue](nmrglue) library). Importantly, MetaPath supports *live* binning, whereby you can see the effects of your changes on the spectra (bin size, offset), together with a data-loss visualisation indicating areas of the spectrum that are most affected. The plan is to integrate this data into the data model object, so subsequent analysis can inform you if that whopping significant difference you're observing is really an artefact of processing.
 
-![software/metapath/nh-demo-spectra.png](/static/images/software/metapath/nh-demo-spectra.png)
+![software/metapath/nh-demo-spectra.png](/images/software/metapath/nh-demo-spectra.png)
 
-![software/metapath/nh-demo-binning.png](/static/images/software/metapath/nh-demo-binning.png)
+![software/metapath/nh-demo-binning.png](/images/software/metapath/nh-demo-binning.png)
 
 Other basic transformations are available including mean-centering, log transforming, baselining, setting minima both locally and globally. 
 
-![software/metapath/nh-demo-mean-centre.png](/static/images/software/metapath/nh-demo-mean-centre.png)
+![software/metapath/nh-demo-mean-centre.png](/images/software/metapath/nh-demo-mean-centre.png)
 
 Exclusion and filtering of data is also supported by various characteristics.
 
@@ -52,41 +52,41 @@ A key step in analysis is relating what you've found to other data sources. In o
 
 The most basic implementation of this is using synonym name matching, but other alternatives are available including remote NMR spectra processing via [MetaboHunter](metabohunter).
 
-![software/metapath/nh-demo-synonyms.png](/static/images/software/metapath/nh-demo-synonyms.png)
+![software/metapath/nh-demo-synonyms.png](/images/software/metapath/nh-demo-synonyms.png)
 
 # Analysis
 
 "The stats bit". Analysis plugins currently included include support for principal components analysis (PCA) via SVD, PLS-DA and fold-change calculations. Every other statistical test you can think of will be implemented shortly, and resulting statistical findings (p values etc.) can be passed for subsequent visualisation on graphs. As with everything else this will be a semi-automated feature, set it up and see the results applied to subsequent data exactly the same.
 
-![software/metapath/nh-demo-plsda.png](/static/images/software/metapath/nh-demo-plsda.png)
+![software/metapath/nh-demo-plsda.png](/images/software/metapath/nh-demo-plsda.png)
 
 On particularly neat feature is that because identification has already been carried out prior to analysis, the resulting figures can be automatically annotated with entity information. Here for example is the PLS-DA weights plot showing identified metabolites key to the separation.
 
-![software/metapath/nh-demo-plsda-weights.png](/static/images/software/metapath/nh-demo-plsda-weights.png)
+![software/metapath/nh-demo-plsda-weights.png](/images/software/metapath/nh-demo-plsda-weights.png)
 
 Metabolites identified in blue have been automatically mapped to internal Biocyc entities, and can be view through the internal database browser.
 
-![software/metapath/nh-demo-db-unification.png](/static/images/software/metapath/nh-demo-db-unification.png)
+![software/metapath/nh-demo-db-unification.png](/images/software/metapath/nh-demo-db-unification.png)
 
 # Visualisation
 
 Finally. You have your data, you've done your processing, identification and analysis, and now you want to make some nice figures for the Nature paper. MetaPath comes with a mix of standard visualisation tools and some more experimental things, in addition the pathway rendering where this all started! Most new visualisations are powered by the [d3](d3) Javascript visualisation library, which offers beautiful, scalable and interactive visuals. Below are a few examples of the output for the sample dataset:
 
-![software/metapath/nh-demo-bar.png](/static/images/software/metapath/nh-demo-bar.png)
-![software/metapath/nh-demo-correlation-matrix.png](/static/images/software/metapath/nh-demo-correlation-matrix.png)
-![software/metapath/nh-demo-pathway-connects.png](/static/images/software/metapath/nh-demo-pathway-connects.png)
-![software/metapath/nh-demo-metaviz.png.png](/static/images/software/metapath/nh-demo-metaviz.png)
+![software/metapath/nh-demo-bar.png](/images/software/metapath/nh-demo-bar.png)
+![software/metapath/nh-demo-correlation-matrix.png](/images/software/metapath/nh-demo-correlation-matrix.png)
+![software/metapath/nh-demo-pathway-connects.png](/images/software/metapath/nh-demo-pathway-connects.png)
+![software/metapath/nh-demo-metaviz.png.png](/images/software/metapath/nh-demo-metaviz.png)
 
 
 # The end
 
 The end product of all this is a completed analysis workflow and a workspace of processed data. Perhaps the most neatest aspect of this is that the completed workflow can be simply re-applied to a new dataset without modification.  Processing is automatic (although individual steps may be 'paused', e.g. when they depend on remote queries) with status flags updating on the current processing progress. Tweaking any step will automatically update all children.
 
-![software/metapath/nh-demo-workspace.png](/static/images/software/metapath/nh-demo-workspace.png)
+![software/metapath/nh-demo-workspace.png](/images/software/metapath/nh-demo-workspace.png)
 
 The workflow hierarchy of data is available at any point from the Home tab. It's currently view-only, but will be extended to allow live editing of data dependencies within the workspace.
 
-![software/metapath/nh-demo-workflow.png](/static/images/software/metapath/nh-demo-workflow.png)
+![software/metapath/nh-demo-workflow.png](/images/software/metapath/nh-demo-workflow.png)
 
 # What's next?
 

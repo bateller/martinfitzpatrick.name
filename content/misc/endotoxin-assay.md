@@ -8,7 +8,7 @@ Tags: assay,endotoxin-assay,endotoxin
 Endotoxin Assay
 
 
-![method/1388/endotoxinB.jpg](/static/images/method/1388/endotoxinB.jpg)
+![method/1388/endotoxinB.jpg](/images/method/1388/endotoxinB.jpg)
 
 
 

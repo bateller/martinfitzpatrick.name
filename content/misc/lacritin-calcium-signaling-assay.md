@@ -99,7 +99,7 @@ Select experiment from the tool bar.  Set threshold levels for the Ca+2 (this is
 
 Select the measure option from the tool bar. Look for the graph or values (depends on your convenience).  Data (Ca+2) can be averaged or the time point and amount of maximum Ca+2 can be viewed.
 
-![step/None/image002.png](/static/images/step/None/image002.png)
+![step/None/image002.png](/images/step/None/image002.png)
 
 
 >For editing, images of your choice can be selected. Graph of particular time point can be selected.  A mosaic of different images at different time points, with scale can be presented.  Change in the calcium levels with time can be viewed as an animated video.

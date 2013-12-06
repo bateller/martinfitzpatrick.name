@@ -110,7 +110,7 @@ Firstly, folder structure. Things are 'expected' to be laid out as follows by th
 		/<category-2>
 	/theme
 	
-The folder `images` is automatically copied through to appear at `/static/images` on your live site. Similarly `pages` is a special folder that anything contained within will be created as a static page, will not appear in feeds and may appear on link lists in certain forms. The URL structure for articles and pages is different (see later). Finally, `extra` is an optional folder, but extremely useful for copying through completely static content to the a particular destination. For example, on this site I'm using the following in my `pelicanconf.py` to copy through a static robots.txt and .htaccess:
+The folder `images` is automatically copied through to appear at `/images` on your live site. Similarly `pages` is a special folder that anything contained within will be created as a static page, will not appear in feeds and may appear on link lists in certain forms. The URL structure for articles and pages is different (see later). Finally, `extra` is an optional folder, but extremely useful for copying through completely static content to the a particular destination. For example, on this site I'm using the following in my `pelicanconf.py` to copy through a static robots.txt and .htaccess:
 
 	:::python
 	FILES_TO_COPY = ( ('extra/robots.txt', 'robots.txt'),

@@ -8,7 +8,7 @@ Tags: linux,gnome,gnome-shell,desktop,gnome3,computing
 Looking Glass is GNOME Shell's integrated inspector tool and JavaScript console useful for debugging. 
 
 
-![method/1497/shortcuts-looking-glass.png](/static/images/method/1497/shortcuts-looking-glass.png)
+![method/1497/shortcuts-looking-glass.png](/images/method/1497/shortcuts-looking-glass.png)
 
 
 
@@ -29,7 +29,7 @@ Commands can be entered directly at the prompt e.g.
 
 `global.get_window_actors()`
 
-![step/7348/Screenshot at 2012-05-03 20:15:22.png](/static/images/step/7348/Screenshot%20at%202012-05-03%2020%3A15%3A22.png)
+![step/7348/Screenshot at 2012-05-03 20:15:22.png](/images/step/7348/Screenshot%20at%202012-05-03%2020%3A15%3A22.png)
 
 
 >Exit at any time by pressing `Esc`

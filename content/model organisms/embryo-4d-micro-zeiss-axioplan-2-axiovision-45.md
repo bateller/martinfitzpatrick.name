@@ -21,19 +21,19 @@ Start Axiovision Rev 4.5 (make sure the camera and microscope are turned on). Yo
 
 Microscope settings: Objective 10X or 20X (before oil). Transmitted light filters should be set at 4 and 2 for low neutral setting (not much light comes through). If you choose low neutral for 4D in channels settings for during acquisition these filter setting will be set for you automatically. 
 
-![step/None/image002.gif](/static/images/step/None/image002.gif)
+![step/None/image002.gif](/images/step/None/image002.gif)
 
 
 
 Camera Settings: You want to frame your image as 1 embryo will not take up all the camera capture area. This will also reduce the size of your movie file. See boxed area below. You also want to choose 650 X 514 bin 2X2 mono in the camera mode.  If you use standard mode 1300X1030 your file will be greater than 2GB after 8 hours of time lapsed capture.
 
-![step/None/image004.jpg](/static/images/step/None/image004.jpg)
+![step/None/image004.jpg](/images/step/None/image004.jpg)
 
 
 
 Multidimensional Acquisition: You can load a saved experiment or setup a new one with the following properties. Experiment: make sure that the Z stack and Time lapse boxes are checked. 
 
-![step/None/image006.jpg](/static/images/step/None/image006.jpg)
+![step/None/image006.jpg](/images/step/None/image006.jpg)
 
 
 > You can give the experiment a name (and save the parameters for future use) and you can also give the Image a name.
@@ -46,7 +46,7 @@ Channel Assignments (C):
 *After Acquisition* setting choose: nothing- i.e. leave this blank (This is very important!)  we used to have the shutter closed here but this results in the shutter being close between each Z-section. Instead close the transmitted light shutter after the Z-stack. See below.
 10Xà 40X oil -> 63X oil
 
-![step/None/image008.gif](/static/images/step/None/image008.gif)
+![step/None/image008.gif](/images/step/None/image008.gif)
 
 
 >Make sure you have the DIC prism matched with the objective lens i.e DIC prism III with  40X and 63X and DIC II with 20X
@@ -56,7 +56,7 @@ Z stack: While your are in 40X or 63X oil objectives focus in the middle of the 
 The Z stack box should be checked and you want the Start/Stop mode (not the Center Mode). 
 You want to choose a Z stack of about 20mm (10 slices at 2 mm each).  To do this first focus to the bottom of the embryo by turning the focusing knob on the right counter clockwise (i.e. your right thumb moves downward).  Focus until you just reach out of focus.  Press the “Start” button . Now move up in the focus (right thumb move up) so you get about 10 slices. If you need to move up more to get out of focus then put in more slices. If you want to add more slices add to the top of the embryo (i.e  focus with right thumb moving up and then press “stop” The start and stop buttons sets the interval.
 
-![step/None/image010.gif](/static/images/step/None/image010.gif)
+![step/None/image010.gif](/images/step/None/image010.gif)
 
 
 >If you are making short movies (less than 2 hours) then you may take sections at 1mm and take more sections to get greater details. Important! Make sure to choose after Z-stack... "transmitted shutter close" This way the light will be off the embryo between time points.
@@ -64,13 +64,13 @@ You want to choose a Z stack of about 20mm (10 slices at 2 mm each).  To do this
 
 Time points (T): Choose interval as 1 minute and the duration should be about 8 hours.
 
-![step/None/image012.jpg](/static/images/step/None/image012.jpg)
+![step/None/image012.jpg](/images/step/None/image012.jpg)
 
 
 
 Once all parameters are set you can hit “start” at the bottom right hand of the work area.  Also when you start the capture, make sure to pull the right knob out all the way and the left one pushed in to allow all the light to go to the camera port (See green arrows below).
 
-![step/None/image014.gif](/static/images/step/None/image014.gif)
+![step/None/image014.gif](/images/step/None/image014.gif)
 
 
 

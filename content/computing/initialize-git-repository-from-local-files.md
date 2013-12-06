@@ -8,7 +8,7 @@ Tags: git,version-control,computing
 Initialize a Git repository from a local directory, and the files therein, pushing it to an existing but empty remote.
 
 
-![method/1468/GitStuff_1.png](/static/images/method/1468/GitStuff_1.png)
+![method/1468/GitStuff_1.png](/images/method/1468/GitStuff_1.png)
 
 
 

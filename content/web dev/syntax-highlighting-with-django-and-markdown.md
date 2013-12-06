@@ -10,7 +10,7 @@ Syntax highlighting is more than just eye candy. It can turn a block of impenetr
 Here we document the process of implementing syntax highlighting on markdown marked-up(!) code blocks.
 
 
-![method/1525/Screenshot from 2012-07-19 22:04:21.png](/static/images/method/1525/Screenshot%20from%202012-07-19%2022%3A04%3A21.png)
+![method/1525/Screenshot from 2012-07-19 22:04:21.png](/images/method/1525/Screenshot%20from%202012-07-19%2022%3A04%3A21.png)
 
 
 

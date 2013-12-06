@@ -8,7 +8,7 @@ Tags: dmso,cryostore,cryopreservation,cell-culture,restoration,cell-biology,medi
 Restoration of culture cells from storage at -80°C with 10% DMSO cryopreservation.
 
 
-![method/10/c1562.jpg](/static/images/method/10/c1562.jpg)
+![method/10/c1562.jpg](/images/method/10/c1562.jpg)
 
 
 

@@ -8,7 +8,7 @@ Tags: histology,cresyl,staining,luxol-blue,myelin
 Luxol Fast Blue histological stain. This technique is a method requiring over-staining of tissues and differentiation to reveal the myelin. It is advisable to include a control showing de-myelination pathology to ensure the end point of staining is reached. Cresyl Fast Violet counter-stain is optional and results in neuronal piliform staining and a deepening of the myelin blue staining.
 
 
-![method/1451/luxolblue.png](/static/images/method/1451/luxolblue.png)
+![method/1451/luxolblue.png](/images/method/1451/luxolblue.png)
 
 
 

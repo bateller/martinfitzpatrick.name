@@ -36,13 +36,13 @@ Place sterile stirbar in tube and place on magnetic stirrer. Chelex settles quic
 
 Turn on heating block. Set to 95°C. Fill holes with water.
 
-![step/7192/chelex-water.jpg](/static/images/step/7192/chelex-water.jpg)
+![step/7192/chelex-water.jpg](/images/step/7192/chelex-water.jpg)
 
 
 
 Using sterile forceps (Flame over alcohol burner several times to sterilize), remove a small piece of tissue from your sample. This piece of tissue should be big enough to be visible, but not so big as to be easily visible. Imagine cutting a 0.2mm section of a standard staple. This is plenty big. Too much tissue may inhibit your reactions.
 
-![step/7193/chelex-flame.jpg](/static/images/step/7193/chelex-flame.jpg)
+![step/7193/chelex-flame.jpg](/images/step/7193/chelex-flame.jpg)
 
 
 >Sterilize forceps between samples.
@@ -54,7 +54,7 @@ When finished, make a negative Chelex control by dipping your sterilized forceps
 
 Vortex sample and chelex slurry for 10-15 seconds.
 
-![step/7194/chelex-vortex.jpg](/static/images/step/7194/chelex-vortex.jpg)
+![step/7194/chelex-vortex.jpg](/images/step/7194/chelex-vortex.jpg)
 
 
 >Be sure lids are snapped on tightly before begining.
@@ -62,13 +62,13 @@ Vortex sample and chelex slurry for 10-15 seconds.
 
 Spin samples briefly at high speed in a microcentrifuge
 
-![step/7195/chelex-centrifuge.jpg](/static/images/step/7195/chelex-centrifuge.jpg)
+![step/7195/chelex-centrifuge.jpg](/images/step/7195/chelex-centrifuge.jpg)
 
 
 
 Incubate samples for 20 minutes at 95°C
 
-![step/7196/chelex-heatblock.jpg](/static/images/step/7196/chelex-heatblock.jpg)
+![step/7196/chelex-heatblock.jpg](/images/step/7196/chelex-heatblock.jpg)
 
 
 >The block temperature may drop slightly when doing this step. This drop is normal. Check tubes while incubating to ensure
@@ -88,7 +88,7 @@ Spin tubes again at high speed in microcentrifuge.
 
 Samples are ready to use. 
 
-![step/7199/chelex-result.jpg](/static/images/step/7199/chelex-result.jpg)
+![step/7199/chelex-result.jpg](/images/step/7199/chelex-result.jpg)
 
 
 >Only use supernate for PCR reactions. Chlex bead will inactivate Taq!

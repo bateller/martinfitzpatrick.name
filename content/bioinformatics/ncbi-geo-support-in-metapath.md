@@ -10,13 +10,13 @@ To make this resource available to users of MetaPath I've today released a simpl
 
 For the time being, here are a few screenshots/figures generated from [this GEO dataset]() and analysis in action:
 
-![software/metapath/geo-demo-import.png](/static/images/software/metapath/geo-demo-import.png)
+![software/metapath/geo-demo-import.png](/images/software/metapath/geo-demo-import.png)
 
-![software/metapath/geo-demo-data.png](/static/images/software/metapath/geo-demo-data.png)
+![software/metapath/geo-demo-data.png](/images/software/metapath/geo-demo-data.png)
 
-![software/metapath/geo-demo-workflow.png](/static/images/software/metapath/geo-demo-workflow.png)
+![software/metapath/geo-demo-workflow.png](/images/software/metapath/geo-demo-workflow.png)
 
-![software/metapath/geo-demo-pca.png](/static/images/software/metapath/geo-demo-pca.png)
+![software/metapath/geo-demo-pca.png](/images/software/metapath/geo-demo-pca.png)
 
 Start to finish (without a prepared workflow): 18seconds.
 

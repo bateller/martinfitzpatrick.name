@@ -8,7 +8,7 @@ Tags: mac,bash,cli,linux,computing
 Interactively search through your command line history with a simple keyboard shortcut.
 
 
-![method/1491/Screen Shot 2012-04-22 at 15.55.21.png](/static/images/method/1491/Screen%20Shot%202012-04-22%20at%2015.55.21.png)
+![method/1491/Screen Shot 2012-04-22 at 15.55.21.png](/images/method/1491/Screen%20Shot%202012-04-22%20at%2015.55.21.png)
 
 
 

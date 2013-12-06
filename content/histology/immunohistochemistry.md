@@ -8,7 +8,7 @@ Tags: antibody,histology,immunohistochemistry,ihc,confocal,immunology
 Basic outline protocol for immunohistochemistry on unfixed cytostat-thin tissue sections
 
 
-![method/1/Ki67 photo.jpg](/static/images/method/1/Ki67%20photo.jpg)
+![method/1/Ki67 photo.jpg](/images/method/1/Ki67%20photo.jpg)
 
 
 

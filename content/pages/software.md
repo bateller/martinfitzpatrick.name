@@ -7,7 +7,7 @@ license (GPLv3 or MIT/BSD).
 
 
 ### [MetaPath: Metabolic pathway visualisation and analysis][metapath]  
-<img src="/static/images/software/metapath_0.5.1_screenshot_sm.png" class="inline left">MetaPath is a tool for the analysis of metabolic pathway and associated
+<img src="/images/software/metapath_0.5.1_screenshot_sm.png" class="inline left">MetaPath is a tool for the analysis of metabolic pathway and associated
 visualisation of experimental data. Built on the MetaCyc database it provides
 an interactive map in which multiple pathways can be simultaneously visualised.
 Multiple annotations from the MetaCyc database are available including synonyms,

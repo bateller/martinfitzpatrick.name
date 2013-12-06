@@ -37,9 +37,9 @@ It is liable to break and give weird results in various corner cases not yet exp
 
 Here is some sample output (run through [MetaPath](http://martinfitzpatrick.name/article/metapath-gets-flexible-an-interactive-analysis-workflow-tool) - yes there is already a plugin) showing the original and shifted data from a sample manually off-shifted dataset. 
 
-![icoshift/unshifted.png](/static/images/software/icoshift/unshifted.png)
+![icoshift/unshifted.png](/images/software/icoshift/unshifted.png)
 
-![icoshift/shifted.png](/static/images/software/icoshift/shifted.png)
+![icoshift/shifted.png](/images/software/icoshift/shifted.png)
 
 # Thanks
 

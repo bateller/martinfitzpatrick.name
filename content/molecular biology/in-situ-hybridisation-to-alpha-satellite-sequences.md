@@ -8,7 +8,7 @@ Tags: dna,in-situ-hybridisation,ish,molecular-biology
 In this protocol a biotin or digoxigenin labelled DNA probe is detected using HRP-conjugated antibodies. The signal is visualised with diaminobenzidine (DAB). Normal, healthy nuclei show two spots. Aneusomic nuclei show 1, 3, 4 or more spots.
 
 
-![method/42/tetpic2.jpg](/static/images/method/42/tetpic2.jpg)
+![method/42/tetpic2.jpg](/images/method/42/tetpic2.jpg)
 
 
 

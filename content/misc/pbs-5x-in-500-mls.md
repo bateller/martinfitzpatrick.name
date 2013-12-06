@@ -8,7 +8,7 @@ Tags: buffer,pbs,media-solutions
 PBS (5x in 500 mls)
 
 
-![method/1339/800px-Laboratory_glass_bottles-set.jpg](/static/images/method/1339/800px-Laboratory_glass_bottles-set.jpg)
+![method/1339/800px-Laboratory_glass_bottles-set.jpg](/images/method/1339/800px-Laboratory_glass_bottles-set.jpg)
 
 
 

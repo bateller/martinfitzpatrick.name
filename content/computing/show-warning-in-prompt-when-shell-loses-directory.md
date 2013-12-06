@@ -8,7 +8,7 @@ Tags: mac,terminal,prompt,bash,pwd,cli,computing
 Show a warning in the Terminal's prompt when the current working directory is no longer where the shell expects it to be. (e.g. it was deleted or replaced by a new, different directory with the same name by some other app).
 
 
-![method/1471/TerminalPWDChecks.png](/static/images/method/1471/TerminalPWDChecks.png)
+![method/1471/TerminalPWDChecks.png](/images/method/1471/TerminalPWDChecks.png)
 
 
 

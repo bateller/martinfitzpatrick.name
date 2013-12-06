@@ -8,7 +8,7 @@ Tags: b-cell,blood,pbmc,enrichment,dynabeads,immunology
 B cell enrichment using Invitrogen Dynabeads magnetic separation
 
 
-![method/9/800px-Diffuse_large_B_cell_lymphoma_-_cytology_low_mag.jpg](/static/images/method/9/800px-Diffuse_large_B_cell_lymphoma_-_cytology_low_mag.jpg)
+![method/9/800px-Diffuse_large_B_cell_lymphoma_-_cytology_low_mag.jpg](/images/method/9/800px-Diffuse_large_B_cell_lymphoma_-_cytology_low_mag.jpg)
 
 
 

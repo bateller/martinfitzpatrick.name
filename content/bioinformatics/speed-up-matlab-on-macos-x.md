@@ -10,7 +10,7 @@ On MacOS X 10.5 there is considerable slow-down in the MATLAB editor and other G
 The temporary fix is to instruct MATLAB to use the old rendering engine (Quartz2D). This will speed up scrolling and most GUI operations, at the cost of reduced figure drawing speed. 
 
 
-![method/1539/Screen Shot 2013-03-24 at 12.20.16.png](/static/images/method/1539/Screen%20Shot%202013-03-24%20at%2012.20.16.png)
+![method/1539/Screen Shot 2013-03-24 at 12.20.16.png](/images/method/1539/Screen%20Shot%202013-03-24%20at%2012.20.16.png)
 
 
 

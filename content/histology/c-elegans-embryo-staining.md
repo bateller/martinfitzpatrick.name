@@ -8,7 +8,7 @@ Tags: histology,immunofluorescence,celegans,model-organisms,embryo
 Staining protocol for C. Elegans embryos.
 
 
-![method/1422/fluorescent C. elegans.jpg](/static/images/method/1422/fluorescent%20C.%20elegans.jpg)
+![method/1422/fluorescent C. elegans.jpg](/images/method/1422/fluorescent%20C.%20elegans.jpg)
 
 
 

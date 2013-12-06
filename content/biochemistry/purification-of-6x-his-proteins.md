@@ -8,7 +8,7 @@ Tags: purification,protein,polyhistidine,his,biochemistry
 Purification of 6XHIS proteins with cell extraction buffer
 
 
-![method/1444/384px-Ni_column.JPG](/static/images/method/1444/384px-Ni_column.JPG)
+![method/1444/384px-Ni_column.JPG](/images/method/1444/384px-Ni_column.JPG)
 
 
 

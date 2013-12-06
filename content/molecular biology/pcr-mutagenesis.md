@@ -10,7 +10,7 @@ PCR mutagenesis is a method for generating site-directed mutagenesis. This metho
 This method uses a proof-reading polymerase to read all the way around a plasmid and thus incorporate the primer as the new (mutant) sequence. Only a few (say 12) PCR cycles are performed on a relatively large amount of plasmid template to minimise the chance of expanding PCR sequence errors. 
 
 
-![method/46/731px-PCR_tubes.png](/static/images/method/46/731px-PCR_tubes.png)
+![method/46/731px-PCR_tubes.png](/images/method/46/731px-PCR_tubes.png)
 
 
 

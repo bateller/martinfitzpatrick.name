@@ -22,14 +22,14 @@ Visualize your PCR products to make sure that your PCR worked and there are not 
 strong amplification product (bright on the gel) will tend to sequence better. Good bands will yield good
 sequences, so spend the time to optimize your PCR.
 
-![step/None/sapexo-bands.jpg](/static/images/step/None/sapexo-bands.jpg)
+![step/None/sapexo-bands.jpg](/images/step/None/sapexo-bands.jpg)
 
 
 
 Label enough 200 L strip tubes so that there is one tube for each PCR product to be sequenced. There is
 no need to sequence samples that did not amplify.
 
-![step/None/sapexo-tubes.jpg](/static/images/step/None/sapexo-tubes.jpg)
+![step/None/sapexo-tubes.jpg](/images/step/None/sapexo-tubes.jpg)
 
 
 >Put labels on the sides of the strip tubes, not the cap as the termocyclers heated lid will lift writing on the caps. Also, put the date and initials somewhere on the
@@ -39,7 +39,7 @@ no need to sequence samples that did not amplify.
 Using a HIGH DNA pipette, add 5 L of each PCR product into a 200 L tube, changing tips for each sample. 
 
 
-![step/None/sapexo-box.jpg](/static/images/step/None/sapexo-box.jpg)
+![step/None/sapexo-box.jpg](/images/step/None/sapexo-box.jpg)
 
 
 >There is nothing magic about this volume - it provides template for two sequencing reactions if the product is strong. If you need more template than this
@@ -76,7 +76,7 @@ Check tubes for bubbles. If necessary, spin tubes briefly at HIGH in centrifuge.
 Set the thermocycler to SAPEXO program (if available). This program will incubate the reactions at 37 ?
 C for 30 minutes, then kill the enzyme with 80 ?C for 15 minutes, and then cool the reaction to room temperature, 25 ?C. Place all samples in the machine, close the heated lid and run the program.
 
-![step/None/sapexo-cycler.jpg](/static/images/step/None/sapexo-cycler.jpg)
+![step/None/sapexo-cycler.jpg](/images/step/None/sapexo-cycler.jpg)
 
 
 

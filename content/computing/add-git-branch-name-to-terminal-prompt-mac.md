@@ -9,7 +9,7 @@ When in a repository directory, show the name of the currently checked out Git b
 
 
 
-![method/1472/GitBranchName_1.png](/static/images/method/1472/GitBranchName_1.png)
+![method/1472/GitBranchName_1.png](/images/method/1472/GitBranchName_1.png)
 
 
 
