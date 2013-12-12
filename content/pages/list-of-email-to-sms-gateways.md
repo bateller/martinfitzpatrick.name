@@ -4,7 +4,7 @@ Status: hidden
 
 # Background
 
-This content was previously available on WikiPedia, but deleted as it is not *really* encylopaedia-worthy stuff. However, since [this article of mine](http://martinfitzpatrick.name/article/using-email-to-sms-gateways-to-send-free-sms) was one of the major sources for the data in the page, I thought I'd copy it here for posterity.
+This content was previously available on WikiPedia but deleted as *not really encylopaedia-worthy*. Since [this article of mine](http://martinfitzpatrick.name/article/using-email-to-sms-gateways-to-send-free-sms) was a major source for the data in the page, I thought I'd copy it here for posterity.
 
 **Important!** I can't provide support for any of the information provided below.
 
