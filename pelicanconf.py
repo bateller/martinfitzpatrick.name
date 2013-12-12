@@ -22,6 +22,7 @@ PLUGINS = [
         'related_posts',
         'pelican_youtube',
         'sitemap',
+        'summary',
         ]        
 
 STATIC_PATHS = ['images',
@@ -37,6 +38,7 @@ EXTRA_PATH_METADATA = {
 
 # Blogroll
 LINKS =  (
+            ('MetaPath', 'http://getmetapath.org'),
             ('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
             ('Python.org', 'http://python.org'),
         )
