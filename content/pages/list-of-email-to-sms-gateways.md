@@ -1991,7 +1991,9 @@ This content was previously available on WikiPedia but deleted as *not really en
 <td>Open Source (MIT/LGPL)</td>
 </tr>
 </tbody></table>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="http://en.wikipedia.org/w/index.php?title=List_of_SMS_gateways&amp;action=edit&amp;section=1" title="Edit section: References">edit source</a><span class="mw-editsection-divider">&nbsp;| </span><a href="http://en.wikipedia.org/w/index.php?title=List_of_SMS_gateways&amp;veaction=edit&amp;section=1" title="Edit section: References" class="mw-editsection-visualeditor">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
+## References
+
 <div class="reflist" style="list-style-type: decimal;">
 <ol class="references">
 <li id="cite_note-SMS_Sending_API-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-SMS_Sending_API_1-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.kapow.co.uk/info.html?view=api">"Kapow API"</a>. Kapow SMS Gateway<span class="reference-accessdate">. Retrieved 14 August 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+SMS+gateways&amp;rft.btitle=Kapow+API&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.kapow.co.uk%2Finfo.html%3Fview%3Dapi&amp;rft.pub=Kapow+SMS+Gateway&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li>
