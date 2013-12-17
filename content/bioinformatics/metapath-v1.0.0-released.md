@@ -16,9 +16,7 @@ This latest version of MetaPath adds a number of important features over the pre
 
 You can [download it and try it out][all-downloads].
 
-We will be adding a number of [demos, walkthroughs and sample datasets][metapath-demos] in the coming weeks.
-
-Latests versions of MetaPath are available from the [downloads page][all-downloads]. Feedback and [bug-reports](https://github.com/mfitzp/metapath/issues) are always welcome.
+We will be adding a number of [demos, walkthroughs and sample datasets][metapath-demos] in the coming weeks. Latests versions of MetaPath are always available from the [downloads page][all-downloads]. Feedback and [bug-reports](https://github.com/mfitzp/metapath/issues) are always welcome.
 
 
 [getmetapath]: http://getmetapath.org/
