@@ -16,6 +16,10 @@ DEFAULT_LANG = u'en'
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
+AUTHOR_IDENTITIES = {
+    'Martin Fitzpatrick':'https://plus.google.com/115539678583643563408',
+}
+
 PLUGIN_PATH = '/home/spenglr/pelican-plugins'
 PLUGINS = [
         'gravatar',

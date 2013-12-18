@@ -3,6 +3,7 @@
 		<div class="date"><a href="{{ SITEURL }}/{{ article.url }}" itemprop="dateCreated">{{ article.locale_date }}</a></div>
 		{% if article.author and not SINGLE_AUTHOR %}
 		<div itemscope itemtype="http://schema.org/Person" style="margin:0; padding:0">
+        <a href="{{ AUTHOR_IDENTITIES[ article.author|string ] }}?rel=author"></a>
         <img src="{{ article.author_gravatar }}?s=64&d=mm" itemprop="image"><br />
 		<span class="byline">By <a href="{{ SITEURL }}/{{ article.author.url }}" itemprop="name">{{ article.author }}</a></span>
 		</div>
