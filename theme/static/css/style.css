@@ -138,20 +138,20 @@ body {
 
 /* =Content
 ----------------------------------------------- */
-.hentry {
+.h-entry {
 	height: auto;
 	clear: both;
 	position: relative;
     line-height:2.3em;
 }
-.hentry:after {
+.h-entry:after {
 	clear: both;
 	content: ".";
 	display: block;
 	height: 0;
 	visibility: hidden;
 }
-.hentry .main {
+.h-entry .main {
 	border-bottom: 1px dashed #ddd;
 	float: left;
 	line-height: 175%;
@@ -159,7 +159,7 @@ body {
 	text-align: left;
 	width: 580px;
 }
-.hentry .entry-meta {
+.h-entry .entry-meta {
 	font-size: 25px;
 	float: left;
 	margin: 35px 0 0 -199px;
@@ -172,45 +172,45 @@ body {
     -webkit-font-smoothing: antialiased;
 
 }
-.hentry .entry-meta a {
+.h-entry .entry-meta a {
 	text-decoration: none;
 }
-.hentry .entry-meta div {
+.h-entry .entry-meta div {
 	margin: 10px;
 }
-.hentry .entry-meta .date {
+.h-entry .entry-meta .date {
 	color: #000;
 /*	font-weight: bold; */
 	margin: 0px;
 }
-.hentry .entry-meta .comments {
+.h-entry .entry-meta .comments {
 	color: #ef4323;
 	display: block;
 	font-size: 16px;
 	margin: -4px 0 0;
 }
-.hentry .entry-meta .comments a {
+.h-entry .entry-meta .comments a {
 	color: #ef4323;
 	font-size: 22px;
 /*	font-weight: bold; */
 	text-decoration: none;
 }
-.hentry .entry-meta .cat-links {
+.h-entry .entry-meta .cat-links {
 	color: #aaa;
 	font-size: 16px;
 	line-height: 20px;
 	margin-top: 10px;
 }
-.hentry .entry-meta .cat-links a {
+.h-entry .entry-meta .cat-links a {
 	color: #777;
 }
-.hentry .entry-meta .cat-links a:hover {
+.h-entry .entry-meta .cat-links a:hover {
 	color: #ef4323;
 }
-.hentry .entry-meta .edit-link a {
+.h-entry .entry-meta .edit-link a {
 	font-size: 16px;
 }
-.hentry div.margin {
+.h-entry div.margin {
 	margin: 10px;
 }
 .entry-title {
