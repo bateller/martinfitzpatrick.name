@@ -7,7 +7,7 @@ Tags: metapath,software,metabolomics,bioinformatics,python,qt,pyside
 
 MetaPath v2.0.0 has been released today! 
 
-![Screenshot](/images/metapath/metapath-v2-visual-editor.png)
+![Screenshot](/images/software/metapath/metapath-v2-visual-editor.png)
 
 This latest version features a new visual editor for construction fo analysis workflows, new analysis plugins, graphing powered by Matplotlib and all sorts of other goodness. Downloads are available for [Windows][windows-download] and [MacOS X][mac-download].
 
