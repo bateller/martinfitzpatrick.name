@@ -54,6 +54,15 @@ Finally, check PySide are cx_Freeze are set up correctly by starting a Python in
    
 You're now free to build your apps.
 
+# Update 12.01.2014
+
+There are some more things that now no longer work (as the app I'm building has got more and more complicated). However, there are solutions to both.
+
+First of all is using PyQt5 with cx_Freeze raises an [issue](https://bitbucket.org/anthony_tuininga/cx_freeze/issue/33/handle-qt-5-platform-plugins#comment-7104993) with finding the `qt-menu-nib` file that cx_Freeze uses to determine if it is packaging Qt - this folder no longer exists on Qt5. However, you can pass any old folder to cx_Freeze on the command line and it won't matter e.g.
+
+    python setup.py bdist_mac --qt-menu-nib=/usr/local/Cellar/qt5/5.2.0-beta1/plugins/platforms/
+
+Another issue, documented [here](https://bitbucket.org/anthony_tuininga/cx_freeze/issue/43/import-errors-when-using-cx_freeze-with#comment-7370405) occurs when importing SciPy optimize based modules. That link contains a bit of hack code to fix it.
 
 [homebrew]: http://mxcl.github.io/homebrew/
 
