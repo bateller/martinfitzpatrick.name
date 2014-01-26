@@ -5,13 +5,13 @@ I am a final-year PhD student working on the metabolomics of inflammatory diseas
 To do this I combine metabolomic techniques, such as NMR, with cytokine expression and other assays to determine the function, importance and stability of metabolism in inflammatory diseases.
 
 Parallel to laboratory research, I've developed a number of software tools to 
-speed up the process of analysis interpretation of metabolomic data within a pathway context. My published software is open source and available [here][software].
+speed up the process of analysis interpretation of metabolomic data within a pathway context and interact with data from different sources. My published software is open source and available [here][software].
 
-Born in Leeds I'm currently based at the [University of Birmingham][uob] in the United Kingdom.
+Born in [Leeds](https://www.google.co.uk/maps/preview/place/Leeds,+West+Yorkshire,+UK/), I've lived in [Barnoldswick](https://www.google.co.uk/maps/preview/place/Barnoldswich,+Lancashire,+UK/), [York](https://www.google.co.uk/maps/preview/place/York,+UK/), [Edinburgh](https://www.google.co.uk/maps/preview/place/Edinburgh,+City+of+Edinburgh,+UK/) and I'm currently based at the [University of Birmingham][uob] in Birmingham, United Kingdom.
 
-I enjoy playing squash poorly and eating and drinking well.
+I enjoy playing squash poorly and eating and drinking well. I also like a good walk, but don't get to do it as often as I like. I walked the [West Highland Way](http://en.wikipedia.org/wiki/West_Highland_Way) in 2013 (and 2000). It doesn't get easier with age.
 
-Ik spreek ook een beetje Nederlands.
+Ik spreek een beetje Nederlands.
 
 ### What's all this then?
 
