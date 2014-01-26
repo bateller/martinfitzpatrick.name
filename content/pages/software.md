@@ -6,24 +6,31 @@ temporary leave of my senses all of it will be under some form of open-source
 license (GPLv3 or MIT/BSD).
 
 
-### [MetaPath: Metabolic pathway visualisation and analysis][metapath]  
-<img src="/images/software/metapath_0.5.1_screenshot_sm.png" class="inline left">MetaPath is a tool for the analysis of metabolic pathway and associated
+### [MetaPath: Metabolic pathway visualisation and analysis][metapath-www]  
+<img src="/images/software/metapath_0.5.1_screenshot_sm.png" class="inline left">MetaPath is a workflow-based tool for the analysis of metabolic pathway and associated
 visualisation of experimental data. Built on the MetaCyc database it provides
 an interactive map in which multiple pathways can be simultaneously visualised.
 Multiple annotations from the MetaCyc database are available including synonyms,
 associated reactions and pathways and database unification links.
 
-[Download (Mac .app)][metapath-download-mac] &bull; [Github][metapath-github] &bull; [PyPi][metapath-pypi]  
+[Website][metapath-www] &bull; [Github][metapath-github] &bull; [PyPi][metapath-pypi]  
 *Available for free under the GNU General Pubic License v3*
 
-### [GPML2SVG: A command-line/Python GPML to SVG pathway renderer][gpml2svg]
+### [IcoShift: A Python implmentation of the Icoshift algorithm][icoshift-github]
+Icoshift is a versatile tool for the rapid alignment of 1D NMR spectra. This package is a Python implementation of the [icoshift][icoshift-original] algorithm as described by Francesco Savorani and Giorgio Tomasi. It uses correlation shifting of spectral intervals and employs an FFT engine that aligns all spectra simultaneously.
+
+
+[Github][icoshift-github] &bull; [PyPi][icoshift-pypi]  
+*Available for free under the modified 2-clause BSD license.*
+
+### [GPML2SVG: A command-line/Python GPML to SVG pathway renderer][gpml2svg-github]
 GPML2SVG is a command line program and Python API for the conversion of pathways marked up using the GPML format, as supported by PathVisio and WikiPathways. It additionally
 supports XRef linking, node colouring and synonym-recoding (so you can use alternative IDs if you have an appropriate conversion list). 
 
 [Github][gpml2svg-github] &bull; [PyPi][gpml2svg-pypi]  
 *Available for free under the modified 2-clause BSD license.*
 
-### [Accuri2FCS: Convert Accuri .c6 files to .fcs standard][accuri2fcs]
+### [Accuri2FCS: Convert Accuri .c6 files to .fcs standard][accuri2fcs-github]
 Accuri2svg is a command line program for the conversion of Accuri .c6 flow cytometry data files to the standard .fcs format. Either extract all the files directly, or use complex text-processing to name the resulting files using features of sample names.
 
 [Github][accuri2fcs-github] &bull; [PyPi][accuri2fcs-pypi]  
@@ -31,18 +38,19 @@ Accuri2svg is a command line program for the conversion of Accuri .c6 flow cytom
 
 
 
-[metapath]: http://martinfitzpatrick.name/blog/metapath-v0.5.1-released
-[metapath-download-mac]: http://download.martinfitzpatrick.name/MetaPath.dmg
-[metapath-github]: https://github.com/mfitzp/metapath
+[metapath-www]: http://getmetapath.org/
+[metapath-github]: https://github.com/mfitzp/metapath/
 [metapath-pypi]: https://pypi.python.org/pypi/metapath/
 
-[gpml2svg]: http://martinfitzpatrick.name/article/gpml2svg-a-command-line-svg-renderer-for-gpml-pathways-released
-[gpml2svg-github]: https://github.com/mfitzp/gpml2svg
+[gpml2svg-github]: https://github.com/mfitzp/gpml2svg/
 [gpml2svg-pypi]: https://pypi.python.org/pypi/gpml2svg/
 
-[accuri2fcs]:
-[accuri2fcs-github]: https://github.com/mfitzp/accuri2fcs
+[accuri2fcs-github]: https://github.com/mfitzp/accuri2fcs/
 [accuri2fcs-pypi]: https://pypi.python.org/pypi/accuri2fcs/
+
+[icoshift-github]: https://github.com/mfitzp/icoshift/
+[icoshift-pypi]: https://pypi.python.org/pypi/icoshift/
+[icoshift-original]: http://www.models.life.ku.dk/icoshift
 
 
 
