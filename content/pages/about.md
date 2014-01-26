@@ -9,7 +9,7 @@ speed up the process of analysis interpretation of metabolomic data within a pat
 
 Born in [Leeds](https://www.google.co.uk/maps/preview/place/Leeds,+West+Yorkshire,+UK/), I've lived in [Barnoldswick](https://www.google.co.uk/maps/preview/place/Barnoldswick,+Lancashire,+UK/), [York](https://www.google.co.uk/maps/preview/place/York,+UK/), [Edinburgh](https://www.google.co.uk/maps/preview/place/Edinburgh,+City+of+Edinburgh,+UK/) and I'm currently based at the [University of Birmingham][uob] in Birmingham, United Kingdom.
 
-I enjoy playing squash poorly and eating and drinking well. I also like a good walk, but don't get to do it as often as I like. I walked the [West Highland Way](http://en.wikipedia.org/wiki/West_Highland_Way) in 2000 and 2013. It doesn't get easier with age.
+I enjoy playing squash poorly and eating and drinking well. I also like a good walk, but don't get to do it as often as I like. I walked the [West Highland Way](http://en.wikipedia.org/wiki/West_Highland_Way) in 1998 and 2013. It doesn't get easier with age.
 
 Ik spreek een beetje Nederlands.
 
