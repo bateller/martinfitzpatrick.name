@@ -23,6 +23,6 @@ Everything you see here is licensed [CC-BY-SA][cc-by-sa] and [GPLv3][gpl3].
 Have fun!
 
 [uob]: http://www.birmingham.ac.uk
-[software]: /software
+[software]: http://martinfitzpatrick.name/software
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/3.0/
 [gpl3]: http://www.gnu.org/licenses/gpl.html
