@@ -1,7 +1,7 @@
-go Life Science
+martinfitzpatrick.name
 =============
 
-This is the code that runs [Game of Life Science](http://golifescience.com). It is built
+This is the code that runs [martinfitzpatrick.name](http://martinfitzpatrick.name). It is built
 on Pelican, Python, Foundation and hosted by Webfaction.
 
 ## Want to contribute?
