@@ -42,7 +42,7 @@ EXTRA_PATH_METADATA = {
 
 # Blogroll
 LINKS =  (
-            ('MetaPath', 'http://getmetapath.org'),
+            ('Pathomx', 'http://pathomx.org'),
             ('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
             ('Python.org', 'http://python.org'),
         )
