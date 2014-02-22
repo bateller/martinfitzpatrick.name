@@ -6,7 +6,7 @@ temporary leave of my senses all of it will be under some form of open-source
 license (GPLv3 or MIT/BSD).
 
 
-### [Pathomx: Metabolic pathway visualisation and analysis][metapath-www]  
+### [Pathomx: Metabolic pathway visualisation and analysis][pathomx-www]  
 <img src="/images/software/metapath_0.5.1_screenshot_sm.png" class="inline left">Pathomx is a workflow-based tool for the analysis of metabolic pathway and associated
 visualisation of experimental data. Built on the MetaCyc database it provides
 an interactive map in which multiple pathways can be simultaneously visualised.
