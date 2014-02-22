@@ -6,14 +6,14 @@ temporary leave of my senses all of it will be under some form of open-source
 license (GPLv3 or MIT/BSD).
 
 
-### [MetaPath: Metabolic pathway visualisation and analysis][metapath-www]  
-<img src="/images/software/metapath_0.5.1_screenshot_sm.png" class="inline left">MetaPath is a workflow-based tool for the analysis of metabolic pathway and associated
+### [Pathomx: Metabolic pathway visualisation and analysis][metapath-www]  
+<img src="/images/software/metapath_0.5.1_screenshot_sm.png" class="inline left">Pathomx is a workflow-based tool for the analysis of metabolic pathway and associated
 visualisation of experimental data. Built on the MetaCyc database it provides
 an interactive map in which multiple pathways can be simultaneously visualised.
 Multiple annotations from the MetaCyc database are available including synonyms,
 associated reactions and pathways and database unification links.
 
-[Website][metapath-www] &bull; [Github][metapath-github] &bull; [PyPi][metapath-pypi]  
+[Website][pathomx-www] &bull; [Github][pathomx-github] &bull; [PyPi][pathomx-pypi]  
 *Available for free under the GNU General Pubic License v3*
 
 ### [IcoShift: A Python implmentation of the Icoshift algorithm][icoshift-github]
@@ -38,9 +38,9 @@ Accuri2svg is a command line program for the conversion of Accuri .c6 flow cytom
 
 
 
-[metapath-www]: http://getmetapath.org/
-[metapath-github]: https://github.com/mfitzp/metapath/
-[metapath-pypi]: https://pypi.python.org/pypi/metapath/
+[pathomx-www]: http://pathomx.org/
+[pathomx-github]: https://github.com/pathomx/pathomx/
+[pathomx-pypi]: https://pypi.python.org/pypi/Pathomx/
 
 [gpml2svg-github]: https://github.com/mfitzp/gpml2svg/
 [gpml2svg-pypi]: https://pypi.python.org/pypi/gpml2svg/
