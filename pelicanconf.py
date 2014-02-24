@@ -4,7 +4,7 @@
 AUTHOR = u'Martin Fitzpatrick'
 AUTHOR_EMAIL = u'martin.fitzpatrick@gmail.com'
 SITENAME = u'Martin Fitzpatrick'
-SITESUBTITLE = u' Bioinformatics | Immunology | Python | Web '
+SITESUBTITLE = u'Postgraduate Researcher in Metabolomics and Immunology '
 SITEURL = 'http://martinfitzpatrick.name'
 
 FEED_DOMAIN = SITEURL
