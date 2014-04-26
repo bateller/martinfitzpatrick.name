@@ -1,4 +1,4 @@
-Date: 2013-04-25 17:00
+Date: 2014-04-25 17:00
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: QColorButton: A color-selector tool for PyQt
