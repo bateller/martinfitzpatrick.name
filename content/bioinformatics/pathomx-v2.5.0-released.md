@@ -5,7 +5,7 @@ Title: Pathomx v2.5.0 released
 Slug: pathomx-v2.5.0-released
 Tags: pathomx,metapath,software,metabolomics,bioinformatics,python,qt,pyside
 
-Pathomx v2.5.0 has also been released for both  [Windows][windows-download] and [MacOS X][mac-download]. 
+Pathomx v2.5.0 has been released for both  [Windows][windows-download] and [MacOS X][mac-download]. 
 
 ![Screenshot](/images/software/pathomx/annotation_demo.png)
 
@@ -16,6 +16,7 @@ This latest version adds a number of important features over the previous releas
 * Improvements to spectra-plot annotations<
 * Support for European-style semicolon-delimited CSV and format autodetection
 * Legacy tool import filters allowing modified tools to provide a backwards-compatible interface for loading
+* Fixes for PCA/PLS-DA on >2 components
 * A number of small performance improvements and bugfixes
     
 [Download it and try it out!][all-downloads]
