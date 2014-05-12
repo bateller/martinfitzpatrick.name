@@ -60,7 +60,9 @@ I've just released a simple API for managing matplotlib line and marker styles f
 ![Image 2](https://raw.githubusercontent.com/mfitzp/mplstyler/master/output_4_0.png)
 
 Notice that Series 1 has again been displayed using the same colour, since the classname ('Series 1')
-is unchanged. However, Series 3 is assigned a new colour as it doesn't match any of the previous classes.
+is unchanged. However, Series 3 is assigned a new colour as it doesn't match any of the previous classes. 
+
+You can manually set styles, pattern match (inc regex) and various other things. Documentation for all of this will follow shortly.
 
 [mplstyler-github]: https://github.com/mfitzp/mplstyler
 [mplstyler-pypi]: https://pypi.python.org/pypi/mplstyler
