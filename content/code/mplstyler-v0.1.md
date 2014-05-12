@@ -8,20 +8,21 @@ Tags: matplotlib,software,bioinformatics,python
 I've just released a simple API for managing matplotlib line and marker styles for plots. It's called **mplstyler** and you can get it from [Github][mplstyler-github] or [PyPi][mplstyler-pypi]. This code is based on the style manager in Pathomx, extracted for more general use.
 
     :::python
-
     from mplstyler import StylesManager
-    
-    styles = StylesManager()
-    :::python
+    styles = StylesManager()     
 
-    from pylab import *
+<!-- -->
+
     :::python
+    from pylab import *
 
     x = linspace(0, 5, 10)
     y1 = x ** 2
     y2 = x ** 3
-    :::python
 
+<!-- -->
+
+    :::python
     figure()
     
     s = styles.get_style_for_class('Series 1')
@@ -36,7 +37,6 @@ I've just released a simple API for managing matplotlib line and marker styles f
 ![Image 2](https://raw.githubusercontent.com/mfitzp/mplstyler/master/output_3_0.png)
 
     :::python
-
     figure()
 
     from collections import OrderedDict
