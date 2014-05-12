@@ -5,7 +5,7 @@ Title: mplstyler: A simple API to keep line and marker styles consistent through
 Slug: mplstyler-matplotlib-line-and-marker-styler
 Tags: matplotlib,software,bioinformatics,python
 
-I've just released a simple API for managing matplotlib line and marker styles for plots. It's called **mplstyler** and you can get it from [Github][mplstyler-github] or [PyPi][mplstyler-pypi].
+I've just released a simple API for managing matplotlib line and marker styles for plots. It's called **mplstyler** and you can get it from [Github][mplstyler-github] or [PyPi][mplstyler-pypi]. This code is based on the style manager in Pathomx, extracted for more general use.
 
     :::python
 
