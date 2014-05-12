@@ -1,4 +1,4 @@
-Date: 2014-04-14 20:00
+Date: 2014-05-12 21:00
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: mplstyler: A simple API to keep line and marker styles consistent throughout plots
