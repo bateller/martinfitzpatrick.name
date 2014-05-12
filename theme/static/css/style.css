@@ -567,4 +567,7 @@ img.inline.right { padding: 0.2em 0em 0.2em 1em; }
 
 pre, code {
     margin-bottom:20px; 
+    background-color:#F8F8F8;
+    border:#ddd 1px solid;
+    border-radius: 3px;
 }
