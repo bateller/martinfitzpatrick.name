@@ -62,7 +62,7 @@ I've just released a simple API for managing matplotlib line and marker styles f
 Notice that Series 1 has again been displayed using the same colour, since the classname ('Series 1')
 is unchanged. However, Series 3 is assigned a new colour as it doesn't match any of the previous classes. 
 
-You can manually set styles, pattern match (including regex) and various other things. Documentation for all of this will follow shortly once the API is more settled.
+You can manually set styles and use pattern matching (regex) to cumulatively build styles. Documentation for all of this will follow shortly once the API is more settled. A Qt UI for editing and configuring style behaviour (as seen in Pathomx) will also be available.
 
 [mplstyler-github]: https://github.com/mfitzp/mplstyler
 [mplstyler-pypi]: https://pypi.python.org/pypi/mplstyler
