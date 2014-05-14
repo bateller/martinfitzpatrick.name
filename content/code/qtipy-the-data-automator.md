@@ -5,7 +5,7 @@ Title: QtIPy: The data automator
 Slug: qtipy-the-data-automator
 Tags: qtipy,ipython,automation,software,metabolomics,bioinformatics,python,qt,pyside
 
-I've released a first version of a new package today - **QtIPy: *The data automator* **
+Today sees the release of a useful little utility: **QtIPy: *The data automator!* **
 
 ![Screenshot](/images/software/qtipy/QtIPy-screenshot.png)
 
