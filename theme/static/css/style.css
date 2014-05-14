@@ -563,9 +563,13 @@ img.inline.left { padding: 0.2em 1em 0.2em 0; }
 img.inline.right { padding: 0.2em 0em 0.2em 1em; }
 
 pre, code {
-    padding:1em;
-    margin-bottom:20px; 
     background-color:#F8F8F8;
+    padding:0.1em;
+}
+
+pre {
+    margin-bottom:20px; 
     border:#ddd 1px solid;
     border-radius: 3px;
+    padding:1em;
 }
