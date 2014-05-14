@@ -9,6 +9,8 @@ I've released a first version of a new package today - **QtIPy: *The data automa
 
 ![Screenshot](/images/software/qtipy/QtIPy-screenshot.png)
 
+# About
+
 QtIPy is a simple GUI-based automator for IPython notebooks. It allows you to attach triggers to files, folders or timers to automatically run notebooks. 
 
 IPython notebooks are great for interactively working through analysis problems, so why would you want to automatically run them? To get a record of how you ran your analysis! By running a notebook through QtIPy you get the data output, the figures and everything else output into a folder.
@@ -28,3 +30,18 @@ Automators can be paused to stop them processing, activated and run immediately.
 Requires PyQt5. Compatible with both Python2.7 and Python3.4.
 
 The back-end running is powered by [runipy](https://github.com/paulgb/runipy/), which is a great tool for running notebooks and getting output from the command line.
+
+# Installation
+
+QtIPy requires PyQt5. Compatible with both Python2.7 and Python3.4.
+
+Best installed via PyPi:
+
+    pip install qtipy
+    
+Then from a command line run:
+
+    QtIPy
+    
+For Mac users a launcher `.app` is available for download from [here](http://download.martinfitzpatrick.name/QtIPy.app.zip). Install
+as above, then download the `.app` and drag to your dock. Click to launch QtIPy!
