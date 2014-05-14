@@ -1,7 +1,7 @@
 Date: 2014-05-14 21:57
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
-Title: QtIPy: The data automator
+Title: QtIPy: The data automator!
 Slug: qtipy-the-data-automator
 Tags: qtipy,ipython,automation,software,metabolomics,bioinformatics,python,qt,pyside
 
