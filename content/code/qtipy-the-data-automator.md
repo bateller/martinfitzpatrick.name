@@ -13,7 +13,7 @@ Today sees the release of a useful little utility: **QtIPy: *The data automator!
 
 QtIPy is a simple GUI-based automator for IPython notebooks. It allows you to attach triggers to files, folders or timers to automatically run notebooks. 
 
-IPython notebooks are great for interactively working through analysis problems, so why would you want to automatically run them? To get a record of how you ran your analysis! By running a notebook through QtIPy you get the data output, the figures and everything else output into a folder.
+IPython notebooks are great for interactively working through analysis problems, so why would you want to automatically run them? To get a record of how you ran your analysis! By running a notebook through QtIPy you get the output, figures and a step by step log of how the analysis was performed all in the same folder.
 
 A dictionary of variables describing the current state is passed to the script (as a variable named `qtipy`) and can be used to control inputs, outputs and behaviours in the script. Watching a folder optionally iterates over all the files in a folder, which are also passed (in turn) to the notebook for processing. 
 
