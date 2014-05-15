@@ -1,6 +1,7 @@
 #! /usr/bin/env python2.7
 import os
 import json
+from subprocess import call, check_output
 
 # Change to script folder
 abspath = os.path.abspath(__file__)
