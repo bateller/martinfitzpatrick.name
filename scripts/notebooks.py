@@ -47,7 +47,7 @@ for nbf in notebook_files:
         metadata['examples'] = { x:(remote_path.replace('.ipynb',x), notebook_fn.replace('.ipynb',"")) for x in ['.html','.pdf'] if os.path.isfile(remote_path.replace('.ipynb',x))}
 
         if metadata['name'] == '':
-            metadata['name'] = os.path.basename(nbf)
+            metadata['name'] = os.path.basename(nbf).replace('.ipynb',"")
 
         if 'description' not in metadata:
             metadata['description'] = ''
