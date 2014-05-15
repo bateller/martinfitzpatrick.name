@@ -2,8 +2,12 @@
 Title: Notebooks
 Slug: notebooks
 
-Below are a list of my publicly available IPython Notebook files (.ipynb). This listing is
-automatically generated from my [notebook repo on Github](http://github.com/mfitzp/ipython-notebooks) here.
+Here you'll find a selection of publicly-available [IPython Notebook](http://ipython.org/notebook.html) files (.ipynb) I've written. 
+The list is automatically generated from my [notebook repo on Github](http://github.com/mfitzp/ipython-notebooks) here and 
+will incude notebooks for common data processing tasks.
+
+Some of the notebooks listed here may also be configured to run with [QtIPy](http://martinfitzpatrick.name/article/qtipy-the-data-automator/)
+to automate your data analysis.
 
 @for nb in notebooks:
 
