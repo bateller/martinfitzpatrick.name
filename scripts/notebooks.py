@@ -5,7 +5,13 @@ import json
 # Change to script folder
 abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
+
+os.chdir(os.path.join(dname,'notebooks'))
+# Update the plugin repository list source.list
+call(['git', 'pull'])
+
 os.chdir(dname)
+
 
 # wheezy templating engine
 from wheezy.template.engine import Engine
