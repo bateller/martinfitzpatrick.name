@@ -10,4 +10,4 @@ Birmingham
 United Kingdom  
 B15 2TT  
 
-e: [mfitzp@pathomx.org](mailto:mfitzp@pathomx.org)  
+e: [mfitzp@pathomx.org](mailto:martin.fitzpatrick@gmail.com)  
