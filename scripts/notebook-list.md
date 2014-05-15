@@ -10,10 +10,10 @@ automatically generated from my [notebook repo on Github](http://github.com/mfit
 ### @nb['name']
 @nb['description']
 
-Download this notebook: [.ipynb](https://raw.githubusercontent.com/mfitzp/ipython-notebooks/master/@nb['notebook_path'])
+Download this notebook: [.ipynb](@nb['notebook_path'])
 @if 'examples' in nb:
 @for k,v in nb['examples'].items():
-[@k](https://raw.githubusercontent.com/mfitzp/ipython-notebooks/master/@v)
+[@k](@v)
 @endfor
 @endif
 

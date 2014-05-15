@@ -41,8 +41,9 @@ for nbf in notebook_files:
     with open(nbf, 'r') as f:
         nb = json.loads(f.read(-1))
         metadata = nb["metadata"]
-        metadata['notebook_path'] = nbf
-        metadata['examples'] = { x:nbf.replace('.ipynb',x) for x in ['.html','.pdf'] if os.path.isfile(nbf.replace('.ipynb',x))}
+        remote_path = 'https://raw.githubusercontent.com/mfitzp/ipython-notebooks/master/' + os.path.relpath(nbf, dname)
+        metadata['notebook_path'] = remote_path
+        metadata['examples'] = { x:remote_path.replace('.ipynb',x) for x in ['.html','.pdf'] if os.path.isfile(remote_path.replace('.ipynb',x))}
 
         if metadata['name'] == '':
             metadata['name'] = os.path.basename(nbf)
