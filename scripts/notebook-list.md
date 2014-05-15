@@ -14,7 +14,7 @@ to automate your data analysis.
 ### @nb['name']
 @nb['description']
 
-Download this notebook: <a href="(@nb['notebook_path'])" download>.ipynb</a>
+Download this notebook: <a href="@nb['notebook_path']" download>.ipynb</a>
 @if 'examples' in nb:
 @for k,v in nb['examples'].items():
 <a href="@v" download>@k</a>
