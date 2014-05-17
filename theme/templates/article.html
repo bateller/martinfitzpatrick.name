@@ -8,7 +8,7 @@
                     <div class="12u skel-cell-mainContent">
                         <!-- Content -->
                             <article class="box is-post">
-                                {% if article.picture %}<div class="image image-full"><img src="{{ SITEURL }}/{{ article.picture }}"/><a href="{{ article.picturecopyrights }}" class="img-copy">{{ article.picturecopyrights }}</a></div>{% endif %}
+                                <!-- {% if article.picture %}<div class="image image-full"><img src="{{ SITEURL }}/{{ article.picture }}"/><a href="{{ article.picturecopyrights }}" class="img-copy">{{ article.picturecopyrights }}</a></div>{% endif %} -->
                                 <h2>{{ article.title }}</h2>
                                 <div class="metadata">Posted {% if article.category %}in <a  href="{{ article.category.url }}">{{ article.category|capitalize }}</a>{% endif %} on {{ article.locale_date }} &#8226;
                                    Tagged {% for tag in article.tags %}<a href="{{ tag.url }}">{{ tag|capitalize }}</a>{% if not loop.last%}, {% endif %}{% endfor %}
