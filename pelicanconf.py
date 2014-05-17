@@ -4,7 +4,7 @@
 AUTHOR = u'Martin Fitzpatrick'
 AUTHOR_EMAIL = u'martin.fitzpatrick@gmail.com'
 AUTHOR_ABOUT = u"A final-year PhD student working on the metabolomics of inflammatory diseases."
-SITENAME = u'Martin Fitzpatrick MRes'
+SITENAME = u'Martin Fitzpatrick'
 SITESUBTITLE = u'Postgraduate Researcher in Metabolomics and Immunology '
 SITEURL = 'http://martinfitzpatrick.name'
 
