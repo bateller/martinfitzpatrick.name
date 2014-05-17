@@ -44,6 +44,7 @@ EXTRA_PATH_METADATA = {
 # Blogroll
 LINKS =  (
             ('Pathomx', 'http://pathomx.org'),
+            ('The Open Lab Book', 'http://theolb.readthedocs.org'),
             ('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
             ('Python.org', 'http://python.org'),
         )
