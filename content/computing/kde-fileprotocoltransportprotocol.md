@@ -11,6 +11,8 @@ Many SVNs, e.g. `svn://svn.kde.org` can be accessed as expected. However, this i
 
 In these cases you need a method for accessing `svn://` via `http://` ..and surprise, surprise, KDE can do that. As [Sabin Iacob][2] noted, it’s possible in KDE to provide separate file and transport protocol within a single URL. Doing this allows the filesystem to connect through one (transport protocol) and act on the result as if it were the other (file protocol).
 
+<!-- PELICAN_END_SUMMARY -->
+
 For example, using Konqueror (or any KDE app) to connect the WordPress SVN enter the following URL to browse the WordPress repository as if it were a standard directory:
 
 `<a href="//svn.wp-plugins.org/">svn+http://svn.wp-plugins.org/</a>`

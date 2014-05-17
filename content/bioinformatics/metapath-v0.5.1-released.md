@@ -4,8 +4,11 @@ Email: martin.fitzpatrick@gmail.com
 Title: MetaPath: Metabolic pathway visualisation and analysis [Released]
 Slug: metapath-v0.5.1-released
 Tags: metapath,software,metabolomics,bioinformatics,python,qt,pyside
+Picture: /images/software/metapath_0.5.1_screenshot.png
 
 [MetaPath][metapath-github], a metabolic pathway visualisation and analysis tool I've developed as part of my PhD, has been released today via [PyPi][metapath-pypi] and [github][metapath-github]. A [Mac .app][metapath-macapp] bundle is also available.
+
+<!-- PELICAN_END_SUMMARY -->
 
 ![Screenshot](/images/software/metapath_0.5.1_screenshot.png)
 

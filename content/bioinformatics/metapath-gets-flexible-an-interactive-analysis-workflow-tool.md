@@ -3,10 +3,13 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: MetaPath gets flexible: An interactive analysis workflow tool
 Tags: metapath,software,metabolomics,qt,programming
+Picture: /images/software/metapath/nh-demo-start.png
 
 It's been a while since I've posted an update on MetaPath development, which is finally forming into a solid package ready for publication. The latest version is [available here on Github](metapath-github), with binary packages to follow in the near future.
 
 It's quite a transformation from earlier versions, so I thougth I'd take some time to walk through the new features and ideas, with a few notes on implementation.
+
+<!-- PELICAN_END_SUMMARY -->
 
 # Where we were
 

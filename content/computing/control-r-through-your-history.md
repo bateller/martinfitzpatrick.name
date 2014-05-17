@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Control-R Through Your History
 Slug: control-r-through-your-history
 Tags: mac,bash,cli,linux,computing
+Picture: /images/method/1491/Screen%20Shot%202012-04-22%20at%2015.55.21.png
 
 Interactively search through your command line history with a simple keyboard shortcut.
 

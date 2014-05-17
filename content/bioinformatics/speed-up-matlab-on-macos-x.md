@@ -4,8 +4,11 @@ Email: martin.fitzpatrick@gmail.com
 Title: Speed up MATLAB on MacOS X
 Slug: speed-up-matlab-on-macos-x
 Tags: mac,osx,computing,matlab
+Picture: /images/method/1539/Screen%20Shot%202013-03-24%20at%2012.20.16.png
 
 On MacOS X 10.5 there is considerable slow-down in the MATLAB editor and other GUI elements. The issue is related to a change in the default Mac Java 2D rendering engine from Quartz2D (10.4) and Sun2D (10.5). This newer rendering engine improves performance for figure drawing, but other GUI operations are slower. 
+
+
 
 The temporary fix is to instruct MATLAB to use the old rendering engine (Quartz2D). This will speed up scrolling and most GUI operations, at the cost of reduced figure drawing speed. 
 
@@ -21,23 +24,37 @@ The temporary fix is to instruct MATLAB to use the old rendering engine (Quartz2
 
 Open a terminal and browse to to your Matlab app bundle, eg.
 
+
+
     cd /Applications/MATLAB_R2011a_Student.app
 
 
 
 
+
+
 >Your MATLAB folder will likely be different to this. A quick way to find it is to use the `tab` key. At the command-line enter `cd /Applications/MATLAB` then hit `<tab>` and the name should autocomplete.
+
 >
+
 >
 
 
 If you're on 2008a or later, you need to browse down to the maci folder. 
 
+
+
     cd bin/maci
+
+
 
 or for 64 bit
 
+
+
     cd bin/maci64
+
+
 
 
 
@@ -47,7 +64,11 @@ or for 64 bit
 
 At the command line type `nano java.opts` to create a new empty file and open a command-line text editor. You can copy and paste into this window, so simply copy the text below and paste it onto a new line in the file.
 
+
+
     -Dapple.awt.graphics.UseQuartz=true
+
+
 
 To save hit `Ctrl-X`(exit) then press `Y` to save and `Return` to accept the filename
 
@@ -55,7 +76,11 @@ To save hit `Ctrl-X`(exit) then press `Y` to save and `Return` to accept the fil
 
 
 
+
+
+
 >You can also optionally add `-Dapple.laf.useScreenMenuBar=false` to turn off the Mac top-of-screen menu bar. This appears to also slightly increase speed.
+
 >
 
 

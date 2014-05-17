@@ -7,6 +7,8 @@ Tags: meta,pelican
 
 Regulars among you will have noticed that the site is different, very different.
 
+<!-- PELICAN_END_SUMMARY -->
+
 The [Game of Life Science][golifescience] site has a long and convoluted history. Back in 2009 while an undergraduate I had the bright idea to create an online education site to bring together online materials and a neat method for testing progress. That got reasonably far, through numerous re-writes and re-organisations ([github here][github-mfitzp]) before petering out under the weight of content creation, community building and final year exams/dissertation.
 
 Moving on to a masters/PhD in the life sciences I saw an opportunity to modernise lab protocols, streamline working processes and promote open-sharing of methods. So I built another site, methodmint (later research.abl.es, then do.abl.es …I seem to have a fetish for buying domain names). Like smrtr before it that petered out under the weight of creating the protocols and building the community - notice a pattern. In hindsight, the approach was also fundamentally wrong: people need 'tools' not 'communities' for this, something that can slot into an existing workflow and streamline it. There was also the slight issue that in noticing that the back-end of this could power multiple sites, it ended up running a recipe, drinks, computing and life-coaching site - all not particularly successfully.

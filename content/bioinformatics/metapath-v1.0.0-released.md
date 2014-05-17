@@ -4,9 +4,9 @@ Email: martin.fitzpatrick@gmail.com
 Title: MetaPath v1.0.0 released
 Tags: metapath,software,metabolomics,python
 
-MetaPath v1.0.0 has been released today for both  [Windows][windows-download] and [MacOS X][mac-download].
+MetaPath v1.0.0 has been released today for both  [Windows][windows-download] and [MacOS X][mac-download]. In addition, MetaPath now has its own [website][getmetapath] for updates, demos, plugins and more. 
 
-In addition, MetaPath now has its own [website][getmetapath] for updates, demos, plugins and more. 
+<!-- PELICAN_END_SUMMARY -->
 
 This latest version of MetaPath adds a number of important features over the previous v0.9 release:
 

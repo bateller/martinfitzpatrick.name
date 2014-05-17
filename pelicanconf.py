@@ -3,7 +3,8 @@
 
 AUTHOR = u'Martin Fitzpatrick'
 AUTHOR_EMAIL = u'martin.fitzpatrick@gmail.com'
-SITENAME = u'Martin Fitzpatrick'
+AUTHOR_ABOUT = u"A final-year PhD student working on the metabolomics of inflammatory diseases."
+SITENAME = u'Martin Fitzpatrick MRes'
 SITESUBTITLE = u'Postgraduate Researcher in Metabolomics and Immunology '
 SITEURL = 'http://martinfitzpatrick.name'
 
@@ -24,7 +25,7 @@ PLUGIN_PATH = '/home/spenglr/pelican-plugins'
 PLUGINS = [
         'gravatar',
         'related_posts',
-        'pelican_youtube',
+        #'pelican_youtube',
         'sitemap',
         'summary',
         ]        
@@ -49,17 +50,17 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-          ('RSS', 'rss', '%s/%s' % (FEED_DOMAIN, FEED_ATOM) ),
-#          ('Facebook', 'facebook', 'https://facebook.com/research.abl.es'),
-          ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/?rel=author'),
-          ('LinkedIn', 'linkedin', 'https://uk.linkedin.com/in/martinfitzp'),
-          ('ORCID', 'orcid', 'http://orcid.org/0000-0002-0695-1988'),
           ('Twitter', 'twitter', 'https://twitter.com/mfitzp'),
-          ('ResearchGate', 'researchgate', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
+          ('Facebook', 'facebook', 'https://www.facebook.com/martinfitzp'),
           ('Github', 'github', 'https://github.com/mfitzp'),
+          ('ResearchGate', 'list', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
+          ('LinkedIn', 'linkedin', 'https://uk.linkedin.com/in/martinfitzp'),
+          ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/?rel=author'),
+          ('ORCID', 'circle', 'http://orcid.org/0000-0002-0695-1988'),
+          ('RSS', 'rss', '%s/%s' % (FEED_DOMAIN, FEED_ATOM) ),
         )
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 12
 
 TYPOGRIFY = True
 DISPLAY_CATEGORIES_ON_MENU = True
@@ -81,16 +82,16 @@ SITEMAP = {
 }
 
 
-ARTICLE_URL = 'article/{slug}/'
-ARTICLE_SAVE_AS = 'article/{slug}/index.html'
-PAGE_URL = '{slug}/'
-PAGE_SAVE_AS = '{slug}/index.html'
-AUTHOR_URL = 'author/{slug}/'
-AUTHOR_SAVE_AS = 'author/{slug}/index.html'
-CATEGORY_URL = 'category/{slug}/'
-CATEGORY_SAVE_AS = 'category/{slug}/index.html'
-TAG_URL = 'tag/{slug}/'
-TAG_SAVE_AS = 'tag/{slug}/index.html'
+ARTICLE_URL = 'article/{slug}.html'
+ARTICLE_SAVE_AS = 'article/{slug}.html'
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
+AUTHOR_URL = 'author/{slug}.html'
+AUTHOR_SAVE_AS = 'author/{slug}.html'
+CATEGORY_URL = 'category/{slug}.html'
+CATEGORY_SAVE_AS = 'category/{slug}.html'
+TAG_URL = 'tag/{slug}.html'
+TAG_SAVE_AS = 'tag/{slug}.html'
 
 
 DISQUS_SITENAME = 'golifescience'
@@ -100,3 +101,61 @@ GITHUB_URL = 'https://github.com/mfitzp'
 TWITTER_USERNAME = 'mfitzp'
 
 THEME = 'theme'
+
+
+SITEURL = 'http://localhost:8001'
+STATICURL = 'http://localhost:8001'
+
+DELETE_OUTPUT_DIRECTORY = True
+
+PLUGIN_PATH = '/Users/mxf793/repos/pelican-plugins'
+
+ADDRESS = u"℅ Centre for Translational Inflammation Research<br /> \
+Queen Elizabeth Hospital<br /> \
+University of Birmingham<br /> \
+Birmingham<br /> \
+United Kingdom<br /> \
+B15 2TT<br />"
+
+PROJECTS = [
+{
+    'title': 'Accuri2FCS',
+    'description': 'Convert Accuri .c6 files to .fcs standard',
+    'url': 'https://github.com/mfitzp/accuri2fcs',
+},
+{
+    'title': 'GPML2SVG',
+    'description': 'A command-line/Python GPML to SVG pathway renderer',
+    'url': 'http://github.com/mfitzp/gpml2svg',
+},
+{
+    'title': 'Icoshift (Python)',
+    'description': 'A Python implmentation of the Icoshift algorithm',
+    'url': 'https://github.com/mfitzp/icoshift',
+},
+{
+    'title': 'mplstyler',
+    'description': 'An API for assigning consistent marker styles to Matplotlib plots.',
+    'url': 'https://github.com/mfitzp/mplstyler',
+},
+{
+    'title': 'The Open Lab Book',
+    'description': 'Freely available lab protocols under a CC license',
+    'url': 'http://theolb.readthedocs.org',
+},
+{
+    'title': 'Pathomx',
+    'description': 'Workflow-based metabolomic analysis tool',
+    'url': 'http://pathomx.org',
+},
+{
+    'title': 'PyQtConfig',
+    'description': 'A PyQt config manager. Keep Qt widgets in sync with an config dictionary and/or QSettings object. ',
+    'url': 'https://github.com/mfitzp/pyqtconfig',
+},
+{
+    'title': 'QtIPy',
+    'description': 'IPython Notebook automator',
+    'url': 'http://github.com/mfitzp/qtipy',
+},
+]

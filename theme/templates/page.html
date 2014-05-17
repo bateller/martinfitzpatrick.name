@@ -1,18 +1,25 @@
-{% extends "base.html" %}
-{% block title %}{{ page.title|striptags }} | {{ SITENAME }}{% endblock %}
+{% extends "sidebar.html" %}
+{% block sidebar_switch %}right-sidebar{% endblock %}
 {% block content %}
-<div class="page type-page status-publish h-entry" id="post">
-	<div class="entry-meta">
-		<!-- <div class="comments"><a href="{{ SITEURL }}/{{ page.url }}#disqus_thread" title="Comment on {{ page.title|striptags }}">Leave a comment</a></div> -->
-		<span class="cat-links"></span>
-	</div> <!-- /#entry-meta -->
-	<div class="main">
-		<h2 class="entry-title"><a href="{{ SITEURL }}/{{ page.url }}" title="Permalink to {{ page.title|striptags }}" rel="bookmark">{{ page.title }}</a></h2>
-		<div class="entry-content">
-			{{ page.content }}
-		</div> <!-- /#entry-content -->
-	</div> <!-- /#main -->
-</div> <!-- /#post -->
+<div class="row">
+	<div class="9u">
+		<!-- Portfolio -->
+			<section>
+				<div>
+					<div class="row">
+						<div class="12u skel-cell-mainContent">
+							<!-- Content -->
+								<article class="box is-post">
+									{% if page.picture %}<a href="#" class="image image-full"><img src="{{ page.picture }}"/></a>{% endif %}
+        							<h2>{{ page.title }}</h2>
+									{{ page.content }}
+								</article>
+						</div>
+					</div>
+				</div>
+			</section>
+	</div>
+
+{{ super() }}
+</div>
 {% endblock %}
-
-

@@ -9,7 +9,11 @@ In the process of generating final builds of MetaPath for v1.0 release, one of t
 
 Qt applications (and PyQt) normally operate a single event-processing thread. Events, such as UI interactions, trigger code attached to these events (e.g. processing) which continue until complete. Because a Qt application is by default single threaded, all of this processing is *blocking*. That means, while your downstream code is running no further events (UI or otherwse) can be processed and, from a user's point of view, your application is frozen.
 
+<!-- PELICAN_END_SUMMARY -->
+
 There is a rough and ready solution to this problem.
+
+
 
 `QApplication.processEvents()`.
 

@@ -10,6 +10,8 @@ However, there is a limitation: the signal can only emit the data it was designe
 
 This is usually fine. You can tie a particular action to a particular function. However, sometimes you want to trigger multiple actions off the same *type* of action, and treat them differently. Here's a neat trick to do just that.
 
+<!-- PELICAN_END_SUMMARY -->
+
 # Degrees of separation
 
 Instead of binding the target function to the signal, you can instead bind a wrapper function that accepts the original signal, attaches some more data, then passes it on. The code to do this (using a lambda) would be:

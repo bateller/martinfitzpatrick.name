@@ -8,6 +8,8 @@ Tags: pelican,webfaction,python
 As mentioned in the previous post, I recently migrated this site over to the very clever [Pelican][pelican]. Setting it up was relatively straightforward using a combination of the 
 official docs, [this post][1] and linked github repo from [Dominic Rodger][2]. That said, there were a few things that I stumbled at and non-obvious decisions that I've documented below.
 
+<!-- PELICAN_END_SUMMARY -->
+
 # Setting up
 
 Before starting you need to install the packages. Thankfully everything you need is available via the python packaging service PIP. Unfortunately PIP isn't installed by default on Webfaction  so you'll need to get that set up as per the [instructions from Webfaction](http://docs.webfaction.com/software/python.html). So SSH into your account and do the following:

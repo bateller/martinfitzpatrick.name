@@ -7,12 +7,15 @@ Tags: cli,ip,hostname,ifconfig,ip-address,computing
 
 ifconfig.me is a web service that displays information about your connection, including IP address, hostname and User Agent string. Helpfully it provides a simplified interface that can be easily queried to get this information from the command line.
 
-
+<!-- PELICAN_END_SUMMARY -->
 
 
 >All commands are variations on the below. The full list is also available on the ifconfig.me website:
+
 >
+
 >`curl ifconfig.me`
+
 >`curl ifconfig.me/<request-data>`
 
 
@@ -22,6 +25,8 @@ ifconfig.me is a web service that displays information about your connection, in
 
 To get your remote IP address as seen by other users online enter the following at a command line:
 
+
+
 `curl ifconfig.me` or `curl ifconfig.me/ip`
 
 
@@ -30,17 +35,25 @@ To get your remote IP address as seen by other users online enter the following 
 
 Other commands are variations on this theme such as:
 
+
+
 `curl ifconfig.me/host` for your remote hostname
+
+
 
 `curl ifconfig.me/ua` for your User Agent
 
 
 >Note that your User Agent will be that as sent by `curl` and will differ from that reported when accessing ifconfig.me in your actual browser.
+
 >
+
 >
 
 
 A full set of all the data returnable is available using:
+
+
 
 `curl ifconfig.me/all`
 

@@ -5,8 +5,9 @@ Title: Highlight author&#39;s comments on WordPress blog
 Slug: highlight-authors-comments-on-wordpress-blog
 Tags: web-dev,wordpress,php,computing
 
-A simple trick to make comments form the original post author stand out a bit more in the comment listing - useful for seeing replies to comments.
+A simple trick to make comments from the original post author stand out a bit more in the comment listing - useful for seeing replies to comments.
 
+<!-- PELICAN_END_SUMMARY -->
 
 
 
@@ -17,10 +18,17 @@ A simple trick to make comments form the original post author stand out a bit mo
 
 First you need to create a style to apply to highlighted comments on your blog. To do this, either in the admin editor or via SSH/FTP edit the file `style.css`.
 
+
+
 Add a line that applies a style to a class called `authorstyle`:
 
+
+
     :::css
+
     .authorstyle { background-color: #fffddf !important; }
+
+
 
 Here we've set the background to a nice yellow.
 
@@ -28,13 +36,22 @@ Here we've set the background to a nice yellow.
 
 Next find the `comments.php` file in your theme folder and look for the following line:
 
+
+
     :::php
+
     <li <?php echo $oddcomment; ?>id="comment-<?php comment_ID() ?>"></li>
+
+
 
 And replace it with:
 
+
+
     :::php
+
     <li class="<?php if ($comment->user_id == 1) $oddcomment = "authorstyle"; echo $oddcomment; ?>"></li>
+
 
 
 

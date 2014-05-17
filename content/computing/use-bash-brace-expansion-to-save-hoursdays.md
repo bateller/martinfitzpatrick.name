@@ -7,21 +7,33 @@ Tags: bash,cli,linux,computing
 
 Brace expansion is one of the most powerful bash tricks with the potential to save you considerable time. Here are some common use cases.
 
-
+<!-- PELICAN_END_SUMMARY -->
 
 
 >Be careful with the use of spaces as these will stop expansion working. If you have any text containing spaces, wrap it in quotes. However, the expansion won't work inside quotes either, for example:
+
 >
+
 >Will not work:
+
 >
+
 >	echo Use bash brace expansion to save {hours,days}
+
 >	echo "Use bash brace expansion to save {hours,days}"
+
 >
+
 >Works!:
+
 >
+
 >	echo "Use bash brace expansion to save "{hours,days}
+
 >	echo "Use bash brace expansion to save"{" hours"," days"}
+
 >
+
 >In the second example, note that the space has been moved inside the expansion set, so each of them must be wrapped in quotes.
 
 
@@ -31,7 +43,10 @@ Brace expansion is one of the most powerful bash tricks with the potential to sa
 
 Bash brace expansion takes a list of arguments and expands them into separate arguments to the command. 
 
+
+
 	$ echo hello{1,2,3}
+
 	hello1 hello2 hello3
 
 
@@ -40,9 +55,15 @@ Bash brace expansion takes a list of arguments and expands them into separate ar
 
 Brace expansion is extremely useful for the creation of backup files.
 
+
+
 	$ cp ~/.bash_profile{,.bak}
 
+
+
 You will now have your bash_profile file backed up in `~/.bash_profile.bak`
+
+
 
 
 
@@ -52,21 +73,35 @@ You will now have your bash_profile file backed up in `~/.bash_profile.bak`
 
 You can do this in reverse to copy the file back
 
+
+
 	$ cp ~/.bash_profile{.bak,}
+
+
 
 Or check for file changes from backup with diff
 
+
+
 	$ echo Hello! >> ~/.bash_profile.bak
+
 	$ diff ~/.bash_profile{.bak,}
+
 	23d22
+
 	< Hello!
+
 
 
 
 
 Brace expansion also supports number ranges which can be useful for when you need to create a lot of sequentially ordered objects. For example
 
+
+
 	$ mkdir tmp{1..100}
+
+
 
 Will produce a number of folders named tmp1, tmp2, tmp3, tmp4, etc.. in the current directory.
 

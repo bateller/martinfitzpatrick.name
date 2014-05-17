@@ -4,9 +4,11 @@ Email: martin.fitzpatrick@gmail.com
 Title: Use GNOME Looking Glass for debugging
 Slug: use-gnome-looking-glass-for-debugging
 Tags: linux,gnome,gnome-shell,desktop,gnome3,computing
+Picture: /images/method/1497/shortcuts-looking-glass.png
 
 Looking Glass is GNOME Shell's integrated inspector tool and JavaScript console useful for debugging. 
 
+<!-- PELICAN_END_SUMMARY -->
 
 ![method/1497/shortcuts-looking-glass.png](/images/method/1497/shortcuts-looking-glass.png)
 
@@ -26,6 +28,8 @@ Enter `lg` to start Looking Glass
 
 
 Commands can be entered directly at the prompt e.g.
+
+
 
 `global.get_window_actors()`
 

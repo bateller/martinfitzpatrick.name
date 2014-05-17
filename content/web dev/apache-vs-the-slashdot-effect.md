@@ -11,6 +11,8 @@ Here at [mutube.com][1] the combination of 4,625 visitors (8,531 hits) a month a
 
 In this article I’ll look at how I’ve used the combined power of [Apache Server][3] and [Coral Cache][4] to distribute all kinds of requests away from your server transparently.
 
+<!-- PELICAN_END_SUMMARY -->
+
 
 # Introduction to the Coral Content Distribution Network
 

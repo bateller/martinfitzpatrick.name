@@ -7,7 +7,7 @@ Tags: python,http,web-server,programming,computing
 
 A short one liner to quickly serve any folder via a http server.
 
-
+<!-- PELICAN_END_SUMMARY -->
 
 
 

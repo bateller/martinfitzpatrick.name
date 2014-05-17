@@ -4,14 +4,17 @@ Email: martin.fitzpatrick@gmail.com
 Title: QtIPy: The data automator!
 Slug: qtipy-the-data-automator
 Tags: qtipy,ipython,automation,software,metabolomics,bioinformatics,python,qt,pyside
+Picture: /images/software/qtipy/QtIPy-screenshot.png
 
-Today sees the release of a useful little utility: **QtIPy: *The data automator!* **
+Today sees the release of a little utility: **QtIPy: *The data automator!* ** a simple 
+GUI-based run-automator for IPython notebooks. It allows you to attach triggers to files, 
+folders or timers to automatically run notebooks. 
+
+<!-- PELICAN_END_SUMMARY -->
 
 ![Screenshot](/images/software/qtipy/QtIPy-screenshot.png)
 
 # About
-
-QtIPy is a simple GUI-based automator for IPython notebooks. It allows you to attach triggers to files, folders or timers to automatically run notebooks. 
 
 IPython notebooks are great for interactively working through analysis problems, so why would you want to automatically run them? To get a record of how you ran your analysis! By running a notebook through QtIPy you get the output, figures and a step by step log of how the analysis was performed all in the same folder.
 

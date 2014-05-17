@@ -7,6 +7,7 @@ Tags: web-dev,wordpress,php,rss,computing
 
 Show another of your blogs or any other RSS news feed on your WordPress blog with this simple template code.
 
+<!-- PELICAN_END_SUMMARY -->
 
 
 
@@ -21,30 +22,53 @@ Open your template file in either the WordPress admin editor or via FTP/SSH acce
 
 Locate where you want to include the feed and add the following code:
 
+
+
     :::php
+
     <?php include_once(ABSPATH.WPINC.'/feed.php');
+
     $rss = fetch_feed('http://root.abl.es/rss/latest/');
+
     $maxitems = $rss->get_item_quantity(5);
+
     $rss_items = $rss->get_items(0, $maxitems);
+
     ?>
+
     <ul>
+
     <?php if ($maxitems == 0) echo '<li>No items.</li>';
+
     else
+
     // Loop through each feed item and display each item as a hyperlink.
+
     foreach ( $rss_items as $item ) : ?>
+
     <li>
+
     <a href='<?php echo $item->get_permalink(); ?>'
+
     title='<?php echo 'Posted '.$item->get_date('j F Y | g:i a'); ?>'>
+
     <?php echo $item->get_title(); ?></a>
+
     </li>
+
     <?php endforeach; ?>
+
     </ul>
 
 
 >You will want to modify the code as follows:
+
 >
+
 >* Change the `fetch_feed` URL to your own blog (or show ours!).
+
 >* Change the `get_item_quantity(5)` to the number of items you wish to show.
+
 >
 
 

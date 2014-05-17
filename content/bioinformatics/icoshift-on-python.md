@@ -3,6 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Icoshift on Python
 Tags: icoshift,metapath,software,metabolomics,python,matlab
+Picture: /images/software/icoshift/shifted.png
 
 [*I*coshift](http://www.ncbi.nlm.nih.gov/pubmed/20004603) is a Matlab-based algorithm for the alignment of NMR spectra developed by [Francesco Savorani](www.models.life.ku.dk) and [Giorgio Tomasi](www.igm.life.ku.dk). It performs correlation shifting of spectral intervals using an FFT engine that aligns all spectra simultaneously. I've personally found it incredibly useful in the processing of data, particularly through [Metabolab](http://beregond.bham.ac.uk/nmrlab/).
 

@@ -17,3 +17,9 @@ RELATIVE_URLS = False
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
+
+ARTICLE_URL = 'article/{slug}/'
+PAGE_URL = '{slug}/'
+AUTHOR_URL = 'author/{slug}/'
+CATEGORY_URL = 'category/{slug}/'
+TAG_URL = 'tag/{slug}/'

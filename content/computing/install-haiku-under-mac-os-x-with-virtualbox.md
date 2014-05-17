@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Install Haiku under Mac OS X with Virtualbox
 Slug: install-haiku-under-mac-os-x-with-virtualbox
 Tags: haiku,beos,macosx,virtualbox,computing
+Picture: /images/method/1535/Haiku.png
 
 Haiku is an open source operating system currently in development that specifically targets personal computing. Inspired by the Be Operating System, development began in 2001, and the operating system became self-hosting in 2008 with the first alpha release in September 2009, the second in May 2010 and the third in June 2011. Here we describe how to run a Virtualbox hosted Haiku OS on Mac OS X.
 
@@ -62,6 +63,7 @@ The default settings of Virtualbox work perfectly fine. However, Haiku occasiona
 
 
 In order to make networking work from within Haiku you will also need to change the virtualised networking card to any of the Intel ones. In settings navigate to Network -> Adapter 1 -> Advanced (hidden drop down section) and change the adapter type for example to `Intel PRO/1000 MT Desktop`. 
+
 
 
 ![step/None/Screen Shot 2012-08-05 at 15.46.09.png](/images/step/None/Screen%20Shot%202012-08-05%20at%2015.46.09.png)

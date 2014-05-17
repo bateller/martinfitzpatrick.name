@@ -7,7 +7,7 @@ Tags: bash,cli,path,cdpath,sh,computing
 
 CDPATH is an environment variable which tells the `cd` command where to look for the specified folder. By including the parent folders of commonly used locations you can access folders more easily - and without typing an entire path.
 
-
+<!-- PELICAN_END_SUMMARY -->
 
 
 
@@ -21,14 +21,24 @@ Open up your shell profile file `.bashrc` (Linux) or `.bash_profile` (Mac).
 
 Somewhere near the bottom of the file add a line to set the CDPATH environment variable:
 
+
+
 `CDPATH=:..:~:~/data:~/projects`
+
+
 
 In order left to right this tells `cd` to look in:
 
+
+
 1. The current directory (blank; before the first `:`)
+
 2. The parent directory `..`
+
 3. Your home directory `~`
+
 4. Your projects directory in your home `~/projects`
+
 
 
 

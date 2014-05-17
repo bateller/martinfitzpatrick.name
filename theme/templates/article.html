@@ -1,27 +1,27 @@
-{% extends "base.html" %}
-{% block title %}{{ article.title|striptags }} | {{ SITENAME }}{% endblock %}
+{% extends "sidebar.html" %}
 {% block content %}
+<div class="row">
+	<div class="9u">
+        <section>
+            <div>
+                <div class="row">
+                    <div class="12u skel-cell-mainContent">
+                        <!-- Content -->
+                            <article class="box is-post">
+                                {% if article.picture %}<div class="image image-full"><img src="{{ SITEURL }}/{{ article.picture }}"/><a href="{{ article.picturecopyrights }}" class="img-copy">{{ article.picturecopyrights }}</a></div>{% endif %}
+                                <h2>{{ article.title }}</h2>
+                                <div class="metadata">Posted {% if article.category %}in <a  href="{{ article.category.url }}">{{ article.category|capitalize }}</a>{% endif %} on {{ article.locale_date }} &#8226;
+                                   Tagged {% for tag in article.tags %}<a href="{{ tag.url }}">{{ tag|capitalize }}</a>{% if not loop.last%}, {% endif %}{% endfor %}
+                                </div>
 
-{% include 'post.html' %}
-
-{% if DISQUS_SITENAME %}
-	<div id="comments">
-		<div id="respond">
-			<div id="disqus_thread"></div>
-	        <script type="text/javascript">
-	            var disqus_shortname = '{{ DISQUS_SITENAME }}';
-	
-	            /* * * DON'T EDIT BELOW THIS LINE * * */
-	            (function() {
-	                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-	                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-	                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-	            })();
-	        </script>
-	        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-	        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-		</div><!-- #respond -->					
-</div><!-- #comments -->
-{% endif %}
-
+                                {{ article.content }}
+                            </article>
+                            {% include 'disqus_script.html' %}
+                    </div>
+                </div>
+            </div>
+        </section>
+	</div>
+{{ super() }}
+</div>
 {% endblock %}
