@@ -125,6 +125,7 @@
 		{
 		}
 
+
 	/* Box */
 
 		.box
@@ -822,3 +823,13 @@ article em {
 article img {
     max-width:100%;
 }
+
+
+    .box footer.actions {
+        margin: 0 -1.75em -2.75em -1.75em;
+    }
+
+    .box footer.actions a.button {
+        width: 100%;
+        border-radius: 0px;
+    }
