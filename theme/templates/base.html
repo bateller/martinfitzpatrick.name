@@ -38,16 +38,21 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="" />
     <meta name="keywords" content="" />
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,900" rel="stylesheet" />
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,900" rel="stylesheet" />    
+
     <!--[if lte IE 8]><script src="js/html5shiv.js"></script><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
     <script src="{{ STATICURL }}/theme/js/jquery.min.js"></script>
     <script src="{{ STATICURL }}/theme/js/jquery.dropotron.min.js"></script>
     <script src="{{ STATICURL }}/theme/js/config.js"></script>
+     
+    <noscript>
+        <link rel="stylesheet" href="{{ STATICURL }}/theme/css/skel-noscript.css" />
+        <link rel="stylesheet" href="{{ STATICURL }}/theme/css/style.css" />
+        <link rel="stylesheet" href="{{ STATICURL }}/theme/css/style-desktop.css" />
+    </noscript>
     
     <link rel="stylesheet" href="{{ STATICURL }}/theme/css/pygment.css" />
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="{{ STATICURL }}/theme/css/style.css" />
-{% endblock head %}    
+    {% endblock head %}    
 </head>
 <body class="{% block bodyclass %}{% if page_name == 'index' %}homepage{% endif %}{% endblock %}">
 
@@ -177,36 +182,28 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
             </div>
         </div>
     <!-- /Footer Wrapper -->
-
-<script>
-    window._skel_config = {
-        preset: 'standard',
-        prefix: '{{ STATICURL }}/theme/css/style',
-        resetCSS: true,
-        breakpoints: {
-            'desktop': {
-                grid: {
-                    gutters: 50
+   
+    <script>
+        window._skel_config = {
+            preset: 'standard',
+            prefix: '{{ STATICURL }}/theme/css/style',
+            resetCSS: true,
+            breakpoints: {
+                'desktop': {
+                    grid: {
+                        gutters: 50
+                    }
                 }
             }
-        }
-    };
+        };
 
-    window._skel_panels_config = {
-        preset: 'standard'
-    };
+        window._skel_panels_config = {
+            preset: 'standard'
+        };
 
-    jQuery(function() {
-        $('#nav > ul').dropotron({
-            offsetY: -17,
-            offsetX: -1,
-            mode: 'fade',
-            noOpenerFade: true,
-            detach: false
-        });
-    });
-</script>
-<script src="/theme/js/skel.min.js"></script>
-<script src="/theme/js/skel-panels.min.js"></script>
+    </script>
+    <script src="{{ STATICURL }}/theme/js/skel.min.js">
+    <script src="{{ STATICURL }}/theme/js/skel-panels.min.js"></script>
+
 </body>
 </html>
