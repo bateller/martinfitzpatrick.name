@@ -1,26 +1,16 @@
 {% extends "sidebar.html" %}
-{% block sidebar_switch %}right-sidebar{% endblock %}
-{% block content %}
-<div class="row">
-	<div class="9u">
-		<!-- Portfolio -->
-			<section>
-				<div>
-					<div class="row">
-						<div class="12u skel-cell-mainContent">
-							<!-- Content -->
-								<article class="box is-post">
-									{% if page.picture %}<a href="#" class="image image-full"><img src="{{ page.picture }}"/></a>{% endif %}
-        							<h2>{{ page.title }}</h2>
-									{{ page.content }}
-								</article>
-						</div>
-					</div>
-				</div>
-			</section>
-	</div>
 
-{{ super() }}
-</div>
+{% block bodytitle %}{{ page.title }}{% endblock %}
+
+{% block body %}
+<!-- Content -->
+<article class="is is-page">
+    <header>
+        <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    </header>
+    {{ page.content }}
+
+</article>
 {% endblock %}
+
 

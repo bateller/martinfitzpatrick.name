@@ -1,5 +1,5 @@
 /*
-	Dopetrope 2.0 by HTML5 UP
+	Escape Velocity 2.5 by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
@@ -8,132 +8,92 @@
 /* Basic                                                                         */
 /*********************************************************************************/
 
+	body, input, select, textarea
+	{
+		font-size: 12pt;
+		line-height: 1.5em;
+		letter-spacing: 0.015em;
+	}
+
 	body
 	{
-		font-size: 10.5pt;
-		min-width: 1000px;
+		min-width: 960px;
 	}
-
-	.major
-	{
-		margin: 0.75em 0 1em 0;
-	}
-
-		.major h2
-		{
-			padding: 0 1em 0 1em;
-		}
-
-	ul.social
-	{
-	}
-
-		ul.social li
-		{
-			margin: 0 0 0.25em 0.75em;
-		}
-		
-	.pennant
-	{
-		width: 8em;
-		padding: 1.25em 0 0.25em 0;
-		margin: 0 0 4em 0;
-	}
-
-		.pennant:after
-		{
-			bottom: -1.98em;
-			border-left-width: 4em;
-			border-right-width: 4em;
-			border-top-width: 2em;
-		}
 
 /*********************************************************************************/
 /* Wrappers                                                                      */
 /*********************************************************************************/
 
+	.wrapper
+	{
+		padding: 4em 0 7em 0;
+	}
+
 	#header-wrapper
 	{
-		padding: 4em 0 4em 0;
+		height: 400px !important;
 	}
 
-		#header-wrapper:before
-		{
-			height: 7.5em;
-		}
-	
-		#header-wrapper:after
-		{
-			height: 10em;
-		}
-	
-	#main-wrapper
+	#intro-wrapper
 	{
-		padding: 2.75em 0 2.75em 0;
+		padding-bottom: 7em;
 	}
-
-		#main-wrapper:after
-		{
-			height: 2.5em;
-		}
 	
 	#footer-wrapper
 	{
-		padding: 3em 0 3em 0;
 	}
 
-		#footer-wrapper:before
+		#footer-wrapper hr
 		{
-			height: 2.5em;
+			margin: 3em 0 3em 0;
 		}
-
-		#footer-wrapper header
-		{
-			margin: 0 0 1.5em 0;
-		}
-		
-			#footer-wrapper header h2
-			{
-				font-size: 1.25em;
-			}
-
+	
 /*********************************************************************************/
 /* Header                                                                        */
 /*********************************************************************************/
 
 	#header
 	{
+		height: 400px !important;
+	}
+
+/*********************************************************************************/
+/* Logo                                                                          */
+/*********************************************************************************/
+
+	#logo
+	{
+		margin-top: -0.5em !important;
 	}
 	
-		#header h1
+		#logo h1
 		{
-			margin: 0 0 0.15em 0;
+			font-size: 1.75em;
 		}
-	
+
 /*********************************************************************************/
 /* Intro                                                                         */
 /*********************************************************************************/
 
 	#intro
 	{
-		padding: 0;
 	}
-	
-		#intro section
-		{
-			padding: 1em 0 1em 0;
-		}
 
-		#intro .actions
+		#intro .style1
 		{
-			padding: 2.5em 0 0 0;
+			font-size: 1.25em;
 		}
-		
+	
+		#intro .style2
+		{
+			font-size: 2.25em;
+		}
+	
 /*********************************************************************************/
 /* Copyright                                                                     */
 /*********************************************************************************/
 
 	#copyright
 	{
-		margin: 0;
+		margin: 3em 0 0 0;
 	}

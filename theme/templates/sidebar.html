@@ -1,34 +1,58 @@
 {% extends "base.html" %}
 
+{% block bodyclass %}right-sidebar{% endblock %}
+
 {% block content %}
-    <div class="3u">
 
-    <!-- Sidebar -->
-        <section class="box">
-            <a href="http://martinfitzpatrick.name" class="image image-full"><img src="{{ STATICURL }}/theme/images/author-photo.jpg" alt="" /></a>
-            <header>
-                <h3>{{ AUTHOR }}</h3>
-            </header>
-            <p>{{ AUTHOR_ABOUT }}</p>
-            <footer class="actions">
-                <a href="{{ SITEURL }}/about/" class="button button-alt">Read more</a>
-            </footer>
-        </section>
-        
-    <ul>
-    </ul>
-    {% if article and article.related_posts %}
-        <section class="box">
-            <header>
-                <h3>Related posts</h3>
-            </header>
-            <ul class="divided">
-            {% for related_post in article.related_posts %}
-                <li><a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a></li>
-            {% endfor %}
-            </ul>
-        </section>
-    {% endif %}        
-
-    </div>	
+		<!-- Main Wrapper -->
+			<div class="wrapper wrapper-style2">
+				<div class="title">{% block bodytitle %}{% endblock %}</div>
+				<div class="container">
+					<div class="row">
+						<div class="12u">
+							
+							<!-- Main -->
+								<div id="main">
+									<div>
+										<div class="row">
+											<div class="8u skel-cell-important">
+											
+												<!-- Content -->
+													<div id="content">
+                                                        {% block body %}{% endblock %}
+													</div>
+												<!-- /Content -->
+											
+											</div>
+											<div class="4u">
+												
+												<!-- Sidebar -->
+													<div id="sidebar">
+                                                        {% if article and article.related_posts %}
+                                                            <section class="is">
+                                                                <header>
+                                                                    <h2>Related posts</h2>
+                                                                </header>
+                                                                <ul class="style3">
+                                                                {% for related_post in article.related_posts %}
+                                                                    <li><a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a></li>
+                                                                {% endfor %}
+                                                                </ul>
+                                                            </section>
+                                                        {% endif %}        
+													</div>
+												<!-- /Sidebar -->
+												
+											</div>
+										</div>
+									</div>
+								</div>
+							<!-- /Main -->
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		<!-- /Main Wrapper -->
+		
 {% endblock %}

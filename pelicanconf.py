@@ -17,6 +17,9 @@ DEFAULT_LANG = u'en'
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
+from datetime import datetime
+CURRENT_YEAR = datetime.now().year
+
 AUTHOR_IDENTITIES = {
     'Martin Fitzpatrick':'https://plus.google.com/115539678583643563408',
 }

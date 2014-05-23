@@ -1,53 +1,188 @@
 {% extends "base.html" %}
+
+
 {% block content %}
 
+{% if page_name == 'index' %}
+    <!-- Intro Wrapper -->
+        <div id="intro-wrapper" class="wrapper wrapper-style1">
+            <div class="title">About</div>
+            <div class="container">
+                <div class="row">
+                    <div class="12u">
+                        
+                        <!-- Intro -->
+                            <section id="intro">
+                            
+<p>I am a final-year PhD student working on the metabolomics of inflammatory diseases.<br />
+On this site you&#8217;ll find details of my publications and software, together with articles
+relating to how to make use of one or the other.<br />
+Everything you see here is licensed <a href="http://creativecommons.org/licenses/by-sa/3.0/"><span class="caps">CC</span>-<span class="caps">BY</span>-<span class="caps">SA</span></a> and <a href="http://www.gnu.org/licenses/gpl.html">GPLv3</a>.</p>
+                            </section>
+                        <!-- /Intro -->
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- /Intro Wrapper -->
+{% endif %}    
+<a name="content"></a>    
+    
+    <!-- Main Wrapper -->
+        <div class="wrapper wrapper-style2">
+            <div class="title">{% if category %}{{ category }}{% else %}{% if tag %}{{ tag }}{% else %}Latest{% endif %}{% endif %}</div>
+            <div class="container">
+                <div class="row">
+                    <div class="12u">
+                        
+                        <!-- Main -->
+                            <div id="main">
+                                
+                                <!-- Features -->
+                                    <section id="features">
+                                        <div class="feature-list article-list">
+                                            <div>
 
+
+    {% for article in articles_page.object_list %}
+    <div class="row">
+    <div class="12u">
+        <section>
+            <h3><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+            <div class="metadata">Posted {% if article.category %}in <a  href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category|capitalize }}</a>{% endif %} on {{ article.locale_date }} &#8226;
+                   Tagged {% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|capitalize }}</a>{% if not loop.last%}, {% endif %}{% endfor %}
+                </div>
+            <p>{{ article.summary }}</p>
+        </section>
+    </div>
+    </div>
+    {% endfor %}
+
+    <div class="row">
+    <div class="12u">
+    {% if DEFAULT_PAGINATION %}
+        <p class="paginator">
+            {% if articles_page.has_previous() %}
+                {% if articles_page.previous_page_number() == 1 %}
+                    <a href="{{ SITEURL }}/{{ page_name }}.html#content">&laquo;</a>
+                {% else %}
+                    <a href="{{ SITEURL }}/{{ page_name }}{{ articles_page.previous_page_number() }}.html#content">&laquo;</a>
+                {% endif %}
+            {% endif %}
+            Page {{ articles_page.number }} / {{ articles_paginator.num_pages }}
+            {% if articles_page.has_next() %}
+                <a href="{{ SITEURL }}/{{ page_name }}{{ articles_page.next_page_number() }}.html#content">&raquo;</a>
+            {% endif %}
+        </p>
+    {% endif %}
+    </div>
+    </div>
+
+
+
+
+                                            </div>
+                                        </div>
+                                    </section>
+                                <!-- /Features -->
+                                
+                            </div>
+                        <!-- /Main -->
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- /Main Wrapper -->
+
+<!-- Projects Wrapper -->
+
+<div class="wrapper wrapper-style3">
+    <div class="title">Projects</div>
+    <div class="container">
+        <div class="row">
+            <div class="12u">
+                
+                <!-- Highlights -->
+                    <div id="highlights">
+                        <div>
+
+        {% for project in PROJECTS %}
+        {% if loop.index0 % 4 == 0 %}<div class="row">{% endif %}
+                    <div class="3u">
+                        <section class="highlight highlight-one">
+                            <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
+                            <p>{{ project.description }}</p>
+                        </section>
+                    </div>
+        <!-- /Highlights -->
+        {% if loop.index % 4 == 0 %}</div>{% endif %}
+        {% endfor %}
+                    
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    </div>
+</div>
+<!-- /Projects Wrapper -->
+
+
+
+
+
+
+{% endblock %}
+
+
+
+{% block content_old %}
+
+
+
+<div class="row" style="background-color:#fff">
+<div class="12u">
+    <header class="major">
+        <h2>Latest</h2>
+    </header>
+
+        <section>
+            <ul class="dates">
+            {% for article in articles_page.object_list %}
+                <li>
+                    <span class="date">{{ article.date|strftime('%b') }} <strong>{{ article.date|strftime('%d') }}</strong></span>
+                    <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
+                    <p>{{ article.summary }}</p>
+                </li>
+            {% endfor %}
+            </ul>
+        </section>
+    </div>
+
+</div>
 
 <div class="row">
 <div class="12u">
-    <header class="major">
-        <h2>Articles</h2>
-    </header>
-    <section>
-        {% for article in articles_page.object_list %}
-            {% if loop.index0 % 3  == 0 %}
-            <div class="row">
+{% if DEFAULT_PAGINATION %}
+    <p class="paginator">
+        {% if articles_page.has_previous() %}
+            {% if articles_page.previous_page_number() == 1 %}
+                <a href="{{ SITEURL }}/{{ page_name }}.html">&laquo;</a>
+            {% else %}
+                <a href="{{ SITEURL }}/{{ page_name }}{{ articles_page.previous_page_number() }}.html">&laquo;</a>
             {% endif %}
-                <div class="4u">
-                    <section class="box">
-                        {% if article.picture %}<div><a href="{{ SITEURL }}/{{ article.url }}" class="image image-full"><img src="{{ SITEURL }}/{{ article.picture }}" alt=""/></a></div> {% endif %}
-                        <header>
-                            <h3><a href="{{ SITEURL }}/{{ article.url }}">{{article.title }}</a></h3>
-                            <span>{{ article.locale_date }}</span>
-                        </header>
-                        {{ article.summary }}
-                        <footer class="actions">
-                            <a href="{{ SITEURL }}/{{ article.url }}" class="button button-icon button-icon-1">Continue Reading</a>
-                        </footer>
-                    </section>
-                </div>
-            {% if loop.index % 3  == 0 %}
-            </div>
-            {% endif %}
-        {% endfor %}
-        {% if DEFAULT_PAGINATION %}
-    </section><!-- /#content -->
-            <p class="paginator">
-                {% if articles_page.has_previous() %}
-                    {% if articles_page.previous_page_number() == 1 %}
-                        <a href="{{ SITEURL }}/{{ page_name }}.html">&laquo;</a>
-                    {% else %}
-                        <a href="{{ SITEURL }}/{{ page_name }}{{ articles_page.previous_page_number() }}.html">&laquo;</a>
-                    {% endif %}
-                {% endif %}
-                Page {{ articles_page.number }} / {{ articles_paginator.num_pages }}
-                {% if articles_page.has_next() %}
-                    <a href="{{ SITEURL }}/{{ page_name }}{{ articles_page.next_page_number() }}.html">&raquo;</a>
-                {% endif %}
-            </p>
         {% endif %}
-</div>
-</div>
+        Page {{ articles_page.number }} / {{ articles_paginator.num_pages }}
+        {% if articles_page.has_next() %}
+            <a href="{{ SITEURL }}/{{ page_name }}{{ articles_page.next_page_number() }}.html">&raquo;</a>
+        {% endif %}
+    </p>
+{% endif %}
+</div></div>
+
 <div class="row">
 <div class="12u">
     <header class="major">
@@ -70,4 +205,4 @@
 
 </div>
 </div>
-{% endblock content %}
+{% endblock %}

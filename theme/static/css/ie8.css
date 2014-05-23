@@ -1,5 +1,5 @@
 /*
-	Dopetrope 2.0 by HTML5 UP
+	Escape Velocity 2.5 by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
@@ -8,25 +8,21 @@
 /* Wrappers                                                                      */
 /*********************************************************************************/
 
-	#header-wrapper
+	.wrapper
 	{
 	}
 
-		#header-wrapper:before
+		.wrapper .title:before,
+		.wrapper .title:after
 		{
 			display: none;
-		}
+    	}
+ 
+/*********************************************************************************/
+/* Copyright                                                                     */
+/*********************************************************************************/
 
-		#header-wrapper:after
-		{
-			display: none;
-		}
-
-	#footer-wrapper
+	#copyright
 	{
+		margin: 0em 0 0 0;
 	}
-
-		#footer-wrapper:before
-		{
-			display: none;
-		}
