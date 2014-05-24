@@ -37,7 +37,7 @@ def generate_markdown(option_dict, template_file, output ):
 
 # Get all notebook files in the notebooks folder (repo)
 notebook_files = []
-notebook_dir = os.path.join(dname, 'notebooks')
+notebook_dir = os.path.join(dname, 'notebooks', 'public')
 
 for cur, dirs, files in os.walk(notebook_dir, topdown=True, onerror=None, followlinks=False):
     notebook_files.extend( [os.path.join(cur, f) for f in files if f.endswith('.ipynb') ] )
