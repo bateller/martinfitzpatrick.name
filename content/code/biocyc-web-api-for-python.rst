@@ -64,8 +64,7 @@ would be very confusing indeed).
 
     import os
     from biocyc import biocyc
-    os.environ['http_proxy'] = ''
-    os.environ['https_proxy'] = ''
+    os.environ['http_proxy'] = '' # Set your proxy if neccessary
     biocyc.set_organism('meta')
 
 Making a request
