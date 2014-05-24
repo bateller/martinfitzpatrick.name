@@ -128,6 +128,11 @@ PROJECTS = [
     'url': 'https://github.com/mfitzp/accuri2fcs',
 },
 {
+    'title': 'BioCyc',
+    'description': 'Python interface to the BioCyc Web API',
+    'url': 'http://github.com/mfitzp/BioCyc',
+},
+{
     'title': 'GPML2SVG',
     'description': 'A command-line/Python GPML to SVG pathway renderer',
     'url': 'http://github.com/mfitzp/gpml2svg',
