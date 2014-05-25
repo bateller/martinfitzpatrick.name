@@ -232,7 +232,7 @@ available in subsequent calculations.
 
     mhi.display()
     
-.. image:: (/images/code/metabohunter-widgets.png    
+.. image:: /images/code/metabohunter-widgets.png    
 
 .. code:: python
 
