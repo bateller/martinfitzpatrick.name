@@ -4,55 +4,67 @@
 
 {% block content %}
 
-		<!-- Main Wrapper -->
-			<div class="wrapper wrapper-style2">
-				<div class="title">{% block bodytitle %}{% endblock %}</div>
-				<div class="container">
-					<div class="row">
-						<div class="12u">
-							
-							<!-- Main -->
-								<div id="main">
-									<div>
-										<div class="row">
-											<div class="8u skel-cell-important">
-											
-												<!-- Content -->
-													<div id="content">
-                                                        {% block body %}{% endblock %}
-													</div>
-												<!-- /Content -->
-											
-											</div>
-											<div class="4u">
-												
-												<!-- Sidebar -->
-													<div id="sidebar">
-                                                        {% if article and article.related_posts %}
-                                                            <section class="is">
-                                                                <header>
-                                                                    <h2>Related posts</h2>
-                                                                </header>
-                                                                <ul class="style3">
-                                                                {% for related_post in article.related_posts %}
-                                                                    <li><a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a></li>
-                                                                {% endfor %}
-                                                                </ul>
-                                                            </section>
-                                                        {% endif %}        
-													</div>
-												<!-- /Sidebar -->
-												
-											</div>
-										</div>
-									</div>
-								</div>
-							<!-- /Main -->
-							
-						</div>
-					</div>
-				</div>
-			</div>
-		<!-- /Main Wrapper -->
-		
+<!-- Main Wrapper -->
+<div class="wrapper wrapper-style2">
+    <div class="title">{% block bodytitle %}{% endblock %}</div>
+    <div class="container">
+        <div class="row">
+            <div class="12u">
+                
+                <!-- Main -->
+                    <div id="main">
+                        <div>
+                            <div class="row">
+                                <div class="8u skel-cell-important">
+                                
+                                    <!-- Content -->
+                                        <div id="content">
+                                            {% block body %}{% endblock %}
+                                        </div>
+                                    <!-- /Content -->
+                                
+                                </div>
+                                <div class="4u">
+                                    
+                                    <!-- Sidebar -->
+                                        <div id="sidebar">
+                                            
+                                                <section class="is">
+                                                    <header>
+                                                        <h2>Latest articles</h2>
+                                                    </header>
+                                                    <ul class="style3">
+                                                        {% for article in articles[0:4] %}
+                                                            <li><a href="{{ article.url }}">{{ article.title }}</a> <small>{{ article.date|strftime('%d %b') }}</small></li>
+                                                        {% endfor %}
+                                                    </ul>                                            
+                                                </section>
+
+                                            {% if article and article.related_posts %}
+                                                <section class="is">
+                                                    <header>
+                                                        <h2>Related posts</h2>
+                                                    </header>
+                                                    <ul class="style3">
+                                                    {% for related_post in article.related_posts %}
+                                                        <li><a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a></li>
+                                                    {% endfor %}
+                                                    </ul>
+                                                </section>
+                                            {% endif %}      
+                                        </div>
+                                    <!-- /Sidebar -->
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!-- /Main -->
+                
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /Main Wrapper -->
+
 {% endblock %}
