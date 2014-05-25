@@ -66,6 +66,7 @@ can be passed to requests.
     import numpy as np
     import os
     os.environ['http_proxy'] = ''
+    
 Input format
 ------------
 
@@ -79,6 +80,7 @@ series of peak heights generated randomly.
 
     ppms = np.arange(0,10,0.2)
     peaks = np.random.random(50)*10
+    
 .. code:: python
 
     ppms
@@ -230,7 +232,7 @@ available in subsequent calculations.
 
     mhi.display()
     
-.. image:: metabohunter-widgets.png    
+.. image:: (/images/code/metabohunter-widgets.png    
 
 .. code:: python
 
