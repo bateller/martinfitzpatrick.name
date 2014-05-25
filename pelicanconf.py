@@ -153,6 +153,11 @@ PROJECTS = [
     'url': 'http://theolb.readthedocs.org',
 },
 {
+    'title': 'metabohunter',
+    'description': 'A Python interface to the MetaboHunter 1D NMR metabolite identification service',
+    'url': 'http://github.com/mfitzp/qtipy',
+},
+{
     'title': 'Pathomx',
     'description': 'Workflow-based metabolomic analysis tool',
     'url': 'http://pathomx.org',
