@@ -448,7 +448,15 @@
 /* Powered by Font Awesome by Dave Gandy | http://fontawesome.io                 */
 /* Licensed under the SIL OFL 1.1 (font), MIT (CSS)                              */
 /*********************************************************************************/
-
+    @font-face{
+        font-family:'FontAwesome';
+        src:url('//netdna.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.eot?v=4.1.0');
+        src:url('//netdna.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.eot?#iefix&v=4.1.0') format('embedded-opentype'),
+            url('//netdna.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'),
+            url('//netdna.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'),
+            url('//netdna.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
+    }
+    
 	.fa
 	{
 		text-decoration: none;
