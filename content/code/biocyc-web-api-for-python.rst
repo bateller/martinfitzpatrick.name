@@ -8,7 +8,7 @@ BioCyc Web API for Python
 :slug: biocyc-web-api-for-python
 :authors: Martin Fitzpatrick
 
-Today I've released Python module `BioCyc <https://pypi.python.org/pypi/BioCyc/0.0.1>`__ that provides an interface to the `BioCyc <http://biocyc.org>`__ Web API.
+Today I've released Python module `BioCyc <https://pypi.python.org/pypi/biocy/0.0.1>`__ that provides an interface to the `BioCyc <http://biocyc.org>`__ Web API.
 Acting as a wrapper it queries the database and then presents the XML returned in a
 pythonic object-based interface. Support for IPython views is included offering nice
 summary tables of object attributes.
