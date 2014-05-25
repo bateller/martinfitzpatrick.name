@@ -1,5 +1,5 @@
-BioCyc Web API for Python
-=========================
+MetaboHunter from Python: 1D NMR Metabolite Identification
+==========================================================
 
 :date: 2014-5-25 21:10
 :modified: 2014-5-25 21:10
