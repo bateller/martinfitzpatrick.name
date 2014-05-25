@@ -155,7 +155,7 @@ PROJECTS = [
 {
     'title': 'metabohunter',
     'description': 'A Python interface to the MetaboHunter 1D NMR metabolite identification service',
-    'url': 'http://github.com/mfitzp/qtipy',
+    'url': 'http://github.com/mfitzp/metabohunter',
 },
 {
     'title': 'Pathomx',
