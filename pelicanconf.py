@@ -11,7 +11,7 @@ SITEURL = 'http://martinfitzpatrick.name'
 FEED_DOMAIN = SITEURL
 FEED_ATOM = 'feeds/atom.xml'
 TAG_FEED_ATOM = 'feeds/%s.tag.atom.xml'
-CATEGORY_FEED_ATOM 'feeds/%s.atom.xml' 
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 TIMEZONE = 'Europe/London'
 
