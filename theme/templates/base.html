@@ -34,7 +34,13 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
     {% if TAG_FEED_RSS and tag %}
     <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
     {% endif %}
-        
+
+    <meta name="google-site-verification" content="Ogw6ZN_S7dzUc9huqkiLOeI_BH8F__4Ft8pNXQVU1Cw" />
+    <meta name="google-site-verification" content="tnbPDWRORDk2SjXzRhyh5HOarf2hDojT07FQS2zcMUY" />
+    <meta name="google-site-verification" content="2DFeXMiIAIVr20q8LLteYxffew35Pp89MXa7Hyy0_IM" />
+    <meta name="google-site-verification" content="aDPLnwleWQc6nHK2vIMKXY5kUBDHFUPNJ75QcdcdEss" />
+    <meta name="msvalidate.01" content="79DE55785B481065302BA20C0A64D33F" />
+
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="" />
     <meta name="keywords" content="" />
@@ -204,6 +210,18 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
     </script>
     <script src="{{ STATICURL }}/theme/js/skel.min.js">
     <script src="{{ STATICURL }}/theme/js/skel-panels.min.js"></script>
-
+    {% if GOOGLE_ANALYTICS %}
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', '{{ GOOGLE_ANALYTICS }}']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    {% endif %}
 </body>
 </html>
