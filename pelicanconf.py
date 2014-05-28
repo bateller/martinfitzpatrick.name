@@ -175,3 +175,14 @@ PROJECTS = [
     'url': 'http://github.com/mfitzp/qtipy',
 },
 ]
+
+
+#=============
+# Twitter Card
+#=============
+# https://dev.twitter.com/cards
+TWITTER_CARD_USE = (True) # (False)
+TWITTER_CARD_SITE = '@mfitzp'  # The site's Twitter handle like @my_blog
+TWITTER_CARD_CREATOR = '@mfitzp'  # Your twitter handle like @monkmartinez
+TWITTER_CARD_DOMAIN = 'martinfitzpatrick.name'  # The site domain
+GRAVARTAR_URL = ''

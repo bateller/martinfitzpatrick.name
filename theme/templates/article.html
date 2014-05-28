@@ -2,6 +2,27 @@
 
 {% block bodytitle %}{{ article.category }}{% endblock %}
 
+{% block extrahead %}
+{% if TWITTER_CARD_USE %}
+    <meta name="twitter:card" content="{% if article.picture %}photo{% else %}summary{% endif %}">
+    <meta name="og:url" content="{{ SITEURL }}/{{ article.url }}">
+    {% if TWITTER_CARD_SITE: %}
+        <meta name="twitter:site" content="{{ TWITTER_CARD_SITE }}">
+    {% endif %}
+    {% if TWITTER_CARD_CREATOR: %}
+        <meta name="twitter:creator" content="{{ TWITTER_CARD_CREATOR }}">
+    {% endif %}
+    {% if TWITTER_CARD_DOMAIN: %}
+        <meta name="twitter:domain" content="{{ TWITTER_CARD_DOMAIN }}">
+    {% endif %}
+    <meta name="og:title" content="{{ article.title[:70]|e }}">
+    <meta name="og:description" content="{{ article.summary[:200]|striptags }}">
+    {% if article.picture %}
+        <meta name="twitter:image:src" content="{{ GRAVATAR_URL }}">
+    {% endif %}
+{% endif %}
+{% endblock %}
+
 {% block body %}
 <!-- Content -->
 <article class="is is-post">
