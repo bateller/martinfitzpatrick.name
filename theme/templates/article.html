@@ -18,7 +18,7 @@
     <meta name="og:title" content="{{ article.title[:70]|e }}">
     <meta name="og:description" content="{{ article.summary[:200]|striptags }}">
     {% if article.picture %}
-        <meta name="twitter:image:src" content="{{ article.picture }}">
+        <meta name="twitter:image:src" content="{{ SITEURL }}/{{ article.picture }}">
     {% endif %}
 {% endif %}
 {% endblock %}
