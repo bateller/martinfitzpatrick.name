@@ -160,6 +160,11 @@ PROJECTS = [
     'url': 'http://github.com/mfitzp/metabohunter',
 },
 {
+    'title': 'Pathminer',
+    'description': 'Algorithmically score and select pathways/reactions from compound, protein or gene data',
+    'url': 'https://github.com/mfitzp/pathminer',
+},
+{
     'title': 'Pathomx',
     'description': 'Workflow-based metabolomic analysis tool',
     'url': 'http://pathomx.org',
