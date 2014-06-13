@@ -171,7 +171,7 @@ PROJECTS = [
 },
 {
     'title': 'PyQtConfig',
-    'description': 'A PyQt config manager. Keep Qt widgets in sync with an config dictionary and/or QSettings object. ',
+    'description': 'A PyQt config manager. Keep Qt widgets in sync with a config dictionary and/or QSettings object. ',
     'url': 'https://github.com/mfitzp/pyqtconfig',
 },
 {
