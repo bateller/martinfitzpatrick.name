@@ -26,7 +26,7 @@ AUTHOR_IDENTITIES = {
     'Martin Fitzpatrick':'https://plus.google.com/115539678583643563408',
 }
 
-PLUGIN_PATH = '/home/spenglr/pelican-plugins'
+PLUGIN_PATH = '/Users/mxf793/repos/pelican-plugins'
 PLUGINS = [
         'gravatar',
         'related_posts',
@@ -113,8 +113,6 @@ SITEURL = 'http://localhost:8001'
 STATICURL = 'http://localhost:8001'
 
 DELETE_OUTPUT_DIRECTORY = True
-
-PLUGIN_PATH = '/Users/mxf793/repos/pelican-plugins'
 
 ADDRESS = u"℅ Centre for Translational Inflammation Research<br /> \
 Queen Elizabeth Hospital<br /> \

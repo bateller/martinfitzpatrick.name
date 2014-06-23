@@ -29,8 +29,7 @@ More [demos, walkthroughs and sample datasets are coming soon][metapath-demos], 
 **Note:** There have been reports of problems upgrading from version 2.3.0 to 2.4.0+ on Windows. If you experience issues, uninstall the previous version and re-install the latest download to resolve the issue.
 
 [pathomx]: http://pathomx.org/
-[all-downloads]: http://pathomx.org/download
+[all-downloads]: http://pathomx.org/#download
 [mac-download]: http://download.pathomx.org/Pathomx-2.5.0.dmg
 [windows-download]: http://download.pathomx.org/Pathomx-2.5.0-amd64.msi
-[metapath-demos]: http://pathomx.org/demos
-[metapath-plugins]: http://pathomx.org/plugins
+[metapath-demos]: http://pathomx.org/#demos

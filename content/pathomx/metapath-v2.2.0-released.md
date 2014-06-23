@@ -28,8 +28,7 @@ I have been busy adding [demos, walkthroughs and sample datasets][metapath-demos
 
 
 [pathomx]: http://pathomx.org/
-[all-downloads]: http://pathomx.org/download
+[all-downloads]: http://pathomx.org/#download
 [mac-download]: http://download.pathomx.org/Pathomx-2.2.0.dmg
 [windows-download]: http://download.pathomx.org/Pathomx-2.2.0-amd64.msi
-[metapath-demos]: http://pathomx.org/demos
-[metapath-plugins]: http://pathomx.org/plugins
+[metapath-demos]: http://pathomx.org/#demos
