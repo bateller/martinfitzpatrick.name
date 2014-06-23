@@ -223,6 +223,8 @@ of the keyword arguments allowed for ``request``).
 .. code:: python
 
     mhi = mh.IPyMetaboHunter(confidence=0.1, tolerance=0.5)
+
+
 Once the objet is created you can call ``.display()`` to render the
 widgets in the current cell. Any changes to the variables are stored
 back into the ``IPyMetaboHunter`` class object (here ``mhi``) and
