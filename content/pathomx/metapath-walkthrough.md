@@ -10,6 +10,8 @@ render metabolic data onto dynamically drawn pathways. That functionality still 
 but as mentioned in a previous post it has been extended to enable more complex,
 extended and interesting analysis - and quickly!
 
+<!-- PELICAN_END_SUMMARY -->
+
 Below is a brief walkthrough of MetaPath: a metabolomic data analysis package. It's
 currently in a pre-release bugfix state, in the run up to publication. But I thought I'd
 give a brief overview of the functionality that's already in place, and plans for the future.
