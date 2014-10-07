@@ -10,11 +10,12 @@ The final release candidate for Pathomx v3.0.0 is available for both [Mac](http:
 backend providing parallel processing (via IPython `ipcluster` support), numerous bugfixes and improvements
 to the UI and figure outputs.
 
-<!-- PELICAN_END_SUMMARY -->
-
-While this is a development version it is considered stable enough for normal use. It'd be great
+While a development version it is considered stable enough for normal use. It'd be great
 if you could download and test it with your own hardware and data and see how it holds up. 
 Report any problems via [Github issue tracker][https://github.com/pathomx/pathomx/issues]. 
+
+<!-- PELICAN_END_SUMMARY -->
+
 
 ### What's new in v3.0.0rc2
 
