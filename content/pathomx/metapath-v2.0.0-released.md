@@ -18,6 +18,6 @@ For more information [see the MetaPath website][getmetapath]!
 
 [getmetapath]: http://pathomx.org/
 [all-downloads]: http://pathomx.org/#download
-[mac-download]: http://download.pathomx.org/MetaPath-2.0.0.dmg
-[windows-download]: http://download.pathomx.org/MetaPath-2.0.0-amd64.msi
+[mac-download]: http://download.pathomx.org/Pathomx-latest.dmg
+[windows-download]: http://download.pathomx.org/Pathomx-latest.exe
 [metapath-demos]: http://pathomx.org/#demos

@@ -6,7 +6,7 @@ Slug: pathomx-v3.0.0rc2-for-windows-and-mac
 Tags: pathomx,metapath,software,metabolomics,bioinformatics,python,qt,pyside
 
 The final release candidate for Pathomx v3.0.0 is available for both [Mac](http://download.pathomx.org/Pathomx-3.0.0rc2.dmg) and
-[Windows](http://download.pathomx.org/Pathomx-3.0.0rc1.exe). This latest version features the new IPython
+[Windows](http://download.pathomx.org/Pathomx-3.0.0rc2.exe). This latest version features the new IPython
 backend providing parallel processing (via IPython `ipcluster` support), numerous bugfixes and improvements
 to the UI and figure outputs. While a development version it is considered stable enough for regular use. 
 
@@ -40,7 +40,6 @@ Inline per-tool code editor. Modify tool code to customise behaviour for your ne
 Per-tool status, progress and error output.
 
 ![software/pathomx/per_tool_output_logging.png](/images/software/pathomx/per_tool_output_logging.png)
-
 
 
 

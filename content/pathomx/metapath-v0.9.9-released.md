@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: MetaPath v0.9.9-beta released
 Tags: metapath,software,metabolomics,python
 
-An up-to-date build of MetaPath for Mac OS X is [available for download](http://download.martinfitzpatrick.name/MetaPath-0.9.9.dmg) today. This is the first public build supporting the interactive workflow, automated processing, NMR spectra processing, gene expression analysis, PCA, PLS-DA, and the rest.
+An up-to-date build of MetaPath for Mac OS X is [available for download](http://download.pathomx.org/Pathomx-latest.dmg) today. This is the first public build supporting the interactive workflow, automated processing, NMR spectra processing, gene expression analysis, PCA, PLS-DA, and the rest.
 
 <!-- PELICAN_END_SUMMARY -->
 
