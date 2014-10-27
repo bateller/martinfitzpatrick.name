@@ -23,7 +23,7 @@ This latest version adds a number of important features over the previous v2.0 s
 * Fully functional python implementation of the icoshift algorithm for NMR (+ other spectra) alignment
 * Support for custom tools, write your own scripts to process your data and connect them up
 * Fixes for PCA and PLS-DA tools, scatter plots to show sample numbers
-* New tools for hierarchical clustering
+* New tools for hierarchical clustering based on [Christopher DeBoever's](cdeboever3.github.io) [code](http://nbviewer.ipython.org/github/ucsd-scientific-python/user-group/blob/master/presentations/20131016/hierarchical_clustering_heatmaps_gridspec.ipynb)
 * Improved data importing in both the Text/CSV and Bruker (NMR) tools
 * BioCyc database web API and cached database included
 * Python, MATLAB, R scripting from within Pathomx
