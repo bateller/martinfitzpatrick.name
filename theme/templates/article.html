@@ -21,10 +21,6 @@
 {% endblock %}
 
 {% block content %}
-<div id="main" role="main">
-  <div class="article-author-side">
-    {% include '_author-bio.html' %}
-  </div>
   <article class="post">
     <div class="headline-wrap">
       {% if article.link %}
@@ -50,7 +46,6 @@
     <section id="disqus_thread"></section><!-- /#disqus_thread -->
   {% endif %}
   </article>
-</div><!-- /#main -->
 {% endblock %}
 
 {% block disqus %}

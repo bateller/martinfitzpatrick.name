@@ -9,10 +9,6 @@
 {% endblock %}
 
 {% block content %}
-<div id="main" role="main"> 
-  <div class="article-author-side">
-    {% include '_author-bio.html' %}
-  </div>
   <div id="index">
     <h3><a href="{{ SITEURL }}/articles/">Recent articles</a></h3>
     {% for article in articles_page.object_list %} 
@@ -44,5 +40,5 @@
     
     
   </div><!-- /#index -->
-</div><!-- /#main -->
+
 {% endblock %}
