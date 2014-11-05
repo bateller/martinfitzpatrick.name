@@ -5,7 +5,7 @@
 
 
 /* Custom post-SASS changes */
-p a {
+p a, .hilite {
  color: #da553b !important;
  text-decoration: none !important;
 }
