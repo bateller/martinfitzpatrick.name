@@ -4,7 +4,6 @@ Email: martin.fitzpatrick@gmail.com
 Title: Installing Google Earth on Ubuntu
 Slug: installing-google-earth-on-ubuntu
 Tags: linux,ubuntu,google-earth,google,computing
-Picture: /images/method/1527/GoogleEarth.jpg
 
 Install the latest version of Google Earth for linux direct from Google sources.
 

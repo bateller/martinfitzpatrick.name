@@ -4,7 +4,6 @@ Email: martin.fitzpatrick@gmail.com
 Title: MetaPath v0.7.0 Released	
 Tags: metapath,software,metabolomics,bioinformatics,python,qt,pyside
 Status: published
-Picture: /images/software/metapath_0.7.0_screenshot.png
 
 An update has been released today for [MetaPath][metapath-github], a metabolic pathway visualisation and analysis tool. It is available  via [PyPi][metapath-pypi] and [github][metapath-github]. A [Mac .app][metapath-macapp] bundle is also available.
 

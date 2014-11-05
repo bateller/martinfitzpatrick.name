@@ -4,7 +4,6 @@ Email: martin.fitzpatrick@gmail.com
 Title: Install HomeBrew package manager for Mac
 Slug: install-homebrew-package-manager-for-mac
 Tags: mac,ports,computing
-Picture: /images/method/1490/Screen%20Shot%202012-04-21%20at%2017.37.33.png
 
 Homebrew is the easiest and most flexible way to install the UNIX tools Apple didn't include with OS X. It provides a simpler alternative to MacPorts, installing under an isolated non-root prefix, symlinked to `/usr/local`
 

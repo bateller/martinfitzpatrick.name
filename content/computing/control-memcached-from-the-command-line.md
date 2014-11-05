@@ -4,15 +4,10 @@ Email: martin.fitzpatrick@gmail.com
 Title: Control memcached from the command line
 Slug: control-memcached-from-the-command-line
 Tags: unix,webdevelopment,memcached,computing
-Picture: /images/method/1536/Screen%20Shot%202012-08-05%20at%2017.28.09.png
 
 memcached is a general-purpose distributed memory caching system originally developed by Danga Interactive for LiveJournal but now used by many other sites. It is often used to speed up dynamic database-driven websites by caching data and objects in RAM to reduce the number of times an external data source (such as a database or API) must be read. Here we describe the options available from the command line to control a memcached instance via unix socket or IP:port.
 
-
 ![method/1536/Screen Shot 2012-08-05 at 17.28.09.png](/images/method/1536/Screen%20Shot%202012-08-05%20at%2017.28.09.png)
-
-
-
 
 #Requirements
 memcached
@@ -21,25 +16,14 @@ memcached
 
 Memcached can be set up to either take control commands via an IP address and port or via a unix socket. 
 
-
-
 When listening via IP:port by default memcached listens for connections on port `11211` and accepts connections from `INADDR_ANY`. To prevent possibly malicious access you may want to consider restricting connections to an internal or firewalled connection. Alternatively you can set memcached to only listen for connections on `localhost` - i.e. the server running the instance of memcached using  `127.0.0.1`. 
 
-
-
 To start up an instance of memcached listening on `localhost` port `11211` only use the following:
-
 
 
     ::sh
 
     memcached -d -m memory -l 127.0.0.1
-
-
-
-
-
-
 
 
 >`memory` is the maximum number of megabytes of memory you want memcached to use.

@@ -4,7 +4,6 @@ Email: martin.fitzpatrick@gmail.com
 Title: Syntax highlighting with Django and Markdown
 Slug: syntax-highlighting-with-django-and-markdown
 Tags: django,programming,syntax-highlighting,web-dev,computing
-Picture: /images/method/1525/Screenshot%20from%202012-07-19%2022%3A04%3A21.png
 
 Syntax highlighting is more than just eye candy. It can turn a block of impenetrable code into a simple grok (although it has it's limits). To boost the usability of our code guides on this site we wanted to implement nice clear syntax highlighting of our hacks. Code samples are already marked up with markdown syntax so an extension to this is the obvious choice.
 

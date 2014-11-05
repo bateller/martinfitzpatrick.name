@@ -4,7 +4,6 @@ Email: martin.fitzpatrick@gmail.com
 Title: QColorButton: A color-selector tool for PyQt
 Slug: qcolorbutton-a-color-selector-tool-for-pyqt
 Tags: qt,pyqt,pyside,qcolorbutton,custom widgets,
-Picture: /images/code/qcolor_dialog.png
 
 Below is a short snippet to implement a color-picker attached to a button in Qt. Clicking on the button pops up a dialog (native) to select a color. The color is shown by the color of the button face. A right-click option is included to allow clearing of the color setting (returning the value to None).
 

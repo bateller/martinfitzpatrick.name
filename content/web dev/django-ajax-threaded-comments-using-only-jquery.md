@@ -4,7 +4,6 @@ Email: martin.fitzpatrick@gmail.com
 Title: Django AJAX threaded-comments using only jQuery
 Slug: django-ajax-threaded-comments-using-only-jquery
 Tags: mptt,comments,django,web-dev,jquery,threaded-comments,computing
-Picture: /images/method/1533/Screenshot%20from%202012-07-31%2020%3A53%3A24.png
 
 Upgrade threaded comments using mptt to allow AJAX submission of comments and update the template - without any backend hacking of Django. Everything is accomplished via Javascript and template tags.
 

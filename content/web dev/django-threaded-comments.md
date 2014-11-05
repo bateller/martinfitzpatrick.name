@@ -4,7 +4,6 @@ Email: martin.fitzpatrick@gmail.com
 Title: Django Threaded Comments
 Slug: django-threaded-comments
 Tags: mptt,django-threadedcomments,comments,django,web-dev,computing
-Picture: /images/method/1524/Screenshot%20from%202012-07-17%2018%3A52%3A26-2.png
 
 Django ships with it's own comments contrib app that provides commenting on arbitrary models. However this is a flat-comment system which doesn't allow replying to comments. An app called django-threadedcomments exists but has not been updated for a number of versions and is broken. Other alternatives are less flexible than the Django commenting system itself.
 

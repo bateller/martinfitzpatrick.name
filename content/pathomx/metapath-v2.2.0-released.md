@@ -4,7 +4,6 @@ Email: martin.fitzpatrick@gmail.com
 Title: Pathomx (née MetaPath) v2.2.0 released
 Slug: metapath-v2.2.0-released
 Tags: pathomx,metapath,software,metabolomics,bioinformatics,python,qt,pyside
-Picture: /images/software/metapath/metapath-v2-visual-editor.png
 
 MetaPath is now named Pathomx, reflecting the focus on analysis of multi-omics data within pathway contexts. Pathomx v2.2.0 has also been released for both  [Windows][windows-download] and [MacOS X][mac-download]. 
 

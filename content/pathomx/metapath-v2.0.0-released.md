@@ -4,7 +4,6 @@ Email: martin.fitzpatrick@gmail.com
 Title: MetaPath v2: Visual analysis for metabolomics [Released]
 Slug: metapath-v2.0.0-released
 Tags: pathomx,metapath,software,metabolomics,bioinformatics,python,qt,pyside
-Picture: /images/software/metapath/metapath-v2-visual-editor.png
 
 MetaPath v2.0.0 has been released today! This latest version features a new visual editor for construction fo analysis workflows, new analysis plugins, graphing powered by Matplotlib and all sorts of other goodness. Downloads are available for [Windows][windows-download] and [MacOS X][mac-download].
 
