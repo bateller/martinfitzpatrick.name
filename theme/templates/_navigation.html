@@ -1,0 +1,29 @@
+<div class="navigation-wrapper">
+    <div class="site-name">
+        <a href="{{ SITEURL }}">{{ SITENAME }}</a>
+    </div><!-- /.site-name -->
+    <div class="top-navigation">
+        <nav role="navigation" id="site-nav" class="nav">
+            <ul>
+                {% for title, link in MENUITEMS %}
+                <li><a href="{{ link }}">{{ title }}</a></li>
+                {% endfor %}
+                {% if DISPLAY_PAGES_ON_MENU %}
+                {% for p in PAGES %}
+                <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+                {% endfor %}
+                <li>
+                {% endif %}
+            </ul>
+
+            {% if DISPLAY_CATEGORIES_ON_MENU %}
+            <ul>
+                {% for cat, null in categories %}
+                <li class="{% if cat == category %} active{% endif %}"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }} ({{ null|length }})</a></li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+
+        </nav>
+    </div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->

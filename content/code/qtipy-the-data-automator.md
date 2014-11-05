@@ -4,7 +4,6 @@ Email: martin.fitzpatrick@gmail.com
 Title: QtIPy: The data automator!
 Slug: qtipy-the-data-automator
 Tags: qtipy,ipython,automation,software,metabolomics,bioinformatics,python,qt,pyside
-Picture: /images/software/qtipy/QtIPy-screenshot.png
 
 Today sees the release of a little utility: **QtIPy: *The data automator!* ** a simple 
 GUI-based run-automator for IPython notebooks. It allows you to attach triggers to files, 

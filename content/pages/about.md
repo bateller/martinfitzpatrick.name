@@ -8,7 +8,8 @@ Parallel to laboratory research, I've developed a number of software tools to
 speed up the process of analysis interpretation of metabolomic data within a pathway context and interact with data from different sources. My published software is open source and available [here][software].
 
 Born in [Leeds](https://www.google.co.uk/maps/preview/place/Leeds,+West+Yorkshire,+UK/), I've lived in [Barnoldswick](https://www.google.co.uk/maps/preview/place/Barnoldswick,+Lancashire,+UK/), [York](https://www.google.co.uk/maps/preview/place/York,+UK/), [Edinburgh](https://www.google.co.uk/maps/preview/place/Edinburgh,+City+of+Edinburgh,+UK/) and [Birmingham](https://www.google.co.uk/maps/preview/place/Birmingham,+West+Midlands,+UK/), United Kingdom. 
-I'm now living in [Utrecht](https://www.google.co.uk/maps/preview/place/Utrecht,+Utrecht,+Netherlands/) in the Netherlands.
+I'm now living in [Utrecht](https://www.google.co.uk/maps/preview/place/Utrecht,+Utrecht,+Netherlands/) in the Netherlands, working in
+the [Heck Lab](http://hecklab.com/) at [Universiteit Utrecht](http://www.uu.nl).
 
 I enjoy playing squash poorly and eating and drinking well. I also like a good hike, but don't do it as often as I like. I walked the [West Highland Way](http://en.wikipedia.org/wiki/West_Highland_Way) in 1998 and 2013. It doesn't get easier with age.
 

@@ -26,7 +26,12 @@ AUTHOR_IDENTITIES = {
     'Martin Fitzpatrick':'https://plus.google.com/115539678583643563408',
 }
 
-PLUGIN_PATH = '/Users/mxf793/repos/pelican-plugins'
+SITE = {
+    'owner': {'twitter':'mfitzp'},
+}
+
+
+PLUGIN_PATHS = ['/Users/mxf793/repos/pelican-plugins',]
 PLUGINS = [
         'gravatar',
         'related_posts',
@@ -66,11 +71,19 @@ SOCIAL = (
           ('RSS', 'rss', '%s/%s' % (FEED_DOMAIN, FEED_ATOM) ),
         )
 
-DEFAULT_PAGINATION = 12
+DEFAULT_PAGINATION = 10
+SUMMARY_MAX_LENGTH = 20
 
 TYPOGRIFY = True
 DISPLAY_CATEGORIES_ON_MENU = True
 GITHUB_ACTIVITY_FEED = 'https://github.com/mfitzp.atom'
+# WITH_FUTURE_DATES = False
+
+AUTHOR_BIO = {
+ 'Martin Fitzpatrick':1,
+
+
+}
 
 
 SITEMAP = {
@@ -109,8 +122,8 @@ TWITTER_USERNAME = 'mfitzp'
 THEME = 'theme'
 
 
-SITEURL = 'http://localhost:8001'
-STATICURL = 'http://localhost:8001'
+SITEURL = 'http://localhost:8000'
+STATICURL = 'http://localhost:8000'
 
 DELETE_OUTPUT_DIRECTORY = True
 
@@ -178,6 +191,7 @@ PROJECTS = [
     'url': 'http://github.com/mfitzp/qtipy',
 },
 ]
+
 
 
 #=============

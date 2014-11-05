@@ -9,6 +9,7 @@ Birmingham
 United Kingdom  
 B15 2TT  
 
+e: [M.A.Fitzpatrick@uu.nl](mailto:M.A.Fitzpatrick@uu.nl)  
 e: [mxf793@bham.ac.uk](mailto:mxf793@bham.ac.uk)  
 e: [martin.fitzpatrick@gmail.com](mailto:martin.fitzpatrick@gmail.com)  
 
@@ -33,10 +34,20 @@ Sabrina Kapoor, Martin Fitzpatrick, Elizabeth Clay, Rachel Bayley, Graham R. Wal
 A complete list of publications, absracts and theses are available [here][publications].
 
 ## Awards & Funding
-**2013 BSR Young Investigator Award** *British Society for Rheumatology*  Awarded for conference abstract and presentation “Macrophage metabotypes in the hypoxic inflammatory environment assessed using metabolomic profiling”**2010-2014	Wellcome Trust 4yr Studentship** *Wellcome Trust*  
+
+**2013 BSR Young Investigator Award** *British Society for Rheumatology*  
+Awarded for conference abstract and presentation “Macrophage metabotypes in the hypoxic inflammatory environment assessed using metabolomic profiling”
+
+**2010-2014	Wellcome Trust 4yr Studentship** *Wellcome Trust*  
 Combined Training Programme 
-**2010 Frank Ker Award for Research into Infectious Disease** *University of Birmingham*  Awarded for final year project and dissertation “What is the impact of vaccination on the development of adaptive immunity to Non-typhoidal Salmonella?”**2010 (Jun-Jul) Arthur Thomson Bursary** *Arthur Thomson Charitable Trust*  
+
+
+**2010 Frank Ker Award for Research into Infectious Disease** *University of Birmingham*  
+Awarded for final year project and dissertation “What is the impact of vaccination on the development of adaptive immunity to Non-typhoidal Salmonella?”
+
+**2010 (Jun-Jul) Arthur Thomson Bursary** *Arthur Thomson Charitable Trust*  
 Awarded for undergraduate summer research project.
+
 
 ## Education
 

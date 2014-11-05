@@ -1,12 +1,36 @@
-{% extends "sidebar.html" %}
+{% extends 'base.html' %}
+{% block title %}{{ page.title }} &#8211; {% endblock %}
 
-{% block bodytitle %}{{ page.title }}{% endblock %}
-
-{% block body %}
-<!-- Content -->
-<article class="is is-page">
-    {{ page.content }}
-</article>
+{% block feature_image %}
+ {% if page.picture %}
+  <div class="image-wrap">
+  <img src=
+    {% if 'http' in page.picture %}
+      "{{ page.picture }}"
+    {% else %}
+      "{{ SITEURL }}/{{ page.picture }}"
+    {% endif %}
+  alt="{{ page.title|striptags }} feature image">
+  {% if page.picture_credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ article.picture_credit_url }}">{{ article.image.picture_credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+ {% endif %}
 {% endblock %}
 
-
+{% block content %}
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include '_author-bio.html' %}
+  </div>
+  <article class="page">
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ page.content }}
+    </div><!-- /.article-wrap -->
+    {% if DISQUS_SITENAME and page.comments == true %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
+{% endblock %}

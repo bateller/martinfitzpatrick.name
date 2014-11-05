@@ -1,68 +1,56 @@
-{% extends "sidebar.html" %}
+{% extends 'base.html' %}
+{% block title %}{{ article.title }} &#8211; {% endblock %}
+{% block summary %}{{ article.summary }}{% endblock %}
+{% block keywords %}{{ article.tags.join(', ') }}{% endblock %}
 
-{% block bodytitle %}{{ article.category }}{% endblock %}
-
-{% block extrahead %}
-{% if TWITTER_CARD_USE %}
-    <meta name="twitter:card" content="{% if article.picture %}photo{% else %}summary{% endif %}">
-    <meta name="og:url" content="{{ SITEURL }}/{{ article.url }}">
-    {% if TWITTER_CARD_SITE: %}
-        <meta name="twitter:site" content="{{ TWITTER_CARD_SITE }}">
+{% block feature_image %}
+ {% if article.picture %}
+  <div class="image-wrap">
+  <img src=
+    {% if 'http' in article.picture %}
+      "{{ article.picture }}"
+    {% else %}
+      "{{ SITEURL }}/{{ article.picture }}"
     {% endif %}
-    {% if TWITTER_CARD_CREATOR: %}
-        <meta name="twitter:creator" content="{{ TWITTER_CARD_CREATOR }}">
-    {% endif %}
-    {% if TWITTER_CARD_DOMAIN: %}
-        <meta name="twitter:domain" content="{{ TWITTER_CARD_DOMAIN }}">
-    {% endif %}
-    <meta name="og:title" content="{{ article.title[:70]|e }}">
-    <meta name="og:description" content="{{ article.summary[:200]|striptags }}">
-    {% if article.picture %}
-        <meta name="twitter:image:src" content="{{ SITEURL }}/{{ article.picture }}">
-    {% endif %}
-{% endif %}
-{% endblock %}
-
-{% block body %}
-<!-- Content -->
-<article class="is is-post">
-    <header>
-        <h1><a href="{{ article.url }}">{{ article.title }}</a></h1>
-        <div class="metadata">Posted {% if article.category %}in <a  href="{{ article.category.url }}">{{ article.category|capitalize }}</a>{% endif %} on {{ article.locale_date }} &#8226;
-           Tagged {% for tag in article.tags %}<a href="{{ tag.url }}">{{ tag|capitalize }}</a>{% if not loop.last%}, {% endif %}{% endfor %}
-        </div>
-    </header>
-    {{ article.content }}
-</article>
+  alt="{{ article.title|striptags }} feature image">
+  {% if article.picture_credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ article.picture_credit_url }}">{{ article.image.picture_credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+ {% endif %} 
 {% endblock %}
 
 
-{% block comments %}
-<!-- Highlights Wrapper -->
-<div class="wrapper wrapper-style3">
-    <div class="title">Comments</div>
-    <div class="container">
-        <div class="row">
-            <div class="12u">
-                
-
-    {% if DISQUS_SITENAME %}
-    <div id="disqus_thread" class="box"></div>
-    <script type="text/javascript">
-        var disqus_shortname = '{{ DISQUS_SITENAME }}';
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    </div></div>
-    {% endif %}
-
-                
-            </div>
+{% block content %}
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include '_author-bio.html' %}
+  </div>
+  <article class="post">
+    <div class="headline-wrap">
+      {% if article.link %}
+        <h1><a href="{{ article.link }}">{{ article.title }}</a></h1>
+      {% else %}
+        <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{ article.title|striptags }}">{{ article.title }}</a></h1>
+      {% endif %}
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      {{ article.content }}
+      <hr />
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          {% include '_author-bio.html' %}
         </div>
-    </div>
-</div>
-<!-- /Highlights Wrapper -->
+        <p class="byline"><strong>{{ article.title }}</strong> was published in <a href="{{ SITEURL }}/category/{{ article.category }}.html">{{ article.category }}</a> on <time datetime="{{ article.date.isoformat() }}">{{ article.date|strftime("%B %d, %Y") }}</time></p>
+      </footer>
+    </div><!-- /.article-wrap -->
+  {% if DISQUS_SITENAME %}
+    <section id="disqus_thread"></section><!-- /#disqus_thread -->
+  {% endif %}
+  </article>
+</div><!-- /#main -->
+{% endblock %}
+
+{% block disqus %}
+{% include '_disqus_comments.html' %}
 {% endblock %}

@@ -1,0 +1,20 @@
+{% if article %}
+    <img src="{{ article.author_gravatar }}" class="bio-photo" alt="{{ AUTHOR }} bio photo">
+    <h3>{{ article.author }}</h3>
+{% else %}
+    <img src="{{ STATICURL }}/theme/images/mfitzp.png" class="bio-photo" alt="{{ AUTHOR }} bio photo">
+    <h3>{{ AUTHOR }}</h3>
+{% endif %}
+
+{% if article and article.author != AUTHOR %}
+{% else %}
+    <p>{{ AUTHOR_ABOUT }}</p>
+
+    {% if AUTHOR_EMAIL %}<a href="mailto:{{ AUTHOR_EMAIL }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
+    {% if SOCIAL %}
+        {% for name, icon, url in SOCIAL %}
+            <a href="{{ url }}" class="author-social" target="_blank"><i class="fa fa-fw fa-{{ icon }}-square"></i> {{ name }}</a>
+        {% endfor %}
+    {% endif %} 
+
+{% endif %} 

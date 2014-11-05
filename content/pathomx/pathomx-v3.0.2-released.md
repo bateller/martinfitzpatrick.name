@@ -4,7 +4,6 @@ Email: martin.fitzpatrick@gmail.com
 Title: Pathomx v3.0.2 released
 Slug: pathomx-v3.0.2-released
 Tags: pathomx,metapath,software,metabolomics,bioinformatics,python,qt,pyside
-Picture: /images/software/pathomx/annotation_demo.png
 
 Pathomx v3.0.2 has been released for both  [Windows][windows-download] and [MacOS X][mac-download].
 This marks the first stable, bug-fixed release for the v3.0 line featuring the new [IPython][ipython]-kernel
