@@ -5,10 +5,13 @@
 
 {% include '_open-graph.html' %}
 
-{% if site and site.owner.google.verify %}<!-- Webmaster Tools verfication --><meta name="google-site-verification" content="{{ site.owner.google.verify }}">{% endif %}
-{% if site and site.owner.bing-verify %}<meta name="msvalidate.01" content="{{ site.owner.bing-verify }}">{% endif %}
+<meta name="google-site-verification" content="Ogw6ZN_S7dzUc9huqkiLOeI_BH8F__4Ft8pNXQVU1Cw" />
+<meta name="google-site-verification" content="tnbPDWRORDk2SjXzRhyh5HOarf2hDojT07FQS2zcMUY" />
+<meta name="google-site-verification" content="2DFeXMiIAIVr20q8LLteYxffew35Pp89MXa7Hyy0_IM" />
+<meta name="google-site-verification" content="aDPLnwleWQc6nHK2vIMKXY5kUBDHFUPNJ75QcdcdEss" />
+<meta name="msvalidate.01" content="79DE55785B481065302BA20C0A64D33F" />
 
-<link href="{{ SITEURL }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Feed">
+
 {% if site and site.owner.google.plus %}<link rel="author" href="http://plus.google.com/+{{ site.owner.google.plus }}?rel=author">{% endif %}
 
 <!-- http://t.co/dKP3o1e -->
@@ -45,3 +48,29 @@
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ SITEURL }}/images/apple-touch-icon-114x114-precomposed.png">
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ SITEURL }}/images/apple-touch-icon-144x144-precomposed.png">
+
+{% if FEED_ALL_ATOM %}
+<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
+{% endif %}
+{% if FEED_ALL_RSS %}
+<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
+{% endif %}
+{% if FEED_ATOM %}
+<link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+{% endif %}
+{% if FEED_RSS %}
+<link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+{% endif %}
+{% if CATEGORY_FEED_ATOM and category %}
+<link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed" />
+{% endif %}
+{% if CATEGORY_FEED_RSS and category %}
+<link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
+{% endif %}
+{% if TAG_FEED_ATOM and tag %}
+<link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
+{% endif %}
+{% if TAG_FEED_RSS and tag %}
+<link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
+{% endif %}
+
