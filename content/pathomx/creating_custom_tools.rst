@@ -8,7 +8,7 @@ Gremlins in the Machine: Creating custom tools for the Pathomx data analysis pla
 :slug: gremlins-in-the-machine-creating-custom-tools-for-the-pathomx-data-analysis-platform
 :authors: Martin Fitzpatrick
 
-`Pathomx <http://pathomx.org>` is a workflow-based data analysis tool built on IPython. It
+`Pathomx <http://pathomx.org>`_ is a workflow-based data analysis tool built on IPython. It
 began as a metabolomic-analysis toolkit, but has extended to support general data analysis
 workflows. It aims to be simple to use for non-experts while powerful enough for complex
 analysis tasks. Key to both of these goals is the ability to create 'custom tools' that
@@ -16,7 +16,7 @@ can be drag-dropped together to form larger workflows.
 
 Previously custom tool creation required a developer installation, however with the release 
 of  v3(.0.2) you can now create custom tools using just the standard release. To get an
-idea of what you can do with Pathomx you can `download it here<http://pathomx.org>` and 
+idea of what you can do with Pathomx you can `download it here <http://pathomx.org>`_ and 
 follow on this brief tutorial on creating custom tools.
 
 The custom tool we'll be creating is a 'Gremlin': a mischievous destroyer of data. You 
