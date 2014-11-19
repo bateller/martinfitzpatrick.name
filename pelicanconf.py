@@ -77,7 +77,7 @@ SUMMARY_MAX_LENGTH = 20
 TYPOGRIFY = True
 DISPLAY_CATEGORIES_ON_MENU = True
 GITHUB_ACTIVITY_FEED = 'https://github.com/mfitzp.atom'
-# WITH_FUTURE_DATES = False
+WITH_FUTURE_DATES = False
 
 AUTHOR_BIO = {
  'Martin Fitzpatrick':1,
