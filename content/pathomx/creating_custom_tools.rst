@@ -23,6 +23,10 @@ The custom tool we'll be creating is a 'Gremlin': a mischievous destroyer of dat
 probably won't want to use this in your analysis, but it gives a good overview of 
 what is possible.
 
+.. image:: /images/software/pathomx/gremlin_tool_workflow.png
+    :alt: The gremlin gets all up in your data
+
+
 The tool stub
 -------------
 
