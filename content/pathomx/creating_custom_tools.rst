@@ -76,7 +76,7 @@ going to add some features to the Gremlin tool to show how it is done.
 
 In the ``loader.py`` file you will find the following:
 
-.. code-block:: python
+.. code:: python
 
     class StubTool(GenericTool):
         name = "Stub"
@@ -115,7 +115,7 @@ values for any configuration parameters using standard Python dictionary syntax.
 We'll add a parameter ``evilness`` that defines how much damage the gremlin
 does to your data, and ``gremlin_type`` that defines what it does. Edit the :python:`self.config` definition to:
 
-.. code-block:: python
+.. code:: python
 
             self.config.set_defaults({
             'gremlin_type': 1,
@@ -139,7 +139,7 @@ The runnable source code for tools is stored in a file named `<shortname>.py` in
 standard Python script style. We've already renamed `stub.py` to `gremlin.py`
 so you can open that now. In it you'll find:
 
-.. code-block:: python
+.. code:: python
 
     import pandas as pd
     import numpy as np
@@ -154,7 +154,7 @@ our custom tool we need to add some code to mess up the data. First we need
 a copy of the input_data to output, then we want to mess it up. Add the 
 following code to the file:
 
-.. code-block:: python
+.. code:: python
 
     import pandas as pd
     import numpy as np
@@ -277,7 +277,7 @@ can define configuration panels, containing multiple widgets that are linked to 
 
 Add the following code to the ``loader.py`` file.
 
-.. code-block:: python
+.. code:: python
 
     # Configuration settings for the Gremlin
     class GremlinConfigPanel(ConfigPanel):
@@ -334,7 +334,7 @@ Finally, the :python:`self.finalise()` call is required to apply the layouts and
 
 Next, add the following line to the ``__init__`` function of the GremlinTool class:
 
-.. code-block:: python
+.. code:: python
 
         self.addConfigPanel(GremlinConfigPanel, 'Settings')
 
