@@ -76,7 +76,7 @@ going to add some features to the Gremlin tool to show how it is done.
 
 In the ``loader.py`` file you will find the following:
 
-.. code:: python
+.. code-block:: python
 
     class StubTool(GenericTool):
         name = "Stub"
@@ -113,9 +113,9 @@ to *gremlin* and the ``name`` to *Gremlin*.
 Below is this is the default config definition. Here you can set default
 values for any configuration parameters using standard Python dictionary syntax. 
 We'll add a parameter ``evilness`` that defines how much damage the gremlin
-does to your data, and ``gremlin_type`` that defines what it does. Edit the :python:`self.config` definition to:
+does to your data, and ``gremlin_type`` that defines what it does. Edit the `self.config` definition to:
 
-.. code:: python
+.. code-block:: python
 
             self.config.set_defaults({
             'gremlin_type': 1,
@@ -123,14 +123,14 @@ does to your data, and ``gremlin_type`` that defines what it does. Edit the :pyt
             })
 
 We've defined the parameters and given them both a default value of 1. These will
-now be available from within the run kernel as :python:`config['evilness']` and 
-:python:`config['gremlin_type']`.
+now be available from within the run kernel as `config['evilness']` and 
+`config['gremlin_type']`.
 
 Below the config definition there are two lines defining the input and output ports
 of the tool respectively. You can name them anything you like as long as 
 you follow standard Python variable naming conventions. Data will be passed
-into the run kernel using these names. They are defined as :python:`input_data` and 
-:python:`output_data` by default and that is enough for our gremlin tool. 
+into the run kernel using these names. They are defined as `input_data` and 
+`output_data` by default and that is enough for our gremlin tool. 
 
 How to train your Gremlin
 -------------------------
@@ -139,7 +139,7 @@ The runnable source code for tools is stored in a file named `<shortname>.py` in
 standard Python script style. We've already renamed `stub.py` to `gremlin.py`
 so you can open that now. In it you'll find:
 
-.. code:: python
+.. code-block:: python
 
     import pandas as pd
     import numpy as np
@@ -154,7 +154,7 @@ our custom tool we need to add some code to mess up the data. First we need
 a copy of the input_data to output, then we want to mess it up. Add the 
 following code to the file:
 
-.. code:: python
+.. code-block:: python
 
     import pandas as pd
     import numpy as np
@@ -218,9 +218,9 @@ following code to the file:
     View = spectra(output_data, styles=styles);
 
 
-This is the main guts of our gremlin. A copy of the :python:`input_data` is made to :python:`output_data`
+This is the main guts of our gremlin. A copy of the `input_data` is made to `output_data`
 and then a simple loop iterates `evilness` times while performing 
-some or other task on the :python:`output_data`. The choice of actions are: delete row,
+some or other task on the `output_data`. The choice of actions are: delete row,
 delete column, switch two rows, switch two columns. An option is available to make a 
 random selection from these transformations. Setting `evilness` to 10 and `gremlin_type` 
 to 1 will perform 100 random operations on the data. Enough to drive anyone quite mad.
@@ -277,7 +277,7 @@ can define configuration panels, containing multiple widgets that are linked to 
 
 Add the following code to the ``loader.py`` file.
 
-.. code:: python
+.. code-block:: python
 
     # Configuration settings for the Gremlin
     class GremlinConfigPanel(ConfigPanel):
@@ -317,7 +317,7 @@ unique to Pathomx tool code are worth a bit of explanation:
 
 As previously described tools have an in-built config handler (based on the `pyqtconfig` package
 available on PyPi). This keeps track of settings and also allows widgets to be attached and
-automatically synced with configuration settings. This is achieved with :python:`self.config.add_handler` linee.
+automatically synced with configuration settings. This is achieved with `self.config.add_handler` linee.
 The first parameter is the config key to set, the second the widget and the (optional) third is a
 mapping dictionary/lambda tuple that converts between the displayed and stored value.
 
@@ -326,15 +326,15 @@ the config is actually ``1``. These mappings can be applied to any widget and ca
 required. The widget is synced to the config value as it is bound.
 
 Each ``ConfigPanel`` has a default ``layout`` object defined to which
-your widgets are attached. They can be placed directly using :python:`self.layout.addWidget(widget)`
+your widgets are attached. They can be placed directly using `self.layout.addWidget(widget)`
 or, as above, by defining a new layout and assigning that. It's usually useful to use a ``GridLayout``
 to place widgets on the panel alongside labels.
 
-Finally, the :python:`self.finalise()` call is required to apply the layouts and wrap up the initialisation.
+Finally, the `self.finalise()` call is required to apply the layouts and wrap up the initialisation.
 
 Next, add the following line to the ``__init__`` function of the GremlinTool class:
 
-.. code:: python
+.. code-block:: python
 
         self.addConfigPanel(GremlinConfigPanel, 'Settings')
 
