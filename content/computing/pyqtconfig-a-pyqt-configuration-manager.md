@@ -135,7 +135,7 @@ checkbox = QtGui.QCheckBox('active')
 config.add_handler('active', checkbox)
 ```
 
-![Demo of config setting with widgets #2](demo-6.png)
+![Demo of config setting with widgets #2](/images/software/pyqtconfig/demo-6.png)
 
 The values of the widgets are automatically set to the pre-set defaults. Note that if we
 hadn't pre-set a default value the *reverse* would happen, and the default would be set 
@@ -161,7 +161,7 @@ config.set('text', 'new value')
 config.set('active', False)
 ```
 
-![Demo of config setting with widgets #2](demo-7.png)
+![Demo of config setting with widgets #2](/images/software/pyqtconfig/demo-7.png)
 
     
 Mapping
@@ -199,7 +199,7 @@ comboBox.addItems( map_dict.keys() )
 config.add_handler('combo', comboBox, mapper=map_dict)
 ```
 
-![Demo of config setting with widgets #2](demo-8.png)
+![Demo of config setting with widgets #2](/images/software/pyqtconfig/demo-8.png)
 
 Note how the config is set to `3` (the value of `CHOICE_C`) but displays "Choice C" as text.
 
