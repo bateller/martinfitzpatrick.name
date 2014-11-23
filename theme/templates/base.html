@@ -38,14 +38,6 @@
 {% block content %}{% endblock %}
 </div><!-- /#main -->
 
-{% block pagination %}{% endblock %}
-<div class="footer-wrap">
-  <footer>
-    {% include '_footer.html' %}
-  </footer>
-</div><!-- /.footer-wrap -->
-
-
 {% block ad_bottom %}
 {% if (page and 'bottom' in page.ads) or (article and 'bottom' in article.ads) %}
 <div style="width:540px; margin:auto;">
@@ -61,6 +53,14 @@
 </div>
 {% endif %}
 {% endblock %}
+
+
+{% block pagination %}{% endblock %}
+<div class="footer-wrap">
+  <footer>
+    {% include '_footer.html' %}
+  </footer>
+</div><!-- /.footer-wrap -->
 
 
 {% include '_scripts.html' %}
