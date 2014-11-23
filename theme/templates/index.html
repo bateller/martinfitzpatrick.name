@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 
 {% block feature_image %}
-{% if page_name == 'index' %}
+{% if page_name == '_index' %}
   <div class="image-wrap">
   <img src="{{ STATICURL }}/theme/images/home-photo-bw.jpg">
   </div><!-- /.image-wrap -->
@@ -20,6 +20,7 @@
         <p>{{ article.summary }}</p>
       {% endif %}
     </article>
+    <hr />
     {% endfor %}
 
     {% if DEFAULT_PAGINATION %}

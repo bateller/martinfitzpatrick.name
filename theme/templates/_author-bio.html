@@ -1,8 +1,8 @@
 {% if article %}
-    <img src="{{ article.author_gravatar }}" class="bio-photo" alt="{{ AUTHOR }} bio photo">
+    <img src="{{ article.author_gravatar }}?size=150" class="bio-photo" alt="{{ AUTHOR }} bio photo">
     <h3>{{ article.author }}</h3>
 {% else %}
-    <img src="{{ STATICURL }}/theme/images/mfitzp.jpg" class="bio-photo" alt="{{ AUTHOR }} bio photo">
+    <img src="http://www.gravatar.com/avatar/496c29be59a54e53f43c79d5f9b9b380?size=150" class="bio-photo" alt="{{ AUTHOR }} bio photo">
     <h3>{{ AUTHOR }}</h3>
 {% endif %}
 
