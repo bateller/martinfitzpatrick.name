@@ -1,6 +1,7 @@
 Title: List of Email to SMS Gateways
 Slug: list-of-email-to-sms-gateways
 Status: hidden
+Ads: top,bottom
 
 # Background
 
