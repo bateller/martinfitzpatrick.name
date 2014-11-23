@@ -1,20 +1,19 @@
-{% if article %}
+<!-- {% if article %}
     <img src="{{ article.author_gravatar }}?size=150" class="bio-photo" alt="{{ AUTHOR }} bio photo">
     <h3>{{ article.author }}</h3>
 {% else %}
     <img src="http://www.gravatar.com/avatar/496c29be59a54e53f43c79d5f9b9b380?size=150" class="bio-photo" alt="{{ AUTHOR }} bio photo">
     <h3>{{ AUTHOR }}</h3>
 {% endif %}
-
+-->
 {% if article and article.author != AUTHOR %}
 {% else %}
-    <p>{{ AUTHOR_ABOUT }}</p>
+<!--    <p>{{ AUTHOR_ABOUT }}</p> -->
+{% endif %} 
 
-    {% if AUTHOR_EMAIL %}<a href="mailto:{{ AUTHOR_EMAIL }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
-    {% if SOCIAL %}
-        {% for name, icon, url in SOCIAL %}
-            <a href="{{ url }}" class="author-social" target="_blank"><i class="fa fa-fw fa-{{ icon }}-square"></i> {{ name }}</a>
-        {% endfor %}
-    {% endif %} 
-
+{% if AUTHOR_EMAIL %}<a href="mailto:{{ AUTHOR_EMAIL }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
+{% if SOCIAL %}
+    {% for name, icon, url in SOCIAL %}
+        <a href="{{ url }}" class="author-social" target="_blank"><i class="fa fa-fw fa-{{ icon }}-square"></i> {{ name }}</a>
+    {% endfor %}
 {% endif %} 
