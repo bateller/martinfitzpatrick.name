@@ -3,6 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: PyQtConfig: A simple API for keeping your PyQt Widgets and config in sync
 Tags: pyqtconfig,qt,python,software,programming
+Github: mfitzp/pyqtconfig
 
 Introducing PyQtConfig: a simple API for handling, persisting and synchronising configuration 
 within PyQt applications. This module was built initially as part of the [Pathomx](http://pathomx.org)

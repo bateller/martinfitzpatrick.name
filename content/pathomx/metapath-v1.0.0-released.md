@@ -3,6 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: MetaPath v1.0.0 released
 Tags: pathomx,metapath,software,metabolomics,python
+Github: pathomx/pathomx
 
 MetaPath v1.0.0 has been released today for both  [Windows][windows-download] and [MacOS X][mac-download]. In addition, MetaPath now has its own [website][getmetapath] for updates, demos, plugins and more. 
 

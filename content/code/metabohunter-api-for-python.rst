@@ -7,6 +7,7 @@ MetaboHunter from Python: 1D NMR Metabolite Identification
 :category: code
 :slug: python-api-for-metabohunter-nmr-metabolite-identification
 :authors: Martin Fitzpatrick
+:github: mfitzp/metabohunter
 
 Another Python module released today. `MetaboHunter <https://pypi.python.org/pypi/metabohunter/0.0.1>`__
 is a Python module for accessing the `MetaboHunter <http://www.nrcbioinformatics.ca/metabohunter/>`__ 

@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: MetaPath is now Pathomx
 Slug: metapath-is-now-pathomx
 Tags: pathomx,pathomx,software,metabolomics,bioinformatics,python,qt,pyside
+Github: pathomx/pathomx
 
 MetaPath has now been renamed Pathomx. The name change was neccessary due to a name clash with another piece of published bioinformatics software, but it also better reflects the focus on analysis of multi-omics data in a pathway context.
 

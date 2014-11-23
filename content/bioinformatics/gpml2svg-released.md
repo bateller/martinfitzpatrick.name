@@ -3,6 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: gpml2svg: A command-line SVG renderer for GPML pathways [Released]
 Tags: gpml,pathways,metabolomics,svg,metapath,software,metabolomics,bioinformatics
+Github: mfitzp/gpml2svg
 
 [Gpml2svg][gpml2svg-github], a command-line/Python API for rendering GPML (GenMAPP Pathway Markup Language) to SVG, has been released today via [github][gpml2svg-github] and [PyPi][gpml2svg-pypi].
 

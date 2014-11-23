@@ -3,6 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: accuri2fcs: Convert Accuri .c6 flow cytometry files to .fcs [Released]
 Tags: flow cytometry,fcs,accuri,c6
+Github: mfitzp/accuri2fcs
 
 [Accuri2fcs][accuri2fcs-github], a command line program for the conversion of Accuri `.c6` flow cytometry data files to the standard `.fcs` format, has been released today via [github][accuri2fcs-github] and [PyPi][accuri2fcs-pypi].
 

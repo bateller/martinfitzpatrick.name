@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Pathomx meets IPython - Workflow construction with IPython notebooks (and vice versa)
 Slug: pathomx-meets-ipython-workflow-construction-with-ipython-notebooks
 Tags: pathomx,ipython,software,metabolomics,bioinformatics,python,qt,pyside
+Github: pathomx/pathomx
 
 A new developer release of Pathomx (v3.0.0a) is out today via Github and PyPi. This release
 brings an IPython backend and support for IPython-notebook based plugins. 

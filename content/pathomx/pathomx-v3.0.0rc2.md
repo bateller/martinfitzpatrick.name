@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Pathomx v3.0.0 Release Candidate 2
 Slug: pathomx-v3.0.0rc2-for-windows-and-mac
 Tags: pathomx,metapath,software,metabolomics,bioinformatics,python,qt,pyside
+Github: pathomx/pathomx
 
 The final release candidate for Pathomx v3.0.0 is available for both [Mac](http://download.pathomx.org/Pathomx-3.0.0rc2.dmg) and
 [Windows](http://download.pathomx.org/Pathomx-3.0.0rc2.exe). This latest version features the new IPython

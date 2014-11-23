@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Pathomx: Analysis of public GEO datasets
 Slug: metapath-analysis-of-public-geo-datasets
 Tags: pathomx,pathomx,software,metabolomics,python,matlab
+Github: pathomx/pathomx
 
 This short demo shows analysis of a publically available GEO dataset using Pathomx, with a workflow build using the new visual editor (available in the next release).
 

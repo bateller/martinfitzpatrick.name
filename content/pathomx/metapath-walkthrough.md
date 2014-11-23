@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: MetaPath walkthrough
 Tags: metapath,software,metabolomics,python,matlab
 Status: draft
+Github: pathomx/pathomx
 
 MetaPath started out as pathway analysis software, using the MetaCyc/BioCyc database to 
 render metabolic data onto dynamically drawn pathways. That functionality still exists,

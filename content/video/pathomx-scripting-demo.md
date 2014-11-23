@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Pathomx does MATLAB, R, Python
 Slug: pathomx-does-matlab-r-python
 Tags: pathomx,software,metabolomics,matlab,r,python
+Github: pathomx/pathomx
 
 The development version of Pathomx now supports custom scripting in Python, MATLAB and R. 
 

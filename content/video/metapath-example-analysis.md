@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Pathomx: Example Analysis
 Slug: metapath-example-analysis
 Tags: pathomx,pathomx,software,metabolomics,python,matlab
-
+Github: pathomx/pathomx
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/iZccSjEjeL4" frameborder="0" allowfullscreen></iframe>
 

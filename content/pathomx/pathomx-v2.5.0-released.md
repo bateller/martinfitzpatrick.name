@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Pathomx v2.5.0 released
 Slug: pathomx-v2.5.0-released
 Tags: pathomx,metapath,software,metabolomics,bioinformatics,python,qt,pyside
+Github: pathomx/pathomx
 
 Pathomx v2.5.0 has been released for both  [Windows][windows-download] and [MacOS X][mac-download]. 
 
