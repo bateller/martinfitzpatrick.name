@@ -3,8 +3,6 @@ Slug: list-of-email-to-sms-gateways
 Status: hidden
 Ads: top,bottom
 
-# Background
-
 This content was previously available on WikiPedia but deleted as *not really encylopaedia-worthy*. Since [this article of mine](http://martinfitzpatrick.name/article/using-email-to-sms-gateways-to-send-free-sms) was originally a major source for the data in the page, I thought I'd copy it here for posterity.
 
 **Important!** I can't provide support for any of the information provided below.
