@@ -2003,3 +2003,7 @@ h3 small {
     color: #da553b !important; 
     font-size: 0.6em;
 }
+
+#main li {
+    margin-bottom:0.2rem;
+}
