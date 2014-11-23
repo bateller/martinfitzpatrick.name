@@ -1248,14 +1248,13 @@ input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focu
 }
 body {
     background-color: #fff;
-    font-family: "PT Serif", serif;
+    font-family: "Raleway", serif;
     color: #333332;
 }
 .navigation-wrapper {
     margin: 0 auto;
     width: 100%;
     padding: 2em 0 1em;
-    font-family: "PT Serif", sans-serif;
     font-weight: 600;
     text-transform: uppercase;
     *zoom: 1;
