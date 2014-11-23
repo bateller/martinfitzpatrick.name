@@ -10,14 +10,14 @@
 
 {% block content %}
   <div id="index">
-    <h3><a href="{{ SITEURL }}/articles/">Recent articles</a></h3>
+    <!-- <h3><a href="{{ SITEURL }}/articles/">Recent articles</a></h3> -->
     {% for article in articles_page.object_list %} 
     <article>
       {% if article.link %}
-        <h2 class="link-article"><a href="{{ article.link }}" title="{{ article.title|striptags }}">{{ article.title }}</a> <a href="{{ article.link }}" target="_blank" title="{{ article.title|striptags }}"><i class="fa fa-link"></i></h2>
+        <h3 class="link-article"><a href="{{ article.link }}" title="{{ article.title|striptags }}">{{ article.title }}</a> <a href="{{ article.link }}" target="_blank" title="{{ article.title|striptags }}"><i class="fa fa-link"></i></h3>
       {% else %}
-        <h2><a href="{{ SITEURL }}/{{ article.url }}" title="{{ article.title|striptags }}">{{ article.title }}</a></h2>
-        <p>{{ article.summary }}</p>
+        <h3><a href="{{ SITEURL }}/{{ article.url }}" title="{{ article.title|striptags }}">{{ article.title }}</a> <small>{{ article.date.strftime('%d.%m.%Y') }}</small></h3>
+        <p>{{ article.summary|striptags }}</p>
       {% endif %}
     </article>
     <hr />
