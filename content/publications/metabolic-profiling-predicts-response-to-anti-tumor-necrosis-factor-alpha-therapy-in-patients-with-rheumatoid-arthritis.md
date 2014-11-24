@@ -1,7 +1,7 @@
 Date: 2013-03-01 09:00
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
-Title: Metabolic profiling predicts response to anti-TNFα therapy in patients with rheumatoid arthritis.
+Title: Metabolic profiling predicts response to anti-TNFα therapy in patients with rheumatoid arthritis
 Slug: metabolic-profiling-predicts-response-to-anti-tumor-necrosis-factor-alpha-therapy-in-patients-with-rheumatoid-arthritis
 Tags: publications,metabolomics,rheumatoid-arthritis,inflammation,anr,contributing-author
 Type: publication

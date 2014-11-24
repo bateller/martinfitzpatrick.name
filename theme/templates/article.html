@@ -29,6 +29,13 @@
         <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{ article.title|striptags }}">{{ article.title }}</a></h1>
       {% endif %}
     </div><!--/ .headline-wrap -->
+    {% if article.type and article.type == 'publication' %}
+        <p class="byline"><strong>{% for author in article.authors %}{{ author }}{% if not loop.last %}, {% endif %}{% endfor %}</strong>. Published in <a href="{{ article.link }}">{{ article.journal }}</a> on <time datetime="{{ article.date.isoformat() }}">{{ article.date|strftime("%B %d, %Y") }}</time>
+        {% if article.doi %}<a href="http://dx.doi.org/{{ article.doi }}">doi:{{ article.doi }}</a> {% endif %}
+        {% if article.pmid %}<a href="http://www.ncbi.nlm.nih.gov/pubmed/{{ article.pmid }}">pmid:{{ article.pmid }}</a> {% endif %}
+        {% if article.isbn %}isbn:{{ article.isbn }} {% endif %}</p>
+    {% endif %}    
+    
     <div class="article-wrap">
       {{ article.content }}
       <hr />
