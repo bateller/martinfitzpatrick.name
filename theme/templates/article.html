@@ -44,7 +44,7 @@
           {% include '_author-bio.html' %}
         </div>
         <p class="byline">
-            <strong>{{ article.title }}</strong> was published in <a href="{{ SITEURL }}/category/{{ article.category }}.html">{{ article.category }}</a> on <time datetime="{{ article.date.isoformat() }}">{{ article.date|strftime("%B %d, %Y") }}</time>
+            <strong>{{ article.title }}</strong> was published in <a href="{{ SITEURL }}/category/{{ article.category }}">{{ article.category }}</a> on <time datetime="{{ article.date.isoformat() }}">{{ article.date|strftime("%B %d, %Y") }}</time>
             and tagged {% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last%}, {% endif %}{% endfor %}    
         </p>
       </footer>
