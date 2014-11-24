@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Do differentiated macrophages display profoundly different metabolic profiles, reflecting their different functions?
 Slug: do-differentiated-macrophages-display-profoundly-different-metabolic-profiles-reflecting-their-different-functions
-Tags: publications,metabolomics,immunology,first-author,thesis
+Tags: publications,metabolomics,immunology,first-author,thesis,mres
 Type: publication
 Journal: University of Birmingham
 Link: http://etheses.bham.ac.uk/2940/

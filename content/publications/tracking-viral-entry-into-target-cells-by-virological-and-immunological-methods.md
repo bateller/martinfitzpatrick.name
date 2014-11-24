@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Tracking viral entry into target cells by virological and immunological methods
 Slug: tracking-viral-entry-into-target-cells-by-virological-and-immunological-methods
-Tags: publications,virology,first-author,thesis
+Tags: publications,virology,first-author,thesis,mres
 Type: publication
 Journal: University of Birmingham
 Link: http://etheses.bham.ac.uk/2940/
