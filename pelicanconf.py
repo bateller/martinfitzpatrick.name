@@ -38,6 +38,7 @@ PLUGINS = [
         #'pelican_youtube',
         'sitemap',
         'summary',
+        'googleplus_comments',
         ]        
 
 STATIC_PATHS = ['images',

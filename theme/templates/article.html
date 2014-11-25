@@ -49,15 +49,15 @@
         </p>
       </footer>
     </div><!-- /.article-wrap -->
-  {% if DISQUS_SITENAME %}
-    <section id="disqus_thread"></section><!-- /#disqus_thread -->
-  {% endif %}
+    
+    <div id="commentswrap">
+    <div id="comments"></div>
+    </div>
+    {{ article.metadata.googleplus_comments }}    
+    
   </article>
 {% endblock %}
 
-{% block disqus %}
-{% include '_disqus_comments.html' %}
-{% endblock %}
 
 {% block github %}
 {% if article.github %}
