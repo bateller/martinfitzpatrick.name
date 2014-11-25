@@ -35,10 +35,9 @@ PLUGIN_PATHS = ['/Users/mxf793/repos/pelican-plugins',]
 PLUGINS = [
         'gravatar',
         'related_posts',
-        #'pelican_youtube',
         'sitemap',
         'summary',
-        'googleplus_comments',
+        'series',
         ]        
 
 STATIC_PATHS = ['images',

@@ -39,6 +39,7 @@
     <div class="article-wrap">
       {{ article.content }}
       <hr />
+      
       <footer role="contentinfo">
         <div class="article-author-bottom">
           {% include '_author-bio.html' %}
@@ -47,6 +48,20 @@
             <strong>{{ article.title }}</strong> was published in <a href="{{ SITEURL }}/category/{{ article.category }}">{{ article.category }}</a> on <time datetime="{{ article.date.isoformat() }}">{{ article.date|strftime("%B %d, %Y") }}</time>
             and tagged {% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last%}, {% endif %}{% endfor %}    
         </p>
+
+         <p class="byline">
+          {% if article.series %}
+                This post is part {{ article.series.index }} of the "{{ article.series.name }}" series:
+                <ol class="parts" style="font-size:small; margin-top:-1rem;">
+                    {% for part_article in article.series.all %}
+                        <li {% if part_article == article %}class="active"{% endif %}>
+                            <a href='{{ SITEURL }}/{{ part_article.url }}'>{{ part_article.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ol>
+            {% endif %}
+         </p>
+         
       </footer>
     </div><!-- /.article-wrap -->
   {% if DISQUS_SITENAME %}
