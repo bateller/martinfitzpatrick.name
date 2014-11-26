@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Kill unresponsive applications on Linux
 Slug: kill-unresponsive-applications-on-linux
 Tags: linux,desktop,x11,xkill,computing
+Ads: top,bottom
 
 Sometimes things go a bit wrong. Sometimes they go very wrong. XKill is a simple little application that allows you to kill a running X application that has got out of kilter. Think of this as a quick way to get back control of your Desktop.
 

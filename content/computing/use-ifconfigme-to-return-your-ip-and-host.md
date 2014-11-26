@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Use ifconfig.me to return your IP and Host
 Slug: use-ifconfigme-to-return-your-ip-and-host
 Tags: cli,ip,hostname,ifconfig,ip-address,computing
+Ads: top,bottom
 
 ifconfig.me is a web service that displays information about your connection, including IP address, hostname and User Agent string. Helpfully it provides a simplified interface that can be easily queried to get this information from the command line.
 

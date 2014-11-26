@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Reload .bash_profile without logging in again
 Slug: reload-bash_profile-without-logging-out
 Tags: cli,unix,linux,computing
+Ads: top,bottom
 
 Update your session to new settings in .bash_profile without logging out and back in again.
 

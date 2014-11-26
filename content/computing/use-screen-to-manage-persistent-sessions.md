@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Use screen to manage persistent sessions
 Slug: use-screen-to-manage-persistent-sessions
 Tags: shell,cli,gnu,screen,unix,linux,computing
+Ads: top,bottom
 
 GNU Screen is a command-line application that allows use of multiple virtual sessions within a single real terminal or remote session. Importantly, it allows for persistent running of command-line applications independent of the shell that initiated them program, meaning active applications can persist during disconnection.
 

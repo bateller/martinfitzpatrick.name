@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Piping between shells
 Slug: piping-between-shells
 Tags: mac,unix,linux,pipe,computing
+Ads: top,bottom
 
 Create your own bash pipes to send program output between shells, processes and users.
 

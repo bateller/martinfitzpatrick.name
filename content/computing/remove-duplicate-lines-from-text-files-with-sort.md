@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Remove duplicate lines from text files (with sort)
 Slug: remove-duplicate-lines-from-text-files-with-sort
 Tags: bash,cli,sort,unique,computing
+Ads: top,bottom
 
 A quick method to remove duplicates from text files - including for example CSV files - 
 where multiple records have been added (perhaps automatically) at different times resulting 

@@ -7,14 +7,6 @@ Tags: unix,linux,sudo,root,computing
 
 Re-run previously entered command as root user.
 
-
-
-
-
-
-
-
-
     sudo !!
 
 

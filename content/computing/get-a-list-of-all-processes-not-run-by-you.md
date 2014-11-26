@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Get a list of all processes not run by you
 Slug: get-a-list-of-all-processes-not-run-by-you
 Tags: linux,processes,user,cpu,computing
+Ads: top,bottom
 
 Find the currently running processes on your system that were not started by yourself. A great way to find out what is hogging your system on multiple-user setups or remote logins.
 
@@ -17,7 +18,10 @@ Find the currently running processes on your system that were not started by you
 
 Open up a terminal session and enter:
 
+
+
 	ps aux | grep -v `whoami`
+
 
 
 
@@ -26,7 +30,12 @@ Open up a terminal session and enter:
 
 You can tweak this to show (for example) the only the top 10 processes by cpu utilisation as follows:
 
+
+
 	ps aux  --sort=-%cpu | grep -m 11 -v `whoami`
+
+
+
 
 
 

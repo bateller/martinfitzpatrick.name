@@ -4,6 +4,7 @@ Email: caelkayjackson@googlemail.com
 Title: Initialize Git Repository from Local Files
 Slug: initialize-git-repository-from-local-files
 Tags: git,version-control,computing
+Ads: top,bottom
 
 Initialize a Git repository from a local directory, and the files therein, pushing it to an existing but empty remote.
 

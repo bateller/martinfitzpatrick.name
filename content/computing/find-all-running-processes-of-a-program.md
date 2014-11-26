@@ -7,14 +7,6 @@ Tags: bash,cli,command-line,computing
 
 Find the pids of all instances/processes of a given program running on your system
 
-
-
-
-
-
-
-
-
 Open a terminal and enter `ps ax | grep "firefox"` ...replacing 'firefox' with the name of the program you are looking for.
 
 

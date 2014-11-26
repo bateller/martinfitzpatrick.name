@@ -4,21 +4,21 @@ Email: martin.fitzpatrick@gmail.com
 Title: Find all files containing a given string
 Slug: find-all-files-containing-a-given-string
 Tags: mac,bash,cli,linux,computing
+Ads: top,bottom
 
 A quick one-liner to recursively search files for a given text string.
 
 
-
-
-
-
-
-
-
 Open up a terminal session and enter the following - replacing `"foo"` with the text to search for. 
 
+
+
     :::sh
+
     find . -exec grep -l "foo" {} \;
+
+
+
 
 
 
@@ -27,13 +27,22 @@ Open up a terminal session and enter the following - replacing `"foo"` with the 
 
 You can also limit the search to files with a particular extension (e.g. HTML or CSS). The first form will only return files in the current directory
 
+
+
     :::sh
+
     find *.html -exec grep -l "foo" {} \;
+
+
 
 Alternatively you can search recursively while matching filenames using the `-name` parameter:
 
+
+
     :::sh
+
     find . -name *.html -exec grep -l "foo" {} \;
+
 
 
 
@@ -42,8 +51,13 @@ Alternatively you can search recursively while matching filenames using the `-na
 
 You can also replace `.` with the name of any other folder to search:
 
+
+
     :::sh
+
     find /var/www -name *.html -exec grep -l "foo" {} \;
+
+
 
 This will search `/var/www` recursively for files named `*.html` and containing `foo`.
 
