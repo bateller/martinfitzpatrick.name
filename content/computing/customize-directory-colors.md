@@ -8,14 +8,6 @@ Ads: top,bottom
 
 You can use the command ls --color (or an alias) to show directories with colours for folders, files, links, etc. However, you may not realise these colours can be easily configured using bashrc and a configuration file.
 
-
-
-
-
-
-
-
-
 #Requirements
 bash
 
@@ -23,20 +15,14 @@ bash
 
 Edit your `.bashrc` file (in your home directory) to include the following line:
 
-
-
     alias lc="ls --color=always"
-
-
 
 This will enable coloured listings on all uses of ls (to save you typing `--colors`. Save the file and in your terminal window enter `source ~/.bashrc` to reload your bash config. Try an `ls` to confirm that you have got colors working.
 
 
 >On some systems (including Mac) the bash configuration is stored in `~/.bash_profile` instead.
 
-
 You have a lot of options for configuring the directory colours. They can be stored in
-
 
 
 1. Shell variable `LS_COLORS` which can be set in .bashrc via `export LS_COLORS="COLOR_CONFIG"`
