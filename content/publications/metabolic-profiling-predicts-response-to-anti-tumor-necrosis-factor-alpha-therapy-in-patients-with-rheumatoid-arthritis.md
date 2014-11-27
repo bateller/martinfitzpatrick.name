@@ -8,7 +8,7 @@ Type: publication
 DOI: 10.1002/art.37921
 PMID: 23460124
 Journal: Arthritis & Rheumatism
-Link: http://www.smw.ch/content/smw-2013-13743/
+Link: http://onlinelibrary.wiley.com/doi/10.1002/art.37921/abstract
 Authors: Sabrina R. Kapoor, Andrew Filer, Martin A. Fitzpatrick, Benjamin A. Fisher, Peter C. Taylor, Christopher D. Buckley, Iain B. McInnes, Karim Raza, Stephen P. Young 
 
 **OBJECTIVE:** Anti-tumor necrosis factor (anti-TNF) therapies are highly effective in
