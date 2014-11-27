@@ -12,14 +12,16 @@
                 {% for p in PAGES %}
                 <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
                 {% endfor %}
-                <li>
                 {% endif %}
+                {% for cat, null in categories %}
+                {% if cat in ['publications','conferences'] %}<li class="{% if cat == category %} active{% endif %}"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }} <span class="hilite">({{ null|length }})</span></a></li>{% endif %}
+                {% endfor %}
             </ul>
 
             {% if DISPLAY_CATEGORIES_ON_MENU %}
             <ul>
                 {% for cat, null in categories %}
-                <li class="{% if cat == category %} active{% endif %}"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }} <span class="hilite">({{ null|length }})</span></a></li>
+                {% if cat not in ['publications','conferences'] %}<li class="{% if cat == category %} active{% endif %}"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }} <span class="hilite">({{ null|length }})</span></a></li>{% endif %}
                 {% endfor %}
             </ul>
             {% endif %}
