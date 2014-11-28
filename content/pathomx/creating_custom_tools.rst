@@ -4,7 +4,7 @@ Gremlins in the Machine: Creating custom tools for the Pathomx data analysis pla
 :date: 2014-11-18 21:10
 :modified: 2014-11-18 21:10
 :tags: code,python,pathomx,nmr,metabolomics,omics,bioinformatics
-:category: code
+:category: pathomx
 :slug: gremlins-in-the-machine-creating-custom-tools-for-the-pathomx-data-analysis-platform
 :authors: Martin Fitzpatrick
 
