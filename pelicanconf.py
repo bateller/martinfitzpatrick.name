@@ -13,7 +13,7 @@ FEED_ATOM = 'feeds/atom.xml'
 TAG_FEED_ATOM = 'feeds/%s.tag.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
-TIMEZONE = 'Europe/London'
+TIMEZONE = 'UTC'
 
 DEFAULT_LANG = u'en'
 TRANSLATION_FEED_ATOM = None
@@ -77,7 +77,7 @@ SUMMARY_MAX_LENGTH = 50
 TYPOGRIFY = True
 DISPLAY_CATEGORIES_ON_MENU = True
 GITHUB_ACTIVITY_FEED = 'https://github.com/mfitzp.atom'
-# WITH_FUTURE_DATES = False
+WITH_FUTURE_DATES = False
 
 AUTHOR_BIO = {
  'Martin Fitzpatrick':1,
