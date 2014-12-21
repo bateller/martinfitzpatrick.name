@@ -53,8 +53,8 @@ Feedback and [bug-reports](https://github.com/pathomx/pathomx/issues) are always
 
 [pathomx]: http://pathomx.org/
 [all-downloads]: http://pathomx.org/#download
-[mac-download]: http://download.pathomx.org/Pathomx-latest.dmg
-[windows-download]: http://download.pathomx.org/Pathomx-latest.exe
+[mac-download]: http://download.pathomx.org/Pathomx-latest.dmg?no-cache
+[windows-download]: http://download.pathomx.org/Pathomx-latest.exe?no-cache
 [pathomx-demos]: http://pathomx.org/#demos
 [pathomx-docs]: http://docs.pathomx.org
 [pathomx-getting-started]: http://docs.pathomx.org/en/latest/getting_started.html

@@ -29,6 +29,6 @@ I have been busy adding [demos, walkthroughs and sample datasets][metapath-demos
 
 [pathomx]: http://pathomx.org/
 [all-downloads]: http://pathomx.org/#download
-[mac-download]: http://download.pathomx.org/Pathomx-latest.dmg
-[windows-download]: http://download.pathomx.org/Pathomx-latest.exe
+[mac-download]: http://download.pathomx.org/Pathomx-latest.dmg?no-cache
+[windows-download]: http://download.pathomx.org/Pathomx-latest.exe?no-cache
 [metapath-demos]: http://pathomx.org/#demos

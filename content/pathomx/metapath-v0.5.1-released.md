@@ -48,6 +48,6 @@ Contributions from users and developers at other institutions are most welcome. 
 [metapath-github]: https://github.com/mfitzp/metapath
 [metapath-github-issues]: https://github.com/mfitzp/metapath/issues
 [metacyc]: http://metacyc.org
-[metapath-macapp]: http://download.pathomx.org/Pathomx-latest.dmg
+[metapath-macapp]: http://download.pathomx.org/Pathomx-latest.dmg?no-cache
 [metapath-pypi]: https://pypi.python.org/pypi/metapath
 [graphviz]: http://www.graphviz.org/

@@ -45,7 +45,7 @@ Finally, as the software extends to a more general metabolomics data-analysis pa
 [metapath-github]: https://github.com/mfitzp/metapath
 [metapath-github-issues]: https://github.com/mfitzp/metapath/issues
 [metacyc]: http://metacyc.org
-[metapath-macapp]: http://download.pathomx.org/Pathomx-latest.dmg
+[metapath-macapp]: http://download.pathomx.org/Pathomx-latest.dmg?no-cache
 [metapath-pypi]: https://pypi.python.org/pypi/metapath
 [graphviz]: http://www.graphviz.org/
 [metapath-release-initial]: http://martinfitzpatrick.name/article/metapath-v0.5.1-released

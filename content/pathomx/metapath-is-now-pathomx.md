@@ -13,6 +13,6 @@ MetaPath has now been renamed Pathomx. The name change was neccessary due to a n
 The latest version of Pathomx is available for for both [Windows][windows-download] and [MacOS X][mac-download]. The Pathomx source code also has [a new home on github][github]. Existing workflows will continue to work, and new releases will follow shortly!
 
 [all-downloads]: http://pathomx.org/download
-[mac-download]: http://download.pathomx.org/Pathomx-latest.dmg
-[windows-download]: http://download.pathomx.org/Pathomx-latest.exe
+[mac-download]: http://download.pathomx.org/Pathomx-latest.dmg?no-cache
+[windows-download]: http://download.pathomx.org/Pathomx-latest.exe?no-cache
 [github]: http://github.com/pathomx

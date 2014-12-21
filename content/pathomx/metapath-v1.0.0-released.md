@@ -22,6 +22,6 @@ We will be adding a number of [demos, walkthroughs and sample datasets][metapath
 
 [getmetapath]: http://getmetapath.org/
 [all-downloads]: http://getmetapath.org/#download
-[mac-download]: http://download.pathomx.org/Pathomx-latest.dmg
-[windows-download]: http://download.pathomx.org/Pathomx-latest.exe
+[mac-download]: http://download.pathomx.org/Pathomx-latest.dmg?no-cache
+[windows-download]: http://download.pathomx.org/Pathomx-latest.exe?no-cache
 [metapath-demos]: http://getmetapath.org/#demos
