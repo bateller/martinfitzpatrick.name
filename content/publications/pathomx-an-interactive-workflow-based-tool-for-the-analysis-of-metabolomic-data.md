@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Pathomx: an interactive workflow-based tool for the analysis of metabolomic data
 Slug: pathomx-an-interactive-workflow-based-tool-for-the-analysis-of-metabolomic-data
-Tags: publications,metabolomics,bmc-bioinformatics,first-author
+Tags: publications,metabolomics,python,pathomx,bmc-bioinformatics,first-author
 Type: publication
 DOI: 10.1186/s12859-014-0396-9
 PMID: 25490956
