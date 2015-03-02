@@ -61,14 +61,15 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-          ('Twitter', 'twitter', 'https://twitter.com/mfitzp'),
           ('Facebook', 'facebook', 'https://www.facebook.com/martinfitzp'),
           ('Github', 'github', 'https://github.com/mfitzp'),
-          ('ResearchGate', 'list', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
-          ('LinkedIn', 'linkedin', 'https://uk.linkedin.com/in/martinfitzp'),
           ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/?rel=author'),
+          ('LinkedIn', 'linkedin', 'https://uk.linkedin.com/in/martinfitzp'),
           ('ORCID', 'circle', 'http://orcid.org/0000-0002-0695-1988'),
+          ('ResearchGate', 'list', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
           ('RSS', 'rss', '%s/%s' % (FEED_DOMAIN, FEED_ATOM) ),
+          ('StackOverflow', 'stack-exchange', 'http://stackoverflow.com/users/754456/mfitzp'),
+          ('Twitter', 'twitter', 'https://twitter.com/mfitzp'),
         )
 
 DEFAULT_PAGINATION = 10
