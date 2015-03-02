@@ -63,16 +63,16 @@ LINKS =  (
 SOCIAL = ([
           ('Email', 'envelope-o', 'mailto:%s' % AUTHOR_EMAIL),
           ],[
-          ('Facebook', 'facebook', 'https://www.facebook.com/martinfitzp'),
-          ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/?rel=author'),
-          ('LinkedIn', 'linkedin', 'https://uk.linkedin.com/in/martinfitzp'),
-          ('Twitter', 'twitter', 'https://twitter.com/mfitzp'),
-          ],[
           ('Github', 'github', 'https://github.com/mfitzp'),
           ('StackOverflow', 'stack-exchange', 'http://stackoverflow.com/users/754456/mfitzp'),
           ],[
           ('ORCID', 'circle', 'http://orcid.org/0000-0002-0695-1988'),
           ('ResearchGate', 'list', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
+          ],[
+          ('Facebook', 'facebook', 'https://www.facebook.com/martinfitzp'),
+          ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/?rel=author'),
+          ('LinkedIn', 'linkedin', 'https://uk.linkedin.com/in/martinfitzp'),
+          ('Twitter', 'twitter', 'https://twitter.com/mfitzp'),
           ],[
           ('RSS', 'rss', '%s/%s' % (FEED_DOMAIN, FEED_ATOM) ),
           ],
