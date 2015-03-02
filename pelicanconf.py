@@ -61,7 +61,7 @@ LINKS =  (
 
 # Social widget
 SOCIAL = ([
-          ('Email', 'envelope-o', 'mailto:%' % AUTHOR_EMAIL),
+          ('Email', 'envelope-o', 'mailto:%s' % AUTHOR_EMAIL),
           ],[
           ('Facebook', 'facebook', 'https://www.facebook.com/martinfitzp'),
           ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/?rel=author'),
