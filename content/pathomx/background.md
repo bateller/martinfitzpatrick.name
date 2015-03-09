@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: The Great Pathomx Tool Challenge 2015
 Tags: pathomx,python,data,bioinformatcis,programming
 Github: pathomx/pathomx
+Status: draft
 
 It's been a whil
 
