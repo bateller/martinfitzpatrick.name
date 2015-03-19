@@ -1508,14 +1508,14 @@ body {
     #main .post, #main .page {
     display: inline;
     float: left;
-    width: 50%;
+    width: 86.83%;
     margin-left: 0%;
     margin-right: 0%}
 }@media only screen and (min-width: 86.375em) {
     #main .post, #main .page {
     display: inline;
     float: left;
-    width: 37.5%}
+    width: 50%}
 }#index {
     margin: 0 auto;
     width: 100%;
@@ -1530,14 +1530,14 @@ body {
     #index {
     display: inline;
     float: left;
-    width: 50%;
+    width: 86.83%;
     margin-left: 0%;
     margin-right: 0%}
 }@media only screen and (min-width: 86.375em) {
     #index {
     display: inline;
     float: left;
-    width: 37.5%}
+    width: 50%}
 }
 
 #index article p+p {
