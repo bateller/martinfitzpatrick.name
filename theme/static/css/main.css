@@ -1508,8 +1508,8 @@ body {
     #main .post, #main .page {
     display: inline;
     float: left;
-    width: 86.83%;
-    margin-left: 0%;
+    width: 83.33333%;
+    margin-left: 5%;
     margin-right: 0%}
 }@media only screen and (min-width: 86.375em) {
     #main .post, #main .page {
@@ -1530,8 +1530,8 @@ body {
     #index {
     display: inline;
     float: left;
-    width: 86.83%;
-    margin-left: 0%;
+    width: 83.33333%;
+    margin-left: 5%;
     margin-right: 0%}
 }@media only screen and (min-width: 86.375em) {
     #index {
