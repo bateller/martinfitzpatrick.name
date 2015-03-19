@@ -30,23 +30,23 @@ The front page of a wooey install presents a list of installed scripts:
 
 Each script has it's own UI form based on the config parameters defined in the ArgumentParser:
 
-![bar_config example script](/images/software/wooey/bar_config.png)
+[![bar_config example script](/images/software/wooey/bar_config.png)](/images/software/wooey/bar_config.png)
 
 Documentation can be specified either manually via the JSON, or my providing a
 [Markdown](http://en.wikipedia.org/wiki/Markdown)-format file alongside the script or config file.
 
-![plot_some_numbers script with docs](/images/software/wooey/plot_some_numbers_with_documentation.png)
+[![plot_some_numbers script with docs](/images/software/wooey/plot_some_numbers_with_documentation.png)](/images/software/wooey/plot_some_numbers_with_documentation.png)
 
 Logged-in users get a nice listing of their previous jobs:
 
-![User job listing](/images/software/wooey/user_job_list.png)
+[![User job listing](/images/software/wooey/user_job_list.png)](/images/software/wooey/user_job_list.png)
 
 The output from successful jobs is available via an inline viewer (images only presently, .csv support via Pandas to follow):
 
-![Job with success 1](/images/software/wooey/job_success_1.png)
-![Job with success 2](/images/software/wooey/job_success_2.png)
+[![Job with success 1](/images/software/wooey/job_success_1.png)](/images/software/wooey/job_success_1.png)
+[![Job with success 2](/images/software/wooey/job_success_2.png)](/images/software/wooey/job_success_2.png)
 
 Errors are output to the inline console:
 
-![Job with error console](/images/software/wooey/job_with_error.png)
+[![Job with error console](/images/software/wooey/job_with_error.png)](/images/software/wooey/job_with_error.png)
 
