@@ -26,7 +26,7 @@ so please feel free to critique & give pointers.
 
 The front page of a wooey install presents a list of installed scripts:
 
-![Welcome](/images/software/wooey/welcome_to_wooey.png)
+[![Welcome](/images/software/wooey/welcome_to_wooey.png)](/images/software/wooey/welcome_to_wooey.png)
 
 Each script has it's own UI form based on the config parameters defined in the ArgumentParser:
 
