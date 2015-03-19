@@ -1511,6 +1511,13 @@ body {
     width: 83.33333%;
     margin-left: 5%;
     margin-right: 0%}
+}@media only screen and (min-width: 62em) {
+    #main .post, #main .page {
+    display: inline;
+    float: left;
+    width: 60%;
+    margin-left: 0%;
+    margin-right: 0%}
 }@media only screen and (min-width: 86.375em) {
     #main .post, #main .page {
     display: inline;
@@ -1531,7 +1538,7 @@ body {
     display: inline;
     float: left;
     width: 83.33333%;
-    margin-left: 5%;
+    margin-left: 0%;
     margin-right: 0%}
 }@media only screen and (min-width: 86.375em) {
     #index {
@@ -1638,13 +1645,9 @@ body {
     border-radius: 10px;
 }
 @media only screen and (min-width: 37.5em) {
-    .article-author-side {
-    display: block;
-    display: inline;
-    float: left;
-    width: 16.66667%;
-    margin-left: 4.16667%;
-    margin-right: 4.16667%}
+.article-author-side {
+display: none;
+}
 .article-author-side h3, .article-author-side p, .article-author-side .author-social {
     display: block;
     max-width: 125px;
@@ -1662,7 +1665,15 @@ body {
 }@media only screen and (min-width: 62em) {
     .article-author-side h3, .article-author-side .bio-photo, .article-author-side p, .article-author-side .author-social {
     max-width: 150px;
-}
+    }
+    
+    .article-author-side {
+    display: inline;
+    float: left;
+    width: 16.66667%;
+    margin-left: 4.16667%;
+    margin-right: 4.16667%}
+
 }@media only screen and (min-width: 86.375em) {
     .article-author-side {
     display: inline;
