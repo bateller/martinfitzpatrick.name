@@ -6,8 +6,8 @@ Slug: pathomx-linux-developer-release
 Tags: pathomx,software,metabolomics,bioinformatics,python,qt,pyside
 Github: pathomx/pathomx
 
-A developer release of [Pathomx](pathomx) (Python3) is now available. This release can be installed
-by using the `./developer_release_linux_python3.sh` script from the cloned [Github repository](pathomx-github).
+A developer release of [Pathomx][pathomx] (Python3) is now available. This release can be installed
+by using the `./developer_release_linux_python3.sh` script from the cloned [Github repository][pathomx-github].
 This script installs all dependencies (via `apt-get` and `pip`) that are required for 
 Pathomx to run.
 
