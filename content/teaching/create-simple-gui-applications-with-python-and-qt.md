@@ -12,7 +12,7 @@ putting together some video tutorials for Python.  I thought I'd start with
 something I was sure I knew a fair bit about: writing GUI applications with 
 PyQt (+PySide). 
 
-![create-simple-gui-applications.jpeg](/images/software/metapath/nh-demo-start.png)
+![create-simple-gui-applications.jpeg](/images/create-simple-gui-applications.jpeg)
 
 It turned out to be a lot more work than I thought, but rewarding to get the
 finished product. Like most programming tutorials it is predominantly screencast
