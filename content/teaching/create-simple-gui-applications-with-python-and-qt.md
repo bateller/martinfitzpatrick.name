@@ -5,7 +5,6 @@ Title: Create simple GUI Applications with Python and Qt
 Slug: create-simple-gui-applications-with-python-and-qt
 Tags: teaching,python,pyqt,qt
 Status: published
-Link: https://www.udemy.com/create-simple-gui-applications-with-python-and-qt/?couponCode=BLOG2015
 
 So, for some unknown reason I recently thought it might be good to start 
 putting together some video tutorials for Python.  I thought I'd start with 
