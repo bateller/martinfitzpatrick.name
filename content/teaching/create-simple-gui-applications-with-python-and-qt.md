@@ -24,7 +24,7 @@ across the key points. For those interested in such things, the setup I used was
 
 For hosting the course I thought I'd try out Udemy. The list price is $35
 but if you're reading this [you can have it for free](https://www.udemy.com/create-simple-gui-applications-with-python-and-qt/?couponCode=BLOG2015). Simultaneously I'm
-hosting free previews of the lectures on YouTube to see how it all works out. I don't
+hosting a [free subset of the lectures on YouTube](https://www.youtube.com/playlist?list=PL7mapoMMlatoa2GFxoNNKU0CC9sBdsTuy) to see how that goes. I don't
 expect to get rich from this, but pennies in the pot doesn't hurt.
 
 The course is built around communicating the basics needed to get up and running, and then moves on to create a demo application — a tabbed web browser — in PyQt.
