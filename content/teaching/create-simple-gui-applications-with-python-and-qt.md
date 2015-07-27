@@ -1,4 +1,4 @@
-Date: 2011-06-01 09:00
+Date: 2015-07-27 19:00
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Create simple GUI Applications with Python and Qt
@@ -11,7 +11,7 @@ putting together some video tutorials for Python.  I thought I'd start with
 something I was sure I knew a fair bit about: writing GUI applications with 
 PyQt (+PySide). 
 
-![create-simple-gui-applications.jpeg](create-simple-gui-applications.jpeg)
+![create-simple-gui-applications.jpeg](/images/software/metapath/nh-demo-start.png)
 
 It turned out to be a lot more work than I thought, but rewarding to get the
 finished product. Like most programming tutorials it is predominantly screencast
