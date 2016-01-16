@@ -1,0 +1,45 @@
+ {% if article.type and article.type in ['publication', 'poster', 'presentation'] %}
+    <p class="byline"><strong>{% for author in article.authors %}{{ author }}{% if not loop.last %}, {% endif %}{% endfor %}</strong>. 
+    
+    {% if article.type == 'publication' %}Published in <a href="{{ article.link }}">{{ article.journal }}</a>{% endif %}
+    {% if article.type in ['presentation', 'poster'] %}Presented at <a href="{{ article.link }}">{{ article.venue }}</a>{% endif %}
+        on <time datetime="{{ article.date.isoformat() }}">{{ article.date|strftime("%B %d, %Y") }}</time>
+    {% if article.doi %}<a href="http://dx.doi.org/{{ article.doi }}">doi:{{ article.doi }}</a> {% endif %}
+    {% if article.pmid %}<a href="http://www.ncbi.nlm.nih.gov/pubmed/{{ article.pmid }}">pmid:{{ article.pmid }}</a> {% endif %}
+    {% if article.isbn %}isbn:{{ article.isbn }} {% endif %}</p>
+
+    <p>{{ article.content }}</p>
+
+ {% elif article.type in ['course'] %}
+ 
+    <p class="byline">
+    {% if article.subtitle %}{{ article.subtitle }} {% endif %} 
+    {% if article.publisher %}Available via {{ article.publisher }}. {% endif %}
+    
+    {% if article.rrp %}Reading this? Get a discount — RRP <span class="rrp">{{ article.rrp }}</span> {% endif %} 
+    {% if article.link %}<a href="{{ article.link }}" class="price">{% endif %}
+    {% if article.price %}<span class="price">Only {{ article.price }}</span> {% endif %}
+    {% if article.link %}</a>{% endif %}            
+    </p>
+ 
+  {% elif article.type in ['software', 'game'] %}    
+ 
+    <p class="byline">
+    {% if article.subtitle %}{{ article.subtitle }} {% endif %} 
+
+    {% if article.platform or article.license %}
+    Available
+        {% if article.platform %} on <strong>{{ article.platform }}</strong>{% endif %}
+        {% if article.license %} under a <strong>{{ article.license }}</strong>{% endif %}.
+    {% endif %}
+    
+    {% if article.link %}&bull; <a href="{{ article.link }}">Website</a>{% endif %}            
+    {% if article.github %}&bull; <a href="{{ article.github }}">Github</a>{% endif %}            
+    {% if article.pypi %}&bull; <a href="{{ article.pypi }}">PyPi</a>{% endif %}            
+    {% if article.documentation %}&bull; <a href="{{ article.documentation }}">Documentation</a>{% endif %}            
+    {% if article.download %}&bull; <a href="{{ article.download }}">Download</a>{% endif %}            
+   
+    </p>
+  {% endif %} 
+  
+  {% if article.pdf %}<p class="byline">This {{ article.type }} is <a href="{{ article.pdf }}">available for download as a PDF</a>.{% endif %}

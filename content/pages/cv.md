@@ -2,20 +2,34 @@ Title: CV
 Slug: cv
 
 Martin Fitzpatrick  
-℅ Centre for Translational Inflammation Research  
-Queen Elizabeth Hospital  
-University of Birmingham  
-Birmingham  
-United Kingdom  
-B15 2TT  
+℅ Biomolecular Mass Spectrometry and Proteomics Group  
+Utrecht University  
+Padualaan 8  
+3584 CH  
+Utrecht  
+The Netherlands  
 
 e: [M.A.Fitzpatrick@uu.nl](mailto:M.A.Fitzpatrick@uu.nl)  
-e: [mxf793@bham.ac.uk](mailto:mxf793@bham.ac.uk)  
 e: [martin.fitzpatrick@gmail.com](mailto:martin.fitzpatrick@gmail.com)  
 
-## Current Research Focus: The role of metabolism in inflammation and resolution.
 
- Using an in vitro macrophage model we have successfully determined characteristic metabolic profiles associated with differentiated macrophage subsets. By exposing these cells to different environmental stimuli, including hypoxia, variations in pH and metabolite concentrations, we hope to determine the extent to which inflammatory cells are influenced metabolically by their environment. This may have particular relevance in chronic inflammatory diseases where distinct local environments are constructed by the influx of immune cells. Analysis and interpretation of metabolomic data sets has been simplified through the development of a novel software package MetaPath that allows visualisations of metabolic changes within a pathway context. We have successfully applied this software in vivo looking at local metabolic changes in renal vasculitis.
+A self-taught programmer with over 25 years experience dating back to the days of the
+ZX Spectrum and [Sam Coupé](). After dabbling in IT, I took a 7 year detour into biology, 
+completing a Medical Science (BMedSc) degree, masters (MRes) and PhD in the metabolomics 
+of inflammatory diseases, where I found myself using code to solve analysis problems. 
+I had unexpectedly become a “bioinformatician”.
+
+I now work as a postdoctoral researcher in proteomics, using Python and other tools to 
+analyse large proteomic datasets and developing scientific software to simplify the 
+process of data analysis.
+
+I code happily in Python and with regret in R and MATLAB. I'm also familiar with a long 
+list of languages that I have learnt and then subsequently forgotten including C, PHP, Perl
+[Pascal](), Prolog, Spectrum/[Sam BASIC]() and z80 ASM.
+
+
+
+
 
 ## Publications
 

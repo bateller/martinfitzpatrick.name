@@ -31,7 +31,7 @@ SITE = {
 }
 
 
-PLUGIN_PATHS = ['/Users/mxf793/repos/pelican-plugins',]
+PLUGIN_PATHS = ['/Users/martin/repos/pelican-plugins',]
 PLUGINS = [
         'gravatar',
         'related_posts',
@@ -63,8 +63,12 @@ LINKS =  (
 SOCIAL = ([
           ('Email', 'envelope-o', 'mailto:%s' % AUTHOR_EMAIL),
           ],[
-          ('Github', 'github', 'https://github.com/mfitzp'),
+          ('Github', 'github-alt', 'https://github.com/mfitzp'),
           ('StackOverflow', 'stack-exchange', 'http://stackoverflow.com/users/754456/mfitzp'),
+          ],[
+          ('Udemy', 'graduation-cap', 'https://www.udemy.com/u/martinfitzpatrick4/'),
+          ('Codementor', 'code', 'https://www.codementor.io/mfitzp'),
+          ('hack.hands()', 'code', 'https://hackhands.com/mfitzp'),
           ],[
           ('ORCID', 'circle', 'http://orcid.org/0000-0002-0695-1988'),
           ('ResearchGate', 'list', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
@@ -199,6 +203,20 @@ PROJECTS = [
 },
 ]
 
+# Special categories to show with descriptions + priority
+SPECIAL_CATEGORIES = {
+'8bit': 'Retro and 8bit programming, and historical work. Including Sam Coupé, and Pascal code.',
+'publications': 'Academic publications, posters, abstracts and other materials.',
+'books': 'Books, e-books and other written materials.',
+'courses': 'Online courses, materials and guides for novice programmers.',
+'apps': 'Software applications and command line tools developed by myself. Unless I have taken temporary leave of my senses all of it will be under the GPLv3 license.',
+'libs': 'Software libraries developed by myself. Unless I have taken temporary leave of my senses all of it will be under the MIT/BSD license.',
+
+
+#'Talks': 'Conference talks and presentations.'
+#'pathomx': 'Updates, guides and videos relating to the Pathomx platform',
+'video': 'Instructional videos and guides.',
+}
 
 
 #=============

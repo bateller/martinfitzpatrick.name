@@ -23,25 +23,10 @@
 {% block content %}
   <article class="post">
     <div class="headline-wrap">
-      {% if article.link %}
-        <h1><a href="{{ article.link }}">{{ article.title }}</a></h1>
-      {% else %}
-        <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{ article.title|striptags }}">{{ article.title }}</a></h1>
-      {% endif %}
+    <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{ article.title|striptags }}">{{ article.title }}</a></h1>
     </div><!--/ .headline-wrap -->
-    {% if article.type and article.type in ['publication', 'poster', 'presentation'] %}
-        <p class="byline"><strong>{% for author in article.authors %}{{ author }}{% if not loop.last %}, {% endif %}{% endfor %}</strong>. 
-        {% if article.type == 'publication' %}Published in <a href="{{ article.link }}">{{ article.journal }}</a>{% endif %}
-        {% if article.type in ['presentation', 'poster'] %}Presented at <a href="{{ article.link }}">{{ article.venue }}</a>{% endif %}
-            on <time datetime="{{ article.date.isoformat() }}">{{ article.date|strftime("%B %d, %Y") }}</time>
-        
-        {% if article.doi %}<a href="http://dx.doi.org/{{ article.doi }}">doi:{{ article.doi }}</a> {% endif %}
-        {% if article.pmid %}<a href="http://www.ncbi.nlm.nih.gov/pubmed/{{ article.pmid }}">pmid:{{ article.pmid }}</a> {% endif %}
-        {% if article.pmcid %}<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ article.pmcid }}">pmcid:{{ article.pmcid }}</a> {% endif %}
-        {% if article.isbn %}isbn:{{ article.isbn }} {% endif %}</p>
-    {% endif %}    
-    
-    {% if article.pdf %}<p class="byline">This {{ article.type }} is <a href="{{ article.pdf }}">available for download as a PDF</a>.{% endif %}
+
+     {% include '_byline.html' %}
     
     <div class="article-wrap">
       {{ article.content }}
