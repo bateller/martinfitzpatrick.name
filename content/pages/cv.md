@@ -24,8 +24,8 @@ analyse large proteomic datasets and developing scientific software to simplify 
 process of data analysis.
 
 I code happily in Python and with regret in R and MATLAB. I'm also familiar with a long 
-list of languages that I have learnt and then subsequently forgotten including C, PHP, Perl
-[Pascal](), Prolog, Spectrum/[Sam BASIC]() and z80 ASM.
+list of languages that I have learnt and then subsequently forgotten including C, 
+[Pascal](), Perl, PHP, Prolog, Spectrum/[Sam BASIC]() and z80 ASM.
 
 
 

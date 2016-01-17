@@ -2034,4 +2034,36 @@ h3 small {
 article > h3 {
     margin-bottom: 0.625rem;
 }
-    
+ 
+img.center {
+    display: block;
+    margin: 1.625rem auto;
+}   
+
+img.smaller {
+    max-width: 200px;
+}
+
+
+img.small {
+    max-width: 300px;
+}
+
+img.medium {
+    max-width: 400px;
+}
+
+img.large {
+    max-width: 600px;
+}
+
+.image-container {
+    margin: 1.625rem auto;
+    text-align:center;
+    max-width:625px;
+    font-size: 0; /* Hide spacing */
+}
+
+.image-container img {
+    margin: 0.15625rem;
+}

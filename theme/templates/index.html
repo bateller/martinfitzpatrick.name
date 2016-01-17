@@ -27,11 +27,13 @@
         {% if article.type and article.type == 'course' %}<i class="fa fa-graduation-cap" title="Course"></i>{% endif %}
         {% if article.type and article.type == 'book' %}<i class="fa fa-book" title="Book"></i>{% endif %}
 
-        {% if article.type and article.type == 'software' %}<i class="fa fa-desktop" title="Software"></i>{% endif %}
+        {% if article.type and article.type == 'software' %}<i class="fa fa-floppy-o" title="Software"></i>{% endif %}
         {% if article.type and article.type == 'game' %}<i class="fa fa-gamepad" title="Game"></i>{% endif %}
 
         </a>
+        {% if article.download %}<a href="{{ article.download }}" target="_blank" title="{{ article.title|striptags }}"><i class="fa fa-download"></i></a>{% endif %}
         {% if article.link %}<a href="{{ article.link }}" target="_blank" title="{{ article.title|striptags }}"><i class="fa fa-external-link"></i></a>{% endif %}
+
         {% if not article.type or article.type and article.type not in ['course','software'] %}
             <small>{{ article.date.strftime('%d.%m.%Y') }}</small>
         {% endif %}

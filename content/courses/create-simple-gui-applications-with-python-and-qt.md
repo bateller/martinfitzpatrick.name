@@ -1,7 +1,7 @@
 Date: 2015-07-27 19:00
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
-Title: Create simple GUI Applications with Python and Qt
+Title: Create Simple GUI Applications with Python and Qt
 Subtitle: Learn how to build simple GUI applications with Python and Qt. Includes an example App: Build your own PyQt web browser!
 Slug: create-simple-gui-applications-with-python-and-qt
 Status: published
