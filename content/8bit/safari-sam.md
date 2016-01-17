@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Safari Sam
 Subtitle: One man's journey home, while shooting things.
 Slug: safari-sam
+Tags: samcoupe
 Status: published
 Type: game
 Image: /images/headers/safari-sam.png

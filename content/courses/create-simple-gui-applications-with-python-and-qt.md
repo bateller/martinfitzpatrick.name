@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Create Simple GUI Applications with Python and Qt
 Subtitle: Learn how to build simple GUI applications with Python and Qt. Includes an example App: Build your own PyQt web browser!
 Slug: create-simple-gui-applications-with-python-and-qt
+Tags: python,pyqt,qt,course
 Status: published
 Type: course
 Link: https://www.udemy.com/create-simple-gui-applications-with-python-and-qt/?couponCode=BLOG9

@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: QtIPy
 Subtitle: QtIPy — The data automator!
 Slug: qtipy
+Tags: python,software
 Status: published
 Type: software
 Image: /images/headers/qtipy.png

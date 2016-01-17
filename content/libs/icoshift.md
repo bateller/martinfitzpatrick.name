@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Icoshift
 Subtitle: Python implementation of the icoshift spectral alignment algorithm.
 Slug: icoshift
+Tags: python,metabolomics,nmr
 Status: published
 Type: software
 Image: /images/headers/icoshift.png
@@ -35,6 +36,3 @@ equivalence to the MATLAB algorithm to follow.
 
 But it works.
 
-## Thanks
-
-Thanks to [Francesco Savorani](www.models.life.ku.dk) and [Giorgio Tomasi](www.igm.life.ku.dk) for the original neat and well documented [algorithm](http://www.ncbi.nlm.nih.gov/pubmed/20004603).

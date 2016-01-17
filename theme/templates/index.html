@@ -20,19 +20,19 @@
         {% endif %}
         <h3><a href="{{ SITEURL }}/{{ article.url }}" title="{{ article.title|striptags }}">{{ article.title }}</a> 
 
-        {% if article.type and article.type == 'publication' %}<i class="fa fa-file-text-o" title="Publication"></i>{% endif %}
-        {% if article.type and article.type == 'presentation' %}<i class="fa fa-users" title="Presentation"></i>{% endif %}
-        {% if article.type and article.type == 'poster' %}<i class="fa fa-file-image-o" title="Poster"></i>{% endif %}
+        {% if article.type and article.type == 'publication' %}<i class="fa fa-file-text-o" title="Publication"></i> {% endif %}
+        {% if article.type and article.type == 'presentation' %}<i class="fa fa-users" title="Presentation"></i> {% endif %}
+        {% if article.type and article.type == 'poster' %}<i class="fa fa-file-image-o" title="Poster"></i> {% endif %}
 
-        {% if article.type and article.type == 'course' %}<i class="fa fa-graduation-cap" title="Course"></i>{% endif %}
-        {% if article.type and article.type == 'book' %}<i class="fa fa-book" title="Book"></i>{% endif %}
+        {% if article.type and article.type == 'course' %}<i class="fa fa-graduation-cap" title="Course"></i> {% endif %}
+        {% if article.type and article.type == 'book' %}<i class="fa fa-book" title="Book"></i> {% endif %}
 
-        {% if article.type and article.type == 'software' %}<i class="fa fa-floppy-o" title="Software"></i>{% endif %}
-        {% if article.type and article.type == 'game' %}<i class="fa fa-gamepad" title="Game"></i>{% endif %}
+        {% if article.type and article.type == 'software' %}<i class="fa fa-floppy-o" title="Software"></i> {% endif %}
+        {% if article.type and article.type == 'game' %}<i class="fa fa-gamepad" title="Game"></i> {% endif %}
 
         </a>
-        {% if article.download %}<a href="{{ article.download }}" target="_blank" title="{{ article.title|striptags }}"><i class="fa fa-download"></i></a>{% endif %}
-        {% if article.link %}<a href="{{ article.link }}" target="_blank" title="{{ article.title|striptags }}"><i class="fa fa-external-link"></i></a>{% endif %}
+        {% if article.download %}<a href="{{ article.download }}" target="_blank" title="{{ article.title|striptags }}"><i class="fa fa-download"></i></a> {% endif %}
+        {% if article.link %}<a href="{{ article.link }}" target="_blank" title="{{ article.title|striptags }}"><i class="fa fa-external-link"></i></a> {% endif %}
 
         {% if not article.type or article.type and article.type not in ['course','software'] %}
             <small>{{ article.date.strftime('%d.%m.%Y') }}</small>

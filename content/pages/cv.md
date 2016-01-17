@@ -14,7 +14,7 @@ e: [martin.fitzpatrick@gmail.com](mailto:martin.fitzpatrick@gmail.com)
 
 
 A self-taught programmer with over 25 years experience dating back to the days of the
-ZX Spectrum and [Sam Coupé](). After dabbling in IT, I took a 7 year detour into biology, 
+ZX Spectrum and [Sam Coupé](/tag/samcoupe). After dabbling in IT, I took a 7 year detour into biology, 
 completing a Medical Science (BMedSc) degree, masters (MRes) and PhD in the metabolomics 
 of inflammatory diseases, where I found myself using code to solve analysis problems. 
 I had unexpectedly become a “bioinformatician”.
@@ -23,13 +23,9 @@ I now work as a postdoctoral researcher in proteomics, using Python and other to
 analyse large proteomic datasets and developing scientific software to simplify the 
 process of data analysis.
 
-I code happily in Python and with regret in R and MATLAB. I'm also familiar with a long 
-list of languages that I have learnt and then subsequently forgotten including C, 
-[Pascal](), Perl, PHP, Prolog, Spectrum/[Sam BASIC]() and z80 ASM.
-
-
-
-
+I code happily in [Python](/tag/python) and with regret in R and MATLAB. I'm also familiar with a long 
+list of languages that I have learnt along the way including C, 
+[Pascal](/tag/pascal), Perl, PHP, Prolog, Spectrum/[Sam BASIC](/tag/samcoupe) and z80 ASM.
 
 ## Publications
 
