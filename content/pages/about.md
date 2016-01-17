@@ -3,9 +3,7 @@ Slug: about
 
 I am a postdoctoral researcher in proteomics, using Python and other tools to 
 analyse large proteomic datasets and developing scientific software to simplify the 
-process of data analysis.
-
-A self-taught programmer with over 25 years experience dating back to the days of the
+process of data analysis. A self-taught programmer with over 25 years experience dating back to the days of the
 ZX Spectrum and [Sam Coupé](/tag/samcoupe). I code most happily in [Python](/tag/python) but am also 
 familiar with C, MATLAB, [Pascal](/tag/pascal), Perl, PHP, Prolog, R,
 Spectrum/[Sam BASIC](/tag/samcoupe) and z80 ASM.
