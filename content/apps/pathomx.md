@@ -4,6 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Pathomx
 Subtitle: Speed up your analysis with interactive data workflows built on Python.
 Slug: pathomx
+Tags: python,software,pathomx
 Status: published
 Type: software
 Image: /images/headers/pathomx.png
