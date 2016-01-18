@@ -240,7 +240,8 @@ available in subsequent calculations.
 
     mhi.display()
     
-.. image:: /images/code/metabohunter-widgets.png    
+.. image:: /images/code/metabohunter-widgets.png
+   :alt: Metabohunter IPython notebook interface
 
 .. code:: python
 

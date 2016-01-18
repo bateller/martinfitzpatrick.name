@@ -1,5 +1,5 @@
 {% extends 'base.html' %}
-{% block title %}{{ page.title }} &#8211; {% endblock %}
+{% block title %}{{ page.title|striptags }} &#8211; {% endblock %}
 
 {% block feature_image %}
  {% if page.picture %}

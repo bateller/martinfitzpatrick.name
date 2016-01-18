@@ -1,5 +1,5 @@
 {% extends 'base.html' %}
-{% block title %}{{ article.title }} &#8211; {% endblock title %}
+{% block title %}{{ article.title|striptags }} &#8211; {% endblock title %}
 {% block summary %}{{ article.summary }}{% endblock summary %}
 {% block keywords %}{{ article.tags.join(', ') }}{% endblock keywords %}
 
