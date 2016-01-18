@@ -10,7 +10,7 @@
     {% if 'http' in article.picture %}
       "{{ article.picture }}"
     {% else %}
-      "{{ SITEURL }}/{{ article.picture }}"
+      "{{ STATICURL }}/{{ article.picture }}"
     {% endif %}
   alt="{{ article.title|striptags }} feature image">
   {% if article.picture_credit %}
