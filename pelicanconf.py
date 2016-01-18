@@ -145,63 +145,6 @@ Birmingham<br /> \
 United Kingdom<br /> \
 B15 2TT<br />"
 
-PROJECTS = [
-{
-    'title': 'Accuri2FCS',
-    'description': 'Convert Accuri .c6 files to .fcs standard',
-    'url': 'https://github.com/mfitzp/accuri2fcs',
-},
-{
-    'title': 'BioCyc',
-    'description': 'Python interface to the BioCyc Web API',
-    'url': 'http://github.com/mfitzp/BioCyc',
-},
-{
-    'title': 'GPML2SVG',
-    'description': 'A command-line/Python GPML to SVG pathway renderer',
-    'url': 'http://github.com/mfitzp/gpml2svg',
-},
-{
-    'title': 'Icoshift (Python)',
-    'description': 'A Python implmentation of the Icoshift algorithm',
-    'url': 'https://github.com/mfitzp/icoshift',
-},
-{
-    'title': 'mplstyler',
-    'description': 'An API for assigning consistent marker styles to Matplotlib plots.',
-    'url': 'https://github.com/mfitzp/mplstyler',
-},
-{
-    'title': 'The Open Lab Book',
-    'description': 'Freely available lab protocols under a CC license',
-    'url': 'http://theolb.readthedocs.org',
-},
-{
-    'title': 'MetaboHunter',
-    'description': 'A Python interface to the MetaboHunter 1D NMR metabolite identification service',
-    'url': 'http://github.com/mfitzp/metabohunter',
-},
-{
-    'title': 'Pathminer',
-    'description': 'Algorithmically score and select pathways/reactions from compound, protein or gene data',
-    'url': 'https://github.com/mfitzp/pathminer',
-},
-{
-    'title': 'Pathomx',
-    'description': 'Workflow-based metabolomic analysis tool',
-    'url': 'http://pathomx.org',
-},
-{
-    'title': 'PyQtConfig',
-    'description': 'A PyQt config manager. Keep Qt widgets in sync with a config dictionary and/or QSettings object. ',
-    'url': 'https://github.com/mfitzp/pyqtconfig',
-},
-{
-    'title': 'QtIPy',
-    'description': 'IPython Notebook automator',
-    'url': 'http://github.com/mfitzp/qtipy',
-},
-]
 
 # Special categories to show with descriptions + priority
 SPECIAL_CATEGORIES = {
@@ -211,12 +154,12 @@ SPECIAL_CATEGORIES = {
 'courses': 'Online courses, materials and guides for novice programmers.',
 'apps': 'Software applications and command line tools developed by myself. Unless I have taken temporary leave of my senses all of it will be under the GPLv3 license.',
 'libs': 'Software libraries developed by myself. Unless I have taken temporary leave of my senses all of it will be under the MIT/BSD license.',
-
-
 #'Talks': 'Conference talks and presentations.'
 #'pathomx': 'Updates, guides and videos relating to the Pathomx platform',
 'video': 'Instructional videos and guides.',
 }
+
+SPECIAL = ['8bit','publications','books','courses','apps','libs','video']
 
 
 #=============

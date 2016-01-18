@@ -14,14 +14,14 @@
                 {% endfor %}
                 {% endif %}
                 {% for cat, null in categories %}
-                {% if cat in SPECIAL_CATEGORIES %}<li class="{% if cat == category %} active{% endif %}"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }} <span class="hilite">({{ null|length }})</span></a></li>{% endif %}
+                {% if cat|striptags in SPECIAL_CATEGORIES %}<li class="{% if category and category == cat or article and article.category ==cat %} active{% endif %}"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }} <span class="hilite">({{ null|length }})</span></a></li>{% endif %}
                 {% endfor %}
             </ul>
 
             {% if DISPLAY_CATEGORIES_ON_MENU %}
             <ul>
                 {% for cat, null in categories %}
-                {% if cat not in SPECIAL_CATEGORIES %}<li class="{% if cat == category %} active{% endif %}"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }} <span class="hilite">({{ null|length }})</span></a></li>{% endif %}
+                {% if cat|striptags not in SPECIAL_CATEGORIES %}<li class="{% if category and category == cat or article and article.category ==cat %} active{% endif %}"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }} <span class="hilite">({{ null|length }})</span></a></li>{% endif %}
                 {% endfor %}
             </ul>
             {% endif %}

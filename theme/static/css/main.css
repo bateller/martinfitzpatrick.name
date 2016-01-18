@@ -2061,3 +2061,7 @@ img.large {
 .image-container img {
     margin: 0.15625rem;
 }
+
+#site-nav li.active a {
+    color: #da553b;
+}
