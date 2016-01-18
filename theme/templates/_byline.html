@@ -34,8 +34,8 @@
     {% endif %}
     
     {% if article.link %}&bull; <a href="{{ article.link }}">Website</a>{% endif %}            
-    {% if article.github %}&bull; <a href="{{ article.github }}">Github</a>{% endif %}            
-    {% if article.pypi %}&bull; <a href="{{ article.pypi }}">PyPi</a>{% endif %}            
+    {% if article.github %}&bull; <a href="https://github.com/{{ article.github }}">Github</a>{% endif %}            
+    {% if article.pypi %}&bull; <a href="https://pypi.python.org/pypi/{{ article.pypi }}">PyPi</a>{% endif %}            
     {% if article.documentation %}&bull; <a href="{{ article.documentation }}">Documentation</a>{% endif %}            
     {% if article.download %}&bull; <a href="{{ article.download }}">Download</a>{% endif %}            
    

@@ -1,13 +1,23 @@
 Date: 2014-11-21 08:17
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
-Title: PyQtConfig: A simple API for keeping your PyQt Widgets and config in sync
+Title: PyQtConfig
+Subtitle: A simple API for keeping your PyQt Widgets and config in sync
+Slug: pyqtconfig
 Tags: pyqtconfig,qt,python,software,programming
+Status: published
+Type: software
+Image: /images/software/pyqtconfig/demo-1.png
+License: BSD v2 License
 Github: mfitzp/pyqtconfig
+PyPi: pyqtconfig
 
-Introducing PyQtConfig: a simple API for handling, persisting and synchronising configuration 
+
+PyQtConfig: a simple API for handling, persisting and synchronising configuration 
 within PyQt applications. This module was built initially as part of the [Pathomx](http://pathomx.org)
 data analysis platform but spun out into a standalone module when it became clear it was quite useful.
+
+<!-- PELICAN_END_SUMMARY -->
 
 This post gives a brief overview of the API features and use. It is still in development
 so suggestions, comments, [bug reports and pull-requests](https://github.com/mfitzp/pyqtconfig) are very welcome.

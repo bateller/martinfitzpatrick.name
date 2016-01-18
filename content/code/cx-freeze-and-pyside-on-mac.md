@@ -4,7 +4,6 @@ Email: martin.fitzpatrick@gmail.com
 Title: cx_Freeze and PySide on Mac
 Slug: cx-freeze-and-pyside-on-mac
 Tags: python,mac,py2app,cx_freeze
-Ads: top,bottom
 
 I'd had success using py2app for building Mac binaries for distribution but wanted to give cx_Freeze a go since it's cross platform - allowing builds for Windows, Linux, and more. Unfortunately, attempting to build using cx_Freeze was resulting in errors:
 

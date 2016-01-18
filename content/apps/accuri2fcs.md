@@ -7,14 +7,13 @@ Slug: accuri2fcs
 Tags: flow cytometry,fcs,accuri,c6
 Status: published
 Type: software
-Image: /images/headers/pathomx.png
+Image: /images/headers/accuri2fcs.png
 License: Modified BSD 2 clause
-Github: https://github.com/mfitzp/accuri2fcs
-PyPi: https://pypi.python.org/pypi/accuri2fcs/
+Github: mfitzp/accuri2fcs
+PyPi: accuri2fcs
 
 A command line program for the conversion of Accuri `.c6` flow cytometry data files to the standard `.fcs` format, 
 has been released today via [github][accuri2fcs-github] and [PyPi][accuri2fcs-pypi].
-
 
 <!-- PELICAN_END_SUMMARY -->
 

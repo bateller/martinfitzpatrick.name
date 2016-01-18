@@ -21,3 +21,21 @@
     <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}">
 {% endif %}
 <meta property="og:site_name" content="{{ SITENAME }}">
+
+{% if SOCIAL %}
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Person",
+  "name" : "Martin Fitzpatrick",
+  "url" : "https://martinfitzpatrick.name",
+  "sameAs" : [
+   {% for group in SOCIAL %}
+     {% for name, icon, url in group %}
+        "{{ url }}",
+     {% endfor %}
+   {% endfor %}
+ ]
+}
+</script> 
+{% endif %}  

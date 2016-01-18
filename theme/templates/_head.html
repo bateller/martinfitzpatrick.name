@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-<title>{% block title %}{% endblock %}{{ SITENAME }}</title>
+<title>{% block title %}{% endblock title %}{{ SITENAME }}</title>
 <meta name="description" content="{% block summary %}{% endblock %}">
 <meta name="keywords" content="{% block keywords %}{% endblock %}">
 
@@ -20,7 +20,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css">
+<link rel="stylesheet" href="{{ STATICURL }}/theme/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
 
@@ -30,10 +30,8 @@
 	<script src="{{ SITEURL }}/theme/js/vendor/respond.min.js"></script>
 <![endif]-->
 
-<!-- Modernizr -->
-<script src="{{ STATICURL }}/theme/js/vendor/modernizr-2.7.1.custom.min.js"></script>
-
 <link href='//fonts.googleapis.com/css?family=Raleway:400,700,400italic' rel='stylesheet' type='text/css'>
+<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type='text/css'>
 
 <!-- Icons -->
 <!-- 16x16 -->
@@ -73,4 +71,3 @@
 {% if TAG_FEED_RSS and tag %}
 <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
 {% endif %}
-

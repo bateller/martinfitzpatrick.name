@@ -12,7 +12,7 @@
 {% include '_browser-upgrade.html' %}
 
 {% include '_navigation.html' %}
-{% block feature_image %}{% endblock %}
+{% block feature_image %}{% endblock feature_image %}
 
 {% block ad_top %}
 {% if (page and 'top' in page.ads) or (article and 'top' in article.ads) %}
@@ -29,13 +29,13 @@
 </div>
 {% endif %}
 
-{% endblock %}
+{% endblock ad_top %}
 
 <div id="main" role="main">
   <div class="article-author-side">
     {% include '_author-bio.html' %}
   </div>
-{% block content %}{% endblock %}
+{% block content %}{% endblock content %}
 </div><!-- /#main -->
 
 {% block ad_bottom %}
@@ -52,7 +52,7 @@
 </script>
 </div>
 {% endif %}
-{% endblock %}
+{% endblock ad_bottom %}
 
 
 {% block pagination %}{% endblock %}
@@ -64,7 +64,7 @@
 
 
 {% include '_scripts.html' %}
-{% block disqus %}{% endblock %}
-{% block github %}{% endblock %}
+{% block disqus %}{% endblock disqus %}
+{% block github %}{% endblock github %}
 </body>
 </html>

@@ -1,15 +1,21 @@
-BioCyc Web API for Python
-=========================
+BioCyc (API)
+============
 
+:subtitle: Python interface to the BioCyc Web API
 :date: 2014-5-24 18:40
 :modified: 2014-5-24 18:40
 :tags: code,python,biocyc,metacyc,metabolomics,omics,bioinformatics
-:category: code
-:slug: biocyc-web-api-for-python
+:category: libs
+:slug: biocyc
 :authors: Martin Fitzpatrick
+:type: Software
+:license: BSD v2 License
 :github: mfitzp/biocyc
+:pypi: biocyc
+:image: /images/headers/biocyc.png
 
-Today I've released Python module `BioCyc <https://pypi.python.org/pypi/biocy/0.0.1>`__ that provides an interface to the `BioCyc <http://biocyc.org>`__ Web API.
+
+`BioCyc <https://pypi.python.org/pypi/biocy/0.0.1>`__ is a Python interface to the `BioCyc <http://biocyc.org>`__ Web API.
 Acting as a wrapper it queries the database and then presents the XML returned in a
 pythonic object-based interface. Support for IPython views is included offering nice
 summary tables of object attributes.

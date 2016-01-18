@@ -10,8 +10,8 @@ Type: software
 Image: /images/headers/pathomx.png
 License: GNU General Public License v3
 Link: http://pathomx.org
-Github: https://github.com/pathomx/pathomx/
-PyPi: https://pypi.python.org/pypi/Pathomx/
+Github: pathomx/pathomx/
+PyPi: Pathomx
 Documentation: http://docs.pathomx.org/
 Download: http://docs.pathomx.org/en/latest/install.html
 
