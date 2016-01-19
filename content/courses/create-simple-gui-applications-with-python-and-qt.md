@@ -11,7 +11,7 @@ Link: https://www.udemy.com/create-simple-gui-applications-with-python-and-qt/?c
 Price: $9
 RRP: $35
 Publisher: Udemy
-Image: /images/headers/create-simple-gui-applications-with-python-and-qt.png
+Image: /images/courses/create-simple-gui-applications.jpeg
 
 
 If you want to learn to build GUI applications with Python the learning curve is pretty steep.
