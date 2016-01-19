@@ -50,7 +50,7 @@
         {% include '_byline.html' %}
 
         {% if not article.type or article.type not in ['publication', 'poster', 'presentation', 'course'] %}
-            <p>{{ article.summary|striptags }}</p>
+            <p>{{ article.summary|striptags }} <a href="{{ SITEURL }}/{{ article.url }}" title="{{ article.title|striptags }}">More...</a></p>
         {% endif %}
         
     </article>
