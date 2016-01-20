@@ -3,16 +3,32 @@ Slug: list-of-email-to-sms-gateways
 Status: hidden
 Ads: top,bottom
 
-This content was previously available on WikiPedia but deleted as *not really encylopaedia-worthy*. Since [this article of mine](http://martinfitzpatrick.name/article/using-email-to-sms-gateways-to-send-free-sms) was originally a major source for the data in the page, I thought I'd copy it here for posterity.
+This is a list of carriers providing access [Short Message Service](http://en.wikipedia.org/wiki/Short_Message_Service)
+(SMS) transit via [SMS gateways](http://en.wikipedia.org/wiki/SMS_gateway), allowing you
+o send SMS to a mobile phone via email.
 
-**Important!** I can't provide support for any of the information provided below.
+The list provides email addresses to send an email and have it arrive 
+as a [text message](http://en.wikipedia.org/wiki/Text_messaging) on someone's phone. 
+The number must contain no punctuation. For instance, to send to a number typically
+expressed as 987-555-0100, one would email 9875550100@<i>SMS-gateway</i>.
 
-# List
+Some carriers have multiple gateways. The SMS gateway refers to plain text messages only.
+MMS refers to [Multimedia Messaging Services](http://en.wikipedia.org/wiki/Multimedia_Messaging_Service)
+which are generally capable of carrying messages which include text, pictures and audio.
 
-<p>This is a list of carriers providing <a href="http://en.wikipedia.org/wiki/Short_Message_Service" title="Short Message Service">Short Message Service</a> (SMS) transit via <a href="http://en.wikipedia.org/wiki/SMS_gateway" title="SMS gateway">SMS gateways</a>.</p>
-<p>This list explains which email address to use if one wants to send an email and have it arrive as a <a href="http://en.wikipedia.org/wiki/Text_messaging" title="Text messaging">text message</a> on someone's phone. The number must contain no punctuation. For instance, to send to a number typically expressed in the <a href="http://en.wikipedia.org/wiki/United_States" title="United States">United States</a> as 987-555-0100, one would email 9875550100@<i>SMS-gateway</i>.</p>
-<p>Some carriers have multiple gateways. The SMS gateway refers to Short Message Services which are capable of transmitting plain text messages only. MMS refers to "<a href="http://en.wikipedia.org/wiki/Multimedia_Messaging_Service" title="Multimedia Messaging Service">Multimedia Messaging Services</a>" which are generally capable of carrying messages which include text, pictures and audio.</p>
-<div class="dablink plainlinks">This is an <a href="http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete list</a>, which may never be able to satisfy particular standards for completeness. You can help by <a class="external text" href="http://en.wikipedia.org/w/index.php?title=List_of_SMS_gateways&amp;action=edit">expanding it</a> with <a href="http://en.wikipedia.org/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliably sourced</a> entries.</div>
+This content was previously available on WikiPedia but deleted as *not really encylopaedia-worthy*. Since
+an article of mine was a major source, I copied it back here for posterity.
+
+I will make periodic updates and corrections. If you have something to add 
+[contact me](mailto:martinfitzpatrick@gmail.com).
+
+** Important! ** This list is responsible for >90% of the traffic to this site, and takes
+time to keep up to date. If you find it useful please consider donating — 
+[Paypal](https://www.paypal.me/mfitzp/5) | 
+[ChangeTip](http://mfitzp.tip.me) — **thanks!**
+
+
+
 <table class="wikitable sortable" style="font-size: 90%; text-align: center;">
 <tbody><tr>
 <th rowspan="2">Carrier</th>
