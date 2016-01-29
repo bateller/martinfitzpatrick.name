@@ -10,7 +10,7 @@
 
     <p>{{ article.content }}</p>
 
- {% elif article.type in ['course'] %}
+ {% elif article.type in ['course', 'book'] %}
  
     <p class="byline">
     {% if article.subtitle %}{{ article.subtitle }} {% endif %} 
