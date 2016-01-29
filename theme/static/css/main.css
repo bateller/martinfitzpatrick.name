@@ -2002,7 +2002,7 @@ h3 small {
 }
 
 .article-image {
-    width: 100%;    
+    max-width: 100%;    
 }
 
 @media only screen and (min-width: 37.5em) {
