@@ -26,6 +26,6 @@ This is my first ebook, and first time publishing on the Leanpub platform - whic
 *in progress* publishing. The book will continue to be extended with more material as the course expands, 
 and these updates will remain free to everyone who has previously bought the book.
 
-A web version of the book is [available to read online for free](https://leanpub.com/create-simple-gui-applications/read).
+A web version of the book is [available to read online for free](https://leanpub.com/create-simple-gui-applications).
 
 Hope you find the book useful, and let me know what you think!
