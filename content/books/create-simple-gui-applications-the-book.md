@@ -12,6 +12,7 @@ Price: $4.99 (FREE online)
 Publisher: Leanpub
 Image: /images/books/create-simple-gui-applications.jpeg
 
+[![Buy the book](/images/books/create-simple-gui-applications.jpeg)](https://leanpub.com/create-simple-gui-applications)
 
 *Create Simple GUI Applications* will show you how to use Python and Qt to do just that.
 
