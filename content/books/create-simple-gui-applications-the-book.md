@@ -8,24 +8,22 @@ Tags: python,pyqt,qt,course
 Status: published
 Type: book
 Link: https://leanpub.com/create-simple-gui-applications
-Price: 99¢-$4.99 
+Price: $4.99 (FREE online)
 Publisher: Leanpub
 Image: /images/books/create-simple-gui-applications.jpeg
 
 
-Create Simple GUI Applications will show you how to use Python and Qt to do just that!
+*Create Simple GUI Applications* will show you how to use Python and Qt to do just that.
 
-If you want to learn how to write GUI applications it can be pretty tricky to get started. 
-There are a lot of new concepts you need to understand to get *anything* to work. A lot of 
-tutorials offer nothing but screencasts, or short code snippets without any explanation of 
-the underlying systems and how they work together. But, like any code, writing GUI
-applications requires you to learn to think about the problem in the right way.
+This new ebook was written to accompany [the video tutorial course on Udemy](http://martinfitzpatrick.name/article/create-simple-gui-applications-with-python-and-qt/).
+and adds background and detail to the lectures, with more examples and reference documentation.
+It gives you the important basics that you need to get quickly start building functional 
+applications with the PyQt framework. 
 
-In this book I will give you the real useful basics that you need to get building functional 
-applications with the PyQt framework.  I’ll include explanations, diagrams, walkthroughs and 
-code to make sure you know what you’re doing every step of the way. 
+This is my first ebook, and first time publishing on the Leanpub platform - which is designed for
+*in progress* publishing. The book will continue to be extended with more material, which will
+be available free to everyone who has previously bought the book.
 
-In no time at all you will have a fully functional Qt application - ready to customise as 
-you like.
+A web version of the book is [available to read online for free](https://leanpub.com/create-simple-gui-applications/read).
 
-So, lets get started!
+Hope you find the book useful, and let me know what you think!
