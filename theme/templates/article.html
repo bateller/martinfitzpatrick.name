@@ -23,7 +23,13 @@
 {% block content %}
   <article class="post">
     <div class="headline-wrap">
-    <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{ article.title|striptags }}">{{ article.title }}</a></h1>
+    <h1>
+        {% if article.link %}
+            <a href="{{ article.link }}" rel="bookmark" title="{{ article.title|striptags }}">{{ article.title }}</a>
+        {% else %}
+            <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{ article.title|striptags }}">{{ article.title }}</a>
+        {% endif %}
+    </h1>
     </div><!--/ .headline-wrap -->
 
      {% include '_byline.html' %}
