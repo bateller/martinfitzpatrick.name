@@ -15,14 +15,15 @@ Image: /images/books/create-simple-gui-applications.jpeg
 
 *Create Simple GUI Applications* will show you how to use Python and Qt to do just that.
 
-This new ebook was written to accompany [the video tutorial course on Udemy](http://martinfitzpatrick.name/article/create-simple-gui-applications-with-python-and-qt/).
-and adds background and detail to the lectures, with more examples and reference documentation.
-It gives you the important basics that you need to get quickly start building functional 
-applications with the PyQt framework. 
+This ebook was written to accompany [the video tutorial course on Udemy](http://martinfitzpatrick.name/article/create-simple-gui-applications-with-python-and-qt/),
+adding background and detail to the lectures, with more examples and reference documentation. However, it stands perfectly well alone 
+as a solid introduction to programming Python GUI applications using the PyQt framework.
+The first chapter covers all that you need to quickly start building functional 
+applications.
 
 This is my first ebook, and first time publishing on the Leanpub platform - which is designed for
-*in progress* publishing. The book will continue to be extended with more material, which will
-be available free to everyone who has previously bought the book.
+*in progress* publishing. The book will continue to be extended with more material as the course expands, 
+and these updates will remain free to everyone who has previously bought the book.
 
 A web version of the book is [available to read online for free](https://leanpub.com/create-simple-gui-applications/read).
 
