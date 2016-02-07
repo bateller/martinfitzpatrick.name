@@ -12,7 +12,7 @@ Born in [Leeds](https://www.google.co.uk/maps/preview/place/Leeds,+West+Yorkshir
 I'm now living in [Utrecht](https://www.google.co.uk/maps/preview/place/Utrecht,+Utrecht,+Netherlands/) in the Netherlands, working in
 the [Heck Lab](http://hecklab.com/) at [Universiteit Utrecht](http://www.uu.nl). Ik spreek een beetje Nederlands.
 
-I enjoy playing squash poorly and eating and drinking well. I also like a good hike, but don't do it as often enough.
+I enjoy playing squash poorly and eating and drinking well. I also like a good hike, but don't do it often enough.
 I walked the [West Highland Way](http://en.wikipedia.org/wiki/West_Highland_Way) in 1998 and 2013 — it didn't get easier with age.
 
 On this site you'll find all sorts of code, software, tutorials and articles. Some interesting

@@ -25,6 +25,8 @@ The following files are available for Safari Sam —
 - [Extracted files in .ZIP format](http://download.martinfitzpatrick.name/samcoupe/safari-sam-files.dsk)
 - [Converted files including images + BASIC text](http://download.martinfitzpatrick.name/samcoupe/safari-sam-converted.dsk)
 
+If you don't have an actual Sam Coupé you can download [Sim Coupé](http://www.simcoupe.org/).
+
 ![Disk Image](/images/8bit/safari-sam/safari-sam-disk.jpg){: .center .small }
 
 ## Story
