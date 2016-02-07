@@ -24,4 +24,4 @@ building PyQt applications as quickly as possible. I include explanations, diagr
 walk-throughs and code to make sure you know what you're doing every step of the way.
 
 By the end of the first 8 minute lesson you will have a running Qt application - ready to 
-customise as you like. 
+customise as you like.  
