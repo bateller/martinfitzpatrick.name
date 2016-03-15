@@ -66,7 +66,7 @@ MetaboHunter service and a ``IPyMetaboHunter`` which provides nice
 widgets for IPython Notebooks and a synchronized config dictionary that
 can be passed to requests.
 
-.. code:: python
+.. code-block:: python
 
     import metabohunter as mh
     import numpy as np
@@ -82,12 +82,12 @@ spectra) and peak heights (y axis). Here we create some dummy data using
 an 50-element axis of 0-10 in 0.2 increments, together with a 50-element
 series of peak heights generated randomly.
 
-.. code:: python
+.. code-block:: python
 
     ppms = np.arange(0,10,0.2)
     peaks = np.random.random(50)*10
     
-.. code:: python
+.. code-block:: python
 
     ppms
 
@@ -103,7 +103,7 @@ series of peak heights generated randomly.
 
 
 
-.. code:: python
+.. code-block:: python
 
     peaks
 
@@ -132,7 +132,7 @@ array. Mapped metabolites are represented by their `Human Metabolome
 Database (HMDB) <http://hmdb.ca>`__ identifier whereas unmapped peaks
 are represented by ``None``.
 
-.. code:: python
+.. code-block:: python
 
     hmdbs = mh.request(ppms,peaks)
     hmdbs
@@ -197,7 +197,7 @@ are represented by ``None``.
 To throw away the None's and get the ppm values for the mapped
 metabolites you can do something like:
 
-.. code:: python
+.. code-block:: python
 
     [(ppm, hmdb) for ppm, hmdb in zip(ppms, hmdbs) if hmdb is not None]
 
@@ -226,7 +226,7 @@ widgets to control settings. The class is initialised with the default
 settings for the request, however you can pass additional variables (any
 of the keyword arguments allowed for ``request``).
 
-.. code:: python
+.. code-block:: python
 
     mhi = mh.IPyMetaboHunter(confidence=0.1, tolerance=0.5)
 
@@ -236,14 +236,14 @@ widgets in the current cell. Any changes to the variables are stored
 back into the ``IPyMetaboHunter`` class object (here ``mhi``) and
 available in subsequent calculations.
 
-.. code:: python
+.. code-block:: python
 
     mhi.display()
     
 .. image:: /images/code/metabohunter-widgets.png
    :alt: Metabohunter IPython notebook interface
 
-.. code:: python
+.. code-block:: python
 
     mhi.settings
 
@@ -269,7 +269,7 @@ function as keyword arguments we just need to unfurl it into the
 function call using ``**``. Try adjusting the parameters above and
 seeing how they affect the results when re-running the request.
 
-.. code:: python
+.. code-block:: python
 
     mh.request(ppms,peaks,**mhi.kwargs)
 

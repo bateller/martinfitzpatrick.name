@@ -47,7 +47,7 @@ Multiple and configurable caches may be used, and it's possible to share caches 
 
 To install, get on the command line and type:
 
-.. code:: sh
+.. code-block:: sh
 
     pip install BioCyc
 
@@ -67,7 +67,7 @@ used for direct requests on the biocyc object. Sub-requests on existing
 objects will use the same database as that object (otherwise things
 would be very confusing indeed).
 
-.. code:: python
+.. code-block:: python
 
     import os
     from biocyc import biocyc
@@ -83,7 +83,7 @@ this from within an IP[y] Notebook you get a nice table output of all
 associated attributes for an object. This includes direct links to the
 BioCyc database and other database annotations.
 
-.. code:: python
+.. code-block:: python
 
     o=biocyc.get('L-LACTATE')
     o
@@ -111,7 +111,7 @@ multiple machines.
 *Note: If you just want access to the identifiers, you can use the
 ``o._reactions`` field to access these without triggering a request*
 
-.. code:: python
+.. code-block:: python
 
     r = o.reactions
     r[0]
@@ -124,7 +124,7 @@ multiple machines.
 
 
 
-.. code:: python
+.. code-block:: python
 
     r[1]
 
@@ -139,7 +139,7 @@ multiple machines.
 You can access sub-entities and manipulate objects using standard Python
 list processing.
 
-.. code:: python
+.. code-block:: python
 
     ps = [r.pathways for r in o.reactions]
     p = [p for sl in ps for p in sl]
@@ -165,7 +165,7 @@ list processing.
 
 
 
-.. code:: python
+.. code-block:: python
 
     p[0]
 

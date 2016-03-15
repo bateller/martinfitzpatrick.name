@@ -30,6 +30,7 @@ SITE = {
     'owner': {'twitter':'mfitzp'},
 }
 
+MARKUP = ('md', 'rst', 'ipynb')
 
 PLUGIN_PATHS = ['/Users/martin/repos/pelican-plugins',]
 PLUGINS = [
@@ -38,6 +39,7 @@ PLUGINS = [
         'sitemap',
         'summary',
         'series',
+        'ipynb.markup',
         ]        
 
 STATIC_PATHS = ['images',
