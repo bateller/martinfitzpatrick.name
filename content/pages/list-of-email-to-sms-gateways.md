@@ -1,7 +1,7 @@
 Title: List of Email to SMS Gateways
 Slug: list-of-email-to-sms-gateways
 Status: hidden
-Ads: top,bottom
+Ads: top, bottom
 
 This is a list of carriers providing access [Short Message Service](http://en.wikipedia.org/wiki/Short_Message_Service)
 (SMS) transit via [SMS gateways](http://en.wikipedia.org/wiki/SMS_gateway), allowing you
