@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Install Cinnamon on Ubuntu 12.04
 Slug: install-cinnamon-on-ubuntu-1204
 Tags: linux,desktop-environment,linux-mint,ubuntu,computing
-Ads: top,bottom
+Ads: bottom
 
 Cinnamon is a re-implementation of the Gnome 2 desktop in GTK3 developed by the Linux Mint project as an alternative to both Gnome3/Shell and Ubuntu Unity. Here we explain how to install Cinnamon on top of your Ubuntu installation, without installing Linux Mint.
 

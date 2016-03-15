@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Change the &#39;Desktop&#39; directory on Linux
 Slug: change-the-desktop-directory-on-linux
 Tags: linux,desktop,computing
-Ads: top,bottom
+Ads: bottom
 
 On desktop setups where icons are shown on the desktop these are normally taken from the specific folder ~/Desktop. If you find you want to show icons from either your Home or another directory for a particular install/user you can do so by editing the user-dirs config file as described here.
 

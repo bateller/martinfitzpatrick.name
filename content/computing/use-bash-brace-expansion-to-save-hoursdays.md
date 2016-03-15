@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Use bash brace expansion to save {hours,days}
 Slug: use-bash-brace-expansion-to-save-hoursdays
 Tags: bash,cli,linux,computing
-Ads: top,bottom
+Ads: bottom
 
 Brace expansion is one of the most powerful bash tricks with the potential to save you considerable time. Here are some common use cases.
 

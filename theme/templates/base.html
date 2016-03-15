@@ -15,45 +15,12 @@
 {% include '_navigation.html' %}
 {% block feature_image %}{% endblock feature_image %}
 
-{% block ad_top %}
-{% if (page and 'top' in page.ads) or (article and 'top' in article.ads) %}
-<div style="width:540px; margin:auto;">
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-3287067876809234"
-     data-ad-slot="4700067825"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-{% endif %}
-{% endblock ad_top %}
-
 <div id="main" role="main">
   <div class="article-author-side">
     {% include '_author-bio.html' %}
   </div>
 {% block content %}{% endblock content %}
 </div><!-- /#main -->
-
-{% block ad_bottom %}
-{% if (page and 'bottom' in page.ads) or (article and 'bottom' in article.ads) %}
-<div style="width:540px; margin:auto;">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Leaderboard (bottom) -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-3287067876809234"
-     data-ad-slot="1607000620"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-{% endif %}
-{% endblock ad_bottom %}
-
 
 {% block pagination %}{% endblock %}
 <div class="footer-wrap">

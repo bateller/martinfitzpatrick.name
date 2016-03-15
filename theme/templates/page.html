@@ -20,13 +20,46 @@
 
 {% block content %}
   <article class="page">
+  
     <h1>{{ page.title }}</h1>
+
+    {% block ad_top %}
+    {% if (page and 'top' in page.ads) or (article and 'top' in article.ads) %}
+    <div style="width:728px; margin:auto;">
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:728px;height:90px"
+         data-ad-client="ca-pub-3287067876809234"
+         data-ad-slot="4700067825"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    {% endif %}
+    {% endblock ad_top %}
+
     <div class="article-wrap">
       {{ page.content }}
     </div><!-- /.article-wrap -->
-    {% if DISQUS_SITENAME and page.comments == true %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    
+    
+    {% block ad_bottom %}
+    {% if (page and 'bottom' in page.ads) or (article and 'bottom' in article.ads) %}
+    <div style="width:728px; margin:auto;">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Leaderboard (bottom) -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:728px;height:90px"
+         data-ad-client="ca-pub-3287067876809234"
+         data-ad-slot="1607000620"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
     {% endif %}
+    {% endblock ad_bottom %}       
+    
   </article>
 {% endblock %}
 

@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Find all files containing a given string
 Slug: find-all-files-containing-a-given-string
 Tags: mac,bash,cli,linux,computing
-Ads: top,bottom
+Ads: bottom
 
 A quick one-liner to recursively search files for a given text string.
 

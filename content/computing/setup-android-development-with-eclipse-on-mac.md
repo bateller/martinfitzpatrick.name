@@ -4,7 +4,7 @@ Email: caelkayjackson@googlemail.com
 Title: Setup Android Development with Eclipse on Mac
 Slug: setup-android-development-with-eclipse-on-mac
 Tags: osx-lion,android,mac,mobile,computing
-Ads: top,bottom
+Ads: bottom
 
 Install and setup the tools necessary for Android development with Eclipse on Mac OS X (Lion)
 

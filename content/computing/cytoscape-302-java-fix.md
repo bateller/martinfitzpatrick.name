@@ -3,7 +3,7 @@ Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: Cytoscape v3.0.2 on Mac OS X
 Tags: cytoscape,bioinformatics
-Ads: top,bottom
+Ads: bottom
 
 [Cytoscape 3.0.2](http://cytoscape.org/releasenotes.html) was released on 1st August, a bugfix release for the 3.x series. However, there is a compatibility issue with the latest Java update from Apple resulting in Cytoscape hanging on startup. I'd followed advice found elsewhere to update to the latest Java version with no success, until I found [this post](https://groups.google.com/d/msg/cytoscape-discuss/3iCDXQ4lOTM/arovMUx0_DAJ) from Tim Hull, outlining a simple way to check what version you have installed.
 

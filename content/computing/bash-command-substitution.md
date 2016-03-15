@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Bash Command Substitution
 Slug: bash-command-substitution
 Tags: bash,cli,linux,computing
-Ads: top,bottom
+Ads: bottom
 
 Bash command substitution performs a given command replacing the marker with the resulting standard output. It is particularly useful when you want to store the output of a command in a variable or as an alternative method of chaining multiple commands together.
 

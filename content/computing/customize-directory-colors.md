@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Customize directory colors
 Slug: customize-directory-colors
 Tags: bash,cli,bashrc,colors,computing
-Ads: top,bottom
+Ads: bottom
 
 You can use the command ls --color (or an alias) to show directories with colours for folders, files, links, etc. However, you may not realise these colours can be easily configured using bashrc and a configuration file.
 

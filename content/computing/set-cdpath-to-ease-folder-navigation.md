@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Set CDPATH to ease folder navigation
 Slug: set-cdpath-to-ease-folder-navigation
 Tags: bash,cli,path,cdpath,sh,computing
-Ads: top,bottom
+Ads: bottom
 
 CDPATH is an environment variable which tells the `cd` command where to look for the specified folder. By including the parent folders of commonly used locations you can access folders more easily - and without typing an entire path.
 

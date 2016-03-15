@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Collaborate in the shell with screen (multiuser)
 Slug: collaborate-in-the-shell-with-screen-multiuser
 Tags: mac,bash,cli,screen,linux,computing
-Ads: top,bottom
+Ads: bottom
 
 Screen is a neat little program that allows you to use multiple virtual terminals in a single session on Unix/Linux and Mac. However, it does more than just that. It can also allow you to share your current session on a machine with another user - allowing you to collaboratively hack away at a problem in real time. 
 

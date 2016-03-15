@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Control Console with SysReq
 Slug: control-console-with-sysreq
 Tags: cli,linux,sysreq,console,computing
-Ads: top,bottom
+Ads: bottom
 
 System request (often abbreviated SysRq or Sys Req) is a key on keyboards for PCs that has no standard use. This key can be traced back to the operator interrupt key of the IBM System/370 mainframe computer. But under Linux there's a bunch of useful things available via this key.
 

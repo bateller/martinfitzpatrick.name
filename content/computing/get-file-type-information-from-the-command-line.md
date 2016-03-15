@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Get file type information from the command line
 Slug: get-file-type-information-from-the-command-line
 Tags: file,cli,unix,linux,mimetype,mime,computing
-Ads: top,bottom
+Ads: bottom
 
 Often forgotten the `file` command will give you a simple summary of a file's type and content.
 

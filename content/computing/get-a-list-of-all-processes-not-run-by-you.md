@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Get a list of all processes not run by you
 Slug: get-a-list-of-all-processes-not-run-by-you
 Tags: linux,processes,user,cpu,computing
-Ads: top,bottom
+Ads: bottom
 
 Find the currently running processes on your system that were not started by yourself. A great way to find out what is hogging your system on multiple-user setups or remote logins.
 

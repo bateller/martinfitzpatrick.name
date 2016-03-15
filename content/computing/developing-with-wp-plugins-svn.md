@@ -4,7 +4,7 @@ Email: martin.fitzpatrick@gmail.com
 Title: Developing with WP-Plugins SVN
 Slug: developing-with-wp-plugins-svn
 Tags: wordpress,plugins,svn
-Ads: top,bottom
+Ads: bottom
 
 The new plugin download interface, hooked into [wp-plugins.org][1] adds extra incentive for plugin developers to use SVN.
 
