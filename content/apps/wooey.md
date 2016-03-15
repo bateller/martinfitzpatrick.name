@@ -1,9 +1,15 @@
 Date: 2015-03-09 16:37
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
-Title: Wooey: Simple, automated web UIs for Python scripts
+Title: Wooey
+Subtitle: Simple, automated web UIs for Python scripts
+Slug: wooey-simple-automated-web-uis-for-python-scripts
 Tags: python,software,web,flask
+Type: software
+Image: /images/software/wooey/welcome_to_wooey.png
+License: BSD v2 License
 Github: mfitzp/wooey
+PyPi: Wooey
 
 [Wooey](https://github.com/mfitzp/wooey) is a simple web interface (built on Flask) to run command line Python scripts. Think of it as an easy way to get
 your scripts up on the web for routine data analysis, file processing, or anything else.
