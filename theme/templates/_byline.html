@@ -38,8 +38,17 @@
     {% if article.pypi %}&bull; <a href="https://pypi.python.org/pypi/{{ article.pypi }}">PyPi</a>{% endif %}            
     {% if article.documentation %}&bull; <a href="{{ article.documentation }}">Documentation</a>{% endif %}            
     {% if article.download %}&bull; <a href="{{ article.download }}">Download</a>{% endif %}            
-   
+
     </p>
+ {% elif article.type in ['notebook'] %}
+ 
+    <p class="byline">
+    Available as a <a href="http://jupyter.org/">Jupyter</a> notebook 
+    &bull; <a href="https://github.com/mfitzp/martinfitzpatrick.name/blob/master/content/notebooks/{{ article.source_path.split('/')[-1] }}">View</a>
+    &bull; <a href="https://raw.githubusercontent.com/mfitzp/martinfitzpatrick.name/blob/master/content/notebooks/{{ article.source_path.split('/')[-1] }}">Download</a>
+    </p>
+     
+    
   {% endif %} 
   
   {% if article.pdf %}<p class="byline">This {{ article.type }} is <a href="{{ article.pdf }}">available for download as a PDF</a>.{% endif %}

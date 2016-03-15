@@ -2078,3 +2078,13 @@ img.large {
 .ps a {
     color: #da553b;
 }
+
+
+.article-wrap-notebook .prompt {
+    display: none;
+}
+
+.article-wrap-notebook .cell, .article-wrap-notebook .text_cell_render {
+    padding-left: 0;
+    padding-right: 0;
+}
