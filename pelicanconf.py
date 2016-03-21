@@ -72,6 +72,8 @@ SOCIAL = ([
           ('Codementor', 'code', 'https://www.codementor.io/mfitzp'),
           ('hack.hands()', 'code', 'https://hackhands.com/mfitzp'),
           ],[
+          ('YouTube', 'youtube', 'https://www.youtube.com/channel/UCMW4KwSlygaDef0tgqPjbRQ'),
+          ],[
           ('ORCID', 'circle', 'http://orcid.org/0000-0002-0695-1988'),
           ('ResearchGate', 'list', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
           ],[
