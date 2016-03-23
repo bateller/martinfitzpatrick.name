@@ -152,7 +152,6 @@ B15 2TT<br />"
 
 # Special categories to show with descriptions + priority
 SPECIAL_CATEGORIES = {
-'8bit': 'Retro and 8bit programming, and historical work. Including Sam Coupé, and Pascal code.',
 'publications': 'Academic publications, posters, abstracts and other materials.',
 'books': 'Books, e-books and other written materials.',
 'courses': 'Online courses, materials and guides for novice programmers.',
@@ -160,7 +159,6 @@ SPECIAL_CATEGORIES = {
 'libs': 'Software libraries developed by myself. Unless I have taken temporary leave of my senses all of it will be under the MIT/BSD license.',
 #'Talks': 'Conference talks and presentations.'
 #'pathomx': 'Updates, guides and videos relating to the Pathomx platform',
-'video': 'Instructional videos and guides.',
 }
 
 SPECIAL = ['publications','books','courses','apps','libs']
