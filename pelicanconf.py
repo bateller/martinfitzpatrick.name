@@ -163,7 +163,7 @@ SPECIAL_CATEGORIES = {
 'video': 'Instructional videos and guides.',
 }
 
-SPECIAL = ['8bit','publications','books','courses','apps','libs','video']
+SPECIAL = ['publications','books','courses','apps','libs']
 
 
 #=============
