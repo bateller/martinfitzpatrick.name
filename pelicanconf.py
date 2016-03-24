@@ -69,10 +69,11 @@ SOCIAL = ([
           ('StackOverflow', 'stack-exchange', 'http://stackoverflow.com/users/754456/mfitzp'),
           ],[
           ('Udemy', 'graduation-cap', 'https://www.udemy.com/u/martinfitzpatrick4/'),
+          ('Teachable', 'graduation-cap', 'http://mfitzp.teachable.com/'),
+          ('YouTube', 'youtube-play', 'https://www.youtube.com/channel/UCMW4KwSlygaDef0tgqPjbRQ'),
+          ],[
           ('Codementor', 'code', 'https://www.codementor.io/mfitzp'),
           ('hack.hands()', 'code', 'https://hackhands.com/mfitzp'),
-          ],[
-          ('YouTube', 'youtube-play', 'https://www.youtube.com/channel/UCMW4KwSlygaDef0tgqPjbRQ'),
           ],[
           ('ORCID', 'circle', 'http://orcid.org/0000-0002-0695-1988'),
           ('ResearchGate', 'list', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
@@ -152,6 +153,7 @@ B15 2TT<br />"
 
 # Special categories to show with descriptions + priority
 SPECIAL_CATEGORIES = {
+'8bit': 'Retro and 8bit programming, and historical work. Including Sam Coupé, and Pascal code.',
 'publications': 'Academic publications, posters, abstracts and other materials.',
 'books': 'Books, e-books and other written materials.',
 'courses': 'Online courses, materials and guides for novice programmers.',
@@ -159,9 +161,10 @@ SPECIAL_CATEGORIES = {
 'libs': 'Software libraries developed by myself. Unless I have taken temporary leave of my senses all of it will be under the MIT/BSD license.',
 #'Talks': 'Conference talks and presentations.'
 #'pathomx': 'Updates, guides and videos relating to the Pathomx platform',
+'video': 'Instructional videos and guides.',
 }
 
-SPECIAL = ['publications','books','courses','apps','libs']
+SPECIAL = ['8bit','publications','books','courses','apps','libs','video']
 
 
 #=============
