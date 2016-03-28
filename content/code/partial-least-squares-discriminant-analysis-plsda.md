@@ -1,11 +1,9 @@
 Date: 2015-10-18 09:00
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
-Title: 1D 1H NMR data processing
+Title: Partial Least Squares Discriminant Analysis (PLS-DA)
 Slug: partial-least-squares-discriminant-analysis-plsda
 Tags: 1d,nmr,python
-
-# Partial Least Squares Discriminant Analysis (PLS-DA)
 
 Partial least squares discriminant analysis (PLS-DA) is an adaptation of PLS
 regression methods to the problem of supervised clustering. It has seen
@@ -34,7 +32,7 @@ and `pandas` for some basic data handling.
 
     pip install scikit-learn matplotlib pandas
 
-The sample data for this section is [available for download](http://download.martinfitzpatrick.name/partial-least-squares-discriminant-analysis-plsda.zip)
+The sample data for this example is [available for download](http://download.martinfitzpatrick.name/partial-least-squares-discriminant-analysis-plsda.zip)
 
 Download and unzip the file into your data folder.
 
@@ -66,7 +64,7 @@ vertical axis. In addition to the a sample number, there is also a sample group
 There are many ways to load this data, but using `pandas` allows
 us to keep the elements of the data together nicely.
 
-    df = pd.read_csv(os.path.join('/Users/mxf793/books/thepythonlabbook/data','partial-least-squares-discriminant-analysis-plsda','data.csv'), index_col=0, header=[0,1])
+    df = pd.read_csv('data.csv'), index_col=0, header=[0,1])
     df
 
 # Visualising the dataset
@@ -76,7 +74,7 @@ We can use the build in `pandas` plot functions to do this quickly.
 
     df.plot(kind='line',legend=False, figsize=(12,4))
 
-![The processed NMR data for our analysis](/images/code/partial-least-squares-discriminant-analysis-plsda/nmr-data.png[])
+![The processed NMR data for our analysis](/images/code/partial-least-squares-discriminant-analysis-plsda/nmr-data.png)
 
 If you look closely you'll see most of the samples look very alike, but there is
 one (in red) that looks very unusual. This will become important later.
@@ -105,7 +103,7 @@ group in a single colour.
 
     df.plot(kind='line',legend=False, figsize=(12,4), color=colorlist)
 
-![The processed NMR data with sample group colours](/images/code/partial-least-squares-discriminant-analysis-plsda/nmr-data-coloured.png[])
+![The processed NMR data with sample group colours](/images/code/partial-least-squares-discriminant-analysis-plsda/nmr-data-coloured.png)
 
 
 Now we can see that the dodgy sample is from the "H" (blue) group.
@@ -209,7 +207,7 @@ in the scores array, we assign an index from `df.columns`.
     ax.set_ylabel('Scores on LV 2')
 
 
-![PLS-DA Scores plot for Latent variable 1 vs. Latent variable 2](/images/code/partial-least-squares-discriminant-analysis-plsda/scores-lv1-lv2.png[])
+![PLS-DA Scores plot for Latent variable 1 vs. Latent variable 2](/images/code/partial-least-squares-discriminant-analysis-plsda/scores-lv1-lv2.png)
 
 So we have good separation between our sample groups, however it is in LV2. While
 practically this has little effect, the fact that the major variation in our data
@@ -269,7 +267,7 @@ We could also plot these values onto the figure as follows:
    As a result to unpack the values into into `x` and `y` we need to assign to a tuple.
 
 
-![PLS-DA Scores plot for Latent variable 1 vs. Latent variable 2 with sample labels](/images/code/partial-least-squares-discriminant-analysis-plsda/scores-lv1-lv2-labelled.png[])
+![PLS-DA Scores plot for Latent variable 1 vs. Latent variable 2 with sample labels](/images/code/partial-least-squares-discriminant-analysis-plsda/scores-lv1-lv2-labelled.png)
 
 
 Now we know which sample is causing the problems, let's remove it.
@@ -303,7 +301,7 @@ Let's plot the PLS-DA model built using filtered values.
         ax.text(x,y,label)
 
 
-![PLS-DA Scores plot for filtered data, LV1 and LV2 with sample labels](/images/code/partial-least-squares-discriminant-analysis-plsda/scores-lv1-lv2-filtered-labelled.png[])
+![PLS-DA Scores plot for filtered data, LV1 and LV2 with sample labels](/images/code/partial-least-squares-discriminant-analysis-plsda/scores-lv1-lv2-filtered-labelled.png)
 
 This looks a lot better, the majority of our variation is now in the first latent
 variable. You'll notice that one of our samples is still mis-classified, but that's
