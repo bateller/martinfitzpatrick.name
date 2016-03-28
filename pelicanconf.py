@@ -69,6 +69,7 @@ SOCIAL = ([
           ('StackOverflow', 'stack-exchange', 'http://stackoverflow.com/users/754456/mfitzp'),
           ],[
           ('Udemy', 'graduation-cap', 'https://www.udemy.com/u/martinfitzpatrick4/'),
+          ('Teachable', 'graduation-cap', 'http://mfitzp.teachable.com/'),
           ('YouTube', 'youtube-play', 'https://www.youtube.com/channel/UCMW4KwSlygaDef0tgqPjbRQ'),
           ],[
           ('Codementor', 'code', 'https://www.codementor.io/mfitzp'),
@@ -142,13 +143,9 @@ STATICURL = 'http://localhost:8000'
 
 DELETE_OUTPUT_DIRECTORY = True
 
-ADDRESS = u"℅ Centre for Translational Inflammation Research<br /> \
-Queen Elizabeth Hospital<br /> \
-University of Birmingham<br /> \
-Birmingham<br /> \
-United Kingdom<br /> \
-B15 2TT<br />"
-
+ADDRESS = u"℅ Martin Fitzpatrick<br /> \
+Utrecht<br /> \
+Netherlands<br />"
 
 # Special categories to show with descriptions + priority
 SPECIAL_CATEGORIES = {
@@ -159,6 +156,7 @@ SPECIAL_CATEGORIES = {
 'libs': 'Software libraries developed by myself. Unless I have taken temporary leave of my senses all of it will be under the MIT/BSD license.',
 #'Talks': 'Conference talks and presentations.'
 #'pathomx': 'Updates, guides and videos relating to the Pathomx platform',
+#'video': 'Instructional videos and guides.',
 }
 
 SPECIAL = ['publications','books','courses','apps','libs']
