@@ -2,7 +2,7 @@ Date: 2015-10-18 09:00
 Author: Martin Fitzpatrick
 Email: martin.fitzpatrick@gmail.com
 Title: 1D 1H NMR data processing
-Slug: 1d-1h-nmr-data-processing
+Slug: partial-least-squares-discriminant-analysis-plsda
 Tags: 1d,nmr,python
 
 # Partial Least Squares Discriminant Analysis (PLS-DA)
