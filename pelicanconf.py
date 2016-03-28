@@ -69,10 +69,10 @@ SOCIAL = ([
           ('StackOverflow', 'stack-exchange', 'http://stackoverflow.com/users/754456/mfitzp'),
           ],[
           ('Udemy', 'graduation-cap', 'https://www.udemy.com/u/martinfitzpatrick4/'),
+          ('YouTube', 'youtube-play', 'https://www.youtube.com/channel/UCMW4KwSlygaDef0tgqPjbRQ'),
+          ],[
           ('Codementor', 'code', 'https://www.codementor.io/mfitzp'),
           ('hack.hands()', 'code', 'https://hackhands.com/mfitzp'),
-          ],[
-          ('YouTube', 'youtube-play', 'https://www.youtube.com/channel/UCMW4KwSlygaDef0tgqPjbRQ'),
           ],[
           ('ORCID', 'circle', 'http://orcid.org/0000-0002-0695-1988'),
           ('ResearchGate', 'list', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
