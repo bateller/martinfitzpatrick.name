@@ -62,7 +62,7 @@ We can plot the spectra using `matplotlib`.
    scale of the same size as the data. Here `.shape[0]` is the length of the fid along
    the first (and only) axis of the 1D spectra.
 
-![The raw FID data for spectra 87](/images/code/1d-1h-nmr-data-processing/single-spectra-raw.png)
+![The raw FID data for spectra 87](/images/tutorials/1d-1h-nmr-data-processing/single-spectra-raw.png)
 
 
 # Fourier transform (FT)
@@ -81,7 +81,7 @@ The `nmrglue` package provides a _fast fourier transform_ (FFT) for this purpose
     ax = fig.add_subplot(1,1,1)
     ax.plot(np.arange(0, data_fft.shape[0]), data_fft)
 
-![The fourier transformed FID data for spectra 87](/images/code/1d-1h-nmr-data-processing/single-spectra-fft.png)
+![The fourier transformed FID data for spectra 87](/images/tutorials/1d-1h-nmr-data-processing/single-spectra-fft.png)
 
 You'll notice that the spectra is out of _phase_, i.e. the peaks are not
 symmetrical and well defined. We will fix this shortly, but first lets load
@@ -144,7 +144,7 @@ We can use this function to look at all spectra following fourier transform:
     ppms = np.arange(0, data.shape[1])
     fig = plotspectra(ppms, data)
 
-![All spectra following fourier transformation](/images/code/1d-1h-nmr-data-processing/all-spectra-fft.png)
+![All spectra following fourier transformation](/images/tutorials/1d-1h-nmr-data-processing/all-spectra-fft.png)
 
 We can take a close up view of the TMSP peak, which is currently on the left
 hand side of the spectra in the region 28000-30000.
@@ -153,7 +153,7 @@ hand side of the spectra in the region 28000-30000.
     fig = plotspectra(ppms, data, start=28000, stop=30000)
 
 
-![The cropped TMSP region of all spectra following fourier transformation](/images/code/1d-1h-nmr-data-processing/all-spectra-crop-fft.png)
+![The cropped TMSP region of all spectra following fourier transformation](/images/tutorials/1d-1h-nmr-data-processing/all-spectra-crop-fft.png)
 
 
 Clearly the spectra are all out of phase and poorly aligned. We will fix the
@@ -178,7 +178,7 @@ We can now plot the spectra with the correct ppms.
     fig = plotspectra(ppms, data)
 
 
-![All spectra following fourier transformation with correct ppm values](/images/code/1d-1h-nmr-data-processing/all-spectra-fft-ppm.png)
+![All spectra following fourier transformation with correct ppm values](/images/tutorials/1d-1h-nmr-data-processing/all-spectra-fft-ppm.png)
 
 
 # Phase correction
@@ -192,4 +192,4 @@ spectra. Thankfully, that's what we have here.
     fig = plotspectra(ppms, data)
 
 
-![Phase corrected spectra](/images/code/1d-1h-nmr-data-processing/all-spectra-phase-correct.png)
+![Phase corrected spectra](/images/tutorials/1d-1h-nmr-data-processing/all-spectra-phase-correct.png)
