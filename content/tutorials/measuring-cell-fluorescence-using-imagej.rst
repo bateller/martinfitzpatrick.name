@@ -4,7 +4,6 @@ Measuring cell fluorescence using ImageJ
 :date: 2014-05-18 21:10
 :modified: 2014-05-18 21:10
 :tags: imagej,biology,fluorescence
-:category: computing
 :slug: measuring-cell-fluorescence-using-imagej
 :authors: Martin Fitzpatrick
 

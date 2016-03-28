@@ -4,7 +4,6 @@ Dot Blot Analysis with ImageJ
 :date: 2014-05-18 21:10
 :modified: 2014-05-18 21:10
 :tags: imagej,biology,dotblot
-:category: computing
 :slug: dot-blot-analysis-imagej
 :authors: Martin Fitzpatrick
 
