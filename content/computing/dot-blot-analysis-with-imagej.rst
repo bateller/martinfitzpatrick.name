@@ -21,7 +21,7 @@ Method
    :alt: step/None/subtraction.gif
 
 
-*See image for profile plots (Analyze/Plot Profile) of the first row of dots before and after background correction was done using the Subtract Background command with the rolling ball radius set to 25 pixels. *
+See image for profile plots (Analyze/Plot Profile) of the first row of dots before and after background correction was done using the Subtract Background command with the rolling ball radius set to 25 pixels.
 
 
 
@@ -31,7 +31,7 @@ Method
    :alt: step/None/screen-shot.jpg
 
 
-*Notice how the image now has a black background? It was inverted (Edit/Invert) so background pixel values are near zero, which is required for correct calculation of integrated density. You can invert the lookup table (Image/Lookup Tables/Invert LUT) to restore the original appearance of the image. The "Use Inverting Lookup Table" option in Edit/Options/Image will invert the pixel data and invert the lookup table. *
+Notice how the image now has a black background? It was inverted (Edit/Invert) so background pixel values are near zero, which is required for correct calculation of integrated density. You can invert the lookup table (Image/Lookup Tables/Invert LUT) to restore the original appearance of the image. The "Use Inverting Lookup Table" option in Edit/Options/Image will invert the pixel data and invert the lookup table.
 
 
 
