@@ -139,6 +139,8 @@ a simple function to do this.
 1. This block allows us to select regions of the spectra to view by filtering
    on the supplied ppms.
 
+We can use this function to look at all spectra following fourier transform:
+
     ppms = np.arange(0, data.shape[1])
     fig = plotspectra(ppms, data)
 
