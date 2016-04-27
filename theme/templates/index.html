@@ -58,14 +58,14 @@
         <p class="paginator">
         {% if articles_page.has_previous() %}
         {% if articles_page.previous_page_number() == 1 %}
-        <a href="{{ SITEURL }}/index.html#content">&laquo;</a>
+        <a href="index.html#content">&laquo;</a>
         {% else %}
-        <a href="{{ SITEURL }}/index{{ articles_page.previous_page_number() }}.html#content">&laquo;</a>
+        <a href="index{{ articles_page.previous_page_number() }}.html#content">&laquo;</a>
         {% endif %}
         {% endif %}
         Page {{ articles_page.number }} / {{ articles_paginator.num_pages }}
         {% if articles_page.has_next() %}
-        <a href="{{ SITEURL }}/index{{ articles_page.next_page_number() }}.html#content">&raquo;</a>
+        <a href="index{{ articles_page.next_page_number() }}.html#content">&raquo;</a>
         {% endif %}
         </p>
     {% endif %}
