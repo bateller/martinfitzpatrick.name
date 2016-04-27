@@ -8,8 +8,6 @@
     {% if article.pmid %}<a href="http://www.ncbi.nlm.nih.gov/pubmed/{{ article.pmid }}">pmid:{{ article.pmid }}</a> {% endif %}
     {% if article.isbn %}isbn:{{ article.isbn }} {% endif %}</p>
 
-    <p>{{ article.content }}</p>
-
  {% elif article.type in ['course', 'book'] %}
  
     <p class="byline">
