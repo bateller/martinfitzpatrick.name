@@ -18,8 +18,14 @@
     
     {% if article.rrp %}Reading this? Get a discount — RRP <span class="rrp">{{ article.rrp }}</span> {% endif %} 
     {% if article.link %}<a href="{{ article.link }}" class="price">{% endif %}
-    {% if article.price %}<span class="price">Only {{ article.price }}</span> {% endif %}
+    {% if article.price %}<span class="price">{{ article.price }}</span> {% endif %}
     {% if article.link %}</a>{% endif %}            
+    </p>
+
+ {% elif article.type in ['stackoverflow'] %}
+ 
+    <p class="byline">
+    {% if article.so_accepted_answer == 'True' %}Accepted answer{% else %}Answer{% endif %} on <a href="{{ article.link }}">StackOverflow</a> on <time datetime="{{ article.date.isoformat() }}">{{ article.date|strftime("%B %d, %Y") }}</time> with a score of {{ article.so_score }}.
     </p>
  
   {% elif article.type in ['software', 'game'] %}    

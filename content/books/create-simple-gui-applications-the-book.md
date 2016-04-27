@@ -4,11 +4,11 @@ Email: martin.fitzpatrick@gmail.com
 Title: Create Simple GUI Applications with Python and Qt
 Subtitle: Learn how to build simple GUI applications with Python and Qt.
 Slug: create-simple-gui-applications-the-book
-Tags: python,pyqt,qt,course
+Tags: python,pyqt,qt,book
 Status: published
 Type: book
 Link: https://leanpub.com/create-simple-gui-applications
-Price: $4.99 (FREE online)
+Price: $4.99
 Publisher: Leanpub
 Image: /images/books/create-simple-gui-applications.jpeg
 

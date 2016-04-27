@@ -17,7 +17,8 @@ audio:not([controls]) {
 html {
     font-family: sans-serif;
     -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%}
+    -ms-text-size-adjust: 100%
+    }
 body {
     margin: 0;
 }
@@ -28,7 +29,7 @@ a:active, a:hover {
     outline: 0;
 }
 h1 {
-    font-size: 2em;
+    font-size: 2rem;
     margin: 0.67em 0;
 }
 abbr[title] {
@@ -51,17 +52,18 @@ mark {
 }
 code, kbd, pre, samp {
     font-family: monospace,  serif;
-    font-size: 1em;
+    font-size: 1rem;
 }
 pre {
     white-space: pre;
 }
 q {
-    quotes: "\201C" "\201D" "\2018" "\2019"}
+    quotes: "\201C" "\201D" "\2018" "\2019"
+    }
 small {
-    font-size: 80%}
+    font-size: 0.9rem;}
 sub, sup {
-    font-size: 75%;
+    font-size: 0.8rem;
     line-height: 0;
     position: relative;
     vertical-align: baseline;
@@ -92,7 +94,7 @@ legend {
 }
 button, input, select, textarea {
     font-family: inherit;
-    font-size: 100%;
+    font-size: 1rem;
     margin: 0;
 }
 button, input {
@@ -185,42 +187,36 @@ h1, h2, h3, h4, h5, h6 {
     /* font-family: "PT Sans Narrow", sans-serif; */
 }
 h1 {
-    font-size: 32px;
     font-size: 2rem;
     line-height: 1.1;
     margin-bottom: 26px;
     margin-bottom: 1.625rem;
 }
 h2 {
-    font-size: 28px;
     font-size: 1.75rem;
     line-height: 1.1;
     margin-bottom: 26px;
     margin-bottom: 1.625rem;
 }
 h3 {
-    font-size: 24px;
     font-size: 1.5rem;
     line-height: 1.1;
     margin-bottom: 26px;
     margin-bottom: 1.625rem;
 }
 h4 {
-    font-size: 18px;
     font-size: 1.125rem;
     line-height: 1.1;
     margin-bottom: 26px;
     margin-bottom: 1.625rem;
 }
 h5 {
-    font-size: 16px;
     font-size: 1rem;
     line-height: 1.1;
     margin-bottom: 26px;
     margin-bottom: 1.625rem;
 }
 h6 {
-    font-size: 14px;
     font-size: 0.875rem;
     line-height: 1.1;
     margin-bottom: 26px;
@@ -245,7 +241,6 @@ a:hover, a:active {
 }
 figcaption {
     padding-top: 10px;
-    font-size: 14px;
     font-size: 0.875rem;
     line-height: 1.8571;
     line-height: 1.3;
@@ -259,7 +254,6 @@ figcaption {
     margin-right: 8.33333%;
     display: block;
     text-align: right;
-    font-size: 12px;
     font-size: 0.75rem;
     line-height: 2.1667;
     line-height: 1.3;
@@ -285,7 +279,6 @@ figcaption {
     margin-top: 1.5em;
     padding: .5em 1em;
     text-indent: 0;
-    font-size: 14px;
     font-size: 0.875rem;
     background-color: #fff;
     border: 1px solid #ccc;
@@ -300,19 +293,18 @@ blockquote {
 }
 .footnotes ol, .footnotes li, .footnotes p {
     margin-bottom: 0;
-    font-size: 14px;
     font-size: 0.875rem;
 }
-p {
+p {  
+    font-size: 1.15rem;
     margin: 0 0 1.625rem;
-    line-height: 1.7;
+    line-height: 1.85rem;
 }
 tt, code, kbd, samp, pre {
     font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 }
 p code, li code {
-    font-size: 12px;
-    font-size: 0.75rem;
+    font-size: 1rem;
     line-height: 1.5;
     white-space: nowrap;
     margin: 0 2px;
@@ -322,7 +314,6 @@ p code, li code {
     border-radius: 3px;
 }
 pre {
-    font-size: 12px;
     font-size: 0.75rem;
     line-height: 1.5;
     overflow-x: auto;
@@ -330,7 +321,6 @@ pre {
 .highlight {
     background-color: #efefef;
     font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
-    font-size: 12px;
     font-size: 0.75rem;
     line-height: 2.1667;
     color: #333332;
@@ -557,7 +547,6 @@ pre {
 .CodeRay {
     background-color: #efefef;
     font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
-    font-size: 12px;
     font-size: 0.75rem;
     line-height: 2.1667;
     color: #333332;
@@ -606,7 +595,7 @@ table.CodeRay td {
 .CodeRay .code {
     width: 100%}
 ol.CodeRay {
-    font-size: 10pt;
+    font-size: 0.8rem;
 }
 ol.CodeRay li {
     white-space: pre;
@@ -952,7 +941,6 @@ svg:not(:root) {
     display: inline-block;
     margin-bottom: 20px;
     padding: 8px 20px;
-    font-size: 14px;
     font-size: 0.875rem;
     /* font-family: "PT Sans Narrow", sans-serif; */
     font-weight: 700;
@@ -1248,17 +1236,24 @@ input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focu
 }
 body {
     background-color: #fff;
-    font-family: "Raleway", serif;
+    /* font-family: "Raleway", serif; */
+    font-family: 'PT Sans', sans-serif;
     color: #333332;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arvo', georgia, serif;
+}
+
 .navigation-wrapper {
+    font-family: 'Arvo', georgia, serif;
     margin: 0 auto;
     width: 100%;
     padding: 2em 0 1em;
     font-weight: 600;
-    text-transform: uppercase;
     *zoom: 1;
 }
+
 .navigation-wrapper:before, .navigation-wrapper:after {
     display: table;
     content: "";
@@ -1276,9 +1271,39 @@ body {
     margin-bottom: 1em;
     float: none;
     display: block;
-    font-size: 32px;
     font-size: 1.5rem;
 }
+
+.site-name .l {
+    display: inline-block;
+    padding: 0 0.25rem;
+    height: 1.8rem;
+    color: #fff !important;
+    
+    text-align:center;
+    vertical-align: middle;
+}
+
+.site-name .l1 { background: #da553b; }
+.site-name .l2 { background: #da553b; }
+.site-name .l3 { background: #da553b; }
+.site-name .l4 { background: #da553b; }
+.site-name .l5 { background: #da553b; }
+.site-name .l6 { background: #da553b; }
+.site-name .l7 { 
+    background: #bdbdbd;
+    font-size: 0.8rem;
+    }
+
+.samcursor {
+    margin-top: 0.8rem;
+    display: inline-block;
+    background-color: #fff;
+    color: #bdbdbd;
+    padding: 0 0.1rem;
+}
+
+
 @media only screen and (min-width: 37.5em) {
     .site-name {
     display: inline;
@@ -1286,8 +1311,7 @@ body {
     width: 16.66667%;
     margin-left: 4.16667%;
     margin-right: 4.16667%;
-    font-size: 19px;
-    font-size: 0.9rem;
+    /*font-size: 0.9rem;*/
 }
 }@media only screen and (min-width: 86.375em) {
     .site-name {
@@ -1322,14 +1346,14 @@ body {
     padding: 0;
     clear: both;
     list-style-type: none;
+    line-height: 1.5rem;
 }
 .top-navigation li {
     display: block;
     list-style-type: none;
     border-bottom: 1px solid #ddd;
     border-bottom: 1px solid fade(#111,  10);
-    font-size: 19px;    
-    font-size: 0.9rem;
+    font-size: 1rem;
 }
 .top-navigation li:last-child {
     border-bottom: 0 solid transparent;
@@ -1427,7 +1451,6 @@ body {
     transform: rotate3d(0,  0,  1,  -45deg);
 }
 .nav .navtoogle {
-    font-size: 18px;
     font-size: 1.125rem;
     font-weight: normal;
     background-color: #111;
@@ -1590,7 +1613,7 @@ body {
     margin-bottom: 0;
 }
 .article-author-side p, .article-author-bottom p {
-    font-size: 80%;
+    font-size: 0.875rem;
     font-style: italic;
 }
 .article-author-side a, .article-author-side a:hover, .article-author-bottom a, .article-author-bottom a:hover {
@@ -1599,8 +1622,7 @@ body {
 .author-social {
     display: block;
     margin-bottom: 5px;
-    font-size: 14px;
-    font-size: 0.875rem;
+    font-size: 1rem;
     color: #111;
 }
 .author-social:visited {
@@ -1684,7 +1706,7 @@ display: none;
 }
 .toc {
     display: none;
-    font-size: 95%}
+    font-size: 0.95rem;}
 @media only screen and (min-width: 37.5em) {
     .toc {
     display: block;
@@ -1705,7 +1727,6 @@ display: none;
     margin: 0;
     padding: 5px 10px;
     color: #fff;
-    font-size: 16px;
     font-size: 1rem;
     text-transform: uppercase;
 }
@@ -1849,7 +1870,6 @@ display: none;
     clear: both;
 }
 .footer-wrap a, .footer-wrap a:active, .footer-wrap a:visited, .footer-wrap p, .footer-wrap h4, .footer-wrap h5, .footer-wrap h6, .footer-wrap span {
-    font-size: 14px;
     font-size: 0.875rem;
 }
 .footer-wrap footer {
@@ -1965,7 +1985,6 @@ display: none;
     margin-bottom: 20px;
     padding: 8px 20px;
     display: inline-block;
-    font-size: 14px;
     font-size: 0.875rem;
     background-color: #fff;
     color: #111;
@@ -1979,6 +1998,12 @@ display: none;
 p a, .hilite {
  color: #da553b !important;
  text-decoration: none !important;
+}
+
+.io {
+ color: #da553b !important;
+ text-decoration: none !important;
+ font-size: 0.75em;
 }
 
 h3 small {
@@ -1998,7 +2023,7 @@ h3 small {
 .price {
     color: #000;
     font-weight:bold;
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 
 .article-image {
@@ -2016,7 +2041,7 @@ h3 small {
 
 .byline {
     clear: both;
-    font-size: 80%;
+    font-size: 0.9rem;
     margin-bottom: 0.625rem;
     }
     
@@ -2088,3 +2113,68 @@ img.large {
     padding-left: 0;
     padding-right: 0;
 }
+
+
+.sidebar-image {
+    border-radius: 3px;
+    margin: -32px auto 32px auto;
+
+}
+
+#mc_embed_signup { 
+    background:#da553b; clear:left; font:14px; width:100%;
+    padding: 1em;
+    margin: 2em 0;
+    
+}
+
+#mc_embed_signup label { color: #fff; }
+
+input#mc-embedded-subscribe.button {
+    background-color: #fff;
+    color: #000;
+}
+
+input#mc-embedded-subscribe.button:hover {
+    background-color: #fbecea;
+    color: #000;
+}
+
+/* Contextual styles */
+
+.tag-python .site-name .l1 { background: #3777AC; }
+.tag-python .site-name .l2 { background: #5F8B99; }
+.tag-python .site-name .l3 { background: #87A087; }
+.tag-python .site-name .l4 { background: #AFB474; }
+.tag-python .site-name .l5 { background: #D7C962; }
+.tag-python .site-name .l6 { background: #FFDE50; }
+
+.tag-samcoupe .site-name .l1 { background: #0000de; }
+.tag-samcoupe .site-name .l2 { background: #de0000; }
+.tag-samcoupe .site-name .l3 { background: #de00de; }
+.tag-samcoupe .site-name .l4 { background: #00de00; }
+.tag-samcoupe .site-name .l5 { background: #00dede; }
+.tag-samcoupe .site-name .l6 { background: #dede00; }
+
+.tag-jupyter .site-name .l1 { background: #E46E2E; }
+.tag-jupyter .site-name .l2 { background: #CE6F3C; }
+.tag-jupyter .site-name .l3 { background: #B8704A; }
+.tag-jupyter .site-name .l4 { background: #A27158; }
+.tag-jupyter .site-name .l5 { background: #8C7266; }
+.tag-jupyter .site-name .l6 { background: #767474; }
+
+.tag-qt .site-name .l1,
+.tag-qt .site-name .l2,
+.tag-qt .site-name .l3,
+.tag-qt .site-name .l4,
+.tag-qt .site-name .l5,
+.tag-qt .site-name .l6 { background: #3BD23D; }
+
+.tag-book .site-name .l1 { background: #F8ECC2; color: #464237 !important;}
+.tag-book .site-name .l2 { background: #F8ECC2; color: #464237 !important;}
+.tag-book .site-name .l3 { background: #F8ECC2; color: #464237 !important;}
+.tag-book .site-name .l4 { background: #F8ECC2; color: #464237 !important;}
+.tag-book .site-name .l5 { background: #F8ECC2; color: #464237 !important;}
+.tag-book .site-name .l6 { background: #F8ECC2; color: #464237 !important;}
+
+

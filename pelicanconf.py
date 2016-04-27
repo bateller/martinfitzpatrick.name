@@ -3,10 +3,10 @@
 
 AUTHOR = u'Martin Fitzpatrick'
 AUTHOR_EMAIL = u'martin.fitzpatrick@gmail.com'
-AUTHOR_ABOUT = u"A final-year PhD student working on the metabolomics of inflammatory diseases."
-SITENAME = u'Martin Fitzpatrick'
-SITESUBTITLE = u'Postgraduate Researcher in Metabolomics and Immunology '
-SITEURL = 'http://martinfitzpatrick.name'
+AUTHOR_ABOUT = u"Python coder, postgraduate researcher and bioinformatician."
+SITENAME = u'mfitzp.io'
+SITESUBTITLE = u'Python coder, postgraduate researcher and bioinformatician.'
+SITEURL = 'http://mfitzp.io'
 
 FEED_DOMAIN = SITEURL
 FEED_ATOM = 'feeds/atom.xml'
@@ -66,11 +66,14 @@ SOCIAL = ([
           ('Email', 'envelope-o', 'mailto:%s' % AUTHOR_EMAIL),
           ],[
           ('Github', 'github-alt', 'https://github.com/mfitzp'),
-          ('StackOverflow', 'stack-exchange', 'http://stackoverflow.com/users/754456/mfitzp'),
+          ('StackOverflow', 'stack-overflow', 'http://stackoverflow.com/users/754456/mfitzp'),
           ],[
           ('Udemy', 'graduation-cap', 'https://www.udemy.com/u/martinfitzpatrick4/'),
           ('Teachable', 'graduation-cap', 'http://mfitzp.teachable.com/'),
           ('YouTube', 'youtube-play', 'https://www.youtube.com/channel/UCMW4KwSlygaDef0tgqPjbRQ'),
+          ],[
+          ('Patreon', 'btc', 'https://www.patreon.com/mfitzp'),
+          ('PayPal', 'paypal', 'https://www.paypal.me/mfitzp/5'),
           ],[
           ('Codementor', 'code', 'https://www.codementor.io/mfitzp'),
           ('hack.hands()', 'code', 'https://hackhands.com/mfitzp'),
@@ -154,12 +157,13 @@ SPECIAL_CATEGORIES = {
 'courses': 'Online courses, materials and guides for novice programmers.',
 'apps': 'Software applications and command line tools developed by myself. Unless I have taken temporary leave of my senses all of it will be under the GPLv3 license.',
 'libs': 'Software libraries developed by myself. Unless I have taken temporary leave of my senses all of it will be under the MIT/BSD license.',
+'games': 'Games, mostly historic because I got all serious in my old age.',
 #'Talks': 'Conference talks and presentations.'
 #'pathomx': 'Updates, guides and videos relating to the Pathomx platform',
 #'video': 'Instructional videos and guides.',
 }
 
-SPECIAL = ['publications','books','courses','apps','libs']
+SPECIAL = ['publications','books','courses','apps','libs','games']
 
 
 #=============

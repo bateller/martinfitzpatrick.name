@@ -7,9 +7,9 @@ Slug: create-simple-gui-applications-with-python-and-qt
 Tags: python,pyqt,qt,course
 Status: published
 Type: course
-Link: https://www.udemy.com/create-simple-gui-applications-with-python-and-qt/?couponCode=BLOG9
-Price: $9
-RRP: $35
+Link: https://www.udemy.com/create-simple-gui-applications-with-python-and-qt/?couponCode=BLOG-XYBGU
+Price: $15
+RRP: $20
 Publisher: Udemy
 Image: /images/courses/create-simple-gui-applications.jpeg
 

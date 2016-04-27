@@ -8,14 +8,6 @@
  {% endif %}
  {% endblock %}
 
-{% block feature_image %}
-{% if page_name == 'index' %}
-  <div class="image-wrap">
-  <img src="{{ STATICURL }}/theme/images/home-photo-bw1.jpg" alt="Home image">
-  </div><!-- /.image-wrap -->
-{% endif %}
-{% endblock %}
-
 {% block content %}
   <div class="index">
     <!-- <h3><a href="{{ SITEURL }}/articles/">Recent articles</a></h3> -->
@@ -39,6 +31,8 @@
             {% if article.type == 'game' %}<i class="fa fa-gamepad" title="Game"></i> {% endif %}
 
             {% if article.type == 'notebook' %}<i class="fa fa-file-code-o" title="Notebook"></i> {% endif %}
+
+            {% if article.type == 'stackoverflow' %}<i class="fa fa-stack-overflow" title="Notebook"></i> {% endif %}
         {% endif %}
 
         </a>

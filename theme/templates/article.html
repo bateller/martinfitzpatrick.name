@@ -2,6 +2,7 @@
 {% block title %}{{ article.title|striptags }} &#8211; {% endblock title %}
 {% block summary %}{{ article.summary }}{% endblock summary %}
 {% block keywords %}{{ article.tags.join(', ') }}{% endblock keywords %}
+{% block tagstyles %}{% for tag in article.tags %}tag-{{ tag }} {% endfor %}{% endblock %}
 
 {% block feature_image %}
  {% if article.picture %}
@@ -80,9 +81,18 @@
          
       </footer>
     </div><!-- /.article-wrap -->
-    <div class="ps">
-    <strong>P.S.</strong> If you liked this, you might enjoy my infrequent newsletter,
-    where you can get access to my latest Python courses and ebooks with discounts! <a href="http://eepurl.com/bNx2Fr">Sign up here</a>.
+
+    <!-- Begin MailChimp Signup Form -->
+    <div id="mc_embed_signup">
+    <form action="//martinfitzpatrick.us12.list-manage.com/subscribe/post?u=1e360ecc7f9998fd0be3ddb60&amp;id=e16530b855" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+        <label for="mce-EMAIL">Like this? Subscribe to my infrequent mailing list for more of the same.</label>
+        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1e360ecc7f9998fd0be3ddb60_e16530b855" tabindex="-1" value=""></div>
+        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+        </div>
+    </form>
     </div>
     
     

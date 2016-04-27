@@ -41,7 +41,9 @@ html: clean $(OUTPUTDIR)/index.html
 
 $(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-
+	rm -r $(OUTPUTDIR)/theme
+	ln -s $(INPUTDIR)/../theme/static/ $(OUTPUTDIR)/theme
+    
 clean:
 	find $(OUTPUTDIR) -mindepth 1 -delete
 
