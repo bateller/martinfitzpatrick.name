@@ -48,8 +48,6 @@
 
         {% if not article.type or article.type not in ['publication', 'poster', 'presentation', 'course','book'] %}
             <p>{{ article.summary|striptags }} <a href="{{ SITEURL }}/{{ article.url }}" title="{{ article.title|striptags }}">More <i class="fa fa-hand-o-right"></i></a></p>
-        {% elif article.type in ['publication','poster','presentation'] %}
-            <p>{{ article.content }}</p>
         {% endif %}
         
     </article>
