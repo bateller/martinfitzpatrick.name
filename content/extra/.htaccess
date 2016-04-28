@@ -1,6 +1,16 @@
 Options +FollowSymLinks -Indexes 
 RewriteEngine On
 
+ErrorDocument 404 /404/index.html
+ErrorDocument 403 /403/index.html
+
+RewriteRule ^posts/(.*) /article/$1 [R=301,L]
+RewriteRule ^blog/(.*) /article/$1 [R=301,L]
+
+# Rewrite old urls to new format
+RewriteRule ^(methods|applications)/(\d+)/(.*)$ /article/$3 [R=permanent,L]
+RewriteRule ^methods/$ / [R=permanent,L]
+
 # Rewrite ancient dud urls to new format
 RewriteRule ^methods/42/(.*) http://theolb.readthedocs.org/en/latest/molecular-biology/in-situ-hybridisation-to-alpha-satellite-sequences.html [R=301,L]
 RewriteRule ^article/in-situ-hybridisation-to-alpha-satellite-sequences http://theolb.readthedocs.org/en/latest/molecular-biology/in-situ-hybridisation-to-alpha-satellite-sequences.html [R=301,L]
@@ -330,27 +340,4 @@ RewriteRule ^methods/1348/(.*) http://theolb.readthedocs.org/en/latest/misc/pmg-
 RewriteRule ^article/pmg-buffer http://theolb.readthedocs.org/en/latest/misc/pmg-buffer.html [R=301,L]
 RewriteRule ^methods/1365/(.*) http://theolb.readthedocs.org/en/latest/misc/150-mm-mg-amp-pnp.html [R=301,L]
 RewriteRule ^article/150-mm-mg-amp-pnp http://theolb.readthedocs.org/en/latest/misc/150-mm-mg-amp-pnp.html [R=301,L]
-
-RewriteRule ^posts/(.*) /article/$1 [R=301,L]
-RewriteRule ^blog/(.*) /article/$1 [R=301,L]
-
-
-# Rewrite old urls to new format
-RewriteRule ^(methods|applications)/(\d+)/(.*)$ /article/$3 [R=permanent,L]
-RewriteRule ^methods/$ / [R=permanent,L]
-
-# Remove trailing slashes.
-# e.g. example.com/foo will redirect to example.com/foo
-# RewriteCond %{REQUEST_FILENAME} !-d
-# RewriteRule ^(.+)/$ /$1 [R=permanent,QSA]
-
-# Redirect to HTML if it exists.
-# e.g. example.com/foo will display the contents of example.com/foo.html
-# RewriteCond %{REQUEST_FILENAME} !-f
-# RewriteCond %{REQUEST_FILENAME} !-d
-# RewriteCond %{REQUEST_FILENAME}.html -f
-# RewriteRule ^(.+)$ $1.html [L,QSA]
-
-ErrorDocument 404 /404/index.html
-ErrorDocument 403 /403/index.html
 
