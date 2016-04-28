@@ -11,7 +11,11 @@ RewriteRule ^blog/(.*) /article/$1 [R=301,L]
 RewriteRule ^(methods|applications)/(\d+)/(.*)$ /article/$3 [R=permanent,L]
 RewriteRule ^methods/$ / [R=permanent,L]
 
-# Rewrite ancient dud urls to new format
+# Rewrite old urls to current articles
+RewriteRule ^methods/37/(.*) /article/measuring-cell-fluorescence-using-imagej/ [R=301,L]
+RewriteRule ^methods/1462/(.*) /article/dot-blot-analysis-imagej/ [R=301,L]
+
+# Rewrite ancient old urls to theOLB
 RewriteRule ^methods/42/(.*) http://theolb.readthedocs.org/en/latest/molecular-biology/in-situ-hybridisation-to-alpha-satellite-sequences.html [R=301,L]
 RewriteRule ^article/in-situ-hybridisation-to-alpha-satellite-sequences http://theolb.readthedocs.org/en/latest/molecular-biology/in-situ-hybridisation-to-alpha-satellite-sequences.html [R=301,L]
 RewriteRule ^methods/1511/(.*) http://theolb.readthedocs.org/en/latest/immunology/purification-of-anti-peptide-antibody.html [R=301,L]
@@ -170,8 +174,6 @@ RewriteRule ^methods/16/(.*) http://theolb.readthedocs.org/en/latest/immunology/
 RewriteRule ^article/generic-quantitative-sandwich-elisa http://theolb.readthedocs.org/en/latest/immunology/generic-quantitative-sandwich-elisa.html [R=301,L]
 RewriteRule ^methods/1432/(.*) http://theolb.readthedocs.org/en/latest/misc/cosmid-low-copy-plasmid-prep.html [R=301,L]
 RewriteRule ^article/cosmid-low-copy-plasmid-prep http://theolb.readthedocs.org/en/latest/misc/cosmid-low-copy-plasmid-prep.html [R=301,L]
-RewriteRule ^methods/1462/(.*) http://theolb.readthedocs.org/en/latest/imaging/dot-blot-analysis-with-imagej.html [R=301,L]
-RewriteRule ^article/dot-blot-analysis-with-imagej http://theolb.readthedocs.org/en/latest/imaging/dot-blot-analysis-with-imagej.html [R=301,L]
 RewriteRule ^methods/1349/(.*) http://theolb.readthedocs.org/en/latest/misc/pbs-1x-in-1l.html [R=301,L]
 RewriteRule ^article/pbs-1x-in-1l http://theolb.readthedocs.org/en/latest/misc/pbs-1x-in-1l.html [R=301,L]
 RewriteRule ^methods/1440/(.*) http://theolb.readthedocs.org/en/latest/misc/transformation-of-frozen-saccharomyces-cerevisiae.html [R=301,L]
@@ -306,8 +308,6 @@ RewriteRule ^methods/46/(.*) http://theolb.readthedocs.org/en/latest/molecular-b
 RewriteRule ^article/pcr-mutagenesis http://theolb.readthedocs.org/en/latest/molecular-biology/pcr-mutagenesis.html [R=301,L]
 RewriteRule ^methods/1337/(.*) http://theolb.readthedocs.org/en/latest/misc/50-mm-tris-ph-80-10-mm-edta.html [R=301,L]
 RewriteRule ^article/50-mm-tris-ph-80-10-mm-edta http://theolb.readthedocs.org/en/latest/misc/50-mm-tris-ph-80-10-mm-edta.html [R=301,L]
-RewriteRule ^methods/37/(.*) http://theolb.readthedocs.org/en/latest/imaging/measuring-cell-fluorescence-using-imagej.html [R=301,L]
-RewriteRule ^article/measuring-cell-fluorescence-using-imagej http://theolb.readthedocs.org/en/latest/imaging/measuring-cell-fluorescence-using-imagej.html [R=301,L]
 RewriteRule ^methods/1423/(.*) http://theolb.readthedocs.org/en/latest/molecular-biology/rna-isolation-trizol-method.html [R=301,L]
 RewriteRule ^article/rna-isolation-trizol-method http://theolb.readthedocs.org/en/latest/molecular-biology/rna-isolation-trizol-method.html [R=301,L]
 RewriteRule ^methods/1345/(.*) http://theolb.readthedocs.org/en/latest/misc/high-salt-buffer.html [R=301,L]
