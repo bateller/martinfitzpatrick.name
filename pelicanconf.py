@@ -18,6 +18,7 @@ TIMEZONE = 'UTC'
 DEFAULT_LANG = u'en'
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
+FEED_MAX_ITEMS = 25
 
 from datetime import datetime
 CURRENT_YEAR = datetime.now().year
