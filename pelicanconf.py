@@ -4,7 +4,7 @@
 AUTHOR = u'Martin Fitzpatrick'
 AUTHOR_EMAIL = u'martin.fitzpatrick@gmail.com'
 AUTHOR_ABOUT = u"Python coder, postgraduate researcher and bioinformatician."
-SITENAME = u'mfitzp.io'
+SITENAME = u'Martin Fitzpatrick'
 SITESUBTITLE = u'Python coder, postgraduate researcher and bioinformatician.'
 SITEURL = 'http://mfitzp.io'
 
