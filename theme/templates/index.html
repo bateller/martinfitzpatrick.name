@@ -4,9 +4,9 @@
 {% if page_name != 'index' %}
     {% if category %}{{ category|title }} {% elif tag %}Tagged {{ tag|title }} {% endif %}
     {% if articles_page and articles_paginator.num_pages > 1 %} ({{ articles_page.number }}) {% endif %}
- &#8211;
- {% endif %}
- {% endblock %}
+{% endif %}
+| {{ SITENAME }}
+{% endblock %}
 
 {% block content %}
   <div class="index">
