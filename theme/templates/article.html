@@ -53,47 +53,48 @@
     {% endblock ad_top %}
     
     
-    <div class="article-wrap {% if article.type %}article-wrap-{{ article.type }}{% endif %}">
+    <div class="article-wrap {% if article.type %}article-wrap-{{ article.type }}{% endif %} article-main-body">
       {{ article.content }}
+    </div>
+    <div class="article-wrap">
+
+<!--
+      <div class="purchase">
+      {% if article.gumroad %}
+        <a class="gumroad-button" href="https://gum.co/{{ article.gumroad  }}">Buy this {{ article.type }}</a>
+      {% endif %}
+      </div>
+-->
+
       <hr />
       
+
+      
       <footer role="contentinfo">
-        <div class="article-author-bottom">
-          {% include '_author-bio.html' %}
-        </div>
         <p class="byline">
             <strong>{{ article.title }}</strong> was published in <a href="{{ SITEURL }}/category/{{ article.category }}">{{ article.category }}</a> on <time datetime="{{ article.date.isoformat() }}">{{ article.date|strftime("%B %d, %Y") }}</time>
             and tagged {% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last%}, {% endif %}{% endfor %}    
+            {% if article.series %}This article is part {{ article.series.index }} of the {{ article.series.name }} series.{% endif %}
+
         </p>
 
-         <p class="byline">
-          {% if article.series %}
-                This post is part {{ article.series.index }} of the "{{ article.series.name }}" series:
-                <ol class="parts" style="font-size:small; margin-top:-1rem;">
-                    {% for part_article in article.series.all %}
-                        <li {% if part_article == article %}class="active"{% endif %}>
-                            <a href='{{ SITEURL }}/{{ part_article.url }}'>{{ part_article.title }}</a>
-                        </li>
-                    {% endfor %}
-                </ol>
-            {% endif %}
-         </p>
-         
       </footer>
     </div><!-- /.article-wrap -->
 
-    <!-- Begin MailChimp Signup Form -->
-    <div id="mc_embed_signup">
-    <form action="//martinfitzpatrick.us12.list-manage.com/subscribe/post?u=1e360ecc7f9998fd0be3ddb60&amp;id=e16530b855" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <div id="mc_embed_signup_scroll">
-        <label for="mce-EMAIL">Like this? Subscribe to my infrequent mailing list for more of the same.</label>
-        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1e360ecc7f9998fd0be3ddb60_e16530b855" tabindex="-1" value=""></div>
-        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-        </div>
+
+
+
+    <div class="follow-form-bottom">
+    <label for="email">Enjoy this? Follow me for more of the same.</label>
+    <form action="https://gumroad.com/follow_from_embed_form" class="form gumroad-follow-form-embed" method="post">
+    <input name="seller_id" type="hidden" value="2358522278831">
+    <input name="email" placeholder="Your email address" type="email">
+    <button data-custom-highlight-color="" type="submit">Follow</button>
     </form>
     </div>
+    
+    
+    <section id="disqus_thread"></section><!-- /#disqus_thread -->
     
     
     {% block ad_bottom %}
@@ -111,11 +112,32 @@
     </div>
     {% endif %}
     {% endblock ad_bottom %}    
-    
-    <section id="disqus_thread"></section><!-- /#disqus_thread -->
-    
+
+
+      {% if article.series %}
+        <h3>In this series</h3>
+            <ol class="parts" style="font-size:small; margin-top:-1rem;">
+                {% for part_article in article.series.all %}
+                    <li {% if part_article == article %}class="active"{% endif %}>
+                        <a href='{{ SITEURL }}/{{ part_article.url }}'>{{ part_article.title }}</a>
+                    </li>
+                {% endfor %}
+            </ol>
+    {% elif article.related_posts %}
+        <h3>Related posts</h3>
+        <ul>
+        {% for related_post in article.related_posts %}
+            <li><a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a></li>
+        {% endfor %}
+        </ul>
+    {% endif %}    
+
+
+
+
   </article>
 {% endblock content %}
+
 
 {% block disqus %}
 {% include '_disqus_comments.html' %}

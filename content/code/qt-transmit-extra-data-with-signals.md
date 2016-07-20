@@ -16,10 +16,12 @@ This is usually fine. You can tie a particular action to a particular function. 
 
 Instead of binding the target function to the signal, you can instead bind a wrapper function that accepts the original signal, attaches some more data, then passes it on. The code to do this (using a lambda) would be:
 
+    :::python
     lambda checked: self.onTriggered(obj, checked)
     
 Here we take the `checked` signal, add the object it's come from, then pass it onto the handler. All we need to do is set the object correctly when building the connect:
 
+    :::python
 	action = QAction()
     action.triggered.connect( lambda checked: self.onTriggered(action, checked) )
 
@@ -29,11 +31,13 @@ Now the `onTriggered` handler can receive the calling action along with the chec
 
 Unfortunately things aren't always that simple. If you try and build multiple actions like this by looping over a set of objects you'll get hit by namespace problems. All the lambdas will be evaluated in the state of the loop at the *end* and so clicking any of them will result in the same trigger. The solution is to wrap the lambda function in a creator.
 
+    :::python
     def make_callback(i):
         return lambda n: self.onAddView(n,i)
     
 Here's an example of me doing exactly that to handle outputting a list of QAction labels into a QMenu for the visual editor in [MetaPath](http://getmetapath.org)
 
+    :::python
     for wid in range( self.app.views.count() ):
         if self.app.views.widget(wid).is_floatable_view:
             def make_callback(i):

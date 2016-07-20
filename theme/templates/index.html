@@ -16,43 +16,33 @@
     <!-- <h3><a href="{{ SITEURL }}/articles/">Recent articles</a></h3> -->
     {% for article in articles_page.object_list %} 
     <article class="{% if article.image %}article-with-image{% endif %}">
-        {% if article.image %}
-            <a {% if article.link %}href="{{ article.link }}" target="_blank"{% else %}href="{{ SITEURL }}/{{ article.url }}"{% endif %} title="{{ article.title|striptags }}">
-                <img src="{{ STATICURL }}/{{ article.image }}" class="article-image" alt="{{ article.title|striptags }}">
-            </a>
-        {% endif %}
-        <h3><a href="{{ SITEURL }}/{{ article.url }}" title="{{ article.title|striptags }}">{{ article.title }}</a> 
-        {% if article.type %}
-            {% if article.type == 'publication' %}<i class="fa fa-file-text-o" title="Publication"></i> {% endif %}
-            {% if article.type == 'presentation' %}<i class="fa fa-users" title="Presentation"></i> {% endif %}
-            {% if article.type == 'poster' %}<i class="fa fa-file-image-o" title="Poster"></i> {% endif %}
-
-            {% if article.type == 'course' %}<i class="fa fa-graduation-cap" title="Course"></i> {% endif %}
-            {% if article.type == 'book' %}<i class="fa fa-book" title="Book"></i> {% endif %}
-
-            {% if article.type == 'software' %}<i class="fa fa-floppy-o" title="Software"></i> {% endif %}
-            {% if article.type == 'game' %}<i class="fa fa-gamepad" title="Game"></i> {% endif %}
-
-            {% if article.type == 'notebook' %}<i class="fa fa-file-code-o" title="Notebook"></i> {% endif %}
-
-            {% if article.type == 'stackoverflow' %}<i class="fa fa-stack-overflow" title="Notebook"></i> {% endif %}
-        {% endif %}
-
-        </a>
-        {% if article.download %}<a href="{{ article.download }}" target="_blank" title="{{ article.title|striptags }}"><i class="fa fa-download"></i></a> {% endif %}
-        {% if article.link %}<a href="{{ article.link }}" target="_blank" title="{{ article.title|striptags }}"><i class="fa fa-external-link"></i></a> {% endif %}
-
-        {% if not article.type or article.type and article.type not in ['course','software','book'] %}
-            <small>{{ article.date.strftime('%d.%m.%Y') }}</small>
-        {% endif %}
-        </h3>
-
-        {% include '_byline.html' %}
-
-        {% if not article.type or article.type not in ['publication', 'poster', 'presentation', 'course','book'] %}
-            <p>{{ article.summary|striptags }} <a href="{{ SITEURL }}/{{ article.url }}" title="{{ article.title|striptags }}">More <i class="fa fa-hand-o-right"></i></a></p>
-        {% endif %}
+            <h3>
+            <a href="{{ SITEURL }}/{{ article.url }}" title="{{ article.title|striptags }}">{{ article.title }}</a> 
+            <span class="external-links">
+            {% if article.download %}<a href="{{ article.download }}" target="_blank" title="Go to {{ article.title|striptags }}"><i class="fa fa-download"></i></a> {% endif %}
+            {% if article.link %}<a href="{{ article.link }}" target="_blank" title="Download {{ article.title|striptags }}"><i class="fa fa-external-link"></i></a> {% endif %}
+            </span>
         
+            {% if not article.type or article.type and article.type not in ['course','software','book'] %}
+                <small>{{ article.date.strftime('%d.%m.%Y') }}</small>
+            {% endif %}
+            </h3>
+
+            {% include '_byline.html' %}
+
+            {% if article.image %}
+            <div class="article-index-image">
+                <a {% if article.link %}href="{{ article.link }}" target="_blank"{% else %}href="{{ SITEURL }}/{{ article.url }}"{% endif %} title="{{ article.title|striptags }}">
+                    <img src="{{ STATICURL }}/{{ article.image }}" class="article-image" alt="{{ article.title|striptags }}">
+                </a>
+            </div>
+            {% endif %}
+
+
+            {% if not article.type or article.type not in ['publication', 'poster', 'presentation', 'course','book'] %}
+                <p>{{ article.summary|striptags }} <a href="{{ SITEURL }}/{{ article.url }}" title="{{ article.title|striptags }}">More <i class="fa fa-hand-o-right"></i></a></p>
+            {% endif %}
+
     </article>
     <hr />
     {% endfor %}

@@ -40,7 +40,9 @@ PLUGINS = [
         'summary',
         'series',
         'ipynb.markup',
+        'related_posts',
         ]        
+
 
 STATIC_PATHS = ['images',
                 'extra/robots.txt',
@@ -69,22 +71,22 @@ SOCIAL = ([
           ('StackOverflow', 'stack-overflow', 'http://stackoverflow.com/users/754456/mfitzp'),
           ],[
           ('Udemy', 'graduation-cap', 'https://www.udemy.com/u/martinfitzpatrick4/'),
-          ('Teachable', 'graduation-cap', 'http://mfitzp.teachable.com/'),
           ('YouTube', 'youtube-play', 'https://www.youtube.com/channel/UCMW4KwSlygaDef0tgqPjbRQ'),
-          ],[
-          ('Patreon', 'btc', 'https://www.patreon.com/mfitzp'),
-          ('PayPal', 'paypal', 'https://www.paypal.me/mfitzp/5'),
+#          ('Teachable', 'graduation-cap', 'http://mfitzp.teachable.com/'),
+#          ],[
+#          ('Patreon', 'btc', 'https://www.patreon.com/mfitzp'),
+#          ('PayPal', 'paypal', 'https://www.paypal.me/mfitzp/5'),
           ],[
           ('Codementor', 'code', 'https://www.codementor.io/mfitzp'),
           ('hack.hands()', 'code', 'https://hackhands.com/mfitzp'),
           ],[
+          ('Twitter', 'twitter', 'https://twitter.com/mfitzp'),
+          ('LinkedIn', 'linkedin', 'https://uk.linkedin.com/in/martinfitzp'),
+#          ('Facebook', 'facebook', 'https://www.facebook.com/martinfitzp'),
+#          ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/?rel=author'),
+          ],[
           ('ORCID', 'circle', 'http://orcid.org/0000-0002-0695-1988'),
           ('ResearchGate', 'list', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
-          ],[
-          ('Facebook', 'facebook', 'https://www.facebook.com/martinfitzp'),
-          ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/?rel=author'),
-          ('LinkedIn', 'linkedin', 'https://uk.linkedin.com/in/martinfitzp'),
-          ('Twitter', 'twitter', 'https://twitter.com/mfitzp'),
           ],[
           ('RSS', 'rss', '%s/%s' % (FEED_DOMAIN, FEED_ATOM) ),
           ],
@@ -163,8 +165,9 @@ SPECIAL_CATEGORIES = {
 #'video': 'Instructional videos and guides.',
 }
 
+SPECIAL_PAGES = ['Hire']
+#CUSTOM_PAGES = [('Store','//store.mfitzp.io')]
 SPECIAL = ['publications','books','courses','apps','libs','games']
-
 
 #=============
 # Twitter Card

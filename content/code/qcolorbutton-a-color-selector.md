@@ -11,6 +11,7 @@ Below is a short snippet to implement a color-picker attached to a button in Qt.
 
 The below snippet is written for PyQt5, but changing it to PySide should require no more than altering the pyqtSignal call.
 
+    :::python
     class QColorButton(QPushButton):
         '''
         Custom Qt Widget to show a chosen color.

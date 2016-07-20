@@ -2,6 +2,7 @@
     <div class="site-name">
     <a href="{{ SITEURL }}"><span class="l l1">m</span><span class="l l2">f</span><span class="l l3">i</span><span class="l l4">t</span><span class="l l5">z</span><span class="l l6">p</span><span class="l l7"><span class="samcursor">io</span></span></a>
     </div><!-- /.site-name -->
+
     <div class="top-navigation">
         <nav role="navigation" id="site-nav" class="nav">
             <ul>
@@ -10,9 +11,12 @@
                 {% endfor %}
                 {% if DISPLAY_PAGES_ON_MENU %}
                 {% for p in PAGES %}
-                <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+                <li class="{% if p.title in SPECIAL_PAGES %}special {% endif %}{% if p == page %}active{% endif %}"><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
                 {% endfor %}
                 {% endif %}
+                {% for t, u in CUSTOM_PAGES %}
+                <li class="special"><a href="{{ u }}">{{ t }}</a></li>
+                {% endfor %}
                 {% for cat, null in categories %}
                 {% if cat|striptags in SPECIAL_CATEGORIES %}<li class="{% if category and category == cat or article and article.category ==cat %} active{% endif %}"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }} <span class="hilite">({{ null|length }})</span></a></li>{% endif %}
                 {% endfor %}

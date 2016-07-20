@@ -1,5 +1,23 @@
+             <!--
+            {% if article.type %}
+                {% if article.type == 'publication' %}<i class="fa fa-file-text-o" title="Publication"></i> {% endif %}
+                {% if article.type == 'presentation' %}<i class="fa fa-users" title="Presentation"></i> {% endif %}
+                {% if article.type == 'poster' %}<i class="fa fa-file-image-o" title="Poster"></i> {% endif %}
+
+                {% if article.type == 'course' %}<i class="fa fa-graduation-cap" title="Course"></i> {% endif %}
+                {% if article.type == 'book' %}<i class="fa fa-book" title="Book"></i> {% endif %}
+
+                {% if article.type == 'software' %}<i class="fa fa-hdd-o" title="Software"></i> {% endif %}
+                {% if article.type == 'game' %}<i class="fa fa-gamepad" title="Game"></i> {% endif %}
+
+                {% if article.type == 'notebook' %}<i class="fa fa-file-code-o" title="Notebook"></i> {% endif %}
+
+                {% if article.type == 'stackoverflow' %}<i class="fa fa-stack-overflow" title="Notebook"></i> {% endif %}
+            {% endif %}
+            -->
+            
  {% if article.type and article.type in ['publication', 'poster', 'presentation'] %}
-    <p class="byline"><strong>{% for author in article.authors %}{{ author }}{% if not loop.last %}, {% endif %}{% endfor %}</strong>. 
+    <p class="byline">{% for author in article.authors %}{{ author }}{% if not loop.last %}, {% endif %}{% endfor %}. 
     
     {% if article.type == 'publication' %}Published in <a href="{{ article.link }}">{{ article.journal }}</a>{% endif %}
     {% if article.type in ['presentation', 'poster'] %}Presented at <a href="{{ article.link }}">{{ article.venue }}</a>{% endif %}
@@ -9,7 +27,7 @@
     {% if article.isbn %}isbn:{{ article.isbn }} {% endif %}</p>
 
  {% elif article.type in ['course', 'book'] %}
- 
+
     <p class="byline">
     {% if article.subtitle %}{{ article.subtitle }} {% endif %} 
     {% if article.publisher %}Available via {{ article.publisher }}. {% endif %}

@@ -11,6 +11,7 @@ Link: https://leanpub.com/create-simple-gui-applications
 Price: $4.99
 Publisher: Leanpub
 Image: /images/books/create-simple-gui-applications.jpeg
+Gumroad: create-simple-gui-applications
 
 [![Buy the book](/images/books/create-simple-gui-applications.jpeg)](https://leanpub.com/create-simple-gui-applications)
 

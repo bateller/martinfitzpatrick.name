@@ -1,3 +1,14 @@
-<span>
-&copy;{{ CURRENT_YEAR }} Martin Fitzpatrick. Licensed GPLv3 & BSD. Powered by <a href="http://getpelican.com">Pelican</a> using modified <a href="http://mademistakes.com/minimal-mistakes/">Minimal Mistakes</a>.
-</span>
+<div class="footer-social">
+{% if SOCIAL %}
+   {% for group in SOCIAL %}
+     {% for name, icon, url in group %}
+        <a href="{{ url }}" class="author-social social-{{ name|lower }}" target="_blank" title="{{ name }}"><i class="fa fa-fw fa-{{ icon }}"></i></a>
+     {% endfor %}
+   {% endfor %}
+{% endif %} 
+
+</div>
+
+<div class="footer-text">
+&copy;{{ CURRENT_YEAR }} Martin Fitzpatrick. Licensed GPLv3 & BSD. Powered by <a href="http://getpelican.com">Pelican</a> using heavily modified <a href="http://mademistakes.com/minimal-mistakes/">Minimal Mistakes</a> theme.
+</div>
