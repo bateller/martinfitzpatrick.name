@@ -5,6 +5,8 @@
 
     <div class="top-navigation">
         <nav role="navigation" id="site-nav" class="nav">
+            <button type="button" role="button" id="menutoggle" class="navtoggle navicon-lines-button x" aria-hidden="true"><span class="navicon-lines"></span>menu</button>
+
             <ul>
                 {% for title, link in MENUITEMS %}
                 <li><a href="{{ link }}">{{ title }}</a></li>
