@@ -170,7 +170,7 @@ SPECIAL_CATEGORIES = {
 }
 
 SPECIAL_PAGES = ['Hire']
-#CUSTOM_PAGES = [('Store','//store.mfitzp.io')]
+CUSTOM_PAGES = [('Store','//store.mfitzp.io')]
 SPECIAL = ['publications','books','courses','apps','libs','games']
 
 #=============
