@@ -7,6 +7,10 @@ AUTHOR_ABOUT = u"Python coder, postgraduate researcher and bioinformatician."
 SITENAME = u'Martin Fitzpatrick'
 SITESUBTITLE = u'Python coder, postgraduate researcher and bioinformatician.'
 SITEURL = 'http://mfitzp.io'
+SITEDESCRIPTION = u'''Python coder and postgraduate bioinformatician with a background in 
+proteomics and metabolomics. Building online courses and writing books on data science and 
+PyQt graphical application development. 
+'''
 
 FEED_DOMAIN = SITEURL
 FEED_ATOM = 'feeds/atom.xml'
@@ -78,12 +82,12 @@ SOCIAL = ([
 #          ('PayPal', 'paypal', 'https://www.paypal.me/mfitzp/5'),
           ],[
           ('Codementor', 'code', 'https://www.codementor.io/mfitzp'),
-          ('hack.hands()', 'code', 'https://hackhands.com/mfitzp'),
+#          ('hack.hands()', 'code', 'https://hackhands.com/mfitzp'),
           ],[
           ('Twitter', 'twitter', 'https://twitter.com/mfitzp'),
           ('LinkedIn', 'linkedin', 'https://uk.linkedin.com/in/martinfitzp'),
 #          ('Facebook', 'facebook', 'https://www.facebook.com/martinfitzp'),
-#          ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/?rel=author'),
+          ('Google+', 'google-plus', 'https://plus.google.com/115539678583643563408/?rel=author'),
           ],[
           ('ORCID', 'circle', 'http://orcid.org/0000-0002-0695-1988'),
           ('ResearchGate', 'list', 'https://www.researchgate.net/profile/Martin_Fitzpatrick/'),
@@ -178,3 +182,5 @@ TWITTER_CARD_SITE = '@mfitzp'  # The site's Twitter handle like @my_blog
 TWITTER_CARD_CREATOR = '@mfitzp'  # Your twitter handle like @monkmartinez
 TWITTER_CARD_DOMAIN = 'martinfitzpatrick.name'  # The site domain
 GRAVARTAR_URL = ''
+
+GOOGLE_PLUS_PUBLISHER = 'https://plus.google.com/115539678583643563408'

@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 {% block title %}{{ article.title|striptags }} | {{ SITENAME }}{% endblock title %}
-{% block summary %}{{ article.summary }}{% endblock summary %}
-{% block keywords %}{{ article.tags.join(', ') }}{% endblock keywords %}
+{% block summary %}{{ article.summary|striptags }}{% endblock summary %}
+{% block keywords %}{% for tag in article.tags %}{{ tag }}{% if not loop.last%}, {% endif %}{% endfor %}{% endblock keywords %}
 {% block tagstyles %}{% for tag in article.tags %}tag-{{ tag }} {% endfor %}{% endblock %}
 
 {% block feature_image %}
@@ -94,9 +94,6 @@
     </div>
     
     
-    <section id="disqus_thread"></section><!-- /#disqus_thread -->
-    
-    
     {% block ad_bottom %}
     {% if (page and 'bottom' in page.ads) or (article and 'bottom' in article.ads) %}
     <div style="width:728px; margin:auto;">
@@ -113,6 +110,8 @@
     {% endif %}
     {% endblock ad_bottom %}    
 
+
+     <section id="disqus_thread"></section><!-- /#disqus_thread -->
 
       {% if article.series %}
         <h3>In this series</h3>
