@@ -6,7 +6,7 @@ ErrorDocument 403 /403/index.html
 
 <Filesmatch "\.(txt|html)$">
 ExpiresActive On
-ExpiresDefault "access plus 1 month"
+ExpiresDefault "access plus 1 day"
 </Filesmatch>
 
 <Filesmatch "\.(css|jpg|jpeg|png|gif|js|ico)$">
