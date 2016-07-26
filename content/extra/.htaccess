@@ -4,6 +4,16 @@ RewriteEngine On
 ErrorDocument 404 /404/index.html
 ErrorDocument 403 /403/index.html
 
+# 1 Year for images+static (currently on subdomain)
+<filesMatch ".(css|jpg|jpeg|png|gif|js|ico)$">
+Header set Cache-Control "max-age=31536000, public"
+</filesMatch>
+
+# 1 month for content
+<filesMatch ".(css|jpg|jpeg|png|gif|js|ico)$">
+Header set Cache-Control "max-age=2592000, public"
+</filesMatch>
+
 RewriteRule ^posts/(.*) /article/$1 [R=301,L]
 RewriteRule ^blog/(.*) /article/$1 [R=301,L]
 
