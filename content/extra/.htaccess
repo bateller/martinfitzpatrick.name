@@ -4,6 +4,17 @@ RewriteEngine On
 ErrorDocument 404 /404/index.html
 ErrorDocument 403 /403/index.html
 
+<Filesmatch "\.(txt|html)$">
+ExpiresActive On
+ExpiresDefault "access plus 1 day"
+</Filesmatch>
+
+<Filesmatch "\.(css|jpg|jpeg|png|gif|js|ico)$">
+ExpiresActive On
+ExpiresDefault "access plus 1 year"
+</Filesmatch>
+
+
 RewriteRule ^posts/(.*) /article/$1 [R=301,L]
 RewriteRule ^blog/(.*) /article/$1 [R=301,L]
 
