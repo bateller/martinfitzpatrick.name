@@ -1,5 +1,5 @@
 Title: 404
-Slug: 404
+Slug: error404
 Status: hidden
 
 Not found
