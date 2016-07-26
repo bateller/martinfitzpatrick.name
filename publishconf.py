@@ -19,10 +19,10 @@ RELATIVE_URLS = False
 #GOOGLE_ANALYTICS = ""
 
 ARTICLE_URL = 'article/{slug}/'
-ARTICLE_SAVE_AS = 'article/{slug}/index.html'
+ARTICLE_SAVE_AS = 'article/{slug}/article.html'
 
 PAGE_URL = '{slug}/'
-PAGE_SAVE_AS = '{slug}/index.html'
+PAGE_SAVE_AS = '{slug}/page.html'
 
 AUTHOR_URL = 'author/{slug}/'
 AUTHOR_SAVE_AS = 'author/{slug}/index.html'
@@ -32,3 +32,8 @@ CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 
 TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
+
+PAGINATION_PATTERNS = (
+    (1, '{base_name}/', '{base_name}/index.html'),
+    (2, '{base_name}/{number}/', '{base_name}/{number}/index.html'),
+)

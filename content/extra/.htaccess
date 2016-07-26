@@ -1,12 +1,24 @@
 Options +FollowSymLinks -Indexes 
 RewriteEngine On
 
+DirectoryIndex index.html article.html page.html
+
 ErrorDocument 404 /404/index.html
 ErrorDocument 403 /403/index.html
 
-<Filesmatch "\.(txt|html)$">
+<Filesmatch "^index.html$">
 ExpiresActive On
 ExpiresDefault "access plus 1 day"
+</Filesmatch>
+
+<Filesmatch "^article.html$">
+ExpiresActive On
+ExpiresDefault "access plus 1 month"
+</Filesmatch>
+
+<Filesmatch "^page.html$">
+ExpiresActive On
+ExpiresDefault "access plus 1 month"
 </Filesmatch>
 
 <Filesmatch "\.(css|jpg|jpeg|png|gif|js|ico)$">
@@ -14,6 +26,8 @@ ExpiresActive On
 ExpiresDefault "access plus 1 year"
 </Filesmatch>
 
+RewriteRule ^index\.html$ / [R=301,L]
+RewriteRule ^(.*)/([^/]*)\.html$ /$1/ [R=301,L]
 
 RewriteRule ^posts/(.*) /article/$1 [R=301,L]
 RewriteRule ^blog/(.*) /article/$1 [R=301,L]
