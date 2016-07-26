@@ -3,8 +3,8 @@ RewriteEngine On
 
 DirectoryIndex index.html article.html page.html
 
-ErrorDocument 404 /error404/index.html
-ErrorDocument 403 /error403/index.html
+ErrorDocument 404 /error404/
+ErrorDocument 403 /error403/
 
 <Filesmatch "^index.html$">
 ExpiresActive On
