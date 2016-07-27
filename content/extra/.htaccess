@@ -27,7 +27,7 @@ ExpiresDefault "access plus 1 year"
 </Filesmatch>
 
 RewriteRule ^index\.html$ / [R=301,L]
-RewriteRule ^article/([^/]*)\.html$ /$1/ [R=301,L]
+RewriteRule ^article/([^/]*)\.html$ /article/$1/ [R=301,L]
 RewriteRule ^(.*)/([^/]*)\.html$ /$1/ [R=301,L]
 
 RewriteRule ^posts/(.*) /article/$1 [R=301,L]
