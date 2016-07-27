@@ -5,7 +5,7 @@ I am a postdoctoral researcher in proteomics, using Python and other tools to
 analyse large proteomic datasets and developing scientific software to simplify the 
 process of data analysis. A self-taught programmer with experience dating back to the days of the
 ZX Spectrum and [Sam Coupé](/tag/samcoupe). I code most happily in [Python](/tag/python) and
-am [available for hire](/hire).
+am [available for hire](/cv).
 
 Born in [Leeds](https://www.google.co.uk/maps/preview/place/Leeds,+West+Yorkshire,+UK/), I've lived in [Barnoldswick](https://www.google.co.uk/maps/preview/place/Barnoldswick,+Lancashire,+UK/), [York](https://www.google.co.uk/maps/preview/place/York,+UK/), [Edinburgh](https://www.google.co.uk/maps/preview/place/Edinburgh,+City+of+Edinburgh,+UK/) and [Birmingham](https://www.google.co.uk/maps/preview/place/Birmingham,+West+Midlands,+UK/)
 in the United Kingdom. 
